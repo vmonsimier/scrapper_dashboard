@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <!-- development version, includes helpful console warnings -->
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+        @import url("{% static 'run_script/css/run_script.css' %}");
+    </style>
+</head>
+
+<body>
+    <div id="vue-app">
+        <v-app>
+            <v-main>
+                <div id="navbar">
+                  <ul class="nav-items">
+                    <li class="nav-link">
+                      <router-link to="/">Scrappers</router-link>
+                    </li>
+                    <li class="nav-link">
+                      <router-link to="/files">Files</router-link>
+                    </li>
+                    <li class="nav-link logout">
+                      <a href="{% url 'logout' %}">Log Out</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="block-content">
+                    <router-view></router-view>
+                </div>
+            </v-main>
+        </v-app>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+    <script src="https://unpkg.com/vue-router@3.5.3/dist/vue-router.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="{% static 'run_script/js/variables.js' %}"></script>
+    <script src="{% static 'run_script/js/scrappers.js' %}"></script>
+    <script src="{% static 'run_script/js/update-dialog.js' %}"></script>
+    <script src="{% static 'run_script/js/scrapper-logs.js' %}"></script>
+    <script src="{% static 'run_script/js/files.js' %}"></script>
+    <script src="{% static 'run_script/js/filter-files.js' %}"></script>
+    <script src="{% static 'run_script/js/app.js' %}"></script>
+</body>
+
+</html>

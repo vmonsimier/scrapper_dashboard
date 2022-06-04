@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <!-- development version, includes helpful console warnings -->
+    <meta charset="utf-8">
+    <style>
+        @import url("{% static 'run_script/css/run_script.css' %}");
+    </style>
+</head>
+
+<body>
+    {% block content %}
+  <div class="login-container">
+    <div class="login-card">
+      <div class="login-form">
+        <h1>Login</h1>
+        <form method="post">
+          {% csrf_token %}
+          {{ form.as_p }}
+          <input class="btn-login" type="submit" value="Login">
+        </form>
+      </div>
+    </div>
+  </div>
+  {% endblock %}
+</body>
+
+</html>
