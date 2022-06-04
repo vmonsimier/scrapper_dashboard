@@ -1,7 +1,10 @@
-html, body, h1, p {
-    font-family: "Roboto";
-    margin: 0;
-    padding: 0;
+html,
+body,
+h1,
+p {
+  font-family: "Roboto";
+  margin: 0;
+  padding: 0;
 }
 
 /* LOGIN */
@@ -24,7 +27,7 @@ html, body, h1, p {
   padding: 10%;
 }
 
-.login-form > form > p {
+.login-form>form>p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -32,12 +35,12 @@ html, body, h1, p {
   margin: 20px 0;
 }
 
-.login-form > form > p > label {
+.login-form>form>p>label {
   font: 1em "Roboto", sans-serif;
   margin-bottom: 10px;
 }
 
-.login-form > form > p > input {
+.login-form>form>p>input {
   height: 24px;
   border-radius: 5px;
   padding: 8px;
@@ -57,10 +60,10 @@ html, body, h1, p {
 /* NAVBAR */
 
 #navbar {
-    width: 100%;
-    height: 12vh;
-    margin: 0;
-    background-color: #44b88b;
+  width: 100%;
+  height: 12vh;
+  margin: 0;
+  background-color: #44b88b;
 }
 
 .nav-items {
@@ -79,9 +82,9 @@ html, body, h1, p {
   font-weight: bold;
 }
 
-.nav-link > a {
-  text-decoration: none!important;
-  color: white!important;
+.nav-link>a {
+  text-decoration: none !important;
+  color: white !important;
 }
 
 .logout {
@@ -94,12 +97,12 @@ html, body, h1, p {
 /* CONTENT */
 
 .block-content {
-    padding: 0 4% 0 4%;
-    margin-top: 40px;
+  padding: 0 4% 0 4%;
+  margin-top: 40px;
 }
 
 .block-title {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 /* RUN SCRIPT TABLE */
@@ -126,10 +129,10 @@ img.modify {
 }
 
 .btn-execute {
-    color: white!important;
-    font-size: 0.8rem!important;
-    padding: 10px!important;
-    background-color: #44b88b!important;
+  color: white !important;
+  font-size: 0.8rem !important;
+  padding: 10px !important;
+  background-color: #44b88b !important;
 }
 
 /* UPDATE MODAL */
@@ -153,12 +156,13 @@ img.modify {
 }
 
 .v-tab--active {
-  color: #43b98b!important;
-  border-bottom: 2px solid #43b98b!important;
+  color: #43b98b !important;
+  border-bottom: 2px solid #43b98b !important;
 }
 
-.v-tab:before, .v-tabs-slider {
-  border-bottom: 2px solid #43b98b!important;
+.v-tab:before,
+.v-tabs-slider {
+  border-bottom: 2px solid #43b98b !important;
 }
 
 .table-files {
@@ -167,7 +171,11 @@ img.modify {
 
 /* FILES TABLE */
 
-#files-table-template {
+#files-template {
+  margin-bottom: 50px;
+}
+
+#file-players-template {
   margin-bottom: 120px;
 }
 
@@ -179,7 +187,7 @@ img.modify {
 /* PAGINATION */
 
 .v-pagination__item.v-pagination__item--active.primary {
-    background-color: #44b88b!important;
+  background-color: #44b88b !important;
 }
 
 .v-pagination__navigation.v-pagination__navigation--disabled {
