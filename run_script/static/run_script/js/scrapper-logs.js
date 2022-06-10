@@ -1,6 +1,6 @@
 Vue.component('scrapper-logs', {
   data() {
-    return{
+    return {
       errors: [],
       logs: [],
       tab: 0
@@ -14,7 +14,7 @@ Vue.component('scrapper-logs', {
           let logs = [];
 
           for (const item of response.data) {
-            if(item.type === 'error') {
+            if (item.type === 'error') {
               errors.push(item);
             } else {
               logs.push(item);
@@ -22,18 +22,18 @@ Vue.component('scrapper-logs', {
           }
 
           errors.sort(function compare(a, b) {
-            if(a.id > b.id) {
+            if (a.id > b.id) {
               return -1
-            } else if(a.id < b.id) {
+            } else if (a.id < b.id) {
               return 1
             }
             return 0
           })
 
           logs.sort(function compare(a, b) {
-            if(a.id > b.id) {
+            if (a.id > b.id) {
               return -1
-            } else if(a.id < b.id) {
+            } else if (a.id < b.id) {
               return 1
             }
             return 0
@@ -50,7 +50,7 @@ Vue.component('scrapper-logs', {
       return d + ' ' + t;
     }
   },
-  mounted: function() {
+  mounted: function () {
     this.getLogs();
   },
   template: `

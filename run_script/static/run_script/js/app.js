@@ -1,18 +1,19 @@
 const routes = [
-  {path: '/', component: scrappers},
-  {path: '/files', component: files}
+  { path: '/', component: scrappers },
+  { path: '/logs', component: logs },
+  { path: '/files', component: files }
 ]
 
 const router = new VueRouter({
-  mode:'history',
+  mode: 'history',
   routes
 })
 
 const app = new Vue({
-    router,
-    vuetify: new Vuetify({
-      icons: {
-        iconfont: 'mdi',
-      }
-    })
+  router,
+  vuetify: new Vuetify({
+    icons: {
+      iconfont: 'mdi',
+    }
+  })
 }).$mount('#vue-app')

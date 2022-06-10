@@ -86,7 +86,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'football_dashboard',
-        'USER': 'valentinm',
+        'USER': 'valentinmonsimier',
         'PASSWORD': 'Sacamerde8932!',
         'HOST': '10.0.0.5',
         'PORT': '5432'
@@ -94,7 +94,7 @@ DATABASES = {
     'football_data': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'football_data',
-        'USER': 'valentinm',
+        'USER': 'valentinmonsimier',
         'PASSWORD': 'Sacamerde8932!',
         'HOST': '10.0.0.5',
         'PORT': '5432'
@@ -102,7 +102,7 @@ DATABASES = {
     'football_data_dev': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'football_data_dev',
-        'USER': 'valentinm',
+        'USER': 'valentinmonsimier',
         'PASSWORD': 'Sacamerde8932!',
         'HOST': '10.0.0.5',
         'PORT': '5432'

@@ -1,16 +1,16 @@
 const scrappers = {
   data() {
-      return{
-        scrappers: [],
-        scrapperToUpdate: {
-          id: 0,
-          name: "",
-          path: "",
-          enable: false,
-          selectedLeagues: [],
-          selectedSeasons: []
-        }
+    return {
+      scrappers: [],
+      scrapperToUpdate: {
+        id: 0,
+        name: "",
+        path: "",
+        enable: false,
+        selectedLeagues: [],
+        selectedSeasons: []
       }
+    }
   },
   methods: {
     getScrappers() {
@@ -23,28 +23,28 @@ const scrappers = {
           this.scrappers = response.data
         })
     },
-    handleExecution: async function(path) { 
+    handleExecution: async function (path) {
       axios.post(variables.API_URL + "execute_scrapper", {
         headers: {
           'Access-Control-Allow-Origin': "*"
         },
-        body: {path: path}
+        body: { path: path }
       })
         .then(_ => {
           this.getScrappers()
         })
     },
-    stopExecution: async function(path) { 
+    stopExecution: async function (path) {
       axios.post(variables.API_URL + "stop_scrapper", {
         headers: {
           'Access-Control-Allow-Origin': "*"
         },
-        body: {path: path}
+        body: { path: path }
       })
         .then(r => this.getScrappers())
     },
-    handleUpdate: async function() {
-      if(this.scrapperToUpdate.id && this.scrapperToUpdate.name && this.scrapperToUpdate.path) {
+    handleUpdate: async function () {
+      if (this.scrapperToUpdate.id && this.scrapperToUpdate.name && this.scrapperToUpdate.path) {
         axios.post(variables.API_URL + 'update_scrapper', JSON.stringify(this.scrapperToUpdate))
           .then(response => {
             this.getScrappers()
@@ -61,22 +61,22 @@ const scrappers = {
       }
     },
     setId: function (id) {
-        this.$set(this.scrapperToUpdate, 'id', id)
+      this.$set(this.scrapperToUpdate, 'id', id)
     },
     setName: function (name) {
-        this.$set(this.scrapperToUpdate, 'name', name)
+      this.$set(this.scrapperToUpdate, 'name', name)
     },
     setPath: function (path) {
-        this.$set(this.scrapperToUpdate, 'path', path)
+      this.$set(this.scrapperToUpdate, 'path', path)
     },
     setEnable: function (enable) {
-        this.$set(this.scrapperToUpdate, 'enable', enable)
+      this.$set(this.scrapperToUpdate, 'enable', enable)
     },
     setActiveSeasons: function (selectedSeasons) {
-        this.$set(this.scrapperToUpdate, 'selectedSeasons', selectedSeasons)
+      this.$set(this.scrapperToUpdate, 'selectedSeasons', selectedSeasons)
     },
     setActiveLeagues: function (selectedLeagues) {
-        this.$set(this.scrapperToUpdate, 'selectedLeagues', selectedLeagues)
+      this.$set(this.scrapperToUpdate, 'selectedLeagues', selectedLeagues)
     },
     displayDateTime: function (datetime) {
       let date = datetime.toString().split('T')[0]
@@ -85,7 +85,7 @@ const scrappers = {
       return date + ' - ' + time
     }
   },
-  mounted: function() {
+  mounted: function () {
     this.getScrappers();
   },
   template: `
@@ -152,7 +152,6 @@ const scrappers = {
           </template>
       </v-simple-table>
     </template>
-    <scrapper-logs />
   </div>
   `
 }
