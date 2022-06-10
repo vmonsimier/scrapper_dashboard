@@ -11,7 +11,7 @@ p {
 .login-container {
   width: 100%;
   height: 100vh;
-  background-color: #43b98b;
+  background-color: #114b33;
 }
 
 .login-card {
@@ -50,9 +50,9 @@ p {
 .btn-login {
   width: 120px;
   height: 40px;
-  background-color: #43b98b;
+  background-color: #114b33;
   color: white;
-  border: 2px solid #43b98b;
+  border: 2px solid #114b33;
   border-radius: 5px;
   margin-top: 20px;
 }
@@ -63,7 +63,7 @@ p {
   width: 100%;
   height: 12vh;
   margin: 0;
-  background-color: #44b88b;
+  background-color: #114b33;
 }
 
 .nav-items {
@@ -121,7 +121,7 @@ img.modify {
 }
 
 .green {
-  background-color: #44b88b;
+  background-color: #114b33;
 }
 
 .red {
@@ -132,7 +132,7 @@ img.modify {
   color: white !important;
   font-size: 0.8rem !important;
   padding: 10px !important;
-  background-color: #44b88b !important;
+  background-color: #114b33 !important;
 }
 
 /* UPDATE MODAL */
@@ -156,13 +156,13 @@ img.modify {
 }
 
 .v-tab--active {
-  color: #43b98b !important;
-  border-bottom: 2px solid #43b98b !important;
+  color: #114b33 !important;
+  border-bottom: 2px solid #114b33 !important;
 }
 
 .v-tab:before,
 .v-tabs-slider {
-  border-bottom: 2px solid #43b98b !important;
+  border-bottom: 2px solid #114b33 !important;
 }
 
 .table-files {
@@ -187,7 +187,7 @@ img.modify {
 /* PAGINATION */
 
 .v-pagination__item.v-pagination__item--active.primary {
-  background-color: #44b88b !important;
+  background-color: #114b33 !important;
 }
 
 .v-pagination__navigation.v-pagination__navigation--disabled {

@@ -3,10 +3,8 @@ version: '3'
 services:
   web:
     build: .
-    command: gunicorn --chdir web/staticfiles wsgi:application --bind 10.0.0.8:80
+    command: bash -c "ls -la & pwd & gunicorn wsgi:application --bind 10.0.0.8:80"
     container_name: football_dashboard
-    volumes:
-      - static_volume:/usr/src/app/web/staticfiles
     networks:
       netfoot:
         ipv4_address: 10.0.0.8
@@ -26,6 +24,8 @@ services:
     networks:
       netfoot:
         ipv4_address: 10.0.0.5
+    expose:
+      - 5432    
     environment:
       - POSTGRES_DB=football_dashboard
       - POSTGRES_USER=valentinm
@@ -41,5 +41,4 @@ networks:
 
 volumes:
   pgdata:
-  static_volume:
   

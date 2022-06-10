@@ -8,7 +8,7 @@ html, body, h1, p {
 .login-container {
   width: 100%;
   height: 100vh;
-  background-color: #43b98b;
+  background-color: #114b33;
 }
 
 .login-card {
@@ -47,9 +47,9 @@ html, body, h1, p {
 .btn-login {
   width: 120px;
   height: 40px;
-  background-color: #43b98b;
+  background-color: #114b33;
   color: white;
-  border: 2px solid #43b98b;
+  border: 2px solid #114b33;
   border-radius: 5px;
   margin-top: 20px;
 }
@@ -153,12 +153,12 @@ img.modify {
 }
 
 .v-tab--active {
-  color: #43b98b!important;
-  border-bottom: 2px solid #43b98b!important;
+  color: #114b33!important;
+  border-bottom: 2px solid #114b33!important;
 }
 
 .v-tab:before, .v-tabs-slider {
-  border-bottom: 2px solid #43b98b!important;
+  border-bottom: 2px solid #114b33!important;
 }
 
 .table-files {

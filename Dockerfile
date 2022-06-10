@@ -5,7 +5,9 @@ WORKDIR /usr/src/app
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 
-RUN mkdir web && mkdir web/staticfiles && cd web/staticfiles
+RUN mkdir web/ && mkdir web/staticfiles
+
+WORKDIR /usr/src/app/web/staticfiles
 
 RUN pip install --upgrade pip
 COPY ./requirements.txt .

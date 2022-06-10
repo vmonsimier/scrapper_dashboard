@@ -28,7 +28,7 @@ SECRET_KEY = '73e9f48da7b5f6a453258f42'
 DEBUG = 1
 
 ALLOWED_HOSTS = ['*']
-CORS_ALLOWED_ORIGINS = ['10.0.0.8', 'http://scrappers.homelab.lo']
+CORS_ALLOWED_ORIGINS = ['http://scrappers.homelab.lo/*']
 
 # Application definition
 INSTALLED_APPS = [
@@ -86,7 +86,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'football_dashboard',
-        'USER': 'valentinmonsimier',
+        'USER': 'valentinm',
         'PASSWORD': 'Sacamerde8932!',
         'HOST': '10.0.0.5',
         'PORT': '5432'
@@ -94,7 +94,7 @@ DATABASES = {
     'football_data': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'football_data',
-        'USER': 'valentinmonsimier',
+        'USER': 'valentinm',
         'PASSWORD': 'Sacamerde8932!',
         'HOST': '10.0.0.5',
         'PORT': '5432'
@@ -102,7 +102,7 @@ DATABASES = {
     'football_data_dev': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'football_data_dev',
-        'USER': 'valentinmonsimier',
+        'USER': 'valentinm',
         'PASSWORD': 'Sacamerde8932!',
         'HOST': '10.0.0.5',
         'PORT': '5432'
