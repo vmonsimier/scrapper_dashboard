@@ -14,7 +14,11 @@ const scrappers = {
   },
   methods: {
     getScrappers() {
-      axios.get(variables.API_URL + 'fapi/scrappers')
+      axios.get(variables.API_URL + 'fapi/scrappers', {
+        headers: {
+          'Access-Control-Allow-Origin': "*"
+        }
+    })
         .then(response => {
           this.scrappers = response.data
         })

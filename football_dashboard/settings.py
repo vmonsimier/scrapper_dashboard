@@ -28,6 +28,7 @@ SECRET_KEY = '73e9f48da7b5f6a453258f42'
 DEBUG = 1
 
 ALLOWED_HOSTS = ['*']
+CORS_ALLOWED_ORIGINS = ['10.0.0.8', 'http://scrappers.homelab.lo']
 
 # Application definition
 INSTALLED_APPS = [
@@ -87,7 +88,7 @@ DATABASES = {
         'NAME': 'football_dashboard',
         'USER': 'valentinm',
         'PASSWORD': 'Sacamerde8932!',
-        'HOST': 'db',
+        'HOST': '10.0.0.5',
         'PORT': '5432'
     },
     'football_data': {
@@ -95,7 +96,7 @@ DATABASES = {
         'NAME': 'football_data',
         'USER': 'valentinm',
         'PASSWORD': 'Sacamerde8932!',
-        'HOST': 'db',
+        'HOST': '10.0.0.5',
         'PORT': '5432'
     },
     'football_data_dev': {
@@ -103,7 +104,7 @@ DATABASES = {
         'NAME': 'football_data_dev',
         'USER': 'valentinm',
         'PASSWORD': 'Sacamerde8932!',
-        'HOST': 'db',
+        'HOST': '10.0.0.5',
         'PORT': '5432'
     }
 }

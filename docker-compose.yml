@@ -1,28 +1,17 @@
 version: '3'
 
 services:
-  nginx:
-    build: 
-      context: ./nginx
-      dockerfile: Dockerfile
-    volumes:
-      - static_volume:/usr/src/app
-    container_name: nginx_server
-    ports:
-      - 8000:8000
-    expose:
-      - 1337
-    depends_on:
-      - web
-
   web:
     build: .
-    command: gunicorn --chdir web/staticfiles wsgi:application --bind 0.0.0.0:8000
+    command: gunicorn --chdir web/staticfiles wsgi:application --bind 10.0.0.8:80
     container_name: football_dashboard
     volumes:
-      - static_volume:/usr/src/app
+      - static_volume:/usr/src/app/web/staticfiles
+    networks:
+      netfoot:
+        ipv4_address: 10.0.0.8
     expose:
-      - 8000
+      - 80
     env_file:
       - ./.env.dev
     depends_on:
@@ -34,11 +23,21 @@ services:
       dockerfile: Dockerfile
     volumes: 
       - pgdata:/var/lib/postgresql/data
+    networks:
+      netfoot:
+        ipv4_address: 10.0.0.5
     environment:
       - POSTGRES_DB=football_dashboard
       - POSTGRES_USER=valentinm
       - POSTGRES_PASSWORD=Sacamerde8932!
     container_name: football_database
+
+networks:
+  netfoot:
+    driver: bridge
+    ipam:
+     config:
+        - subnet: 10.0.0.0/16
 
 volumes:
   pgdata:
