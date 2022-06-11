@@ -21,20 +21,10 @@ from run_script.models import *
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        # binary = FirefoxBinary('/Applications/Firefox.app/Contents/MacOS/firefox')
-        # binary = FirefoxBinary('/srv/data/web/vhosts/default/firefox')
-        caps = DesiredCapabilities().FIREFOX
-        caps["marionette"] = True
+        options = webdriver.ChromeOptions()
+        options.add_argument('--headless')
 
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.set_capability('browserless:token', '125ec3cd-626f-47ea-acfb-fa16e071bc3a')
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--headless")
-
-        driver = webdriver.Remote(
-            command_executor="https://chrome.browserless.io/webdriver",
-            desired_capabilities=chrome_options.to_capabilities(),
-        )
+        driver = webdriver.Remote(command_executor='http://10.0.0.44:4444/wd/hub',desired_capabilities=DesiredCapabilities.CHROME, options=options)
 
         # We retrieve active links for scrapper in django model Scrapper_Active_Links
         active_links = Scrapper_Active_Links.objects.filter(scrapper_id=1)
@@ -157,7 +147,7 @@ class Command(BaseCommand):
 
                 print(filename)
 
-                f = open("/Volumes/TOSHIBA EXT/Football_Data/fbref_csv/{}".format(filename), "w")
+                f = open("/home/valentinm/Documents/FootballData/datafiles/player_data/{}".format(filename), "w")
                 f.write(csv_to_insert.text)
                 f.close()
 

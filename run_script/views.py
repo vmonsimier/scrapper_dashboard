@@ -35,7 +35,9 @@ def execute_scrapper(request):
             scrapper = Scrappers.objects.get(path=body['body']['path'])
             if scrapper.enable == True:
                 print('Trying to execute ' + scrapper.path)
-                os.environ['PATH'] += os.pathsep + '/Volumes/TOSHIBA EXT/Football_Dashboard/football_dashboard/run_script/management/commands'
+                print(os.environ['PATH'])
+                os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
+                print('after', os.environ['PATH'])
                 process = subprocess.Popen(["python", 'manage.py', scrapper.path])
                 scrapper.current_pid = str(process.pid)
                 scrapper.in_execution = True
@@ -43,6 +45,7 @@ def execute_scrapper(request):
 
             return HttpResponse(status=200)
         except Scrappers.DoesNotExist:
+            print('Error')
             return HttpResponse(status=404)
 
     return HttpResponse(status=404)

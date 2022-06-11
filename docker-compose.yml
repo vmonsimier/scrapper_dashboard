@@ -3,7 +3,7 @@ version: '3'
 services:
   web:
     build: .
-    command: bash -c "ls -la & pwd & gunicorn wsgi:application --bind 10.0.0.8:80"
+    command: gunicorn wsgi:application --bind 10.0.0.8:80
     container_name: football_dashboard
     networks:
       netfoot:
@@ -14,6 +14,7 @@ services:
       - ./.env.dev
     depends_on:
       - db
+      - chrome
 
   db:
     build:
@@ -32,12 +33,41 @@ services:
       - POSTGRES_PASSWORD=Sacamerde8932!
     container_name: football_database
 
+  selenium-hub:
+    image: selenium/hub
+    container_name: selenium-hub
+    networks:
+      netfoot:
+        ipv4_address: 10.0.0.44
+    ports:
+      - "4442:4442"
+      - "4443:4443"
+      - "4444:4444"
+  
+  chrome:
+    image: selenium/node-chrome
+    volumes:
+      - /dev/shm:/dev/shm
+    shm_size: 2gb
+    depends_on:
+      - selenium-hub
+    networks:
+      netfoot:
+        ipv4_address: 10.0.0.45
+    ports:
+      - "5555:5555"
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - HOST_HUB=10.0.0.4
+
 networks:
   netfoot:
     driver: bridge
     ipam:
      config:
-        - subnet: 10.0.0.0/16
+      - subnet: 10.0.0.0/16
 
 volumes:
   pgdata:

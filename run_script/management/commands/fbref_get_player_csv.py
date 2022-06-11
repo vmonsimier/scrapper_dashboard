@@ -47,25 +47,13 @@ class Command(BaseCommand):
             print(err)
 
     def handle(self, *args, **options):
-        # binary = FirefoxBinary('/Applications/Firefox.app/Contents/MacOS/firefox')
-        # caps = DesiredCapabilities().FIREFOX
-        # caps['marionette'] = True
-        #
         # options = Options()
+        # options.binary_location = r'/usr/bin/firefox'
         # options.add_argument("--headless")
-        # driver = webdriver.Firefox(capabilities=caps, options=options, executable_path="geckodriver")
+            
+        # driver = webdriver.Firefox(options=options, executable_path="geckodriver")
 
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.set_capability('browserless:token', '125ec3cd-626f-47ea-acfb-fa16e071bc3a')
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--headless")
-
-        driver = webdriver.Remote(
-            command_executor="https://chrome.browserless.io/webdriver",
-            desired_capabilities=chrome_options.to_capabilities(),
-        )
-
-        driver.set_page_load_timeout(5)
+        # driver.set_page_load_timeout(5)
 
         # We retrieve active links for scrapper in django model Scrapper_Active_Links
         active_links = Scrapper_Active_Links.objects.filter(scrapper_id=2)
@@ -78,16 +66,6 @@ class Command(BaseCommand):
             # driver.maximize_window()
 
             time.sleep(5)
-
-            # if i == 0:
-            #     try:
-            #         driver.find_element_by_xpath('/html/body/div[1]/div/div/div/div[2]/div/button[3]').click()
-            #         time.sleep(5)
-            #     except Exception as e:
-            #         # We log error into db
-            #         log = ScrapperLogs(scrapper_id=2, type='error', text=e, date=datetime.now(timezone.utc))
-            #         log.save()
-            #         self.kill_process()
 
             season_links = [
                 "/html/body/div[3]/div[3]/div[1]/div[2]/h1",
@@ -294,7 +272,7 @@ class Command(BaseCommand):
 
                     try:
                         filename = teams_names[j] + '_' + player_name.text + '_' + match_season + '.csv'
-                        f = open("/Volumes/TOSHIBA EXT/Football_Dashboard/football_dashboard/files/players_csv/{}".format(filename), "w")
+                        f = open("/home/valentinm/Documents/FootballData/datafiles/player_data/{}".format(filename), "w")
                         f.write(csv_to_insert.text)
                         f.close()
                     except Exception as e:
