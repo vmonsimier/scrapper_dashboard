@@ -47,18 +47,18 @@ class Command(BaseCommand):
             print(err)
 
     def handle(self, *args, **options):
-        # options = Options()
-        # options.binary_location = r'/usr/bin/firefox'
-        # options.add_argument("--headless")
-            
-        # driver = webdriver.Firefox(options=options, executable_path="geckodriver")
+        options = webdriver.ChromeOptions()
+        print('Launching webdriver remote...')
+        driver = webdriver.Remote(command_executor='http://10.0.0.2:4444/wd/hub',desired_capabilities=DesiredCapabilities.CHROME, options=options)
 
-        # driver.set_page_load_timeout(5)
+        print('connection established.')
 
         # We retrieve active links for scrapper in django model Scrapper_Active_Links
         active_links = Scrapper_Active_Links.objects.filter(scrapper_id=2)
+        print(active_links)
         active_links = list(map(lambda x: x.link, active_links))
-
+        print(active_links)
+        
         for i in range(0, len(active_links)):
             print(bcolors.WARNING + active_links[i] + bcolors.ENDC)
             print('link', active_links[i])

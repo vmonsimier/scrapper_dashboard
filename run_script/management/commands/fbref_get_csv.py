@@ -23,13 +23,14 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         options = webdriver.ChromeOptions()
         options.add_argument('--headless')
+        print('Launching webdriver remote...')
+        driver = webdriver.Remote(command_executor='http://10.0.0.2:4444/wd/hub',desired_capabilities=DesiredCapabilities.CHROME, options=options)
 
-        driver = webdriver.Remote(command_executor='http://10.0.0.44:4444/wd/hub',desired_capabilities=DesiredCapabilities.CHROME, options=options)
-
+        print('connection established.')
         # We retrieve active links for scrapper in django model Scrapper_Active_Links
         active_links = Scrapper_Active_Links.objects.filter(scrapper_id=1)
         active_links = list(map(lambda x: x.link, active_links))
-
+        print(active_links)
         for i in range(0, len(active_links)):
 
             driver.get(active_links[i])
