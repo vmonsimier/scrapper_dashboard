@@ -15,3 +15,5 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt
 
 COPY . .
+
+CMD ["gunicorn"  , "-b", "10.0.0.8:80", "wsgi:application"]
