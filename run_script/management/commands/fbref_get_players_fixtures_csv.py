@@ -8,6 +8,8 @@ from selenium.webdriver.common.by import By
 from datetime import datetime, timezone
 import re
 import time
+import subprocess
+import os 
 
 from django.core.management.base import BaseCommand
 from run_script.models import *
@@ -191,9 +193,7 @@ class Command(BaseCommand):
 
                     for fixture_link in fixtures_links:
                         fixtures_players.append(fixture_link.get_attribute('href'))
-
-                    for link in fixtures_links:
-                        print(link.get_attribute('href'))
+                        print(fixture_link.get_attribute('href'))
 
                     print(bcolors.WARNING + 'Number of players : ' + str(len(fixtures_players)) + bcolors.ENDC)
 
@@ -306,8 +306,9 @@ class Command(BaseCommand):
                         # We add exclude player links to database for next execution
                         new_exclude_player = Exclude_Player_Links(scrapper_id=2, link=fixture_player)
                         new_exclude_player.save()
-                driver.quit()
-                driver.close()
+                Scrapper_Active_Links.objects.filter(link=active_links[i]).delete()
         except Exception as e:
             driver.quit()
             driver.close()
+            os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
+            process = subprocess.Popen(["python", 'manage.py', 'fbref_get_players_csv'])
