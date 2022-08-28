@@ -1,17 +1,10 @@
-import csv
 from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException, WebDriverException
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from datetime import datetime, timezone
 import re
 import time
 import subprocess
 import os
-import sys
 
 from django.core.management.base import BaseCommand
 from run_script.models import *
@@ -71,9 +64,8 @@ class Command(BaseCommand):
                     except NoSuchElementException:
                         print(bcolors.FAIL + 'Cannot find title. Try another xpath..')
 
-                match_season = re.search(r"[0-9]{4}", season.text).group(0)
+                match_season = re.search(r"[0-9]{4}", season.get_attribute("innerText")).group(0)
                 print(match_season)
-                driver.switch_to.default_content()
                 driver.execute_script("window.scrollTo(0, 750);")
 
                 time.sleep(5)
@@ -140,9 +132,9 @@ class Command(BaseCommand):
                     }
 
                     try:
-                        scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                        scrapper_logic.retrieveStats(driver, filename, selectors)
                     except:
-                        scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                        scrapper_logic.retrieveStats(driver, filename, selectors)
 
                     
                     ############################################################################################################
@@ -170,9 +162,9 @@ class Command(BaseCommand):
 
                     if keeper:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                     
 
                     ############################################################################################################
@@ -197,9 +189,9 @@ class Command(BaseCommand):
 
                     if keeper_advanced:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
 
                      ############################################################################################################
@@ -225,9 +217,9 @@ class Command(BaseCommand):
 
                     if shots:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                    
 
                     ############################################################################################################
@@ -253,9 +245,9 @@ class Command(BaseCommand):
 
                     if passes:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
 
                     ############################################################################################################
@@ -281,9 +273,9 @@ class Command(BaseCommand):
 
                     if passes_type:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
 
                     ############################################################################################################
@@ -309,9 +301,9 @@ class Command(BaseCommand):
 
                     if free_kick:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
 
                     ############################################################################################################
@@ -337,9 +329,9 @@ class Command(BaseCommand):
 
                     if defensive_actions:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
                     ############################################################################################################
                     #
@@ -364,9 +356,9 @@ class Command(BaseCommand):
 
                     if possession:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
 
                     ############################################################################################################
@@ -392,9 +384,9 @@ class Command(BaseCommand):
 
                     if playing_time:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
 
                     ############################################################################################################
                     #
@@ -419,10 +411,12 @@ class Command(BaseCommand):
 
                     if various_stats:
                         try:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
                         except:
-                            scrapper_logic.retrieveStats(driver, league, filename, selectors)
-                
+                            scrapper_logic.retrieveStats(driver, filename, selectors)
+
+                    exclude_player = Exclude_Player_Links(scrapper_id=1, link=teams_links[j])
+                    exclude_player.save()
                 # We delete the active link from db
                 Scrapper_Active_Links.objects.filter(link=active_links[i].link).delete()
 
