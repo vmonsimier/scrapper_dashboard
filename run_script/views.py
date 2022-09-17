@@ -36,7 +36,7 @@ def execute_scrapper(request):
             if scrapper.enable == True:
                 print('Trying to execute ' + scrapper.path)
                 os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
-                process = subprocess.Popen(["python", 'manage.py', scrapper.path])
+                process = subprocess.Popen(["python3", 'manage.py', scrapper.path])
                 scrapper.current_pid = str(process.pid)
                 scrapper.in_execution = True
                 scrapper.save()

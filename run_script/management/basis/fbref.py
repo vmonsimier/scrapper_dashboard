@@ -3,11 +3,13 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException, TimeoutException
 
 from run_script.models import *
 
-from .scrapper import *
+from .scrapper import Colors, Scrapper
+
+bcolors = Colors()
 
 class ScrapperLogic:
     def checkElementExists(self, driver, xpath):
@@ -17,7 +19,7 @@ class ScrapperLogic:
             return False
         return True
 
-    def retrieveStats(self, driver, filename, selectors):
+    def retrieveStats(self, driver, league, filename, selectors):
         try:       
             time.sleep(2)
             
@@ -34,7 +36,7 @@ class ScrapperLogic:
                 get_csv = self.retrieveCsvDropdown(driver, selectors['csv_link'])
             except StaleElementReferenceException as e:
                 print(bcolors.FAIL + 'StaleElementReferenceException: relaunch hovering element and retrieveCsvDropdown()...')
-                self.hoverDropdownMenu(driver, csv_links)
+                self.hoverDropdownMenu(driver, element)
                 get_csv = self.retrieveCsvDropdown(driver, selectors['csv_link'])
 
             try:
@@ -42,9 +44,10 @@ class ScrapperLogic:
                 click_link.click().perform()
                 csv_to_insert = driver.find_element_by_xpath(selectors['pre_link'])
             except Exception as e:
-                log.save()
+                print('Can\'t click link.');
 
-            #Scrapper.saveCsvFile()
+            scrapper = Scrapper()
+            scrapper.saveCsvFile(csv_to_insert, league, filename)
 
         except Exception as e:
             return False
@@ -113,7 +116,19 @@ class ScrapperLogic:
                     l.style.height = 0;
                 }
                 """)
-            print('Total Ads removed: ' + str(len(all_iframes)))
+            print(bcolors.WARNING + 'Total Ads removed: ' + str(len(all_iframes)) + bcolors.ENDC)
         else:
             print('No ads found')
+        return -1
+
+    def removeFooterWrapper(self, driver):
+        try:
+            time.sleep(3)
+            driver.execute_script("""
+                let a = document.getElementById('fs-sticky-footer');
+                a.style.visibility = 'hidden';
+            """)
+        except Exception as e:
+            print('Error removing wrapper')
+        
         return -1

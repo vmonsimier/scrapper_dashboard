@@ -1,4 +1,7 @@
-class bcolors:
+import csv
+import os
+
+class Colors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
     OKCYAN = '\033[96m'
@@ -11,14 +14,17 @@ class bcolors:
 
 class Scrapper:
     
-    def saveCsvFile(self, filename):    
-        if not os.path.exists("/home/valentinm/Documents/FootballData/datafiles/players_data/{0}/genstats/{1}".format(league,filename)):
-            print(filename)
-            f = open("/home/valentinm/Documents/FootballData/datafiles/players_data/{0}/genstats/{1}".format(league ,filename), "w")
-            f.write(csv_to_insert.text)
+    def saveCsvFile(self, csvToInsert, league, filename):
+        bcolors = Colors()
+        path = "/home/valentinm/Documents/football/datafiles/fixtures_data/{0}/{1}".format(league,filename)
+        data = csvToInsert.get_attribute('innerText')
+        
+        if not os.path.exists(path):
+            f = open("/home/valentinm/Documents/football/datafiles/fixtures_data/{0}/{1}".format(league ,filename), "w")
+            f.write(data)
             f.close()
         else: 
             print('File already exists')
 
-        print('Save {}'.format(filename))
+        print(bcolors.OKGREEN + 'Save {} '.format(filename) + bcolors.ENDC)
         return -1
