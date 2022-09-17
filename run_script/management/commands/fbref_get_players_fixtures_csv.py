@@ -45,14 +45,16 @@ class Command(BaseCommand):
 
                 league = active_links[i].league
 
-                time.sleep(2)
-                scrapper_logic.removeFooterWrapper(driver)
-                time.sleep(3)
-
                 if i == 0:
                     driver.maximize_window()
                     scrapper_logic.clickCookiesAccept(driver)
                     time.sleep(2)
+
+                
+                time.sleep(2)
+                scrapper_logic.removeFooterWrapper(driver)
+                time.sleep(3)
+
 
                 season_links = [
                     '//*[@id="meta"]/div[2]/h1',
