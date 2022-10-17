@@ -44,7 +44,7 @@ class ScrapperLogic:
                 click_link.click().perform()
                 csv_to_insert = driver.find_element_by_xpath(selectors['pre_link'])
             except Exception as e:
-                print('Can\'t click link.');
+                print('Can\'t click link.')
 
             scrapper = Scrapper()
             scrapper.saveCsvFile(scrapper_id, csv_to_insert, league, filename)
@@ -100,7 +100,7 @@ class ScrapperLogic:
     
     def clickCookiesAccept(self, driver):
         try:
-            cookiesAcceptance = '/html/body/div[1]/div/div/div/div[2]/div/button[3]'
+            cookiesAcceptance = '//*[@id="qc-cmp2-ui"]/div[2]/div/button[3]'
             btnAccept = driver.find_element_by_xpath(cookiesAcceptance)
             click_btn = ActionChains(driver).move_to_element(btnAccept)
             click_btn.click().perform()

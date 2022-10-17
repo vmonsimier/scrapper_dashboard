@@ -22,7 +22,14 @@ class Scrapper:
     def saveCsvFile(self, scrapper_id, csvToInsert, league, filename):
         bcolors = Colors()
         directory = scrapper_directories[str(scrapper_id)]
-        path = "/home/valentinm/Documents/football/datafiles/{0}/{1}/{2}".format(directory, league, filename)
+
+        if int(scrapper_id) == 2:
+            sub = filename.split('_')[0]
+            subdirectory = "/{}".format(sub)
+        else:
+            subdirectory = ''
+
+        path = "/home/valentinm/Documents/football/datafiles/{0}/{1}{2}/{3}".format(directory, league, subdirectory, filename)
         print(path)
         data = csvToInsert.get_attribute('innerText')
         
@@ -38,7 +45,14 @@ class Scrapper:
     
     def checkFileExists(self, scrapper_id, league, filename):
         directory = scrapper_directories[str(scrapper_id)]
-        path = "/home/valentinm/Documents/football/datafiles/{0}/{1}/{2}".format(directory, league, filename)
+        
+        if int(scrapper_id) == 2:
+            sub = filename.split('_')[0]
+            subdirectory = "/{}".format(sub)
+        else:
+            subdirectory = ''
+
+        path = "/home/valentinm/Documents/football/datafiles/{0}/{1}/{2}/{3}".format(directory, league, subdirectory, filename)
 
         if os.path.exists(path):
             return True

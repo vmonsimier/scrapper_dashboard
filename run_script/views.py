@@ -64,6 +64,7 @@ def stop_scrapper(request):
             print('Trying to kill ' + scrapper.path + '/ process ' + str(scrapper.current_pid))
             try:
                 subprocess.run(["killall", "chrome"])
+                subprocess.run(["killall", "chromedriver"])
                 scrapper.current_pid = 0
                 scrapper.in_execution = False
                 scrapper.last_execution = datetime.now(timezone.utc)

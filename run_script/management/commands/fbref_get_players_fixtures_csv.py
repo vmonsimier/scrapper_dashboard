@@ -40,7 +40,6 @@ class Command(BaseCommand):
             scrapper_logic = ScrapperLogic()
             scrapper = Scrapper()
 
-            # We retrieve active links for scrapper in django model Scrapper_Active_Links
             active_links = Scrapper_Active_Links.objects.filter(scrapper_id=2)
             
             for i in range(0, len(active_links)):
@@ -181,6 +180,7 @@ class Command(BaseCommand):
                         scrapper_logic.removeFooterWrapper(driver)
                         scrapper_logic.removeAdsiFrame(driver)
                         time.sleep(2)
+                        
                         try:
                             player_name = driver.find_element_by_xpath('//*[@id="meta"]/div[2]/h1/span[1]')
                             player_name = player_name.get_attribute('innerText')
@@ -203,7 +203,7 @@ class Command(BaseCommand):
 
                         filename = 'genstats_' + teams_names[j] + '_' + player_name + '_' + match_season + '.csv'
 
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
 
                             menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
                             csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button']
@@ -228,7 +228,7 @@ class Command(BaseCommand):
 
                         filename = 'passes_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
                             try:
                                 passes = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[2]/a')
                             except:
@@ -246,7 +246,7 @@ class Command(BaseCommand):
                         
                         filename = 'passes_type_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
                             try:
                                 passes_type = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[3]/a')
                             except:
@@ -265,7 +265,7 @@ class Command(BaseCommand):
 
                         filename = 'penalty_prep_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
                             try:
                                 penalty_prep = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[4]/a')
                             except:
@@ -283,7 +283,7 @@ class Command(BaseCommand):
                         
                         filename = 'defensive_actions_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
                         
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
                             try:
                                 defensive_actions = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[5]/a')
                             except:
@@ -301,7 +301,7 @@ class Command(BaseCommand):
                         
                         filename = 'possession_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
                             try:
                                 possession = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[6]/a')
                             except:
@@ -320,7 +320,7 @@ class Command(BaseCommand):
                         
                         filename = 'various_stats_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                        if scrapper.checkFileExists(2, league, filename):
+                        if not scrapper.checkFileExists(2, league, filename):
                             try:
                                 various_stats = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[7]/a')
                             except:
@@ -342,7 +342,7 @@ class Command(BaseCommand):
                         if keeper:
                             filename = 'keeper_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                            if scrapper.checkFileExists(2, league, filename):
+                            if not scrapper.checkFileExists(2, league, filename):
                                 try:
                                     click_keeper = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[8]/a')
                                 except:
@@ -356,10 +356,8 @@ class Command(BaseCommand):
 
                                     self.retrieveSpecificData(driver, league, filename)
 
-
                         logText = 'Done player ' + player_name + ' | team ' + teams_names[j] + ' | ' + match_season
                         print(bcolors.OKGREEN + logText)
-                        # We add exclude player links to database for next execution
                         exclude_player = Exclude_Player_Links(scrapper_id=2, link=fixture_player)
                         exclude_player.save()
 
@@ -368,6 +366,7 @@ class Command(BaseCommand):
 
                 Scrapper_Active_Links.objects.filter(link=active_links[i]).delete()
         except Exception as e:
+            print(e)
             url_stop = 'http://localhost:3000/stop_scrapper'
             url_start = 'http://localhost:3000/execute_scrapper'
             body = json.dumps({'body': {'path': 'fbref_get_players_fixtures_csv'}})
