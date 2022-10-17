@@ -3,7 +3,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 import re
 import time
-import subprocess
+import requests
+import json
 import os
 
 from django.core.management.base import BaseCommand
@@ -422,11 +423,13 @@ class Command(BaseCommand):
                 Scrapper_Active_Links.objects.filter(link=active_links[i].link).delete()
 
         except Exception as e:
-            print('Unexpected error:', e)
-            driver.close()
-            driver.quit()
-            os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
-            process = subprocess.Popen(["python", 'manage.py', 'fbref_get_players_csv'])
+            print(e)
+            url_stop = 'http://localhost:3000/stop_scrapper'
+            url_start = 'http://localhost:3000/execute_scrapper'
+            body = json.dumps({'body': {'path': 'fbref_get_players.csv'}})
+            
+            r = requests.post(url=url_stop, data=body)
+            r = requests.post(url=url_start, data=body)
 
 
 
