@@ -19,7 +19,7 @@ class ScrapperLogic:
             return False
         return True
 
-    def retrieveStats(self, driver, league, filename, selectors):
+    def retrieveStats(self, driver, scrapper_id, league, filename, selectors):
         try:       
             time.sleep(2)
             
@@ -47,7 +47,7 @@ class ScrapperLogic:
                 print('Can\'t click link.');
 
             scrapper = Scrapper()
-            scrapper.saveCsvFile(csv_to_insert, league, filename)
+            scrapper.saveCsvFile(scrapper_id, csv_to_insert, league, filename)
 
         except Exception as e:
             return False

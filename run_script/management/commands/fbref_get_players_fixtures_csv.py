@@ -6,13 +6,15 @@ import selenium.webdriver.support.expected_conditions as EC
 
 import re
 import time
-import subprocess
+import requests
+import json
 import os
 
 from django.core.management.base import BaseCommand
 from run_script.models import *
 
 from ..basis.scrapper import Colors
+from ..basis.scrapper import Scrapper
 from ..basis.fbref import ScrapperLogic
 
 leagueIds = {
@@ -36,6 +38,7 @@ class Command(BaseCommand):
         try:
             bcolors = Colors()
             scrapper_logic = ScrapperLogic()
+            scrapper = Scrapper()
 
             # We retrieve active links for scrapper in django model Scrapper_Active_Links
             active_links = Scrapper_Active_Links.objects.filter(scrapper_id=2)
@@ -123,7 +126,7 @@ class Command(BaseCommand):
 
                     time.sleep(3)
                     scrapper_logic.removeFooterWrapper(driver)
-                    time.sleep(3)
+                    scrapper_logic.removeAdsiFrame(driver)
                     driver.execute_script("window.scrollTo(0, 600);")
 
                     time.sleep(5)
@@ -176,6 +179,7 @@ class Command(BaseCommand):
 
                         time.sleep(2)
                         scrapper_logic.removeFooterWrapper(driver)
+                        scrapper_logic.removeAdsiFrame(driver)
                         time.sleep(2)
                         try:
                             player_name = driver.find_element_by_xpath('//*[@id="meta"]/div[2]/h1/span[1]')
@@ -190,104 +194,167 @@ class Command(BaseCommand):
                             log = ScrapperLogs(scrapper_id=2, type='error', text='Cannot find player name', date=datetime.now(timezone.utc))
                             log.save()
 
-                        driver.execute_script("window.scrollTo(0, 600);")
-                        time.sleep(3)
+                        element = driver.find_element_by_xpath('//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span')
+                        scrollTo = str(int(element.location['y']) - 200)
+
+                        driver.execute_script("window.scrollTo(0, {});".format(scrollTo))
+
+                        time.sleep(2)
 
                         filename = 'genstats_' + teams_names[j] + '_' + player_name + '_' + match_season + '.csv'
 
-                        menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
-                        csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button']
-                        pre_selector = '//*[@id="csv_matchlogs_all"]'
+                        if scrapper.checkFileExists(2, league, filename):
 
-                        for k in range(0, len(menu_link_selector)):
+                            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
+                            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button']
+                            pre_selector = '//*[@id="csv_matchlogs_all"]'
+
+                            for k in range(0, len(menu_link_selector)):
+                                try:
+                                    selectors = {
+                                        'menu_link': menu_link_selector[k],
+                                        'csv_link': csv_link_selector[k],
+                                        'pre_link': pre_selector
+                                    }
+
+                                    element = scrapper_logic.retrieveStats(driver, 2, league, filename, selectors)
+
+                                    if element:
+                                        break
+
+                                except Exception as e:
+                                    print(bcolors.FAIL + 'Try another element...') 
+
+
+                        filename = 'passes_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+
+                        if scrapper.checkFileExists(2, league, filename):
                             try:
-                                selectors = {
-                                    'menu_link': menu_link_selector[k],
-                                    'csv_link': csv_link_selector[k],
-                                    'pre_link': pre_selector
-                                }
+                                passes = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[2]/a')
+                            except:
+                                passes = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[2]/div[2]/a')
 
-                                element = scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                            if passes:
+                                time.sleep(2)
+                                scrapper_logic.removeFooterWrapper(driver)
+                                scrapper_logic.removeAdsiFrame(driver)
+                                time.sleep(2)
+                                
+                                self.retrieveSpecificData(driver, league, filename)
+                                
+                                time.sleep(3)
+                        
+                        filename = 'passes_type_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
 
-                                if element:
-                                    break
-
-                            except Exception as e:
-                                print(bcolors.FAIL + 'Try another element...') 
-
-                        passes = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[2]/a')
-
-                        if passes:
-                            filename = 'passes_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
-                            
-                            time.sleep(2)
-                            scrapper_logic.removeFooterWrapper(driver)
-                            time.sleep(2)
-                            
-                            self.retrieveSpecificData(driver, league, filename)
-                            
-                            time.sleep(3)
-                            passes_type = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[3]/a')
+                        if scrapper.checkFileExists(2, league, filename):
+                            try:
+                                passes_type = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[3]/a')
+                            except:
+                                passes_type = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[2]/div[3]/a')
 
                             if passes_type:
                                 time.sleep(2)
                                 scrapper_logic.removeFooterWrapper(driver)
+                                scrapper_logic.removeAdsiFrame(driver)
                                 time.sleep(2)
 
-                                filename = 'passes_type_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
                                 self.retrieveSpecificData(driver, league, filename)
 
                                 time.sleep(3)
-                                penalty_prep = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[4]/a')
+                        
 
-                                if penalty_prep:
+                        filename = 'penalty_prep_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+
+                        if scrapper.checkFileExists(2, league, filename):
+                            try:
+                                penalty_prep = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[4]/a')
+                            except:
+                                penalty_prep = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[2]/div[4]/a')
+
+                            if penalty_prep:
+                                time.sleep(2)
+                                scrapper_logic.removeFooterWrapper(driver)
+                                scrapper_logic.removeAdsiFrame(driver)
+                                time.sleep(2)
+
+                                self.retrieveSpecificData(driver, league, filename)
+                                
+                                time.sleep(3)
+                        
+                        filename = 'defensive_actions_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+                        
+                        if scrapper.checkFileExists(2, league, filename):
+                            try:
+                                defensive_actions = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[5]/a')
+                            except:
+                                defensive_actions = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[2]/div[5]/a')
+
+                            if defensive_actions:
+                                time.sleep(2)
+                                scrapper_logic.removeFooterWrapper(driver)
+                                scrapper_logic.removeAdsiFrame(driver)
+                                time.sleep(2)
+
+                                self.retrieveSpecificData(driver, league, filename)
+
+                                time.sleep(3)
+                        
+                        filename = 'possession_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+
+                        if scrapper.checkFileExists(2, league, filename):
+                            try:
+                                possession = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[6]/a')
+                            except:
+                                possession = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[2]/div[6]/a')
+
+
+                            if possession:
+                                time.sleep(2)
+                                scrapper_logic.removeFooterWrapper(driver)
+                                scrapper_logic.removeAdsiFrame(driver)
+                                time.sleep(2)
+
+                                self.retrieveSpecificData(driver, league, filename)
+
+                                time.sleep(3)
+                        
+                        filename = 'various_stats_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+
+                        if scrapper.checkFileExists(2, league, filename):
+                            try:
+                                various_stats = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[7]/a')
+                            except:
+                                various_stats = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[2]/div[7]/a')
+
+                            if various_stats:
+                                time.sleep(2)
+                                scrapper_logic.removeFooterWrapper(driver)
+                                scrapper_logic.removeAdsiFrame(driver)
+                                time.sleep(2)
+
+                                self.retrieveSpecificData(driver, league, filename)
+                        
+                        try:
+                            keeper = scrapper_logic.checkElementExists(driver, '//*[@id="content"]/div[3]/div[8]/a')
+                        except:
+                            keeper = scrapper_logic.checkElementExists(driver, '//*[@id="content"]/div[2]/div[8]/a')
+                                                
+                        if keeper:
+                            filename = 'keeper_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+
+                            if scrapper.checkFileExists(2, league, filename):
+                                try:
+                                    click_keeper = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[8]/a')
+                                except:
+                                    click_keeper = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[8]/a')
+
+                                if click_keeper:
                                     time.sleep(2)
                                     scrapper_logic.removeFooterWrapper(driver)
+                                    scrapper_logic.removeAdsiFrame(driver)
                                     time.sleep(2)
-                                    filename = 'penalty_prep_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
+
                                     self.retrieveSpecificData(driver, league, filename)
-                                    
-                                    time.sleep(3)
-                                    defensive_actions = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[5]/a')
-
-                                    if defensive_actions:
-                                        time.sleep(2)
-                                        scrapper_logic.removeFooterWrapper(driver)
-                                        time.sleep(2)
-                                        filename = 'defensive_actions_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
-                                        self.retrieveSpecificData(driver, league, filename)
-
-                                        time.sleep(3)
-                                        possession = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[6]/a')
-
-                                        if possession:
-                                            time.sleep(2)
-                                            scrapper_logic.removeFooterWrapper(driver)
-                                            time.sleep(2)
-                                            filename = 'possession_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
-                                            self.retrieveSpecificData(driver, league, filename)
-
-                                            time.sleep(3)
-                                            various_stats = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[7]/a')
-
-                                            if various_stats:
-                                                time.sleep(2)
-                                                scrapper_logic.removeFooterWrapper(driver)
-                                                time.sleep(2)
-                                                filename = 'various_stats_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
-                                                self.retrieveSpecificData(driver, league, filename)
-                                                
-                                                keeper = scrapper_logic.checkElementExists(driver, '//*[@id="content"]/div[3]/div[8]/a')
-                                                
-                                                if keeper:
-                                                    click_keeper = scrapper_logic.clickButton(driver, '//*[@id="content"]/div[3]/div[8]/a')
-
-                                                    if click_keeper:
-                                                        time.sleep(2)
-                                                        scrapper_logic.removeFooterWrapper(driver)
-                                                        time.sleep(2)
-                                                        filename = 'keeper_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
-                                                        self.retrieveSpecificData(driver, league, filename)
 
 
                         logText = 'Done player ' + player_name + ' | team ' + teams_names[j] + ' | ' + match_season
@@ -296,16 +363,17 @@ class Command(BaseCommand):
                         exclude_player = Exclude_Player_Links(scrapper_id=2, link=fixture_player)
                         exclude_player.save()
 
-                    exclude_team = Exclude_Team_Links(scrapper_id=1, link=teams_links[j])
+                    exclude_team = Exclude_Team_Links(scrapper_id=2, link=teams_links[j])
                     exclude_team.save()
 
                 Scrapper_Active_Links.objects.filter(link=active_links[i]).delete()
         except Exception as e:
-            print(e)
-            driver.quit()
-            driver.close()
-            os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
-            process = subprocess.Popen(["python3", 'manage.py', 'fbref_get_players_fixtures_csv'])
+            url_stop = 'http://localhost:3000/stop_scrapper'
+            url_start = 'http://localhost:3000/execute_scrapper'
+            body = json.dumps({'body': {'path': 'fbref_get_players_fixtures_csv'}})
+            
+            r = requests.post(url=url_stop, data=body)
+            r = requests.post(url=url_start, data=body)
 
 
     def retrieveSpecificData(self, driver, league, filename):
@@ -325,7 +393,7 @@ class Command(BaseCommand):
                     }
 
                     try:
-                        element = scrapper_logic.retrieveStats(driver, league, filename, selectors)
+                        element = scrapper_logic.retrieveStats(driver, 2, league, filename, selectors)
                     except Exception as e:
                         print('Error retrieving file', e)
 

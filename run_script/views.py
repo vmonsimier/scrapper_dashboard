@@ -30,8 +30,11 @@ def execute_scrapper(request):
     Execute a scrapper according to its path
     """
     if request.method == "POST":
+
+        print(request)
         try:
             body = json.loads(request.body)
+            print(body)
             scrapper = Scrappers.objects.get(path=body['body']['path'])
             if scrapper.enable == True:
                 print('Trying to execute ' + scrapper.path)
@@ -42,8 +45,8 @@ def execute_scrapper(request):
                 scrapper.save()
 
             return HttpResponse(status=200)
-        except Scrappers.DoesNotExist:
-            print('Error')
+        except Scrappers.DoesNotExist as e:
+            print('Error', e)
             return HttpResponse(status=404)
 
     return HttpResponse(status=404)
@@ -60,9 +63,7 @@ def stop_scrapper(request):
 
             print('Trying to kill ' + scrapper.path + '/ process ' + str(scrapper.current_pid))
             try:
-                subprocess.run(["pkill", "-f", str(scrapper.path)])
-                subprocess.run(["pkill", "-f", 'Firefox'])
-                subprocess.run(["pkill", "-f", 'firefox'])
+                subprocess.run(["killall", "chrome"])
                 scrapper.current_pid = 0
                 scrapper.in_execution = False
                 scrapper.last_execution = datetime.now(timezone.utc)

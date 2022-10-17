@@ -1,6 +1,11 @@
 import csv
 import os
 
+scrapper_directories = {
+    '1': 'players_data',
+    '2': 'fixtures_data'
+}
+
 class Colors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -14,13 +19,15 @@ class Colors:
 
 class Scrapper:
     
-    def saveCsvFile(self, csvToInsert, league, filename):
+    def saveCsvFile(self, scrapper_id, csvToInsert, league, filename):
         bcolors = Colors()
-        path = "/home/valentinm/Documents/football/datafiles/fixtures_data/{0}/{1}".format(league,filename)
+        directory = scrapper_directories[str(scrapper_id)]
+        path = "/home/valentinm/Documents/football/datafiles/{0}/{1}/{2}".format(directory, league, filename)
+        print(path)
         data = csvToInsert.get_attribute('innerText')
         
         if not os.path.exists(path):
-            f = open("/home/valentinm/Documents/football/datafiles/fixtures_data/{0}/{1}".format(league ,filename), "w")
+            f = open(path, "w")
             f.write(data)
             f.close()
         else: 
@@ -28,3 +35,12 @@ class Scrapper:
 
         print(bcolors.OKGREEN + 'Save {} '.format(filename) + bcolors.ENDC)
         return -1
+    
+    def checkFileExists(self, scrapper_id, league, filename):
+        directory = scrapper_directories[str(scrapper_id)]
+        path = "/home/valentinm/Documents/football/datafiles/{0}/{1}/{2}".format(directory, league, filename)
+
+        if os.path.exists(path):
+            return True
+        else:
+            return False
