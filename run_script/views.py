@@ -33,9 +33,9 @@ def execute_scrapper(request):
         try:
             body = json.loads(request.body)
             if 'nodes' in body['body']:
-                nodes = int(body['body']['nodes'])
+                nodes = int(body['body']['node'])
             else:
-                nodes = 2
+                nodes = 4
             
             scrapper = Scrappers.objects.get(path=body['body']['path'])
             if scrapper.enable == True:
