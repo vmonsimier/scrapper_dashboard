@@ -1,5 +1,6 @@
 import csv
 import os
+from selenium import webdriver
 
 scrapper_directories = {
     '1': 'players_data',
@@ -18,6 +19,13 @@ class Colors:
     UNDERLINE = '\033[4m'
 
 class Scrapper:
+    def webdriverFromNode(self, node_id):
+        options = webdriver.ChromeOptions()
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')        
+        print('Launching Chrome webdriver remote...')
+        return webdriver.Remote(command_executor="http://127.0.0.1:4444/wd/hub", options=options)
+
     
     def saveCsvFile(self, scrapper_id, csvToInsert, league, filename):
         bcolors = Colors()
@@ -30,7 +38,6 @@ class Scrapper:
             subdirectory = ''
 
         path = "/home/valentinm/Documents/football/datafiles/{0}/{1}{2}/{3}".format(directory, league, subdirectory, filename)
-        print(path)
         data = csvToInsert.get_attribute('innerText')
         
         if not os.path.exists(path):

@@ -30,20 +30,27 @@ def execute_scrapper(request):
     Execute a scrapper according to its path
     """
     if request.method == "POST":
-
-        print(request)
         try:
             body = json.loads(request.body)
-            print(body)
+            if 'nodes' in body['body']:
+                nodes = int(body['body']['nodes'])
+            else:
+                nodes = 2
+            
             scrapper = Scrappers.objects.get(path=body['body']['path'])
             if scrapper.enable == True:
-                print('Trying to execute ' + scrapper.path)
                 os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
-                process = subprocess.Popen(["python3", 'manage.py', scrapper.path])
-                scrapper.current_pid = str(process.pid)
-                scrapper.in_execution = True
-                scrapper.save()
-
+                if 'relaunch' in body['body']:
+                    relaunch = int(body['body']['relaunch'])
+                    process = subprocess.Popen(['python3', 'manage.py', scrapper.path, '--relaunch', str(relaunch)])
+                else:
+                    for i in range(0, nodes):
+                        node= i+1
+                        print('Trying to execute', scrapper.path, 'with node', node)
+                        process = subprocess.Popen(['python3', 'manage.py', scrapper.path, '--node', str(node)])
+                        scrapper.current_pid = str(process.pid)
+                        scrapper.in_execution = True
+                        scrapper.save()
             return HttpResponse(status=200)
         except Scrappers.DoesNotExist as e:
             print('Error', e)
@@ -114,20 +121,3 @@ def update_scrapper(request):
 
     return HttpResponse(status=404)
 
-# @csrf_exempt
-# def insert_files_db(request):
-#     """
-#     insert files in db
-#     """
-#     if request.method == "GET":
-#         try:
-#             files = os.listdir('/Volumes/TOSHIBA EXT/Football_Dashboard/football_dashboard/files/players_csv/')
-#             for el in files:
-#                 team = el.split('_')[0]
-#                 player = el.split('_')[1]
-#                 season = int(el.split('_')[2].split('.')[0])
-#                 new_file = Files(path=el, player=player, team=team, league='league', season=season, dateIns=datetime.now(timezone.utc))
-#                 new_file.save()
-#         except Exception as err:
-#             print(err)
-#     return HttpResponse(status=200)

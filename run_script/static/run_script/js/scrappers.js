@@ -28,7 +28,7 @@ const scrappers = {
         headers: {
           'Access-Control-Allow-Origin': "*"
         },
-        body: { path: path }
+        body: { path: path, nodes: 2 }
       })
         .then(_ => {
           this.getScrappers()

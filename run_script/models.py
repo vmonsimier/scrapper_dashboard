@@ -40,6 +40,7 @@ class Scrapper_Active_Links(models.Model):
     link = models.CharField(max_length=120)
     league = models.CharField(max_length=45, default="")
     season = models.PositiveIntegerField(default=0)
+    node_id = models.PositiveIntegerField(null=True)
 
 class Exclude_Team_Links(models.Model):
     """Table schema to store scrapper exclude team links."""
