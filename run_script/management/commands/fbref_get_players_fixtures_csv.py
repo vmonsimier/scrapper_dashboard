@@ -9,6 +9,7 @@ import time
 import requests
 import json
 import os
+import sys
 
 from django.core.management.base import BaseCommand
 from run_script.models import *
@@ -205,7 +206,7 @@ class Command(BaseCommand):
                             continue
 
                         driver.get(fixture_player)
-                        message = 'Go to ', fixture_player
+                        message = 'Go to ' + fixture_player
                         print(print_scrapper, bcolors.WARNING + message + bcolors.ENDC)
                         scrapper.logger(message, node)
                         
@@ -410,6 +411,9 @@ class Command(BaseCommand):
 
                 Scrapper_Active_Links.objects.filter(link=active_links[i]).delete()
         except Exception as e:
+            exc_type, exc_obj, exc_tb = sys.exc_info()
+            fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+            print(e, 'File', fname, 'Line', exc_tb.tb_lineno)
             scrapper_logic.relaunchScrapper(driver, print_scrapper)
 
 

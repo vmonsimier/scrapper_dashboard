@@ -169,8 +169,7 @@ class ScrapperLogic:
 
     def relaunchScrapper(self, driver, print_scrapper):
         try:
-            reg = re.search("\d", print_scrapper)
-            node = str(reg.group())
+            node = scrapper.getNode(print_scrapper)
             url_start = 'http://localhost:3000/execute_scrapper'
             body = json.dumps({'body': {'path': 'fbref_get_players_fixtures_csv', 'relaunch': node}})
             r = requests.post(url=url_start, data=body)

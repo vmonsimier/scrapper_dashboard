@@ -80,7 +80,6 @@ class Scrapper:
 
     def logger(self, message, node):
         try:
-            print('Log into', str(node))
             message = ''.join(message) + '\n'
             filename = str(node) + "_fbref_get_players_fixtures_csv.txt"
             with open('/home/valentinm/Documents/football/football_dashboard/run_script/management/commands/logs/' + filename,'a') as f:
