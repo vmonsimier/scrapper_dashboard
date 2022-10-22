@@ -35,7 +35,7 @@ def execute_scrapper(request):
             if 'nodes' in body['body']:
                 nodes = int(body['body']['node'])
             else:
-                nodes = 4
+                nodes = 3
             
             scrapper = Scrappers.objects.get(path=body['body']['path'])
             if scrapper.enable == True:

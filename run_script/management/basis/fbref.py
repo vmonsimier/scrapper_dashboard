@@ -13,6 +13,7 @@ from run_script.models import *
 from .scrapper import Colors, Scrapper
 
 bcolors = Colors()
+scrapper = Scrapper()
 
 class ScrapperLogic:
     def checkElementExists(self, driver, xpath):
@@ -33,29 +34,25 @@ class ScrapperLogic:
 
             time.sleep(2)
 
-            self.hoverDropdownMenu(driver, selectors['menu_link'])
+            self.hoverDropdownMenu(driver, selectors['menu_link'], print_scrapper)
 
             try:
-                get_csv = self.retrieveCsvDropdown(driver, selectors['csv_link'])
+                get_csv = self.retrieveCsvDropdown(driver, selectors['csv_link'], print_scrapper)
             except StaleElementReferenceException as e:
-                reg = re.search("\d", print_scrapper)
-                node = reg.group()
-                url_stop = 'http://localhost:3000/stop_scrapper'
-                url_start = 'http://localhost:3000/execute_scrapper'
-                body = json.dumps({'body': {'path': 'fbref_get_players_fixtures_csv', 'relaunch': node}})
-                
-                r = requests.post(url=url_stop, data=body)
-                r = requests.post(url=url_start, data=body)
+                self.relaunchScrapper(driver, print_scrapper)
 
             try:
                 click_link = ActionChains(driver).move_to_element(get_csv)
                 click_link.click().perform()
                 csv_to_insert = driver.find_element_by_xpath(selectors['pre_link'])
             except Exception as e:
-                print(print_scrapper, 'Can\'t click link.')
+                message = 'Can\'t click link.'
+                print(print_scrapper, message)
+                node = scrapper.getNode(print_scrapper)
+                scrapper.logger(str(message), node)
 
             scrapper = Scrapper()
-            scrapper.saveCsvFile(scrapper_id, csv_to_insert, league, filename)
+            scrapper.saveCsvFile(scrapper_id, csv_to_insert, league, filename, print_scrapper)
 
         except Exception as e:
             return False
@@ -66,14 +63,20 @@ class ScrapperLogic:
         button = driver.find_element_by_xpath(xpath)
 
         if button.value_of_css_property('color') == 'rgba(0, 0, 0, 1)':
-            print(print_scrapper, 'Button is inactive for this season/player')
+            message = 'Button is inactive for this season/player'
+            print(print_scrapper, message)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
             return False
 
         try:
             click = ActionChains(driver).move_to_element(button)
             click.click().perform()
         except Exception as e:
-            print(print_scrapper, bcolors.FAIL + 'Cannot click on the element...')
+            message = 'Cannot click on the element...'
+            print(print_scrapper, bcolors.FAIL + message)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
             return False
         
         return True
@@ -84,14 +87,20 @@ class ScrapperLogic:
             export_menu = driver.find_element_by_xpath(menu_link)
             time.sleep(2)
         except NoSuchElementException:
-            print(print_scrapper, bcolors.FAIL + "Oups element of dropdown menu is not on the page...")
+            message = "Oups element of dropdown menu is not on the page..."
+            print(print_scrapper, bcolors.FAIL + message)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
 
         if export_menu != None:
             try:
                 hover_export = ActionChains(driver).move_to_element(export_menu)
                 hover_export.perform()
             except StaleElementReferenceException:
-                print(print_scrapper, bcolors.FAIL + "Oups an error has occured while performing hover...")
+                message = "Oups an error has occured while performing hover..."
+                print(print_scrapper, bcolors.FAIL + message)
+                node = scrapper.getNode(print_scrapper)
+                scrapper.logger(str(message), node)
 
 
     def retrieveCsvDropdown(self, driver, csv_link, print_scrapper):
@@ -101,9 +110,12 @@ class ScrapperLogic:
             get_csv = wait.until(EC.element_to_be_clickable((By.XPATH, csv_link)))
             if get_csv != None:
                 return get_csv
-        except TimeoutException:
-            print(print_scrapper, bcolors.FAIL + csv_link + " is not on the page..." + bcolors.ENDC)
-            raise Error(csv_link + " is not on the page...")
+        except Exception:
+            message = csv_link + " is not on the page..."
+            print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
+            raise Error(csv_link + " is not oin the page...")
         
         raise StaleElementReferenceException('No link for csv on page...')
     
@@ -114,7 +126,10 @@ class ScrapperLogic:
             click_btn = ActionChains(driver).move_to_element(btnAccept)
             click_btn.click().perform()
         except NoSuchElementException:
-            print(print_scrapper, 'Ok fbref nos asking for cookies')
+            message = 'Ok fbref nos asking for cookies'
+            print(print_scrapper, message)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
 
     def removeAdsiFrame(self, driver, print_scrapper):
         all_iframes = driver.find_elements_by_tag_name("iframe")
@@ -125,9 +140,15 @@ class ScrapperLogic:
                     l.style.height = 0;
                 }
                 """)
-            print(print_scrapper, bcolors.WARNING + 'Total Ads removed: ' + str(len(all_iframes)) + bcolors.ENDC)
+            message = 'Total Ads removed: ' + str(len(all_iframes))
+            print(print_scrapper, bcolors.WARNING + message + bcolors.ENDC)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
         else:
-            print(print_scrapper, 'No ads found')
+            message = 'No ads found'
+            print(print_scrapper, message)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
         return -1
 
     def removeFooterWrapper(self, driver, print_scrapper):
@@ -138,6 +159,26 @@ class ScrapperLogic:
                 a.style.visibility = 'hidden';
             """)
         except Exception as e:
-            print(print_scrapper, 'Error removing wrapper')
+            message = 'Error removing wrapper'
+            print(print_scrapper, message)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message), node)
+
         
         return -1
+
+    def relaunchScrapper(self, driver, print_scrapper):
+        try:
+            reg = re.search("\d", print_scrapper)
+            node = str(reg.group())
+            url_start = 'http://localhost:3000/execute_scrapper'
+            body = json.dumps({'body': {'path': 'fbref_get_players_fixtures_csv', 'relaunch': node}})
+            r = requests.post(url=url_start, data=body)
+        except Exception as e:
+            message1 = 'Cannot relaunch. Quit...'
+            message2 = 'Error relauch ' + e
+            print(print_scrapper, message1)
+            print(print_scrapper, message2)
+            node = scrapper.getNode(print_scrapper)
+            scrapper.logger(str(message1), node)
+            scrapper.logger(str(message2), node)

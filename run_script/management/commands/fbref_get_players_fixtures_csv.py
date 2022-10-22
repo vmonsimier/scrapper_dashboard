@@ -41,7 +41,6 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         bcolors = Colors()
 
-        print(options)
         if 'node' in options and options['node'] != False:
             node = int(options['node'])
         elif 'relaunch' in options and options['relaunch'] != False:
@@ -85,12 +84,15 @@ class Command(BaseCommand):
                         if season != None:
                             break
                     except NoSuchElementException:
-                        print(print_scrapper, bcolors.FAIL + 'Cannot find title. Try another xpath..' + bcolors.ENDC)
+                        message = 'Cannot find title. Try another xpath..'
+                        print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
+                        scrapper.logger(message, node)
 
                 try:
                     match_season = re.search(r"[0-9]{4}", season.get_attribute("innerText")).group(0)
                 except Exception as e:
                     print(print_scrapper, e)
+                    scrapper.logger(str(e), node)
                     
                 driver.execute_script("window.scrollTo(0, 750);")
 
@@ -112,11 +114,14 @@ class Command(BaseCommand):
                         if len(teams) != 0:
                             break
                     except NoSuchElementException:
-                        print(print_scrapper, bcolors.FAIL + 'Cannot find teams. Try another xpath...' + bcolors.ENDC)
-
+                        message = 'Cannot find teams. Try another xpath...'
+                        print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
+                        scrapper.logger(message, node)
                 if len(teams) == 0:
                     # We log error into db
-                    print(print_scrapper, bcolors.FAIL, 'Teams are empty')
+                    message = 'Teams are empty'
+                    print(print_scrapper, bcolors.FAIL + message)
+                    scrapper.logger(message, node)
                     log = ScrapperLogs(scrapper_id=2, type='error', text='Teams are empty', date="")
                     log.save()
                     
@@ -130,9 +135,11 @@ class Command(BaseCommand):
 
                 for team in teams:
                     if team.get_attribute('href') not in exclude_teams:
-                        print(print_scrapper, bcolors.OKBLUE + team.get_attribute('href'))
+                        message = team.get_attribute('href')
+                        print(print_scrapper, bcolors.OKBLUE + message)
                         teams_links.append(team.get_attribute('href'))
                         teams_names.append(team.get_attribute("innerText"))
+                        scrapper.logger(message, node)
 
                 for j in range(0, len(teams_links)):
 
@@ -160,19 +167,28 @@ class Command(BaseCommand):
                             if len(fixtures_links) != 0:
                                 break
                         except NoSuchElementException:
-                            print(print_scrapper, 'No to player fixture is not on the page. Try another one')
+                            message = 'No to player fixture is not on the page. Try another one'
+                            print(print_scrapper, message)
+                            scrapper.logger(message, node)
 
                     if len(fixtures_links) == 0:
-                        print(print_scrapper, bcolors.FAIL, 'Players are empty')
+                        message = 'Players are empty'
+                        print(print_scrapper, bcolors.FAIL + message)
+                        scrapper.logger(message, node)
                         driver.quit()
 
                     fixtures_players = []
 
                     for fixture_link in fixtures_links:
                         fixtures_players.append(fixture_link.get_attribute('href'))
-                        print(print_scrapper, bcolors.OKCYAN + fixture_link.get_attribute('href'))
+                        message = fixture_link.get_attribute('href')
+                        print(print_scrapper, bcolors.OKCYAN + message)
+                        scrapper.logger(message, node)
 
-                    print(print_scrapper, bcolors.WARNING + 'Number of players : ' + str(len(fixtures_players)) + bcolors.ENDC)
+
+                    message = 'Number of players : ' + str(len(fixtures_players))
+                    print(print_scrapper, bcolors.WARNING + message + bcolors.ENDC)
+                    scrapper.logger(message, node)
 
                     ############################################################################################################
                     #
@@ -189,7 +205,9 @@ class Command(BaseCommand):
                             continue
 
                         driver.get(fixture_player)
-                        print(print_scrapper, bcolors.WARNING + 'Go to ', fixture_player + bcolors.ENDC)
+                        message = 'Go to ', fixture_player
+                        print(print_scrapper, bcolors.WARNING + message + bcolors.ENDC)
+                        scrapper.logger(message, node)
                         
                         time.sleep(2)
                         scrapper_logic.removeFooterWrapper(driver, print_scrapper)
@@ -200,12 +218,16 @@ class Command(BaseCommand):
                             player_name = driver.find_element_by_xpath('//*[@id="meta"]/div[2]/h1/span[1]')
                             player_name = player_name.get_attribute('innerText')
                             print(print_scrapper, player_name)
+                            scrapper.logger(player_name, node)
                         except NoSuchElementException:
-                            print(print_scrapper, bcolors.FAIL + "Cannot find player name..." + bcolors.ENDC)
-
+                            message = "Cannot find player name..."
+                            print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
+                            scrapper.logger(message, node)
                         if player_name == None:
                             # We log error into db
-                            print(print_scrapper, bcolors.FAIL + 'Cannot retrieve player name')
+                            message = 'Cannot retrieve player name'
+                            print(print_scrapper, bcolors.FAIL + message)
+                            scrapper.logger(message, node)
                             log = ScrapperLogs(scrapper_id=2, type='error', text='Cannot find player name', date=datetime.now(timezone.utc))
                             log.save()
                         
@@ -242,7 +264,9 @@ class Command(BaseCommand):
                                         break
 
                                 except Exception as e:
-                                    print(print_scrapper, bcolors.FAIL + 'Try another element...') 
+                                    message = 'Try another element...'
+                                    print(print_scrapper, bcolors.FAIL + message)
+                                    scrapper.logger(message, node) 
 
 
                         filename = 'passes_' + player_name + '_' + teams_names[j] + '_' + match_season + '.csv'
@@ -375,8 +399,9 @@ class Command(BaseCommand):
 
                                     self.retrieveSpecificData(driver, league, filename, print_scrapper)
 
-                        logText = print_scrapper + ' Done player ' + player_name + ' | team ' + teams_names[j] + ' | ' + match_season
-                        print(print_scrapper, bcolors.OKGREEN + logText)
+                        logText = 'Done player ' + player_name + ' | team ' + teams_names[j] + ' | ' + match_season
+                        print(print_scrapper, bcolors.OKGREEN +  logText)
+                        scrapper.logger(logText, node)
                         exclude_player = Exclude_Player_Links(scrapper_id=2, link=fixture_player)
                         exclude_player.save()
 
@@ -385,13 +410,7 @@ class Command(BaseCommand):
 
                 Scrapper_Active_Links.objects.filter(link=active_links[i]).delete()
         except Exception as e:
-            print(print_scrapper, e)
-            url_stop = 'http://localhost:3000/stop_scrapper'
-            url_start = 'http://localhost:3000/execute_scrapper'
-            body = json.dumps({'body': {'path': 'fbref_get_players_fixtures_csv', 'relaunch': node}})
-            
-            r = requests.post(url=url_stop, data=body)
-            r = requests.post(url=url_start, data=body)
+            scrapper_logic.relaunchScrapper(driver, print_scrapper)
 
 
     def retrieveSpecificData(self, driver, league, filename, print_scrapper):
@@ -411,16 +430,19 @@ class Command(BaseCommand):
                     }
 
                     try:
-                        element = scrapper_logic.retrieveStats(driver, 2, league, filename, selectors)
+                        element = scrapper_logic.retrieveStats(driver, 2, league, filename, selectors, print_scrapper)
                     except Exception as e:
-                        print(print_scrapper, 'Error retrieving file', e)
+                        message = 'Error retrieving file ' + e
+                        print(print_scrapper, message)
+                        scrapper.logger(message, node)
 
                     if element:
                         break
 
                 except Exception as e:
-                    print(print_scrapper, 'Try another element...')
+                    message = 'Try another element...'
+                    print(print_scrapper, message)
+                    scrapper.logger(message, node)
         
         except Exception as e:
-            print(print_scrapper, 'Error retrieving specific data', e)
-            self.retrieveSpecificData(driver, league, filename, print_scrapper)
+            scrapper_logic.relaunchScrapper(driver, print_scrapper)
