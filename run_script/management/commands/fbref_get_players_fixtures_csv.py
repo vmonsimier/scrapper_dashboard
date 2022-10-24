@@ -214,23 +214,15 @@ class Command(BaseCommand):
                         scrapper_logic.removeFooterWrapper(driver, print_scrapper)
                         scrapper_logic.removeAdsiFrame(driver, print_scrapper)
                         time.sleep(2)
-                        
+
                         try:
                             player_name = driver.find_element_by_xpath('//*[@id="meta"]/div[2]/h1/span[1]')
-                            player_name = player_name.get_attribute('innerText')
-                            print(print_scrapper, player_name)
-                            scrapper.logger(player_name, node)
-                        except NoSuchElementException:
-                            message = "Cannot find player name..."
-                            print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
-                            scrapper.logger(message, node)
-                        if player_name == None:
-                            # We log error into db
-                            message = 'Cannot retrieve player name'
-                            print(print_scrapper, bcolors.FAIL + message)
-                            scrapper.logger(message, node)
-                            log = ScrapperLogs(scrapper_id=2, type='error', text='Cannot find player name', date=datetime.now(timezone.utc))
-                            log.save()
+                        except:
+                            player_name = driver.find_element_by_xpath('//*[@id="meta"]/div/h1/span[1]')
+
+                        player_name = player_name.get_attribute('innerText')
+                        print(print_scrapper, bcolors.OKBLUE + player_name)
+                        scrapper.logger(player_name, node)
                         
 
                         try:

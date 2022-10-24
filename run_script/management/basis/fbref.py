@@ -73,11 +73,11 @@ class ScrapperLogic:
             click = ActionChains(driver).move_to_element(button)
             click.click().perform()
         except Exception as e:
-            message = 'Cannot click on the element...'
+            message = 'Cannot click on the element while it exists. Relaunch scrapper...'
             print(print_scrapper, bcolors.FAIL + message)
             node = scrapper.getNode(print_scrapper)
             scrapper.logger(str(message), node)
-            return False
+            raise message
         
         return True
 
