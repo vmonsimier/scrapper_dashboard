@@ -16,6 +16,7 @@ class Command(BaseCommand):
         
         players_list = []
         players_tests = []
+        teams_done = []
         current_test = {'first': True, 'link': ''}
 
         for x in f:
@@ -31,6 +32,12 @@ class Command(BaseCommand):
                 
                     current_test = self.resetCurrentTest()
                     current_test['link'] = l
+
+            if 'Done' in x:
+                team_name = x.strip().split('team ')[1].split(' | ')[0]
+                if team_name not in teams_done:
+                    teams_done.append(team_name)
+
 
             elif 'Save' in x:
                 if 'genstats' in x:
@@ -70,7 +77,7 @@ class Command(BaseCommand):
 
         print('Links found:', total_links)
         print('Test executed:', total_test, '\n')
-        print('Failed tests above:\n')
+        print('Failed tests below:\n')
         self.getResultTest(fails, True)
 
         if total_links != total_test:
@@ -80,6 +87,11 @@ class Command(BaseCommand):
             for link in players_list:
                 if link not in test_links:
                     print(bcolors.FAIL + 'Missing test for', link) 
+        
+
+        print(bcolors.OKGREEN + '\nTeams done:', len(teams_done), '\n')
+        for team in teams_done:
+            print(bcolors.OKGREEN + team + bcolors.ENDC)
 
     def resetCurrentTest(self):
         return {

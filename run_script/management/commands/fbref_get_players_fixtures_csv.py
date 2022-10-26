@@ -71,6 +71,7 @@ class Command(BaseCommand):
                 
                 time.sleep(2)
                 scrapper_logic.removeFooterWrapper(driver, print_scrapper)
+                scrapper_logic.removeAdsiFrame(driver, print_scrapper)
                 time.sleep(3)
 
                 season_links = [
@@ -114,7 +115,8 @@ class Command(BaseCommand):
                         teams = driver.find_elements_by_xpath(link)
                         if len(teams) != 0:
                             break
-                    except NoSuchElementException:
+                    except Exception as e:
+                        print('Error team', e)
                         message = 'Cannot find teams. Try another xpath...'
                         print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
                         scrapper.logger(message, node)
