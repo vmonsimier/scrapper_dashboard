@@ -82,23 +82,7 @@ TEMPLATES = [
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'football_dashboard',
-        'USER': 'valentinm',
-        'PASSWORD': 'sacamerde8932!',
-        'HOST': '127.0.0.1',
-        'PORT': '5432'
-    },
-    'football_data': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'football_data',
-        'USER': 'valentinm',
-        'PASSWORD': 'sacamerde8932!',
-        'HOST': '127.0.0.1',
-        'PORT': '5432'
-    },
-    'football_data_dev': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'football_data_dev',
+        'NAME': 'scrapper_dashboard',
         'USER': 'valentinm',
         'PASSWORD': 'sacamerde8932!',
         'HOST': '127.0.0.1',
