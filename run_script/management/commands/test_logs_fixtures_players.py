@@ -77,7 +77,7 @@ class Command(BaseCommand):
 
         print('Links found:', total_links)
         print('Test executed:', total_test, '\n')
-        print('Failed tests below:\n')
+        print('Failed tests: {}\n'.format(str(len(fails))))
         self.getResultTest(fails, True)
 
         if total_links != total_test:
