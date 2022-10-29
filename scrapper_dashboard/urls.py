@@ -15,11 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
-from rest_framework import routers, serializers, viewsets
+from rest_framework import routers
 
 from .view_sets.view_sets import *
 
-from run_script import models as script_models
 from run_script import views as script_views
 
 # Routers provide an easy way of automatically determining the URL conf.
@@ -30,8 +29,6 @@ router.register(r'fbref_links', FbrefLinksViewSet)
 router.register(r'scrapper_active_links', ScrappersActiveLinksViewSet)
 router.register(r'exclude_team_links', ExludeTeamLinksViewSet)
 router.register(r'exclude_player_links', ExcludePlayerLinksViewSet)
-router.register(r'scrapper_logs', ScrapperLogs)
-router.register(r'files', Files)
 
 urlpatterns = [
     path('', script_views.index),

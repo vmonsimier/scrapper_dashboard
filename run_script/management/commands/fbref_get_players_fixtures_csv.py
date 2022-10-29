@@ -125,9 +125,6 @@ class Command(BaseCommand):
                     message = 'Teams are empty'
                     print(print_scrapper, bcolors.FAIL + message)
                     scrapper.logger(message, node)
-                    log = ScrapperLogs(scrapper_id=2, type='error', text='Teams are empty', date="")
-                    log.save()
-                    
 
                 teams_links = []
                 teams_names = []

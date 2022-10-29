@@ -29,12 +29,4 @@ class ExludeTeamLinksViewSet(viewsets.ModelViewSet):
 class ExcludePlayerLinksViewSet(viewsets.ModelViewSet):
     queryset = Exclude_Player_Links.objects.all()
     serializer_class = ExcludePlayerLinksSerializer
-
-class ScrapperLogs(viewsets.ModelViewSet):
-    queryset = ScrapperLogs.objects.all()
-    serializer_class = ScrapperLogsSerializer
-
-class Files(viewsets.ModelViewSet):
-    queryset = Files.objects.all()
-    serializer_class = FilesSerializer
     

@@ -33,13 +33,3 @@ class ExcludePlayerLinksSerializer(serializers.ModelSerializer):
     class Meta:
         model = Exclude_Team_Links
         fields = ['id', 'scrapper_id', 'link']
-
-class ScrapperLogsSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ScrapperLogs
-        fields = ['id', 'scrapper_id', 'type', 'text', 'date']
-
-class FilesSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Files
-        fields = ['id', 'path', 'player', 'team', 'league', 'season', 'dateIns']
