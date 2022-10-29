@@ -13,9 +13,6 @@ class Scrappers(models.Model):
     errors = models.TextField(default=None)
     last_execution = models.DateTimeField(null=True, blank=True)
 
-    def __str__(self):
-        return '%s' % self.name
-
 class FbrefLinks(models.Model):
     """Table schema to store fbref links."""
     id = models.AutoField(primary_key=True)
@@ -43,3 +40,12 @@ class Exclude_Player_Links(models.Model):
     id = models.AutoField(primary_key=True)
     scrapper_id = models.PositiveIntegerField()
     link = models.CharField(max_length=120)
+
+class Tests(models.Model):
+    """Table schema to store test scripts information"""
+    id = models.AutoField(primary_key=True)
+    name = models.CharField(max_length=50)
+    path = models.CharField(max_length=64) 
+    last_execution = models.DateTimeField(null=True, blank=True)
+
+

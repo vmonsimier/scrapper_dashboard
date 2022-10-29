@@ -33,3 +33,8 @@ class ExcludePlayerLinksSerializer(serializers.ModelSerializer):
     class Meta:
         model = Exclude_Team_Links
         fields = ['id', 'scrapper_id', 'link']
+
+class TestsSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Tests
+        fields = ['id', 'name', 'path', 'last_execution']

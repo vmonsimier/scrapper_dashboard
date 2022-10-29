@@ -25,6 +25,7 @@ from run_script import views as script_views
 router = routers.DefaultRouter()
 router.register(r'users', UserViewSet)
 router.register(r'scrappers', ScrappersViewSet)
+router.register(r'tests', TestsViewSet)
 router.register(r'fbref_links', FbrefLinksViewSet)
 router.register(r'scrapper_active_links', ScrappersActiveLinksViewSet)
 router.register(r'exclude_team_links', ExludeTeamLinksViewSet)
