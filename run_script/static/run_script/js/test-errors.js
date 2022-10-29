@@ -8,7 +8,9 @@ Vue.component('test-errors', {
             name: "",
             path: "",
             file: ""
-          }
+          },
+          outputContent: "",
+          outpuReady: false
         }
       },
       methods: {
@@ -31,6 +33,18 @@ Vue.component('test-errors', {
           })
             .then(_ => {
               this.getTests()
+            })
+        },
+        handleOutputTest: async function () {
+          axios.post(variables.API_URL + "output_test", {
+            headers: {
+              'Access-Control-Allow-Origin': "*"
+            },
+            body: { path: 'result_output.txt' }
+          })
+            .then(response => {
+              this.outputContent = response.data;
+              this.outpuReady = true;
             })
         },
         handleUpdate: async function () {
@@ -75,6 +89,13 @@ Vue.component('test-errors', {
       },
       template: `
       <div id="test-table-template">
+        <v-dialog
+          v-model="outputReady"
+          persistent
+          max-width="800"
+        >
+          <p>{{ outputContent }} </p>
+        </v-dialog>
         <template>
             <h1 class="block-title">Tests</h1>
             <v-simple-table>
@@ -119,6 +140,7 @@ Vue.component('test-errors', {
                             <v-btn
                               depressed
                               color="error"
+                              v-on:click="handleOutputTest()"
                             >
                                 Output
                             </v-btn>

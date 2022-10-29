@@ -38,6 +38,7 @@ urlpatterns = [
     path('stop_scrapper', script_views.stop_scrapper),
     path('update_scrapper', script_views.update_scrapper),
     path('execute_test', script_views.execute_test),
+    path('output_test', script_views.output_test),
     path('update_test', script_views.update_test),
     path('api/', include(router.urls)),
     path('api/auth/', include('rest_framework.urls')),

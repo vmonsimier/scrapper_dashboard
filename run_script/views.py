@@ -135,10 +135,30 @@ def execute_test(request):
             
             test.last_execution = datetime.now(timezone.utc)
             test.save()
-            
+
             return HttpResponse(status=200)
 
         except Tests.DoesNotExist as e:
+            print('Error', e)
+            return HttpResponse(status=404)
+
+    return HttpResponse(status=404)
+
+@csrf_exempt
+def output_test(request):
+    """Retrieve output of test script"""
+    if request.method == "POST":
+        try:
+            body = json.loads(request.body)
+            print(body['body']['path'])
+            test = TestFiles.objects.get(path=body['body']['path'])
+            
+            with open('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/logs/{}'.format(test.path)) as f:
+                result = f.readlines()
+            
+            return HttpResponse(result)
+
+        except TestFiles.DoesNotExist as e:
             print('Error', e)
             return HttpResponse(status=404)
 
