@@ -25,7 +25,7 @@ Vue.component('update-modal', {
       this.$emit('updateScrapper');
     },
     getFbrefLinks: async function() {
-      axios.get(variables.API_URL + 'fapi/fbref_links')
+      axios.get(variables.API_URL + 'api/fbref_links')
         .then(response => {
             let seasons = []
             let leagues = []
@@ -44,7 +44,7 @@ Vue.component('update-modal', {
         })
     },
     getActiveLinks: async function() {
-      axios.get(variables.API_URL + 'fapi/scrapper_active_links')
+      axios.get(variables.API_URL + 'api/scrapper_active_links')
         .then(response => {
           let seasons = []
           let leagues = []

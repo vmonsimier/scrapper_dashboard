@@ -14,7 +14,7 @@ Vue.component('scrappers-table', {
       },
       methods: {
         getScrappers() {
-          axios.get(variables.API_URL + 'fapi/scrappers', {
+          axios.get(variables.API_URL + 'api/scrappers', {
             headers: {
               'Access-Control-Allow-Origin': "*"
             }
