@@ -5,10 +5,8 @@ from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.csrf import csrf_protect
 from django.contrib.auth.decorators import login_required
 import os
-import signal
 import subprocess
 import json
-import psutil
 from datetime import datetime, timezone
 
 from .models import *

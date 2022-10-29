@@ -53,14 +53,10 @@ Vue.component('test-errors', {
         //   this.$set(this.scrapperToUpdate, 'selectedLeagues', selectedLeagues)
         // },
         displayDateTime: function (datetime) {
-          try {
-            let date = datetime.toString().split('T')[0]
-            let time = datetime.toString().split('T')[1].slice(0, 8)
-      
-            return date + ' - ' + time
-          } catch(e) {
-            return ''
-          }
+          let date = datetime.toString().split('T')[0]
+          let time = datetime.toString().split('T')[1].slice(0, 8)
+    
+          return date + ' - ' + time
         }
       },
       mounted: function () {
@@ -86,13 +82,19 @@ Vue.component('test-errors', {
                         <td></td>
                         <td>{{test.name}}</td>
                         <td>{{test.path}}</td>
-                        <td>{{ displayDateTime(test.last_execution) }}</td>
+                        <td>{{ displayDateTime(scrapper.last_execution) }}</td>
                         <td>
                             <v-btn
                               depressed
                               class="btn-execute"
                             >
                                 Execute
+                            </v-btn>
+                            <v-btn
+                              depressed
+                              color="error"
+                            >
+                                Stop
                             </v-btn>
                         </td>
                     </tr>

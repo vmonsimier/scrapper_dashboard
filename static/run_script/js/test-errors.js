@@ -94,6 +94,12 @@ Vue.component('test-errors', {
                             >
                                 Execute
                             </v-btn>
+                            <v-btn
+                              depressed
+                              color="error"
+                            >
+                                Stop
+                            </v-btn>
                         </td>
                     </tr>
                   </tbody>
