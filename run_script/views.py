@@ -150,13 +150,11 @@ def output_test(request):
     if request.method == "POST":
         try:
             body = json.loads(request.body)
-            print(body['body']['path'])
             test = TestFiles.objects.get(path=body['body']['path'])
             
             with open('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/logs/{}'.format(test.path)) as f:
                 result = f.readlines()
             
-            print(result)
             return HttpResponse(result)
 
         except TestFiles.DoesNotExist as e:

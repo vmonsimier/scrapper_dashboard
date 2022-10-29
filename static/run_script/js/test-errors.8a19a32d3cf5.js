@@ -32,11 +32,9 @@ Vue.component('test-errors', {
             body: { path: path }
           })
             .then(response => {
-              setTimeout(() => {
-                console.log('Done test');
-                this.renderOutputKey += 1;
-                console.log(this.renderOutputKey);
-              }, 1000)
+              console.log('Done test');
+              this.renderOutputKey += 1;
+              console.log(this.renderOutputKey);
             })
         },
         handleUpdate: async function () {

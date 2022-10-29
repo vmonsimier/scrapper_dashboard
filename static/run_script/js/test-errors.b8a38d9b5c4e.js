@@ -36,7 +36,7 @@ Vue.component('test-errors', {
                 console.log('Done test');
                 this.renderOutputKey += 1;
                 console.log(this.renderOutputKey);
-              }, 1000)
+              }, 2000)
             })
         },
         handleUpdate: async function () {

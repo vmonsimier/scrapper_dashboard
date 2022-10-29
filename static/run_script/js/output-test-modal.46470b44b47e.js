@@ -33,6 +33,7 @@ Vue.component('output-test-modal', {
                 depressed
                 color="error"
                 v-on="on"
+                @click="$forceUpdate();"
             >
                 Output
             </v-btn>
@@ -43,7 +44,7 @@ Vue.component('output-test-modal', {
             <img src="/static/run_script/img/cross.png" class="modify" @click="dialog=false" />
           </v-card-title>
           <v-card-text>
-            <p v-for="line in contentLines" class="output-result">
+            <p v-for="line in contentLines" :key="line" class="output-result">
               {{ line }}
             </p>
           </v-card-text>

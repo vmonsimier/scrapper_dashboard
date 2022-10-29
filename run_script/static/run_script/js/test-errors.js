@@ -10,7 +10,7 @@ Vue.component('test-errors', {
             file: ""
           },
           outputContent: "",
-          outputReady: false
+          renderOutputKey: 0
         }
       },
       methods: {
@@ -31,8 +31,12 @@ Vue.component('test-errors', {
             },
             body: { path: path }
           })
-            .then(_ => {
-              this.getTests()
+            .then(response => {
+              setTimeout(() => {
+                console.log('Done test');
+                this.renderOutputKey += 1;
+                console.log(this.renderOutputKey);
+              }, 1000)
             })
         },
         handleUpdate: async function () {
@@ -118,7 +122,7 @@ Vue.component('test-errors', {
                             >
                                 Execute
                             </v-btn>
-                            <output-test-modal />
+                            <output-test-modal :key="renderOutputKey" />
                         </td>
                     </tr>
                   </tbody>

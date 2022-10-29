@@ -112,7 +112,7 @@ class Command(BaseCommand):
         tests.appendOutputFile(message)
         print(bcolors.OKGREEN + message)
         for team in teams_done:
-            message = team
+            message = team + ' - OK'
             tests.appendOutputFile(message)
             print(bcolors.OKGREEN + message + bcolors.ENDC)
 
