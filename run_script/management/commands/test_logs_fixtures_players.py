@@ -12,7 +12,7 @@ class Command(BaseCommand):
         )
     def handle(self, *args, **options):
         filename = options['file']
-        f = open('/home/valentinm/Documents/football/football_dashboard/run_script/management/commands/logs/{0}'.format(filename), 'r')
+        f = open('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/commands/logs/{0}'.format(filename), 'r')
         
         players_list = []
         players_tests = []

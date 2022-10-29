@@ -1,4 +1,4 @@
-"""football_dashboard URL Configuration
+"""scrapper_dashboard URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
@@ -38,8 +38,8 @@ urlpatterns = [
     path('execute_scrapper', script_views.execute_scrapper),
     path('stop_scrapper', script_views.stop_scrapper),
     path('update_scrapper', script_views.update_scrapper),
-    path('fapi/', include(router.urls)),
-    path('fapi/auth/', include('rest_framework.urls')),
+    path('api/', include(router.urls)),
+    path('api/auth/', include('rest_framework.urls')),
     path('admin/', admin.site.urls),
     path("accounts/", include("django.contrib.auth.urls"))
 ]

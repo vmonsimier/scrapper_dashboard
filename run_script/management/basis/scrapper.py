@@ -82,7 +82,7 @@ class Scrapper:
         try:
             message = ''.join(message) + '\n'
             filename = str(node) + "_fbref_get_players_fixtures_csv.txt"
-            with open('/home/valentinm/Documents/football/football_dashboard/run_script/management/commands/logs/' + filename,'a') as f:
+            with open('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/commands/logs/' + filename,'a') as f:
                 f.write(message)
         except Exception as e:
             print('Couldnt log phrase', e)
