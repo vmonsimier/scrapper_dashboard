@@ -23,19 +23,15 @@
             <li class="nav-link">
               <router-link to="/">Process</router-link>
             </li>
-            <li class="nav-link">
-              <router-link to="/logs">Logs</router-link>
-            </li>
-            <li class="nav-link">
-              <router-link to="/files">Files</router-link>
-            </li>
             <li class="nav-link logout">
               <a href="{% url 'logout' %}">Log Out</a>
             </li>
           </ul>
         </div>
         <div class="block-content">
-          <router-view></router-view>
+          <router-view>
+            
+          </router-view>
         </div>
       </v-main>
     </v-app>
@@ -45,13 +41,9 @@
   <script src="https://unpkg.com/vue-router@3.5.3/dist/vue-router.js"></script>
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script src="{% static 'run_script/js/variables.js' %}"></script>
+  <script src="{% static 'run_script/js/scrappers-table.js' %}"></script>
   <script src="{% static 'run_script/js/update-dialog.js' %}"></script>
-  <script src="{% static 'run_script/js/logs.js' %}"></script>
   <script src="{% static 'run_script/js/scrappers.js' %}"></script>
-  <script src="{% static 'run_script/js/scrapper-logs.js' %}"></script>
-  <script src="{% static 'run_script/js/files.js' %}"></script>
-  <script src="{% static 'run_script/js/file_players.js' %}"></script>
-  <script src="{% static 'run_script/js/filter_files_players.js' %}"></script>
   <script src="{% static 'run_script/js/app.js' %}"></script>
 </body>
 

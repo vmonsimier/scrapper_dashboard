@@ -12,6 +12,24 @@ Vue.component('update-modal', {
         selectedSeasons: [],
       }
   },
+  // props: {
+  //   scrapperId: {
+  //     type: String, // not 'string'
+  //     required: true
+  //   },
+  //   scrapperName: {
+  //     type: String, // not 'number'
+  //     required: true,
+  //   },
+  //   scrapperPath: {
+  //     type: String,
+  //     required: true
+  //   },
+  //   scrapperEnable: {
+  //     type: String,
+  //     required: true
+  //   }
+  // },
   props: ['scrapperId', 'scrapperName', 'scrapperPath', 'scrapperEnable'],
   methods: {
     handleUpdate: async function(path) {

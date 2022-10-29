@@ -1,7 +1,5 @@
 const routes = [
-  { path: '/', component: scrappers },
-  { path: '/logs', component: logs },
-  { path: '/files', component: files }
+  { path: '/', component: scrappers }
 ]
 
 const router = new VueRouter({
