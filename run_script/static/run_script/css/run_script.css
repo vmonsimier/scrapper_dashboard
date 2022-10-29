@@ -148,55 +148,7 @@ img.modify {
   margin-bottom: 30px;
 }
 
-/* SCRAPPER LOGS */
-
-#scrapper-logs {
-  margin: 50px 0 120px 0;
-}
-
-.table-logs {
+#test-table-template {
   margin-top: 50px;
 }
 
-.tab-logs {
-  margin-top: 40px;
-}
-
-.v-tab--active {
-  color: #114b33 !important;
-  border-bottom: 2px solid #114b33 !important;
-}
-
-.v-tab:before,
-.v-tabs-slider {
-  border-bottom: 2px solid #114b33 !important;
-}
-
-.table-files {
-  margin-bottom: 100px;
-}
-
-/* FILES TABLE */
-
-#files-template {
-  margin-bottom: 50px;
-}
-
-#file-players-template {
-  margin-bottom: 120px;
-}
-
-.filter-actions {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-/* PAGINATION */
-
-.v-pagination__item.v-pagination__item--active.primary {
-  background-color: #114b33 !important;
-}
-
-.v-pagination__navigation.v-pagination__navigation--disabled {
-  color: #111;
-}

@@ -89,6 +89,15 @@ Vue.component('test-errors', {
       },
       template: `
       <div id="test-table-template">
+        <v-dialog
+          v-model="outputReady"
+          persistent
+          max-width="800"
+        >
+        <template>
+          <p>{{ outputContent }} </p>
+        </template>
+        </v-dialog>
         <template>
             <h1 class="block-title">Tests</h1>
             <v-simple-table>

@@ -10,7 +10,7 @@ Vue.component('test-errors', {
             file: ""
           },
           outputContent: "",
-          outpuReady: false
+          outputReady: false
         }
       },
       methods: {
@@ -89,13 +89,6 @@ Vue.component('test-errors', {
       },
       template: `
       <div id="test-table-template">
-        <v-dialog
-          v-model="outputReady"
-          persistent
-          max-width="800"
-        >
-          <p>{{ outputContent }} </p>
-        </v-dialog>
         <template>
             <h1 class="block-title">Tests</h1>
             <v-simple-table>
