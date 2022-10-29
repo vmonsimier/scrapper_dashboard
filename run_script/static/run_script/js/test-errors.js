@@ -33,7 +33,6 @@ Vue.component('test-errors', {
           })
             .then(response => {
               setTimeout(() => {
-                console.log('Done test');
                 this.renderOutputKey += 1;
                 console.log(this.renderOutputKey);
               }, 1000)

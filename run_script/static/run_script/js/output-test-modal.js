@@ -20,7 +20,6 @@ Vue.component('output-test-modal', {
     },
     mounted: function () {
         this.getOutput();
-        console.log('Mount');
     },
     template: `
      <v-dialog
