@@ -135,6 +135,13 @@ img.modify {
   background-color: #114b33 !important;
 }
 
+.btn-output {
+  color: white !important;
+  font-size: 0.8rem !important;
+  padding: 10px !important;
+  background-color: #a8601c!important;
+}
+
 /* UPDATE MODAL */
 
 .title-modal {

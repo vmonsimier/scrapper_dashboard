@@ -112,15 +112,18 @@ Vue.component('test-errors', {
                             <v-btn
                               depressed
                               class="btn-execute"
-                              v-on:click="handleExecution(test.path)"
+                              v-on:click="handleExecution('result_output.txt')"
                             >
-                                Execute
+                                Output
                             </v-btn>
+                        </td>
+                        <td>
                             <v-btn
                               depressed
                               class="btn-output"
+                              v-on:click="handleExecution(test.path)"
                             >
-                                Output
+                                Execute
                             </v-btn>
                         </td>
                     </tr>

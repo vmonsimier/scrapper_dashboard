@@ -132,6 +132,10 @@ def execute_test(request):
 
             print('Trying to execute', test.path)
             process = subprocess.Popen(['python3', 'manage.py', test.path, '--file', test.file])
+            
+            test.last_execution = datetime.now(timezone.utc)
+            test.save()
+            
             return HttpResponse(status=200)
 
         except Tests.DoesNotExist as e:

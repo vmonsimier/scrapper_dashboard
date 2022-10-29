@@ -64,6 +64,7 @@ Vue.component('test-errors', {
           try {
             let date = datetime.toString().split('T')[0]
             let time = datetime.toString().split('T')[1].slice(0, 8)
+            console.log(date);
             return date + ' - ' + time
           } catch(e) {
             return ''
@@ -115,12 +116,6 @@ Vue.component('test-errors', {
                               v-on:click="handleExecution(test.path)"
                             >
                                 Execute
-                            </v-btn>
-                            <v-btn
-                              depressed
-                              class="btn-output"
-                            >
-                                Output
                             </v-btn>
                         </td>
                     </tr>

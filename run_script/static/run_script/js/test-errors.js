@@ -30,7 +30,7 @@ Vue.component('test-errors', {
             body: { path: path }
           })
             .then(_ => {
-              this.getScrappers()
+              this.getTests()
             })
         },
         handleUpdate: async function () {
@@ -64,7 +64,6 @@ Vue.component('test-errors', {
           try {
             let date = datetime.toString().split('T')[0]
             let time = datetime.toString().split('T')[1].slice(0, 8)
-      
             return date + ' - ' + time
           } catch(e) {
             return ''
@@ -116,6 +115,12 @@ Vue.component('test-errors', {
                               v-on:click="handleExecution(test.path)"
                             >
                                 Execute
+                            </v-btn>
+                            <v-btn
+                              depressed
+                              color="error"
+                            >
+                                Output
                             </v-btn>
                         </td>
                     </tr>
