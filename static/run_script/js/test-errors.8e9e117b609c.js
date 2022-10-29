@@ -1,3 +1,4 @@
+const fs = require('fs');
 Vue.component('test-errors', {
     data() {
         return {

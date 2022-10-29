@@ -37,4 +37,4 @@ class ExcludePlayerLinksSerializer(serializers.ModelSerializer):
 class TestsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Tests
-        fields = ['id', 'name', 'path', 'last_execution']
+        fields = ['id', 'name', 'path', 'file', 'last_execution']

@@ -45,7 +45,8 @@ class Tests(models.Model):
     """Table schema to store test scripts information"""
     id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=50)
-    path = models.CharField(max_length=64) 
+    path = models.CharField(max_length=64)
+    file = models.CharField(max_length=100, default='')
     last_execution = models.DateTimeField(null=True, blank=True)
 
 

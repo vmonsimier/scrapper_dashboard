@@ -2,6 +2,7 @@ Vue.component('test-errors', {
     data() {
         return {
           tests: [],
+          files: [],
           testToUpdate: {
             id: 0,
             name: "",
@@ -20,6 +21,21 @@ Vue.component('test-errors', {
         })
             .then(response => {
               this.tests = response.data
+            })
+        },
+        getFiles() {
+          let files = fs.readdir('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/logs/');
+          console.log(files);
+        },
+        handleExecution: async function (path) {
+          axios.post(variables.API_URL + "execute_scrapper", {
+            headers: {
+              'Access-Control-Allow-Origin': "*"
+            },
+            body: { path: path }
+          })
+            .then(_ => {
+              this.getScrappers()
             })
         },
         // handleUpdate: async function () {
@@ -65,6 +81,7 @@ Vue.component('test-errors', {
       },
       mounted: function () {
         this.getTests();
+        this.getFiles();
       },
       template: `
       <div id="test-table-template">
@@ -86,6 +103,7 @@ Vue.component('test-errors', {
                         <td></td>
                         <td>{{test.name}}</td>
                         <td>{{test.path}}</td>
+                        <td>{{test.file}}</td>
                         <td>{{ displayDateTime(test.last_execution) }}</td>
                         <td>
                             <v-btn
