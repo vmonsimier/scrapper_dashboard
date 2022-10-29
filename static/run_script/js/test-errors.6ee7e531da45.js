@@ -2,6 +2,7 @@ Vue.component('test-errors', {
     data() {
         return {
           tests: [],
+          files: [],
           testToUpdate: {
             id: 0,
             name: "",
@@ -20,6 +21,20 @@ Vue.component('test-errors', {
         })
             .then(response => {
               this.tests = response.data
+            })
+        },
+        getFiles() {
+          
+        },
+        handleExecution: async function (path) {
+          axios.post(variables.API_URL + "execute_scrapper", {
+            headers: {
+              'Access-Control-Allow-Origin': "*"
+            },
+            body: { path: path }
+          })
+            .then(_ => {
+              this.getScrappers()
             })
         },
         // handleUpdate: async function () {
@@ -65,6 +80,7 @@ Vue.component('test-errors', {
       },
       mounted: function () {
         this.getTests();
+        this.getFiles();
       },
       template: `
       <div id="test-table-template">
@@ -77,6 +93,7 @@ Vue.component('test-errors', {
                           <th>Modifier</th>
                           <th>Name</th>
                           <th>Path</th>
+                          <th>File</th>
                           <th>Last execution</th>
                           <th>Actions</th>
                       </tr>
@@ -86,6 +103,7 @@ Vue.component('test-errors', {
                         <td></td>
                         <td>{{test.name}}</td>
                         <td>{{test.path}}</td>
+                        <td>{{test.file}}</td>
                         <td>{{ displayDateTime(test.last_execution) }}</td>
                         <td>
                             <v-btn
@@ -93,12 +111,6 @@ Vue.component('test-errors', {
                               class="btn-execute"
                             >
                                 Execute
-                            </v-btn>
-                            <v-btn
-                              depressed
-                              color="error"
-                            >
-                                Stop
                             </v-btn>
                         </td>
                     </tr>

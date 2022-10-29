@@ -33,4 +33,8 @@ class ExcludePlayerLinksViewSet(viewsets.ModelViewSet):
 class TestsViewSet(viewsets.ModelViewSet):
     queryset = Tests.objects.all()
     serializer_class = TestsSerializer
+
+class TestFilesViewSet(viewsets.ModelViewSet):
+    queryset = TestFiles.objects.all()
+    serializer_class = TestFilesSerializer
     

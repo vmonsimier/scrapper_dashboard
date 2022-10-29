@@ -1,4 +1,4 @@
-Vue.component('update-modal', {
+Vue.component('update-scrapper-modal', {
   data() {
       return{
         dialog: false,

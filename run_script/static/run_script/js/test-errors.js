@@ -24,8 +24,7 @@ Vue.component('test-errors', {
             })
         },
         getFiles() {
-          let files = fs.readdir('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/logs/');
-          console.log(files);
+          
         },
         handleExecution: async function (path) {
           axios.post(variables.API_URL + "execute_scrapper", {
@@ -94,6 +93,7 @@ Vue.component('test-errors', {
                           <th>Modifier</th>
                           <th>Name</th>
                           <th>Path</th>
+                          <th>File</th>
                           <th>Last execution</th>
                           <th>Actions</th>
                       </tr>

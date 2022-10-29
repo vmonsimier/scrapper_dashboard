@@ -38,3 +38,8 @@ class TestsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Tests
         fields = ['id', 'name', 'path', 'file', 'last_execution']
+
+class TestFilesSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = TestFiles
+        fields = ['id', 'name', 'path', 'is_result']

@@ -109,7 +109,7 @@ Vue.component('scrappers-table', {
                   <tbody :key="">
                     <tr v-for="scrapper in scrappers" :key="scrapper.id">
                         <td>
-                          <update-modal
+                          <update-scrapper-modal
                             v-bind:scrapper-id="scrapper.id"
                             v-bind:scrapper-name="scrapper.name"
                             v-bind:scrapper-path="scrapper.path"

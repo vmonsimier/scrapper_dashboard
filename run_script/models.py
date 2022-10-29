@@ -49,4 +49,10 @@ class Tests(models.Model):
     file = models.CharField(max_length=100, default='')
     last_execution = models.DateTimeField(null=True, blank=True)
 
+class TestFiles(models.Model):
+    """Table schema to store info about files to tests and result of tests files"""
+    id = models.AutoField(primary_key=True)
+    name = models.CharField(max_length=50)
+    path = models.CharField(max_length=100)
+    is_result = models.BooleanField(default=False)
 
