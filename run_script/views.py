@@ -120,6 +120,27 @@ def update_scrapper(request):
     return HttpResponse(status=404)
 
 @csrf_exempt
+def execute_test(request):
+    """
+    Execute a test according to its path
+    """
+    if request.method == "POST":
+        try:
+            body = json.loads(request.body)
+            test = Tests.objects.get(path=body['body']['path'])
+            os.environ['PATH'] += os.pathsep + '/usr/src/app/web/staticfiles/run_script/management/commands'
+
+            print('Trying to execute', test.path)
+            process = subprocess.Popen(['python3', 'manage.py', test.path, '--file', test.file])
+            return HttpResponse(status=200)
+
+        except Tests.DoesNotExist as e:
+            print('Error', e)
+            return HttpResponse(status=404)
+
+    return HttpResponse(status=404)
+
+@csrf_exempt
 def update_test(request):
     """
     Update a test according to its id

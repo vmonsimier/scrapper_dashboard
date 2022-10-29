@@ -23,7 +23,7 @@ Vue.component('test-errors', {
             })
         },
         handleExecution: async function (path) {
-          axios.post(variables.API_URL + "execute_scrapper", {
+          axios.post(variables.API_URL + "execute_test", {
             headers: {
               'Access-Control-Allow-Origin': "*"
             },
@@ -113,6 +113,7 @@ Vue.component('test-errors', {
                             <v-btn
                               depressed
                               class="btn-execute"
+                              v-on:click="handleExecution(test.path)"
                             >
                                 Execute
                             </v-btn>

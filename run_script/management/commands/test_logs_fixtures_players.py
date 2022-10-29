@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from ...basis.scrapper import Colors
+from ..basis.scrapper import Colors
 
 bcolors = Colors()
 
