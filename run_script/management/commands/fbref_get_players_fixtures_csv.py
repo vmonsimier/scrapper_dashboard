@@ -241,8 +241,8 @@ class Command(BaseCommand):
 
                         if not scrapper.checkFileExists(2, league, filename):
 
-                            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
-                            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button']
+                            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span','//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
+                            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button',  '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[3]/button']
                             pre_selector = '//*[@id="csv_matchlogs_all"]'
 
                             for k in range(0, len(menu_link_selector)):
@@ -414,9 +414,12 @@ class Command(BaseCommand):
     def retrieveSpecificData(self, driver, league, filename, print_scrapper):
         try:
             scrapper_logic = ScrapperLogic()
+            scrapper = Scrapper()
 
-            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
-            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button']
+            node = scrapper.getNode(print_scrapper)
+
+            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
+            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[3]/button']
             pre_selector = '//*[@id="csv_matchlogs_all"]'
 
             for k in range(0, len(menu_link_selector)):

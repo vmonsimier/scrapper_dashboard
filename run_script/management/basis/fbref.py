@@ -36,6 +36,10 @@ class ScrapperLogic:
 
             self.hoverDropdownMenu(driver, selectors['menu_link'], print_scrapper)
 
+            button_text = driver.find_element_by_xpath(selectors['csv_link'])
+            if 'Obtenir le tableau en CSV (pour Excel)' not in button_text.text: 
+                raise Exception('Bad link...')
+
             try:
                 get_csv = self.retrieveCsvDropdown(driver, selectors['csv_link'], print_scrapper)
             except StaleElementReferenceException as e:
