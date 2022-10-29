@@ -35,7 +35,7 @@ Vue.component('test-errors', {
         },
         handleUpdate: async function () {
           if (this.testToUpdate.id && this.testToUpdate.name && this.testToUpdate.path) {
-            axios.post(variables.API_URL + 'update_scrapper', JSON.stringify(this.testToUpdate))
+            axios.post(variables.API_URL + 'update_test', JSON.stringify(this.testToUpdate))
               .then(response => {
                 this.getTests()
                 this.testToUpdate = {

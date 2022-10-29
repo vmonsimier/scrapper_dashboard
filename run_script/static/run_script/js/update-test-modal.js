@@ -75,7 +75,6 @@ Vue.component('update-test-modal', {
                   <v-combobox
                     v-model="file"
                     :items="testFiles"
-                    multiple
                     dense
                   ></v-combobox>
                 </v-col>

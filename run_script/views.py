@@ -119,3 +119,27 @@ def update_scrapper(request):
 
     return HttpResponse(status=404)
 
+@csrf_exempt
+def update_test(request):
+    """
+    Update a test according to its id
+    """
+    if request.method == "POST":
+        try:
+            body = json.loads(request.body)
+            test = Tests.objects.get(id=body['id'])
+            try:
+                # We update test information
+                test.name = body['name']
+                test.path = body['path']
+                test.file = body['file']
+                test.save()
+
+            except Exception as err:
+                print(err)
+            return HttpResponse(status=200)
+
+        except Tests.DoesNotExist:
+            return HttpResponse(status=404)
+
+    return HttpResponse(status=404)
