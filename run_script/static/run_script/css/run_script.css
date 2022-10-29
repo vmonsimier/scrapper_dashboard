@@ -145,7 +145,10 @@ img.modify {
 /* UPDATE MODAL */
 
 .title-modal {
+  width: 100%;
   margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
 }
 
 #test-table-template {

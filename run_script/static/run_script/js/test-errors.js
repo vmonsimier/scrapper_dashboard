@@ -35,18 +35,6 @@ Vue.component('test-errors', {
               this.getTests()
             })
         },
-        handleOutputTest: async function () {
-          axios.post(variables.API_URL + "output_test", {
-            headers: {
-              'Access-Control-Allow-Origin': "*"
-            },
-            body: { path: 'result_output.txt' }
-          })
-            .then(response => {
-              this.outputContent = response.data;
-              this.outpuReady = true;
-            })
-        },
         handleUpdate: async function () {
           if (this.testToUpdate.id && this.testToUpdate.name && this.testToUpdate.path) {
             axios.post(variables.API_URL + 'update_test', JSON.stringify(this.testToUpdate))
@@ -130,13 +118,7 @@ Vue.component('test-errors', {
                             >
                                 Execute
                             </v-btn>
-                            <v-btn
-                              depressed
-                              color="error"
-                              v-on:click="handleOutputTest()"
-                            >
-                                Output
-                            </v-btn>
+                            <output-test-modal />
                         </td>
                     </tr>
                   </tbody>
