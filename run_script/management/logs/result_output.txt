@@ -1,2 +1,56 @@
-This is a test
-Voila
+Total number players: 572
+Links found: 572
+Test executed: 565
+
+Failed tests: 2
+
+https://fbref.com/fr/joueurs/89b2c8a9/matchs/2019-2020/summary/Journaux-de-match-Dries-Mertens
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - OK
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6523afa4/matchs/2019-2020/summary/Journaux-de-match-Simone-Pinna
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+
+Missing links:7
+Missing test for https://fbref.com/fr/joueurs/1d00a56c/matchs/2019-2020/summary/Journaux-de-match-Luca-Gagliano
+Missing test for https://fbref.com/fr/joueurs/caffaf5a/matchs/2019-2020/summary/Journaux-de-match-Maya-Yoshida
+Missing test for https://fbref.com/fr/joueurs/4ce8f4a3/matchs/2019-2020/summary/Journaux-de-match-Krisztofer-Horvath
+Missing test for https://fbref.com/fr/joueurs/a4fe8cda/matchs/2019-2020/summary/Journaux-de-match-Patrick-Cutrone
+Missing test for https://fbref.com/fr/joueurs/d37b0350/matchs/2019-2020/summary/Journaux-de-match-Leonardo-Pavoletti
+Missing test for https://fbref.com/fr/joueurs/7b075c75/matchs/2019-2020/summary/Journaux-de-match-Adama-Soumaoro
+Missing test for https://fbref.com/fr/joueurs/66a9470c/matchs/2019-2020/summary/Journaux-de-match-Federico-Marigosu
+
+Teams done: 20
+
+Juventus
+Inter
+Atalanta
+Lazio
+Roma
+Milan
+Napoli
+Sassuolo
+Hellas Verona
+Fiorentina
+Parma
+Bologna
+Udinese
+Cagliari
+Sampdoria
+Torino
+Genoa
+Lecce
+Brescia
+SPAL
