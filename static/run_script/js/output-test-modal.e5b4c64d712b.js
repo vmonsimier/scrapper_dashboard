@@ -2,7 +2,7 @@ Vue.component('output-test-modal', {
     data() {
         return{
           dialog: false,
-          contentLines: []
+          content: ''
         }
     },
     methods: {
@@ -14,7 +14,8 @@ Vue.component('output-test-modal', {
                 body: { path: 'result_output.txt' }
               })
                 .then(response => {
-                  this.contentLines = response.data.split('\n');
+                  console.log(response.data.toString());
+                  this.content = response.data.toString();
                 })
         }
     },
@@ -42,9 +43,7 @@ Vue.component('output-test-modal', {
             <img src="/static/run_script/img/cross.png" class="modify" @click="dialog=false" />
           </v-card-title>
           <v-card-text>
-            <p v-for="line in contentLines" :key="line" class="output-result">
-              {{ line }}
-            </p>
+            <p>{{ content }}</p>
           </v-card-text>
         </v-card>
       </v-dialog>`

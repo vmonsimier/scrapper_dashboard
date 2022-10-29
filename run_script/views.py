@@ -156,6 +156,7 @@ def output_test(request):
             with open('/home/valentinm/Documents/football/scrapper_dashboard/run_script/management/logs/{}'.format(test.path)) as f:
                 result = f.readlines()
             
+            print(result)
             return HttpResponse(result)
 
         except TestFiles.DoesNotExist as e:

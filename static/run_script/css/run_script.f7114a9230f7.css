@@ -155,6 +155,6 @@ img.modify {
   margin-top: 50px;
 }
 
-p.output-result {
-  font-size: 18px;
+.output-result {
+  font-size: 1rem;
 }
