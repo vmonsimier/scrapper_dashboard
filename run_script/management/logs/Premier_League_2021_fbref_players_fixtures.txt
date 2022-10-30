@@ -8332,3 +8332,1843 @@ Go to https://fbref.com/fr/joueurs/dc64b8b3/matchs/2021-2022/summary/Journaux-de
 Total Ads removed: 22
 Liam Cooper
 Save genstats_Leeds United_Liam Cooper_2021.csv 
+Total Ads removed: 24
+Save passes_Liam Cooper_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Liam Cooper_Leeds United_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Liam Cooper_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Liam Cooper_Leeds United_2021.csv 
+Total Ads removed: 24
+Save possession_Liam Cooper_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Liam Cooper_Leeds United_2021.csv 
+Done player Liam Cooper | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/24f59bb2/matchs/2021-2022/summary/Journaux-de-match-Junior-Firpo
+Total Ads removed: 22
+Junior Firpo
+Save genstats_Leeds United_Junior Firpo_2021.csv 
+Total Ads removed: 22
+Save passes_Junior Firpo_Leeds United_2021.csv 
+Total Ads removed: 23
+Save passes-type_Junior Firpo_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Junior Firpo_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Junior Firpo_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Junior Firpo_Leeds United_2021.csv 
+Total Ads removed: 22
+Save various-stats_Junior Firpo_Leeds United_2021.csv 
+Done player Junior Firpo | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/4f565d77/matchs/2021-2022/summary/Journaux-de-match-Kalvin-Phillips
+Total Ads removed: 23
+Kalvin Phillips
+Save genstats_Leeds United_Kalvin Phillips_2021.csv 
+Total Ads removed: 23
+Save passes_Kalvin Phillips_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Kalvin Phillips_Leeds United_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Kalvin Phillips_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Kalvin Phillips_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Kalvin Phillips_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Kalvin Phillips_Leeds United_2021.csv 
+Done player Kalvin Phillips | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/ea6bc03a/matchs/2021-2022/summary/Journaux-de-match-Robin-Koch
+Total Ads removed: 22
+Robin Koch
+Save genstats_Leeds United_Robin Koch_2021.csv 
+Total Ads removed: 22
+Save passes_Robin Koch_Leeds United_2021.csv 
+Total Ads removed: 23
+Save passes-type_Robin Koch_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Robin Koch_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Robin Koch_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Robin Koch_Leeds United_2021.csv 
+Total Ads removed: 22
+Save various-stats_Robin Koch_Leeds United_2021.csv 
+Done player Robin Koch | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/9f1938ab/matchs/2021-2022/summary/Journaux-de-match-Adam-Forshaw
+Total Ads removed: 23
+Adam Forshaw
+Save genstats_Leeds United_Adam Forshaw_2021.csv 
+Total Ads removed: 25
+Save passes_Adam Forshaw_Leeds United_2021.csv 
+Total Ads removed: 23
+Save passes-type_Adam Forshaw_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Adam Forshaw_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Adam Forshaw_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Adam Forshaw_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Adam Forshaw_Leeds United_2021.csv 
+Done player Adam Forshaw | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/6c17e046/matchs/2021-2022/summary/Journaux-de-match-Tyler-Roberts
+Total Ads removed: 23
+Tyler Roberts
+Save genstats_Leeds United_Tyler Roberts_2021.csv 
+Total Ads removed: 24
+Save passes_Tyler Roberts_Leeds United_2021.csv 
+Total Ads removed: 24
+Save passes-type_Tyler Roberts_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Tyler Roberts_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Tyler Roberts_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Tyler Roberts_Leeds United_2021.csv 
+Total Ads removed: 22
+Save various-stats_Tyler Roberts_Leeds United_2021.csv 
+Done player Tyler Roberts | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/8d03ca5a/matchs/2021-2022/summary/Journaux-de-match-Jamie-Shackleton
+Total Ads removed: 23
+Jamie Shackleton
+Save genstats_Leeds United_Jamie Shackleton_2021.csv 
+Total Ads removed: 25
+Save passes_Jamie Shackleton_Leeds United_2021.csv 
+Total Ads removed: 24
+Save passes-type_Jamie Shackleton_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Jamie Shackleton_Leeds United_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jamie Shackleton_Leeds United_2021.csv 
+Total Ads removed: 24
+Save possession_Jamie Shackleton_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Jamie Shackleton_Leeds United_2021.csv 
+Done player Jamie Shackleton | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/93feac6e/matchs/2021-2022/summary/Journaux-de-match-Patrick-Bamford
+Total Ads removed: 23
+Patrick Bamford
+Save genstats_Leeds United_Patrick Bamford_2021.csv 
+Total Ads removed: 26
+Save passes_Patrick Bamford_Leeds United_2021.csv 
+Total Ads removed: 23
+Save passes-type_Patrick Bamford_Leeds United_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Patrick Bamford_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Patrick Bamford_Leeds United_2021.csv 
+Total Ads removed: 24
+Save possession_Patrick Bamford_Leeds United_2021.csv 
+Total Ads removed: 22
+Save various-stats_Patrick Bamford_Leeds United_2021.csv 
+Done player Patrick Bamford | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/01962d0d/matchs/2021-2022/summary/Journaux-de-match-Joe-Gelhardt
+Total Ads removed: 23
+Joe Gelhardt
+Save genstats_Leeds United_Joe Gelhardt_2021.csv 
+Total Ads removed: 22
+Save passes_Joe Gelhardt_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Joe Gelhardt_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Joe Gelhardt_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Joe Gelhardt_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Joe Gelhardt_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Joe Gelhardt_Leeds United_2021.csv 
+Done player Joe Gelhardt | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/f3354c07/matchs/2021-2022/summary/Journaux-de-match-Sam-Greenwood
+Total Ads removed: 22
+Sam Greenwood
+Save genstats_Leeds United_Sam Greenwood_2021.csv 
+Total Ads removed: 22
+Save passes_Sam Greenwood_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Sam Greenwood_Leeds United_2021.csv 
+Total Ads removed: 21
+Save penalty-prep_Sam Greenwood_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Sam Greenwood_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Sam Greenwood_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Sam Greenwood_Leeds United_2021.csv 
+Done player Sam Greenwood | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/cd4256d3/matchs/2021-2022/summary/Journaux-de-match-Lewis-Bate
+Total Ads removed: 22
+Lewis Bate
+Save genstats_Leeds United_Lewis Bate_2021.csv 
+Total Ads removed: 23
+Save passes_Lewis Bate_Leeds United_2021.csv 
+Total Ads removed: 24
+Save passes-type_Lewis Bate_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Lewis Bate_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Lewis Bate_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Lewis Bate_Leeds United_2021.csv 
+Total Ads removed: 22
+Save various-stats_Lewis Bate_Leeds United_2021.csv 
+Done player Lewis Bate | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/4654e5f5/matchs/2021-2022/summary/Journaux-de-match-Charlie-Cresswell
+Total Ads removed: 23
+Charlie Cresswell
+Save genstats_Leeds United_Charlie Cresswell_2021.csv 
+Total Ads removed: 23
+Save passes_Charlie Cresswell_Leeds United_2021.csv 
+Total Ads removed: 23
+Save passes-type_Charlie Cresswell_Leeds United_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Charlie Cresswell_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Charlie Cresswell_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Charlie Cresswell_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Charlie Cresswell_Leeds United_2021.csv 
+Done player Charlie Cresswell | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/e0d1510a/matchs/2021-2022/summary/Journaux-de-match-Cody-Drameh
+Total Ads removed: 23
+Cody Drameh
+Save genstats_Leeds United_Cody Drameh_2021.csv 
+Total Ads removed: 24
+Save passes_Cody Drameh_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Cody Drameh_Leeds United_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Cody Drameh_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Cody Drameh_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Cody Drameh_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Cody Drameh_Leeds United_2021.csv 
+Done player Cody Drameh | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/d102b8a2/matchs/2021-2022/summary/Journaux-de-match-Leo-Fuhr-Hjelde
+Total Ads removed: 22
+Leo Fuhr Hjelde
+Save genstats_Leeds United_Leo Fuhr Hjelde_2021.csv 
+Total Ads removed: 22
+Save passes_Leo Fuhr Hjelde_Leeds United_2021.csv 
+Total Ads removed: 24
+Save passes-type_Leo Fuhr Hjelde_Leeds United_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Leo Fuhr Hjelde_Leeds United_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Leo Fuhr Hjelde_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Leo Fuhr Hjelde_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Leo Fuhr Hjelde_Leeds United_2021.csv 
+Done player Leo Fuhr Hjelde | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/df04eb4b/matchs/2021-2022/summary/Journaux-de-match-Crysencio-Summerville
+Total Ads removed: 25
+Crysencio Summerville
+Save genstats_Leeds United_Crysencio Summerville_2021.csv 
+Total Ads removed: 23
+Save passes_Crysencio Summerville_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Crysencio Summerville_Leeds United_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Crysencio Summerville_Leeds United_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Crysencio Summerville_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Crysencio Summerville_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Crysencio Summerville_Leeds United_2021.csv 
+Done player Crysencio Summerville | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/3f70db80/matchs/2021-2022/summary/Journaux-de-match-Kristoffer-Klaesson
+Total Ads removed: 22
+Kristoffer Klaesson
+Save genstats_Leeds United_Kristoffer Klaesson_2021.csv 
+Total Ads removed: 24
+Save passes_Kristoffer Klaesson_Leeds United_2021.csv 
+Total Ads removed: 25
+Save passes-type_Kristoffer Klaesson_Leeds United_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Kristoffer Klaesson_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Kristoffer Klaesson_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Kristoffer Klaesson_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Kristoffer Klaesson_Leeds United_2021.csv 
+Total Ads removed: 23
+Save keeper_Kristoffer Klaesson_Leeds United_2021.csv 
+Done player Kristoffer Klaesson | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/f13d02a6/matchs/2021-2022/summary/Journaux-de-match-Helder-Costa
+Total Ads removed: 23
+Hélder Costa
+Save genstats_Leeds United_Hélder Costa_2021.csv 
+Total Ads removed: 22
+Save passes_Hélder Costa_Leeds United_2021.csv 
+Total Ads removed: 23
+Save passes-type_Hélder Costa_Leeds United_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Hélder Costa_Leeds United_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Hélder Costa_Leeds United_2021.csv 
+Total Ads removed: 23
+Save possession_Hélder Costa_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Hélder Costa_Leeds United_2021.csv 
+Done player Hélder Costa | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/076bb352/matchs/2021-2022/summary/Journaux-de-match-Liam-McCarron
+Total Ads removed: 22
+Liam McCarron
+Save genstats_Leeds United_Liam McCarron_2021.csv 
+Total Ads removed: 23
+Save passes_Liam McCarron_Leeds United_2021.csv 
+Total Ads removed: 24
+Save passes-type_Liam McCarron_Leeds United_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Liam McCarron_Leeds United_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Liam McCarron_Leeds United_2021.csv 
+Total Ads removed: 22
+Save possession_Liam McCarron_Leeds United_2021.csv 
+Total Ads removed: 24
+Save various-stats_Liam McCarron_Leeds United_2021.csv 
+Done player Liam McCarron | team Leeds United | 2021
+Go to https://fbref.com/fr/joueurs/1000a059/matchs/2021-2022/summary/Journaux-de-match-Stuart-McKinstry
+Total Ads removed: 22
+Stuart McKinstry
+Save genstats_Leeds United_Stuart McKinstry_2021.csv 
+Total Ads removed: 23
+Save passes_Stuart McKinstry_Leeds United_2021.csv 
+Total Ads removed: 22
+Save passes-type_Stuart McKinstry_Leeds United_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Stuart McKinstry_Leeds United_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Stuart McKinstry_Leeds United_2021.csv 
+Total Ads removed: 24
+Save possession_Stuart McKinstry_Leeds United_2021.csv 
+Total Ads removed: 23
+Save various-stats_Stuart McKinstry_Leeds United_2021.csv 
+Done player Stuart McKinstry | team Leeds United | 2021
+Total Ads removed: 25
+https://fbref.com/fr/joueurs/4b40d9ca/matchs/2021-2022/summary/Journaux-de-match-Nick-Pope
+https://fbref.com/fr/joueurs/fc15fb84/matchs/2021-2022/summary/Journaux-de-match-Dwight-McNeil
+https://fbref.com/fr/joueurs/15ea812b/matchs/2021-2022/summary/Journaux-de-match-James-Tarkowski
+https://fbref.com/fr/joueurs/47369df8/matchs/2021-2022/summary/Journaux-de-match-Josh-Brownhill
+https://fbref.com/fr/joueurs/cc2d7ad5/matchs/2021-2022/summary/Journaux-de-match-Charlie-Taylor
+https://fbref.com/fr/joueurs/495945ef/matchs/2021-2022/summary/Journaux-de-match-Ashley-Westwood
+https://fbref.com/fr/joueurs/8df7a2fb/matchs/2021-2022/summary/Journaux-de-match-Ben-Mee
+https://fbref.com/fr/joueurs/beb391dd/matchs/2021-2022/summary/Journaux-de-match-Maxwel-Cornet
+https://fbref.com/fr/joueurs/9a9c05db/matchs/2021-2022/summary/Journaux-de-match-Matthew-Lowton
+https://fbref.com/fr/joueurs/74e12f1e/matchs/2021-2022/summary/Journaux-de-match-Jack-Cork
+https://fbref.com/fr/joueurs/24fae784/matchs/2021-2022/summary/Journaux-de-match-Connor-Roberts
+https://fbref.com/fr/joueurs/a8c19eb8/matchs/2021-2022/summary/Journaux-de-match-Nathan-Collins
+https://fbref.com/fr/joueurs/2ff964a0/matchs/2021-2022/summary/Journaux-de-match-Aaron-Lennon
+https://fbref.com/fr/joueurs/c4e87b8b/matchs/2021-2022/summary/Journaux-de-match-Wout-Weghorst
+https://fbref.com/fr/joueurs/4e9a0555/matchs/2021-2022/summary/Journaux-de-match-Chris-Wood
+https://fbref.com/fr/joueurs/4ab53cdb/matchs/2021-2022/summary/Journaux-de-match-Jay-Rodriguez
+https://fbref.com/fr/joueurs/f72293fc/matchs/2021-2022/summary/Journaux-de-match-Johann-Berg-Gudmundsson
+https://fbref.com/fr/joueurs/2691c772/matchs/2021-2022/summary/Journaux-de-match-Ashley-Barnes
+https://fbref.com/fr/joueurs/1ef37668/matchs/2021-2022/summary/Journaux-de-match-Erik-Pieters
+https://fbref.com/fr/joueurs/0d4ceb32/matchs/2021-2022/summary/Journaux-de-match-Matej-Vydra
+https://fbref.com/fr/joueurs/5a4280b1/matchs/2021-2022/summary/Journaux-de-match-Kevin-Long
+https://fbref.com/fr/joueurs/76eca7e2/matchs/2021-2022/summary/Journaux-de-match-Wayne-Hennessey
+https://fbref.com/fr/joueurs/653ee42d/matchs/2021-2022/summary/Journaux-de-match-Dale-Stephens
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/4b40d9ca/matchs/2021-2022/summary/Journaux-de-match-Nick-Pope
+Total Ads removed: 23
+Nick Pope
+Save genstats_Burnley_Nick Pope_2021.csv 
+Total Ads removed: 23
+Save passes_Nick Pope_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nick Pope_Burnley_2021.csv 
+Total Ads removed: 21
+Save penalty-prep_Nick Pope_Burnley_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Nick Pope_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_Nick Pope_Burnley_2021.csv 
+Total Ads removed: 24
+Save various-stats_Nick Pope_Burnley_2021.csv 
+Total Ads removed: 22
+Save keeper_Nick Pope_Burnley_2021.csv 
+Done player Nick Pope | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/fc15fb84/matchs/2021-2022/summary/Journaux-de-match-Dwight-McNeil
+Total Ads removed: 23
+Dwight McNeil
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 23
+Done player Dwight McNeil | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/15ea812b/matchs/2021-2022/summary/Journaux-de-match-James-Tarkowski
+Total Ads removed: 22
+James Tarkowski
+Save genstats_Burnley_James Tarkowski_2021.csv 
+Total Ads removed: 22
+Save passes_James Tarkowski_Burnley_2021.csv 
+Total Ads removed: 24
+Save passes-type_James Tarkowski_Burnley_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_James Tarkowski_Burnley_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_James Tarkowski_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_James Tarkowski_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_James Tarkowski_Burnley_2021.csv 
+Done player James Tarkowski | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/47369df8/matchs/2021-2022/summary/Journaux-de-match-Josh-Brownhill
+Total Ads removed: 22
+Josh Brownhill
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 25
+Total Ads removed: 11
+Total Ads removed: 23
+Done player Josh Brownhill | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/cc2d7ad5/matchs/2021-2022/summary/Journaux-de-match-Charlie-Taylor
+Total Ads removed: 24
+Charlie Taylor
+Save genstats_Burnley_Charlie Taylor_2021.csv 
+Total Ads removed: 25
+Save passes_Charlie Taylor_Burnley_2021.csv 
+Total Ads removed: 22
+Save passes-type_Charlie Taylor_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Charlie Taylor_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Charlie Taylor_Burnley_2021.csv 
+Total Ads removed: 25
+Save possession_Charlie Taylor_Burnley_2021.csv 
+Total Ads removed: 25
+Save various-stats_Charlie Taylor_Burnley_2021.csv 
+Done player Charlie Taylor | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/495945ef/matchs/2021-2022/summary/Journaux-de-match-Ashley-Westwood
+Total Ads removed: 23
+Ashley Westwood
+Save genstats_Burnley_Ashley Westwood_2021.csv 
+Total Ads removed: 23
+Save passes_Ashley Westwood_Burnley_2021.csv 
+Total Ads removed: 24
+Save passes-type_Ashley Westwood_Burnley_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Ashley Westwood_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ashley Westwood_Burnley_2021.csv 
+Total Ads removed: 23
+Save possession_Ashley Westwood_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ashley Westwood_Burnley_2021.csv 
+Done player Ashley Westwood | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/8df7a2fb/matchs/2021-2022/summary/Journaux-de-match-Ben-Mee
+Total Ads removed: 23
+Ben Mee
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 21
+Total Ads removed: 23
+Done player Ben Mee | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/9a9c05db/matchs/2021-2022/summary/Journaux-de-match-Matthew-Lowton
+Total Ads removed: 22
+Matthew Lowton
+Save genstats_Burnley_Matthew Lowton_2021.csv 
+Total Ads removed: 25
+Save passes_Matthew Lowton_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Matthew Lowton_Burnley_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Matthew Lowton_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Matthew Lowton_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_Matthew Lowton_Burnley_2021.csv 
+Total Ads removed: 22
+Save various-stats_Matthew Lowton_Burnley_2021.csv 
+Done player Matthew Lowton | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/74e12f1e/matchs/2021-2022/summary/Journaux-de-match-Jack-Cork
+Total Ads removed: 22
+Jack Cork
+Save genstats_Burnley_Jack Cork_2021.csv 
+Total Ads removed: 24
+Save passes_Jack Cork_Burnley_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jack Cork_Burnley_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Jack Cork_Burnley_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Jack Cork_Burnley_2021.csv 
+Total Ads removed: 23
+Save possession_Jack Cork_Burnley_2021.csv 
+Total Ads removed: 21
+Save various-stats_Jack Cork_Burnley_2021.csv 
+Done player Jack Cork | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/24fae784/matchs/2021-2022/summary/Journaux-de-match-Connor-Roberts
+Total Ads removed: 23
+Connor Roberts
+Save genstats_Burnley_Connor Roberts_2021.csv 
+Total Ads removed: 23
+Save passes_Connor Roberts_Burnley_2021.csv 
+Total Ads removed: 24
+Save passes-type_Connor Roberts_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Connor Roberts_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Connor Roberts_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_Connor Roberts_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_Connor Roberts_Burnley_2021.csv 
+Done player Connor Roberts | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/a8c19eb8/matchs/2021-2022/summary/Journaux-de-match-Nathan-Collins
+Total Ads removed: 23
+Nathan Collins
+Save genstats_Burnley_Nathan Collins_2021.csv 
+Total Ads removed: 23
+Save passes_Nathan Collins_Burnley_2021.csv 
+Total Ads removed: 24
+Save passes-type_Nathan Collins_Burnley_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Nathan Collins_Burnley_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Nathan Collins_Burnley_2021.csv 
+Total Ads removed: 24
+Save possession_Nathan Collins_Burnley_2021.csv 
+Total Ads removed: 24
+Save various-stats_Nathan Collins_Burnley_2021.csv 
+Done player Nathan Collins | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/2ff964a0/matchs/2021-2022/summary/Journaux-de-match-Aaron-Lennon
+Total Ads removed: 23
+Aaron Lennon
+Save genstats_Burnley_Aaron Lennon_2021.csv 
+Total Ads removed: 22
+Save passes_Aaron Lennon_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Aaron Lennon_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Aaron Lennon_Burnley_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Aaron Lennon_Burnley_2021.csv 
+Total Ads removed: 24
+Save possession_Aaron Lennon_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_Aaron Lennon_Burnley_2021.csv 
+Done player Aaron Lennon | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/c4e87b8b/matchs/2021-2022/summary/Journaux-de-match-Wout-Weghorst
+Total Ads removed: 22
+Wout Weghorst
+Save genstats_Burnley_Wout Weghorst_2021.csv 
+Total Ads removed: 22
+Save passes_Wout Weghorst_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Wout Weghorst_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Wout Weghorst_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Wout Weghorst_Burnley_2021.csv 
+Total Ads removed: 25
+Save possession_Wout Weghorst_Burnley_2021.csv 
+Total Ads removed: 25
+Save various-stats_Wout Weghorst_Burnley_2021.csv 
+Done player Wout Weghorst | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/4ab53cdb/matchs/2021-2022/summary/Journaux-de-match-Jay-Rodriguez
+Total Ads removed: 22
+Jay Rodriguez
+Save genstats_Burnley_Jay Rodriguez_2021.csv 
+Total Ads removed: 22
+Save passes_Jay Rodriguez_Burnley_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jay Rodriguez_Burnley_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Jay Rodriguez_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Jay Rodriguez_Burnley_2021.csv 
+Total Ads removed: 24
+Save possession_Jay Rodriguez_Burnley_2021.csv 
+Total Ads removed: 25
+Save various-stats_Jay Rodriguez_Burnley_2021.csv 
+Done player Jay Rodriguez | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/f72293fc/matchs/2021-2022/summary/Journaux-de-match-Johann-Berg-Gudmundsson
+Total Ads removed: 25
+Jóhann Berg Guðmundsson
+Save genstats_Burnley_Jóhann Berg Guðmundsson_2021.csv 
+Total Ads removed: 24
+Save passes_Jóhann Berg Guðmundsson_Burnley_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jóhann Berg Guðmundsson_Burnley_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Jóhann Berg Guðmundsson_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Jóhann Berg Guðmundsson_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_Jóhann Berg Guðmundsson_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jóhann Berg Guðmundsson_Burnley_2021.csv 
+Done player Jóhann Berg Guðmundsson | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/2691c772/matchs/2021-2022/summary/Journaux-de-match-Ashley-Barnes
+Total Ads removed: 23
+Ashley Barnes
+Save genstats_Burnley_Ashley Barnes_2021.csv 
+Total Ads removed: 22
+Save passes_Ashley Barnes_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ashley Barnes_Burnley_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Ashley Barnes_Burnley_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Ashley Barnes_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_Ashley Barnes_Burnley_2021.csv 
+Total Ads removed: 25
+Save various-stats_Ashley Barnes_Burnley_2021.csv 
+Done player Ashley Barnes | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/1ef37668/matchs/2021-2022/summary/Journaux-de-match-Erik-Pieters
+Total Ads removed: 24
+Erik Pieters
+Save genstats_Burnley_Erik Pieters_2021.csv 
+Total Ads removed: 22
+Save passes_Erik Pieters_Burnley_2021.csv 
+Total Ads removed: 22
+Save passes-type_Erik Pieters_Burnley_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Erik Pieters_Burnley_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Erik Pieters_Burnley_2021.csv 
+Total Ads removed: 23
+Save possession_Erik Pieters_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_Erik Pieters_Burnley_2021.csv 
+Done player Erik Pieters | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/0d4ceb32/matchs/2021-2022/summary/Journaux-de-match-Matej-Vydra
+Total Ads removed: 22
+Matěj Vydra
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 22
+Done player Matěj Vydra | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/5a4280b1/matchs/2021-2022/summary/Journaux-de-match-Kevin-Long
+Total Ads removed: 22
+Kevin Long
+Save genstats_Burnley_Kevin Long_2021.csv 
+Total Ads removed: 22
+Save passes_Kevin Long_Burnley_2021.csv 
+Total Ads removed: 24
+Save passes-type_Kevin Long_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Kevin Long_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Kevin Long_Burnley_2021.csv 
+Total Ads removed: 22
+Save possession_Kevin Long_Burnley_2021.csv 
+Total Ads removed: 22
+Save various-stats_Kevin Long_Burnley_2021.csv 
+Done player Kevin Long | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/76eca7e2/matchs/2021-2022/summary/Journaux-de-match-Wayne-Hennessey
+Total Ads removed: 23
+Wayne Hennessey
+Save genstats_Burnley_Wayne Hennessey_2021.csv 
+Total Ads removed: 22
+Save passes_Wayne Hennessey_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Wayne Hennessey_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Wayne Hennessey_Burnley_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Wayne Hennessey_Burnley_2021.csv 
+Total Ads removed: 23
+Save possession_Wayne Hennessey_Burnley_2021.csv 
+Total Ads removed: 22
+Save various-stats_Wayne Hennessey_Burnley_2021.csv 
+Total Ads removed: 23
+Save keeper_Wayne Hennessey_Burnley_2021.csv 
+Done player Wayne Hennessey | team Burnley | 2021
+Go to https://fbref.com/fr/joueurs/653ee42d/matchs/2021-2022/summary/Journaux-de-match-Dale-Stephens
+Total Ads removed: 22
+Dale Stephens
+Save genstats_Burnley_Dale Stephens_2021.csv 
+Total Ads removed: 22
+Save passes_Dale Stephens_Burnley_2021.csv 
+Total Ads removed: 23
+Save passes-type_Dale Stephens_Burnley_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Dale Stephens_Burnley_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Dale Stephens_Burnley_2021.csv 
+Total Ads removed: 24
+Save possession_Dale Stephens_Burnley_2021.csv 
+Total Ads removed: 23
+Save various-stats_Dale Stephens_Burnley_2021.csv 
+Done player Dale Stephens | team Burnley | 2021
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/2acd49b9/matchs/2021-2022/summary/Journaux-de-match-Moussa-Sissoko
+https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+https://fbref.com/fr/joueurs/89e4b358/matchs/2021-2022/summary/Journaux-de-match-Craig-Cathcart
+https://fbref.com/fr/joueurs/43458538/matchs/2021-2022/summary/Journaux-de-match-Joshua-King
+https://fbref.com/fr/joueurs/d0b3ceb9/matchs/2021-2022/summary/Journaux-de-match-Ben-Foster
+https://fbref.com/fr/joueurs/e5d01ecf/matchs/2021-2022/summary/Journaux-de-match-Kiko-Femenia
+https://fbref.com/fr/joueurs/5aaef9ef/matchs/2021-2022/summary/Journaux-de-match-Juraj-Kucka
+https://fbref.com/fr/joueurs/bfdb33aa/matchs/2021-2022/summary/Journaux-de-match-Ismaila-Sarr
+https://fbref.com/fr/joueurs/6cdd8245/matchs/2021-2022/summary/Journaux-de-match-Tom-Cleverley
+https://fbref.com/fr/joueurs/92b4758e/matchs/2021-2022/summary/Journaux-de-match-Samir-Santos
+https://fbref.com/fr/joueurs/19a12bed/matchs/2021-2022/summary/Journaux-de-match-Hassane-Kamara
+https://fbref.com/fr/joueurs/e1df6989/matchs/2021-2022/summary/Journaux-de-match-Imran-Louza
+https://fbref.com/fr/joueurs/e8832875/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/7ed4921e/matchs/2021-2022/summary/Journaux-de-match-William-Troost-Ekong
+https://fbref.com/fr/joueurs/de0f152c/matchs/2021-2022/summary/Journaux-de-match-Adam-Masina
+https://fbref.com/fr/joueurs/914ab9a1/matchs/2021-2022/summary/Journaux-de-match-Christian-Kabasele
+https://fbref.com/fr/joueurs/1c0eea98/matchs/2021-2022/summary/Journaux-de-match-Daniel-Bachmann
+https://fbref.com/fr/joueurs/71b47ab9/matchs/2021-2022/summary/Journaux-de-match-Cucho
+https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+https://fbref.com/fr/joueurs/f99b71de/matchs/2021-2022/summary/Journaux-de-match-Edo-Kayembe
+https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+https://fbref.com/fr/joueurs/89d10e53/matchs/2021-2022/summary/Journaux-de-match-Danny-Rose
+https://fbref.com/fr/joueurs/0f933743/matchs/2021-2022/summary/Journaux-de-match-Francisco-Sierralta
+https://fbref.com/fr/joueurs/b579e83d/matchs/2021-2022/summary/Journaux-de-match-Oghenekaro-Etebo
+https://fbref.com/fr/joueurs/17d45fb2/matchs/2021-2022/summary/Journaux-de-match-Ozan-Tufan
+https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+https://fbref.com/fr/joueurs/93cf32a8/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Nkoulou
+https://fbref.com/fr/joueurs/7fec31a0/matchs/2021-2022/summary/Journaux-de-match-Dan-Gosling
+https://fbref.com/fr/joueurs/eeb6551f/matchs/2021-2022/summary/Journaux-de-match-Ashley-Fletcher
+https://fbref.com/fr/joueurs/82e34b69/matchs/2021-2022/summary/Journaux-de-match-Troy-Deeney
+Number of players : 30
+Go to https://fbref.com/fr/joueurs/2acd49b9/matchs/2021-2022/summary/Journaux-de-match-Moussa-Sissoko
+Total Ads removed: 20
+Moussa Sissoko
+Save genstats_Watford_Moussa Sissoko_2021.csv 
+Total Ads removed: 22
+Save passes_Moussa Sissoko_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Moussa Sissoko_Watford_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Moussa Sissoko_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Moussa Sissoko_Watford_2021.csv 
+Total Ads removed: 24
+Save possession_Moussa Sissoko_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Moussa Sissoko_Watford_2021.csv 
+Done player Moussa Sissoko | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+Total Ads removed: 22
+Emmanuel Dennis
+Save genstats_Watford_Emmanuel Dennis_2021.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 27
+https://fbref.com/fr/equipes/2abfe087/2021-2022/Statistiques-Watford
+https://fbref.com/fr/equipes/1c781004/2021-2022/Statistiques-Norwich-City
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/2acd49b9/matchs/2021-2022/summary/Journaux-de-match-Moussa-Sissoko
+https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+https://fbref.com/fr/joueurs/89e4b358/matchs/2021-2022/summary/Journaux-de-match-Craig-Cathcart
+https://fbref.com/fr/joueurs/43458538/matchs/2021-2022/summary/Journaux-de-match-Joshua-King
+https://fbref.com/fr/joueurs/d0b3ceb9/matchs/2021-2022/summary/Journaux-de-match-Ben-Foster
+https://fbref.com/fr/joueurs/e5d01ecf/matchs/2021-2022/summary/Journaux-de-match-Kiko-Femenia
+https://fbref.com/fr/joueurs/5aaef9ef/matchs/2021-2022/summary/Journaux-de-match-Juraj-Kucka
+https://fbref.com/fr/joueurs/bfdb33aa/matchs/2021-2022/summary/Journaux-de-match-Ismaila-Sarr
+https://fbref.com/fr/joueurs/6cdd8245/matchs/2021-2022/summary/Journaux-de-match-Tom-Cleverley
+https://fbref.com/fr/joueurs/92b4758e/matchs/2021-2022/summary/Journaux-de-match-Samir-Santos
+https://fbref.com/fr/joueurs/19a12bed/matchs/2021-2022/summary/Journaux-de-match-Hassane-Kamara
+https://fbref.com/fr/joueurs/e1df6989/matchs/2021-2022/summary/Journaux-de-match-Imran-Louza
+https://fbref.com/fr/joueurs/e8832875/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/7ed4921e/matchs/2021-2022/summary/Journaux-de-match-William-Troost-Ekong
+https://fbref.com/fr/joueurs/de0f152c/matchs/2021-2022/summary/Journaux-de-match-Adam-Masina
+https://fbref.com/fr/joueurs/914ab9a1/matchs/2021-2022/summary/Journaux-de-match-Christian-Kabasele
+https://fbref.com/fr/joueurs/1c0eea98/matchs/2021-2022/summary/Journaux-de-match-Daniel-Bachmann
+https://fbref.com/fr/joueurs/71b47ab9/matchs/2021-2022/summary/Journaux-de-match-Cucho
+https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+https://fbref.com/fr/joueurs/f99b71de/matchs/2021-2022/summary/Journaux-de-match-Edo-Kayembe
+https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+https://fbref.com/fr/joueurs/89d10e53/matchs/2021-2022/summary/Journaux-de-match-Danny-Rose
+https://fbref.com/fr/joueurs/0f933743/matchs/2021-2022/summary/Journaux-de-match-Francisco-Sierralta
+https://fbref.com/fr/joueurs/b579e83d/matchs/2021-2022/summary/Journaux-de-match-Oghenekaro-Etebo
+https://fbref.com/fr/joueurs/17d45fb2/matchs/2021-2022/summary/Journaux-de-match-Ozan-Tufan
+https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+https://fbref.com/fr/joueurs/93cf32a8/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Nkoulou
+https://fbref.com/fr/joueurs/7fec31a0/matchs/2021-2022/summary/Journaux-de-match-Dan-Gosling
+https://fbref.com/fr/joueurs/eeb6551f/matchs/2021-2022/summary/Journaux-de-match-Ashley-Fletcher
+https://fbref.com/fr/joueurs/82e34b69/matchs/2021-2022/summary/Journaux-de-match-Troy-Deeney
+Number of players : 30
+Go to https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+Total Ads removed: 27
+Emmanuel Dennis
+Total Ads removed: 24
+Save passes_Emmanuel Dennis_Watford_2021.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 30
+https://fbref.com/fr/equipes/2abfe087/2021-2022/Statistiques-Watford
+https://fbref.com/fr/equipes/1c781004/2021-2022/Statistiques-Norwich-City
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/2acd49b9/matchs/2021-2022/summary/Journaux-de-match-Moussa-Sissoko
+https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+https://fbref.com/fr/joueurs/89e4b358/matchs/2021-2022/summary/Journaux-de-match-Craig-Cathcart
+https://fbref.com/fr/joueurs/43458538/matchs/2021-2022/summary/Journaux-de-match-Joshua-King
+https://fbref.com/fr/joueurs/d0b3ceb9/matchs/2021-2022/summary/Journaux-de-match-Ben-Foster
+https://fbref.com/fr/joueurs/e5d01ecf/matchs/2021-2022/summary/Journaux-de-match-Kiko-Femenia
+https://fbref.com/fr/joueurs/5aaef9ef/matchs/2021-2022/summary/Journaux-de-match-Juraj-Kucka
+https://fbref.com/fr/joueurs/bfdb33aa/matchs/2021-2022/summary/Journaux-de-match-Ismaila-Sarr
+https://fbref.com/fr/joueurs/6cdd8245/matchs/2021-2022/summary/Journaux-de-match-Tom-Cleverley
+https://fbref.com/fr/joueurs/92b4758e/matchs/2021-2022/summary/Journaux-de-match-Samir-Santos
+https://fbref.com/fr/joueurs/19a12bed/matchs/2021-2022/summary/Journaux-de-match-Hassane-Kamara
+https://fbref.com/fr/joueurs/e1df6989/matchs/2021-2022/summary/Journaux-de-match-Imran-Louza
+https://fbref.com/fr/joueurs/e8832875/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/7ed4921e/matchs/2021-2022/summary/Journaux-de-match-William-Troost-Ekong
+https://fbref.com/fr/joueurs/de0f152c/matchs/2021-2022/summary/Journaux-de-match-Adam-Masina
+https://fbref.com/fr/joueurs/914ab9a1/matchs/2021-2022/summary/Journaux-de-match-Christian-Kabasele
+https://fbref.com/fr/joueurs/1c0eea98/matchs/2021-2022/summary/Journaux-de-match-Daniel-Bachmann
+https://fbref.com/fr/joueurs/71b47ab9/matchs/2021-2022/summary/Journaux-de-match-Cucho
+https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+https://fbref.com/fr/joueurs/f99b71de/matchs/2021-2022/summary/Journaux-de-match-Edo-Kayembe
+https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+https://fbref.com/fr/joueurs/89d10e53/matchs/2021-2022/summary/Journaux-de-match-Danny-Rose
+https://fbref.com/fr/joueurs/0f933743/matchs/2021-2022/summary/Journaux-de-match-Francisco-Sierralta
+https://fbref.com/fr/joueurs/b579e83d/matchs/2021-2022/summary/Journaux-de-match-Oghenekaro-Etebo
+https://fbref.com/fr/joueurs/17d45fb2/matchs/2021-2022/summary/Journaux-de-match-Ozan-Tufan
+https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+https://fbref.com/fr/joueurs/93cf32a8/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Nkoulou
+https://fbref.com/fr/joueurs/7fec31a0/matchs/2021-2022/summary/Journaux-de-match-Dan-Gosling
+https://fbref.com/fr/joueurs/eeb6551f/matchs/2021-2022/summary/Journaux-de-match-Ashley-Fletcher
+https://fbref.com/fr/joueurs/82e34b69/matchs/2021-2022/summary/Journaux-de-match-Troy-Deeney
+Number of players : 30
+Go to https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+Total Ads removed: 26
+Emmanuel Dennis
+Total Ads removed: 26
+Save passes-type_Emmanuel Dennis_Watford_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Emmanuel Dennis_Watford_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Emmanuel Dennis_Watford_2021.csv 
+Total Ads removed: 25
+Save possession_Emmanuel Dennis_Watford_2021.csv 
+Total Ads removed: 25
+Save various-stats_Emmanuel Dennis_Watford_2021.csv 
+Done player Emmanuel Dennis | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/89e4b358/matchs/2021-2022/summary/Journaux-de-match-Craig-Cathcart
+Total Ads removed: 22
+Craig Cathcart
+Save genstats_Watford_Craig Cathcart_2021.csv 
+Total Ads removed: 26
+Save passes_Craig Cathcart_Watford_2021.csv 
+Total Ads removed: 26
+Save passes-type_Craig Cathcart_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Craig Cathcart_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Craig Cathcart_Watford_2021.csv 
+Total Ads removed: 24
+Save possession_Craig Cathcart_Watford_2021.csv 
+Total Ads removed: 24
+Save various-stats_Craig Cathcart_Watford_2021.csv 
+Done player Craig Cathcart | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/43458538/matchs/2021-2022/summary/Journaux-de-match-Joshua-King
+Total Ads removed: 25
+Joshua King
+Save genstats_Watford_Joshua King_2021.csv 
+Total Ads removed: 24
+Save passes_Joshua King_Watford_2021.csv 
+Total Ads removed: 25
+Save passes-type_Joshua King_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Joshua King_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Joshua King_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Joshua King_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Joshua King_Watford_2021.csv 
+Done player Joshua King | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/d0b3ceb9/matchs/2021-2022/summary/Journaux-de-match-Ben-Foster
+Total Ads removed: 24
+Ben Foster
+Save genstats_Watford_Ben Foster_2021.csv 
+Total Ads removed: 24
+Save passes_Ben Foster_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ben Foster_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Ben Foster_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ben Foster_Watford_2021.csv 
+Total Ads removed: 25
+Save possession_Ben Foster_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ben Foster_Watford_2021.csv 
+Total Ads removed: 23
+Save keeper_Ben Foster_Watford_2021.csv 
+Done player Ben Foster | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/e5d01ecf/matchs/2021-2022/summary/Journaux-de-match-Kiko-Femenia
+Total Ads removed: 23
+Kiko Femenía
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 24
+Done player Kiko Femenía | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/5aaef9ef/matchs/2021-2022/summary/Journaux-de-match-Juraj-Kucka
+Total Ads removed: 23
+Juraj Kucka
+Save genstats_Watford_Juraj Kucka_2021.csv 
+Total Ads removed: 24
+Save passes_Juraj Kucka_Watford_2021.csv 
+Total Ads removed: 25
+Save passes-type_Juraj Kucka_Watford_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Juraj Kucka_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Juraj Kucka_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Juraj Kucka_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Juraj Kucka_Watford_2021.csv 
+Done player Juraj Kucka | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/bfdb33aa/matchs/2021-2022/summary/Journaux-de-match-Ismaila-Sarr
+Total Ads removed: 23
+Ismaila Sarr
+Total Ads removed: 25
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Ismaila Sarr | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/6cdd8245/matchs/2021-2022/summary/Journaux-de-match-Tom-Cleverley
+Total Ads removed: 23
+Tom Cleverley
+Save genstats_Watford_Tom Cleverley_2021.csv 
+Total Ads removed: 24
+Save passes_Tom Cleverley_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Tom Cleverley_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Tom Cleverley_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Tom Cleverley_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Tom Cleverley_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Tom Cleverley_Watford_2021.csv 
+Done player Tom Cleverley | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/e1df6989/matchs/2021-2022/summary/Journaux-de-match-Imran-Louza
+Total Ads removed: 23
+Imran Louza
+Save genstats_Watford_Imran Louza_2021.csv 
+Total Ads removed: 23
+Save passes_Imran Louza_Watford_2021.csv 
+Total Ads removed: 22
+Save passes-type_Imran Louza_Watford_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Imran Louza_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Imran Louza_Watford_2021.csv 
+Total Ads removed: 24
+Save possession_Imran Louza_Watford_2021.csv 
+Total Ads removed: 24
+Save various-stats_Imran Louza_Watford_2021.csv 
+Done player Imran Louza | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/e8832875/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+Total Ads removed: 23
+João Pedro
+Save genstats_Watford_João Pedro_2021.csv 
+Total Ads removed: 23
+Save passes_João Pedro_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_João Pedro_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_João Pedro_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_João Pedro_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_João Pedro_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_João Pedro_Watford_2021.csv 
+Done player João Pedro | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/7ed4921e/matchs/2021-2022/summary/Journaux-de-match-William-Troost-Ekong
+Total Ads removed: 23
+William Troost-Ekong
+Save genstats_Watford_William Troost-Ekong_2021.csv 
+Total Ads removed: 23
+Save passes_William Troost-Ekong_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_William Troost-Ekong_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_William Troost-Ekong_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_William Troost-Ekong_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_William Troost-Ekong_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_William Troost-Ekong_Watford_2021.csv 
+Done player William Troost-Ekong | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/de0f152c/matchs/2021-2022/summary/Journaux-de-match-Adam-Masina
+Total Ads removed: 24
+Adam Masina
+Save genstats_Watford_Adam Masina_2021.csv 
+Total Ads removed: 23
+Save passes_Adam Masina_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Adam Masina_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Adam Masina_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Adam Masina_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Adam Masina_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Adam Masina_Watford_2021.csv 
+Done player Adam Masina | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/914ab9a1/matchs/2021-2022/summary/Journaux-de-match-Christian-Kabasele
+Total Ads removed: 23
+Christian Kabasele
+Save genstats_Watford_Christian Kabasele_2021.csv 
+Total Ads removed: 23
+Save passes_Christian Kabasele_Watford_2021.csv 
+Total Ads removed: 24
+Save passes-type_Christian Kabasele_Watford_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Christian Kabasele_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Christian Kabasele_Watford_2021.csv 
+Total Ads removed: 24
+Save possession_Christian Kabasele_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Christian Kabasele_Watford_2021.csv 
+Done player Christian Kabasele | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/1c0eea98/matchs/2021-2022/summary/Journaux-de-match-Daniel-Bachmann
+Total Ads removed: 25
+Daniel Bachmann
+Save genstats_Watford_Daniel Bachmann_2021.csv 
+Total Ads removed: 25
+Save passes_Daniel Bachmann_Watford_2021.csv 
+Total Ads removed: 25
+Save passes-type_Daniel Bachmann_Watford_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Daniel Bachmann_Watford_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Daniel Bachmann_Watford_2021.csv 
+Total Ads removed: 22
+Save possession_Daniel Bachmann_Watford_2021.csv 
+Total Ads removed: 22
+Save various-stats_Daniel Bachmann_Watford_2021.csv 
+Total Ads removed: 23
+Save keeper_Daniel Bachmann_Watford_2021.csv 
+Done player Daniel Bachmann | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/71b47ab9/matchs/2021-2022/summary/Journaux-de-match-Cucho
+Total Ads removed: 23
+Cucho
+Save genstats_Watford_Cucho_2021.csv 
+Total Ads removed: 23
+Save passes_Cucho_Watford_2021.csv 
+Total Ads removed: 22
+Save passes-type_Cucho_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Cucho_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Cucho_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Cucho_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Cucho_Watford_2021.csv 
+Done player Cucho | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+Total Ads removed: 25
+Jeremy Ngakia
+Save genstats_Watford_Jeremy Ngakia_2021.csv 
+Total Ads removed: 25
+Save passes_Jeremy Ngakia_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Jeremy Ngakia_Watford_2021.csv 
+Error removing wrapper
+Total Ads removed: 2
+Total Ads removed: 30
+https://fbref.com/fr/equipes/2abfe087/2021-2022/Statistiques-Watford
+https://fbref.com/fr/equipes/1c781004/2021-2022/Statistiques-Norwich-City
+Total Ads removed: 28
+https://fbref.com/fr/joueurs/2acd49b9/matchs/2021-2022/summary/Journaux-de-match-Moussa-Sissoko
+https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+https://fbref.com/fr/joueurs/89e4b358/matchs/2021-2022/summary/Journaux-de-match-Craig-Cathcart
+https://fbref.com/fr/joueurs/43458538/matchs/2021-2022/summary/Journaux-de-match-Joshua-King
+https://fbref.com/fr/joueurs/d0b3ceb9/matchs/2021-2022/summary/Journaux-de-match-Ben-Foster
+https://fbref.com/fr/joueurs/e5d01ecf/matchs/2021-2022/summary/Journaux-de-match-Kiko-Femenia
+https://fbref.com/fr/joueurs/5aaef9ef/matchs/2021-2022/summary/Journaux-de-match-Juraj-Kucka
+https://fbref.com/fr/joueurs/bfdb33aa/matchs/2021-2022/summary/Journaux-de-match-Ismaila-Sarr
+https://fbref.com/fr/joueurs/6cdd8245/matchs/2021-2022/summary/Journaux-de-match-Tom-Cleverley
+https://fbref.com/fr/joueurs/92b4758e/matchs/2021-2022/summary/Journaux-de-match-Samir-Santos
+https://fbref.com/fr/joueurs/19a12bed/matchs/2021-2022/summary/Journaux-de-match-Hassane-Kamara
+https://fbref.com/fr/joueurs/e1df6989/matchs/2021-2022/summary/Journaux-de-match-Imran-Louza
+https://fbref.com/fr/joueurs/e8832875/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/7ed4921e/matchs/2021-2022/summary/Journaux-de-match-William-Troost-Ekong
+https://fbref.com/fr/joueurs/de0f152c/matchs/2021-2022/summary/Journaux-de-match-Adam-Masina
+https://fbref.com/fr/joueurs/914ab9a1/matchs/2021-2022/summary/Journaux-de-match-Christian-Kabasele
+https://fbref.com/fr/joueurs/1c0eea98/matchs/2021-2022/summary/Journaux-de-match-Daniel-Bachmann
+https://fbref.com/fr/joueurs/71b47ab9/matchs/2021-2022/summary/Journaux-de-match-Cucho
+https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+https://fbref.com/fr/joueurs/f99b71de/matchs/2021-2022/summary/Journaux-de-match-Edo-Kayembe
+https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+https://fbref.com/fr/joueurs/89d10e53/matchs/2021-2022/summary/Journaux-de-match-Danny-Rose
+https://fbref.com/fr/joueurs/0f933743/matchs/2021-2022/summary/Journaux-de-match-Francisco-Sierralta
+https://fbref.com/fr/joueurs/b579e83d/matchs/2021-2022/summary/Journaux-de-match-Oghenekaro-Etebo
+https://fbref.com/fr/joueurs/17d45fb2/matchs/2021-2022/summary/Journaux-de-match-Ozan-Tufan
+https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+https://fbref.com/fr/joueurs/93cf32a8/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Nkoulou
+https://fbref.com/fr/joueurs/7fec31a0/matchs/2021-2022/summary/Journaux-de-match-Dan-Gosling
+https://fbref.com/fr/joueurs/eeb6551f/matchs/2021-2022/summary/Journaux-de-match-Ashley-Fletcher
+https://fbref.com/fr/joueurs/82e34b69/matchs/2021-2022/summary/Journaux-de-match-Troy-Deeney
+Number of players : 30
+Go to https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+Total Ads removed: 26
+Jeremy Ngakia
+Total Ads removed: 25
+Save penalty-prep_Jeremy Ngakia_Watford_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Jeremy Ngakia_Watford_2021.csv 
+Total Ads removed: 24
+Save possession_Jeremy Ngakia_Watford_2021.csv 
+Total Ads removed: 24
+Save various-stats_Jeremy Ngakia_Watford_2021.csv 
+Done player Jeremy Ngakia | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/f99b71de/matchs/2021-2022/summary/Journaux-de-match-Edo-Kayembe
+Total Ads removed: 24
+Edo Kayembe
+Save genstats_Watford_Edo Kayembe_2021.csv 
+Total Ads removed: 24
+Save passes_Edo Kayembe_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Edo Kayembe_Watford_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Edo Kayembe_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Edo Kayembe_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Edo Kayembe_Watford_2021.csv 
+Total Ads removed: 26
+Save various-stats_Edo Kayembe_Watford_2021.csv 
+Done player Edo Kayembe | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+Total Ads removed: 23
+Ken Sema
+Save genstats_Watford_Ken Sema_2021.csv 
+Total Ads removed: 23
+Save passes_Ken Sema_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ken Sema_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ken Sema_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Ken Sema_Watford_2021.csv 
+Error removing wrapper
+Total Ads removed: 2
+Total Ads removed: 29
+https://fbref.com/fr/equipes/2abfe087/2021-2022/Statistiques-Watford
+https://fbref.com/fr/equipes/1c781004/2021-2022/Statistiques-Norwich-City
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/2acd49b9/matchs/2021-2022/summary/Journaux-de-match-Moussa-Sissoko
+https://fbref.com/fr/joueurs/2c44a35d/matchs/2021-2022/summary/Journaux-de-match-Emmanuel-Dennis
+https://fbref.com/fr/joueurs/89e4b358/matchs/2021-2022/summary/Journaux-de-match-Craig-Cathcart
+https://fbref.com/fr/joueurs/43458538/matchs/2021-2022/summary/Journaux-de-match-Joshua-King
+https://fbref.com/fr/joueurs/d0b3ceb9/matchs/2021-2022/summary/Journaux-de-match-Ben-Foster
+https://fbref.com/fr/joueurs/e5d01ecf/matchs/2021-2022/summary/Journaux-de-match-Kiko-Femenia
+https://fbref.com/fr/joueurs/5aaef9ef/matchs/2021-2022/summary/Journaux-de-match-Juraj-Kucka
+https://fbref.com/fr/joueurs/bfdb33aa/matchs/2021-2022/summary/Journaux-de-match-Ismaila-Sarr
+https://fbref.com/fr/joueurs/6cdd8245/matchs/2021-2022/summary/Journaux-de-match-Tom-Cleverley
+https://fbref.com/fr/joueurs/92b4758e/matchs/2021-2022/summary/Journaux-de-match-Samir-Santos
+https://fbref.com/fr/joueurs/19a12bed/matchs/2021-2022/summary/Journaux-de-match-Hassane-Kamara
+https://fbref.com/fr/joueurs/e1df6989/matchs/2021-2022/summary/Journaux-de-match-Imran-Louza
+https://fbref.com/fr/joueurs/e8832875/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/7ed4921e/matchs/2021-2022/summary/Journaux-de-match-William-Troost-Ekong
+https://fbref.com/fr/joueurs/de0f152c/matchs/2021-2022/summary/Journaux-de-match-Adam-Masina
+https://fbref.com/fr/joueurs/914ab9a1/matchs/2021-2022/summary/Journaux-de-match-Christian-Kabasele
+https://fbref.com/fr/joueurs/1c0eea98/matchs/2021-2022/summary/Journaux-de-match-Daniel-Bachmann
+https://fbref.com/fr/joueurs/71b47ab9/matchs/2021-2022/summary/Journaux-de-match-Cucho
+https://fbref.com/fr/joueurs/3631ad41/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Ngakia
+https://fbref.com/fr/joueurs/f99b71de/matchs/2021-2022/summary/Journaux-de-match-Edo-Kayembe
+https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+https://fbref.com/fr/joueurs/89d10e53/matchs/2021-2022/summary/Journaux-de-match-Danny-Rose
+https://fbref.com/fr/joueurs/0f933743/matchs/2021-2022/summary/Journaux-de-match-Francisco-Sierralta
+https://fbref.com/fr/joueurs/b579e83d/matchs/2021-2022/summary/Journaux-de-match-Oghenekaro-Etebo
+https://fbref.com/fr/joueurs/17d45fb2/matchs/2021-2022/summary/Journaux-de-match-Ozan-Tufan
+https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+https://fbref.com/fr/joueurs/93cf32a8/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Nkoulou
+https://fbref.com/fr/joueurs/7fec31a0/matchs/2021-2022/summary/Journaux-de-match-Dan-Gosling
+https://fbref.com/fr/joueurs/eeb6551f/matchs/2021-2022/summary/Journaux-de-match-Ashley-Fletcher
+https://fbref.com/fr/joueurs/82e34b69/matchs/2021-2022/summary/Journaux-de-match-Troy-Deeney
+Number of players : 30
+Go to https://fbref.com/fr/joueurs/1770bd68/matchs/2021-2022/summary/Journaux-de-match-Ken-Sema
+Total Ads removed: 25
+Ken Sema
+Total Ads removed: 25
+Save possession_Ken Sema_Watford_2021.csv 
+Total Ads removed: 24
+Save various-stats_Ken Sema_Watford_2021.csv 
+Done player Ken Sema | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/89d10e53/matchs/2021-2022/summary/Journaux-de-match-Danny-Rose
+Total Ads removed: 24
+Danny Rose
+Save genstats_Watford_Danny Rose_2021.csv 
+Total Ads removed: 27
+Save passes_Danny Rose_Watford_2021.csv 
+Total Ads removed: 24
+Save passes-type_Danny Rose_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Danny Rose_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Danny Rose_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Danny Rose_Watford_2021.csv 
+Total Ads removed: 26
+Save various-stats_Danny Rose_Watford_2021.csv 
+Done player Danny Rose | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/0f933743/matchs/2021-2022/summary/Journaux-de-match-Francisco-Sierralta
+Total Ads removed: 24
+Francisco Sierralta
+Save genstats_Watford_Francisco Sierralta_2021.csv 
+Total Ads removed: 26
+Save passes_Francisco Sierralta_Watford_2021.csv 
+Total Ads removed: 24
+Save passes-type_Francisco Sierralta_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Francisco Sierralta_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Francisco Sierralta_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Francisco Sierralta_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Francisco Sierralta_Watford_2021.csv 
+Done player Francisco Sierralta | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/b579e83d/matchs/2021-2022/summary/Journaux-de-match-Oghenekaro-Etebo
+Total Ads removed: 24
+Oghenekaro Etebo
+Save genstats_Watford_Oghenekaro Etebo_2021.csv 
+Total Ads removed: 23
+Save passes_Oghenekaro Etebo_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Oghenekaro Etebo_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Oghenekaro Etebo_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Oghenekaro Etebo_Watford_2021.csv 
+Total Ads removed: 22
+Save possession_Oghenekaro Etebo_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Oghenekaro Etebo_Watford_2021.csv 
+Done player Oghenekaro Etebo | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/17d45fb2/matchs/2021-2022/summary/Journaux-de-match-Ozan-Tufan
+Total Ads removed: 21
+Ozan Tufan
+Save genstats_Watford_Ozan Tufan_2021.csv 
+Total Ads removed: 22
+Save passes_Ozan Tufan_Watford_2021.csv 
+Total Ads removed: 24
+Save passes-type_Ozan Tufan_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ozan Tufan_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ozan Tufan_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Ozan Tufan_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ozan Tufan_Watford_2021.csv 
+Done player Ozan Tufan | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+Total Ads removed: 23
+Samuel Kalu
+Save genstats_Watford_Samuel Kalu_2021.csv 
+Total Ads removed: 23
+Save passes_Samuel Kalu_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Samuel Kalu_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Samuel Kalu_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Samuel Kalu_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Samuel Kalu_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Samuel Kalu_Watford_2021.csv 
+Done player Samuel Kalu | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/93cf32a8/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Nkoulou
+Total Ads removed: 24
+Nicolas Nkoulou
+Save genstats_Watford_Nicolas Nkoulou_2021.csv 
+Total Ads removed: 24
+Save passes_Nicolas Nkoulou_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nicolas Nkoulou_Watford_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Nicolas Nkoulou_Watford_2021.csv 
+Total Ads removed: 21
+Save defensive-actions_Nicolas Nkoulou_Watford_2021.csv 
+Total Ads removed: 24
+Save possession_Nicolas Nkoulou_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Nicolas Nkoulou_Watford_2021.csv 
+Done player Nicolas Nkoulou | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/7fec31a0/matchs/2021-2022/summary/Journaux-de-match-Dan-Gosling
+Total Ads removed: 23
+Dan Gosling
+Save genstats_Watford_Dan Gosling_2021.csv 
+Total Ads removed: 24
+Save passes_Dan Gosling_Watford_2021.csv 
+Total Ads removed: 25
+Save passes-type_Dan Gosling_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Dan Gosling_Watford_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Dan Gosling_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Dan Gosling_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Dan Gosling_Watford_2021.csv 
+Done player Dan Gosling | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/eeb6551f/matchs/2021-2022/summary/Journaux-de-match-Ashley-Fletcher
+Total Ads removed: 22
+Ashley Fletcher
+Save genstats_Watford_Ashley Fletcher_2021.csv 
+Total Ads removed: 23
+Save passes_Ashley Fletcher_Watford_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ashley Fletcher_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ashley Fletcher_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ashley Fletcher_Watford_2021.csv 
+Total Ads removed: 25
+Save possession_Ashley Fletcher_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ashley Fletcher_Watford_2021.csv 
+Done player Ashley Fletcher | team Watford | 2021
+Go to https://fbref.com/fr/joueurs/82e34b69/matchs/2021-2022/summary/Journaux-de-match-Troy-Deeney
+Total Ads removed: 23
+Troy Deeney
+Save genstats_Watford_Troy Deeney_2021.csv 
+Total Ads removed: 23
+Save passes_Troy Deeney_Watford_2021.csv 
+Total Ads removed: 24
+Save passes-type_Troy Deeney_Watford_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Troy Deeney_Watford_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Troy Deeney_Watford_2021.csv 
+Total Ads removed: 23
+Save possession_Troy Deeney_Watford_2021.csv 
+Total Ads removed: 23
+Save various-stats_Troy Deeney_Watford_2021.csv 
+Done player Troy Deeney | team Watford | 2021
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/0745b37d/matchs/2021-2022/summary/Journaux-de-match-Teemu-Pukki
+https://fbref.com/fr/joueurs/e9254eec/matchs/2021-2022/summary/Journaux-de-match-Grant-Hanley
+https://fbref.com/fr/joueurs/774cf58b/matchs/2021-2022/summary/Journaux-de-match-Max-Aarons
+https://fbref.com/fr/joueurs/471f16b3/matchs/2021-2022/summary/Journaux-de-match-Kenny-McLean
+https://fbref.com/fr/joueurs/f23f9d20/matchs/2021-2022/summary/Journaux-de-match-Tim-Krul
+https://fbref.com/fr/joueurs/bcfb0142/matchs/2021-2022/summary/Journaux-de-match-Ben-Gibson
+https://fbref.com/fr/joueurs/f5044e54/matchs/2021-2022/summary/Journaux-de-match-Pierre-Lees-Melou
+https://fbref.com/fr/joueurs/6c6a3300/matchs/2021-2022/summary/Journaux-de-match-Milot-Rashica
+https://fbref.com/fr/joueurs/5e74d6c8/matchs/2021-2022/summary/Journaux-de-match-Brandon-Williams
+https://fbref.com/fr/joueurs/df10e27c/matchs/2021-2022/summary/Journaux-de-match-Billy-Gilmour
+https://fbref.com/fr/joueurs/8996350d/matchs/2021-2022/summary/Journaux-de-match-Mathias-Normann
+https://fbref.com/fr/joueurs/a8d4428b/matchs/2021-2022/summary/Journaux-de-match-Josh-Sargent
+https://fbref.com/fr/joueurs/112c495e/matchs/2021-2022/summary/Journaux-de-match-Dimitris-Giannoulis
+https://fbref.com/fr/joueurs/1bf811d4/matchs/2021-2022/summary/Journaux-de-match-Sam-Byram
+https://fbref.com/fr/joueurs/2d61d13a/matchs/2021-2022/summary/Journaux-de-match-Ozan-Kabak
+https://fbref.com/fr/joueurs/2f6ec02a/matchs/2021-2022/summary/Journaux-de-match-Kieran-Dowell
+https://fbref.com/fr/joueurs/e082af5b/matchs/2021-2022/summary/Journaux-de-match-Angus-Gunn
+https://fbref.com/fr/joueurs/3faa1780/matchs/2021-2022/summary/Journaux-de-match-Lukas-Rupp
+https://fbref.com/fr/joueurs/291e3ec3/matchs/2021-2022/summary/Journaux-de-match-Adam-Idah
+https://fbref.com/fr/joueurs/953c30b0/matchs/2021-2022/summary/Journaux-de-match-Jakob-Sorensen
+https://fbref.com/fr/joueurs/3c33f9d9/matchs/2021-2022/summary/Journaux-de-match-Przemyslaw-Placheta
+https://fbref.com/fr/joueurs/f63d8a4b/matchs/2021-2022/summary/Journaux-de-match-Todd-Cantwell
+https://fbref.com/fr/joueurs/c393a6c4/matchs/2021-2022/summary/Journaux-de-match-Andrew-Omobamidele
+https://fbref.com/fr/joueurs/9f333379/matchs/2021-2022/summary/Journaux-de-match-Christos-Tzolis
+https://fbref.com/fr/joueurs/2d5f03bf/matchs/2021-2022/summary/Journaux-de-match-Christoph-Zimmermann
+https://fbref.com/fr/joueurs/35be8087/matchs/2021-2022/summary/Journaux-de-match-Tony-Springett
+https://fbref.com/fr/joueurs/8c12f884/matchs/2021-2022/summary/Journaux-de-match-Jon-Rowe
+https://fbref.com/fr/joueurs/2d760d7b/matchs/2021-2022/summary/Journaux-de-match-Bali-Mumba
+Number of players : 28
+Go to https://fbref.com/fr/joueurs/0745b37d/matchs/2021-2022/summary/Journaux-de-match-Teemu-Pukki
+Total Ads removed: 24
+Teemu Pukki
+Save genstats_Norwich City_Teemu Pukki_2021.csv 
+Total Ads removed: 24
+Save passes_Teemu Pukki_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Teemu Pukki_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Teemu Pukki_Norwich City_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Teemu Pukki_Norwich City_2021.csv 
+Total Ads removed: 24
+Save possession_Teemu Pukki_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Teemu Pukki_Norwich City_2021.csv 
+Done player Teemu Pukki | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/e9254eec/matchs/2021-2022/summary/Journaux-de-match-Grant-Hanley
+Total Ads removed: 24
+Grant Hanley
+Save genstats_Norwich City_Grant Hanley_2021.csv 
+Total Ads removed: 22
+Save passes_Grant Hanley_Norwich City_2021.csv 
+Total Ads removed: 22
+Save passes-type_Grant Hanley_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Grant Hanley_Norwich City_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Grant Hanley_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Grant Hanley_Norwich City_2021.csv 
+Total Ads removed: 22
+Save various-stats_Grant Hanley_Norwich City_2021.csv 
+Done player Grant Hanley | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/774cf58b/matchs/2021-2022/summary/Journaux-de-match-Max-Aarons
+Total Ads removed: 22
+Max Aarons
+Save genstats_Norwich City_Max Aarons_2021.csv 
+Total Ads removed: 24
+Save passes_Max Aarons_Norwich City_2021.csv 
+Total Ads removed: 22
+Save passes-type_Max Aarons_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Max Aarons_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Max Aarons_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Max Aarons_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Max Aarons_Norwich City_2021.csv 
+Done player Max Aarons | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/471f16b3/matchs/2021-2022/summary/Journaux-de-match-Kenny-McLean
+Total Ads removed: 22
+Kenny McLean
+Save genstats_Norwich City_Kenny McLean_2021.csv 
+Total Ads removed: 22
+Save passes_Kenny McLean_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Kenny McLean_Norwich City_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Kenny McLean_Norwich City_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Kenny McLean_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Kenny McLean_Norwich City_2021.csv 
+Total Ads removed: 22
+Save various-stats_Kenny McLean_Norwich City_2021.csv 
+Done player Kenny McLean | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/f23f9d20/matchs/2021-2022/summary/Journaux-de-match-Tim-Krul
+Total Ads removed: 25
+Tim Krul
+Save genstats_Norwich City_Tim Krul_2021.csv 
+Total Ads removed: 25
+Save passes_Tim Krul_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Tim Krul_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Tim Krul_Norwich City_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Tim Krul_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Tim Krul_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Tim Krul_Norwich City_2021.csv 
+Total Ads removed: 24
+Save keeper_Tim Krul_Norwich City_2021.csv 
+Done player Tim Krul | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/bcfb0142/matchs/2021-2022/summary/Journaux-de-match-Ben-Gibson
+Total Ads removed: 22
+Ben Gibson
+Save genstats_Norwich City_Ben Gibson_2021.csv 
+Total Ads removed: 21
+Save passes_Ben Gibson_Norwich City_2021.csv 
+Total Ads removed: 22
+Save passes-type_Ben Gibson_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ben Gibson_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ben Gibson_Norwich City_2021.csv 
+Total Ads removed: 21
+Save possession_Ben Gibson_Norwich City_2021.csv 
+Total Ads removed: 21
+Save various-stats_Ben Gibson_Norwich City_2021.csv 
+Done player Ben Gibson | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/f5044e54/matchs/2021-2022/summary/Journaux-de-match-Pierre-Lees-Melou
+Total Ads removed: 25
+Pierre Lees-Melou
+Save genstats_Norwich City_Pierre Lees-Melou_2021.csv 
+Total Ads removed: 22
+Save passes_Pierre Lees-Melou_Norwich City_2021.csv 
+Total Ads removed: 25
+Save passes-type_Pierre Lees-Melou_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Pierre Lees-Melou_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Pierre Lees-Melou_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Pierre Lees-Melou_Norwich City_2021.csv 
+Total Ads removed: 22
+Save various-stats_Pierre Lees-Melou_Norwich City_2021.csv 
+Done player Pierre Lees-Melou | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/6c6a3300/matchs/2021-2022/summary/Journaux-de-match-Milot-Rashica
+Total Ads removed: 22
+Milot Rashica
+Save genstats_Norwich City_Milot Rashica_2021.csv 
+Total Ads removed: 22
+Save passes_Milot Rashica_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Milot Rashica_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Milot Rashica_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Milot Rashica_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Milot Rashica_Norwich City_2021.csv 
+Total Ads removed: 22
+Save various-stats_Milot Rashica_Norwich City_2021.csv 
+Done player Milot Rashica | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/5e74d6c8/matchs/2021-2022/summary/Journaux-de-match-Brandon-Williams
+Total Ads removed: 22
+Brandon Williams
+Save genstats_Norwich City_Brandon Williams_2021.csv 
+Total Ads removed: 24
+Save passes_Brandon Williams_Norwich City_2021.csv 
+Total Ads removed: 24
+Save passes-type_Brandon Williams_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Brandon Williams_Norwich City_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Brandon Williams_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Brandon Williams_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Brandon Williams_Norwich City_2021.csv 
+Done player Brandon Williams | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/df10e27c/matchs/2021-2022/summary/Journaux-de-match-Billy-Gilmour
+Total Ads removed: 22
+Billy Gilmour
+Save genstats_Norwich City_Billy Gilmour_2021.csv 
+Total Ads removed: 22
+Save passes_Billy Gilmour_Norwich City_2021.csv 
+Total Ads removed: 22
+Save passes-type_Billy Gilmour_Norwich City_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Billy Gilmour_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Billy Gilmour_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Billy Gilmour_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Billy Gilmour_Norwich City_2021.csv 
+Done player Billy Gilmour | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/8996350d/matchs/2021-2022/summary/Journaux-de-match-Mathias-Normann
+Total Ads removed: 22
+Mathias Normann
+Save genstats_Norwich City_Mathias Normann_2021.csv 
+Total Ads removed: 23
+Save passes_Mathias Normann_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Mathias Normann_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Mathias Normann_Norwich City_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mathias Normann_Norwich City_2021.csv 
+Total Ads removed: 24
+Save possession_Mathias Normann_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mathias Normann_Norwich City_2021.csv 
+Done player Mathias Normann | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/a8d4428b/matchs/2021-2022/summary/Journaux-de-match-Josh-Sargent
+Total Ads removed: 22
+Josh Sargent
+Total Ads removed: 23
+Total Ads removed: 25
+Total Ads removed: 22
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Josh Sargent | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/112c495e/matchs/2021-2022/summary/Journaux-de-match-Dimitris-Giannoulis
+Total Ads removed: 24
+Dimitris Giannoulis
+Save genstats_Norwich City_Dimitris Giannoulis_2021.csv 
+Total Ads removed: 23
+Save passes_Dimitris Giannoulis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Dimitris Giannoulis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Dimitris Giannoulis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Dimitris Giannoulis_Norwich City_2021.csv 
+Total Ads removed: 24
+Save possession_Dimitris Giannoulis_Norwich City_2021.csv 
+Total Ads removed: 24
+Save various-stats_Dimitris Giannoulis_Norwich City_2021.csv 
+Done player Dimitris Giannoulis | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/1bf811d4/matchs/2021-2022/summary/Journaux-de-match-Sam-Byram
+Total Ads removed: 22
+Sam Byram
+Save genstats_Norwich City_Sam Byram_2021.csv 
+Total Ads removed: 24
+Save passes_Sam Byram_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Sam Byram_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Sam Byram_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Sam Byram_Norwich City_2021.csv 
+Total Ads removed: 24
+Save possession_Sam Byram_Norwich City_2021.csv 
+Total Ads removed: 24
+Save various-stats_Sam Byram_Norwich City_2021.csv 
+Done player Sam Byram | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/2d61d13a/matchs/2021-2022/summary/Journaux-de-match-Ozan-Kabak
+Total Ads removed: 22
+Ozan Kabak
+Save genstats_Norwich City_Ozan Kabak_2021.csv 
+Total Ads removed: 24
+Save passes_Ozan Kabak_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ozan Kabak_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ozan Kabak_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ozan Kabak_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Ozan Kabak_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ozan Kabak_Norwich City_2021.csv 
+Done player Ozan Kabak | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/2f6ec02a/matchs/2021-2022/summary/Journaux-de-match-Kieran-Dowell
+Total Ads removed: 23
+Kieran Dowell
+Save genstats_Norwich City_Kieran Dowell_2021.csv 
+Total Ads removed: 23
+Save passes_Kieran Dowell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Kieran Dowell_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Kieran Dowell_Norwich City_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Kieran Dowell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Kieran Dowell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Kieran Dowell_Norwich City_2021.csv 
+Done player Kieran Dowell | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/e082af5b/matchs/2021-2022/summary/Journaux-de-match-Angus-Gunn
+Total Ads removed: 22
+Angus Gunn
+Save genstats_Norwich City_Angus Gunn_2021.csv 
+Total Ads removed: 22
+Save passes_Angus Gunn_Norwich City_2021.csv 
+Total Ads removed: 24
+Save passes-type_Angus Gunn_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Angus Gunn_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Angus Gunn_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Angus Gunn_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Angus Gunn_Norwich City_2021.csv 
+Total Ads removed: 22
+Save keeper_Angus Gunn_Norwich City_2021.csv 
+Done player Angus Gunn | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/3faa1780/matchs/2021-2022/summary/Journaux-de-match-Lukas-Rupp
+Total Ads removed: 21
+Lukas Rupp
+Save genstats_Norwich City_Lukas Rupp_2021.csv 
+Total Ads removed: 23
+Save passes_Lukas Rupp_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Lukas Rupp_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Lukas Rupp_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Lukas Rupp_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Lukas Rupp_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Lukas Rupp_Norwich City_2021.csv 
+Done player Lukas Rupp | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/291e3ec3/matchs/2021-2022/summary/Journaux-de-match-Adam-Idah
+Total Ads removed: 22
+Adam Idah
+Save genstats_Norwich City_Adam Idah_2021.csv 
+Total Ads removed: 23
+Save passes_Adam Idah_Norwich City_2021.csv 
+Total Ads removed: 22
+Save passes-type_Adam Idah_Norwich City_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Adam Idah_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Adam Idah_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Adam Idah_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Adam Idah_Norwich City_2021.csv 
+Done player Adam Idah | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/953c30b0/matchs/2021-2022/summary/Journaux-de-match-Jakob-Sorensen
+Total Ads removed: 22
+Jakob Sørensen
+Save genstats_Norwich City_Jakob Sørensen_2021.csv 
+Total Ads removed: 24
+Save passes_Jakob Sørensen_Norwich City_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jakob Sørensen_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Jakob Sørensen_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Jakob Sørensen_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Jakob Sørensen_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jakob Sørensen_Norwich City_2021.csv 
+Done player Jakob Sørensen | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/3c33f9d9/matchs/2021-2022/summary/Journaux-de-match-Przemyslaw-Placheta
+Total Ads removed: 22
+Przemysław Płacheta
+Save genstats_Norwich City_Przemysław Płacheta_2021.csv 
+Total Ads removed: 23
+Save passes_Przemysław Płacheta_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Przemysław Płacheta_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Przemysław Płacheta_Norwich City_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Przemysław Płacheta_Norwich City_2021.csv 
+Total Ads removed: 25
+Save possession_Przemysław Płacheta_Norwich City_2021.csv 
+Total Ads removed: 25
+Save various-stats_Przemysław Płacheta_Norwich City_2021.csv 
+Done player Przemysław Płacheta | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/f63d8a4b/matchs/2021-2022/summary/Journaux-de-match-Todd-Cantwell
+Total Ads removed: 22
+Todd Cantwell
+Save genstats_Norwich City_Todd Cantwell_2021.csv 
+Total Ads removed: 23
+Save passes_Todd Cantwell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Todd Cantwell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Todd Cantwell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Todd Cantwell_Norwich City_2021.csv 
+Total Ads removed: 24
+Save possession_Todd Cantwell_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Todd Cantwell_Norwich City_2021.csv 
+Done player Todd Cantwell | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/c393a6c4/matchs/2021-2022/summary/Journaux-de-match-Andrew-Omobamidele
+Total Ads removed: 22
+Andrew Omobamidele
+Save genstats_Norwich City_Andrew Omobamidele_2021.csv 
+Total Ads removed: 22
+Save passes_Andrew Omobamidele_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Andrew Omobamidele_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrew Omobamidele_Norwich City_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Andrew Omobamidele_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Andrew Omobamidele_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Andrew Omobamidele_Norwich City_2021.csv 
+Done player Andrew Omobamidele | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/9f333379/matchs/2021-2022/summary/Journaux-de-match-Christos-Tzolis
+Total Ads removed: 26
+Christos Tzolis
+Save genstats_Norwich City_Christos Tzolis_2021.csv 
+Total Ads removed: 24
+Save passes_Christos Tzolis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Christos Tzolis_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Christos Tzolis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Christos Tzolis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Christos Tzolis_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Christos Tzolis_Norwich City_2021.csv 
+Done player Christos Tzolis | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/2d5f03bf/matchs/2021-2022/summary/Journaux-de-match-Christoph-Zimmermann
+Total Ads removed: 24
+Christoph Zimmermann
+Save genstats_Norwich City_Christoph Zimmermann_2021.csv 
+Total Ads removed: 24
+Save passes_Christoph Zimmermann_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Christoph Zimmermann_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Christoph Zimmermann_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Christoph Zimmermann_Norwich City_2021.csv 
+Total Ads removed: 22
+Save possession_Christoph Zimmermann_Norwich City_2021.csv 
+Total Ads removed: 24
+Save various-stats_Christoph Zimmermann_Norwich City_2021.csv 
+Done player Christoph Zimmermann | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/35be8087/matchs/2021-2022/summary/Journaux-de-match-Tony-Springett
+Total Ads removed: 23
+Tony Springett
+Save genstats_Norwich City_Tony Springett_2021.csv 
+Total Ads removed: 23
+Save passes_Tony Springett_Norwich City_2021.csv 
+Total Ads removed: 24
+Save passes-type_Tony Springett_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Tony Springett_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Tony Springett_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Tony Springett_Norwich City_2021.csv 
+Total Ads removed: 24
+Save various-stats_Tony Springett_Norwich City_2021.csv 
+Done player Tony Springett | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/8c12f884/matchs/2021-2022/summary/Journaux-de-match-Jon-Rowe
+Total Ads removed: 23
+Jon Rowe
+Save genstats_Norwich City_Jon Rowe_2021.csv 
+Total Ads removed: 23
+Save passes_Jon Rowe_Norwich City_2021.csv 
+Total Ads removed: 23
+Save passes-type_Jon Rowe_Norwich City_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jon Rowe_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Jon Rowe_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Jon Rowe_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jon Rowe_Norwich City_2021.csv 
+Done player Jon Rowe | team Norwich City | 2021
+Go to https://fbref.com/fr/joueurs/2d760d7b/matchs/2021-2022/summary/Journaux-de-match-Bali-Mumba
+Total Ads removed: 22
+Bali Mumba
+Save genstats_Norwich City_Bali Mumba_2021.csv 
+Total Ads removed: 23
+Save passes_Bali Mumba_Norwich City_2021.csv 
+Total Ads removed: 24
+Save passes-type_Bali Mumba_Norwich City_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Bali Mumba_Norwich City_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Bali Mumba_Norwich City_2021.csv 
+Total Ads removed: 23
+Save possession_Bali Mumba_Norwich City_2021.csv 
+Total Ads removed: 23
+Save various-stats_Bali Mumba_Norwich City_2021.csv 
+Done player Bali Mumba | team Norwich City | 2021

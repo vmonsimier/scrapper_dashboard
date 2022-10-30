@@ -8465,3 +8465,2973 @@ Total Ads removed: 22
 Save passes-type_Salvador Ferrer_Spezia_2021.csv 
 Total Ads removed: 24
 Save penalty-prep_Salvador Ferrer_Spezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Salvador Ferrer_Spezia_2021.csv 
+Total Ads removed: 23
+Save possession_Salvador Ferrer_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Salvador Ferrer_Spezia_2021.csv 
+Done player Salvador Ferrer | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/d8800a46/matchs/2021-2022/summary/Journaux-de-match-Petko-Hristov
+Total Ads removed: 23
+Petko Hristov
+Save genstats_Spezia_Petko Hristov_2021.csv 
+Total Ads removed: 25
+Save passes_Petko Hristov_Spezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Petko Hristov_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Petko Hristov_Spezia_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Petko Hristov_Spezia_2021.csv 
+Total Ads removed: 26
+Save possession_Petko Hristov_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Petko Hristov_Spezia_2021.csv 
+Done player Petko Hristov | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/da5a981b/matchs/2021-2022/summary/Journaux-de-match-Jacopo-Sala
+Total Ads removed: 22
+Jacopo Sala
+Save genstats_Spezia_Jacopo Sala_2021.csv 
+Total Ads removed: 24
+Save passes_Jacopo Sala_Spezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jacopo Sala_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jacopo Sala_Spezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jacopo Sala_Spezia_2021.csv 
+Total Ads removed: 21
+Save possession_Jacopo Sala_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jacopo Sala_Spezia_2021.csv 
+Done player Jacopo Sala | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/46fa7204/matchs/2021-2022/summary/Journaux-de-match-Kevin-Agudelo
+Total Ads removed: 25
+Kevin Agudelo
+Save genstats_Spezia_Kevin Agudelo_2021.csv 
+Total Ads removed: 25
+Save passes_Kevin Agudelo_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Kevin Agudelo_Spezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Kevin Agudelo_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Kevin Agudelo_Spezia_2021.csv 
+Total Ads removed: 26
+Save possession_Kevin Agudelo_Spezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Kevin Agudelo_Spezia_2021.csv 
+Done player Kevin Agudelo | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/a4948e67/matchs/2021-2022/summary/Journaux-de-match-MBala-Nzola
+Total Ads removed: 24
+M'Bala Nzola
+Save genstats_Spezia_M'Bala Nzola_2021.csv 
+Total Ads removed: 24
+Save passes_M'Bala Nzola_Spezia_2021.csv 
+Total Ads removed: 24
+Save passes-type_M'Bala Nzola_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_M'Bala Nzola_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_M'Bala Nzola_Spezia_2021.csv 
+Total Ads removed: 23
+Save possession_M'Bala Nzola_Spezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_M'Bala Nzola_Spezia_2021.csv 
+Done player M'Bala Nzola | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/38d9ce53/matchs/2021-2022/summary/Journaux-de-match-Janis-Antiste
+Total Ads removed: 24
+Janis Antiste
+Save genstats_Spezia_Janis Antiste_2021.csv 
+Total Ads removed: 25
+Save passes_Janis Antiste_Spezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Janis Antiste_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Janis Antiste_Spezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Janis Antiste_Spezia_2021.csv 
+Total Ads removed: 23
+Save possession_Janis Antiste_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Janis Antiste_Spezia_2021.csv 
+Done player Janis Antiste | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/cc1a0c57/matchs/2021-2022/summary/Journaux-de-match-Jeroen-Zoet
+Total Ads removed: 23
+Jeroen Zoet
+Save genstats_Spezia_Jeroen Zoet_2021.csv 
+Total Ads removed: 24
+Save passes_Jeroen Zoet_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Jeroen Zoet_Spezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Jeroen Zoet_Spezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jeroen Zoet_Spezia_2021.csv 
+Total Ads removed: 22
+Save possession_Jeroen Zoet_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jeroen Zoet_Spezia_2021.csv 
+Total Ads removed: 23
+Save keeper_Jeroen Zoet_Spezia_2021.csv 
+Done player Jeroen Zoet | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/2cb9486d/matchs/2021-2022/summary/Journaux-de-match-David-Strelec
+Total Ads removed: 22
+Dávid Strelec
+Save genstats_Spezia_Dávid Strelec_2021.csv 
+Total Ads removed: 24
+Save passes_Dávid Strelec_Spezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Dávid Strelec_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Dávid Strelec_Spezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Dávid Strelec_Spezia_2021.csv 
+Total Ads removed: 23
+Save possession_Dávid Strelec_Spezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Dávid Strelec_Spezia_2021.csv 
+Done player Dávid Strelec | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/0489bb30/matchs/2021-2022/summary/Journaux-de-match-Eddie-Salcedo
+Total Ads removed: 23
+Eddie Salcedo
+Save genstats_Spezia_Eddie Salcedo_2021.csv 
+Total Ads removed: 23
+Save passes_Eddie Salcedo_Spezia_2021.csv 
+Total Ads removed: 24
+Save passes-type_Eddie Salcedo_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Eddie Salcedo_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Eddie Salcedo_Spezia_2021.csv 
+Total Ads removed: 28
+Save possession_Eddie Salcedo_Spezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Eddie Salcedo_Spezia_2021.csv 
+Done player Eddie Salcedo | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/bf356094/matchs/2021-2022/summary/Journaux-de-match-Ebrima-Colley
+Total Ads removed: 23
+Ebrima Colley
+Save genstats_Spezia_Ebrima Colley_2021.csv 
+Total Ads removed: 23
+Save passes_Ebrima Colley_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ebrima Colley_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ebrima Colley_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ebrima Colley_Spezia_2021.csv 
+Total Ads removed: 22
+Save possession_Ebrima Colley_Spezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Ebrima Colley_Spezia_2021.csv 
+Done player Ebrima Colley | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/0d077b88/matchs/2021-2022/summary/Journaux-de-match-Mehdi-Bourabia
+Total Ads removed: 23
+Mehdi Bourabia
+Save genstats_Spezia_Mehdi Bourabia_2021.csv 
+Total Ads removed: 24
+Save passes_Mehdi Bourabia_Spezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Mehdi Bourabia_Spezia_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Mehdi Bourabia_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Mehdi Bourabia_Spezia_2021.csv 
+Total Ads removed: 22
+Save possession_Mehdi Bourabia_Spezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Mehdi Bourabia_Spezia_2021.csv 
+Done player Mehdi Bourabia | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/d697a2d0/matchs/2021-2022/summary/Journaux-de-match-Suf-Podgoreanu
+Total Ads removed: 22
+Suf Podgoreanu
+Save genstats_Spezia_Suf Podgoreanu_2021.csv 
+Total Ads removed: 23
+Save passes_Suf Podgoreanu_Spezia_2021.csv 
+Total Ads removed: 24
+Save passes-type_Suf Podgoreanu_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Suf Podgoreanu_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Suf Podgoreanu_Spezia_2021.csv 
+Total Ads removed: 25
+Save possession_Suf Podgoreanu_Spezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Suf Podgoreanu_Spezia_2021.csv 
+Done player Suf Podgoreanu | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/c1e8e74e/matchs/2021-2022/summary/Journaux-de-match-Luca-Vignali
+Total Ads removed: 23
+Luca Vignali
+Save genstats_Spezia_Luca Vignali_2021.csv 
+Total Ads removed: 23
+Save passes_Luca Vignali_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Luca Vignali_Spezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Luca Vignali_Spezia_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Luca Vignali_Spezia_2021.csv 
+Total Ads removed: 25
+Save possession_Luca Vignali_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Luca Vignali_Spezia_2021.csv 
+Done player Luca Vignali | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/be6c1ccc/matchs/2021-2022/summary/Journaux-de-match-Samuel-Mraz
+Total Ads removed: 22
+Samuel Mráz
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 26
+Total Ads removed: 26
+Total Ads removed: 25
+Total Ads removed: 23
+Done player Samuel Mráz | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/de135234/matchs/2021-2022/summary/Journaux-de-match-Aurelien-Nguiamba
+Total Ads removed: 22
+Aurélien Nguiamba
+Save genstats_Spezia_Aurélien Nguiamba_2021.csv 
+Total Ads removed: 23
+Save passes_Aurélien Nguiamba_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Aurélien Nguiamba_Spezia_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Aurélien Nguiamba_Spezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Aurélien Nguiamba_Spezia_2021.csv 
+Total Ads removed: 23
+Save possession_Aurélien Nguiamba_Spezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Aurélien Nguiamba_Spezia_2021.csv 
+Done player Aurélien Nguiamba | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/ef301f96/matchs/2021-2022/summary/Journaux-de-match-Aimar-Sher
+Total Ads removed: 23
+Aimar Sher
+Save genstats_Spezia_Aimar Sher_2021.csv 
+Total Ads removed: 23
+Save passes_Aimar Sher_Spezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Aimar Sher_Spezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Aimar Sher_Spezia_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Aimar Sher_Spezia_2021.csv 
+Total Ads removed: 24
+Save possession_Aimar Sher_Spezia_2021.csv 
+Total Ads removed: 25
+Save various-stats_Aimar Sher_Spezia_2021.csv 
+Done player Aimar Sher | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/04b40c58/matchs/2021-2022/summary/Journaux-de-match-Nicolo-Bertola
+Total Ads removed: 22
+Nicolò Bertola
+Save genstats_Spezia_Nicolò Bertola_2021.csv 
+Total Ads removed: 22
+Save passes_Nicolò Bertola_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nicolò Bertola_Spezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Nicolò Bertola_Spezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Nicolò Bertola_Spezia_2021.csv 
+Total Ads removed: 23
+Save possession_Nicolò Bertola_Spezia_2021.csv 
+Total Ads removed: 25
+Save various-stats_Nicolò Bertola_Spezia_2021.csv 
+Done player Nicolò Bertola | team Spezia | 2021
+Go to https://fbref.com/fr/joueurs/54f6afe3/matchs/2021-2022/summary/Journaux-de-match-Petar-Zovko
+Total Ads removed: 23
+Petar Zovko
+Save genstats_Spezia_Petar Zovko_2021.csv 
+Total Ads removed: 23
+Save passes_Petar Zovko_Spezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Petar Zovko_Spezia_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Petar Zovko_Spezia_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Petar Zovko_Spezia_2021.csv 
+Total Ads removed: 25
+Save possession_Petar Zovko_Spezia_2021.csv 
+Total Ads removed: 25
+Save various-stats_Petar Zovko_Spezia_2021.csv 
+Total Ads removed: 23
+Save keeper_Petar Zovko_Spezia_2021.csv 
+Done player Petar Zovko | team Spezia | 2021
+Total Ads removed: 25
+https://fbref.com/fr/joueurs/0be276c6/matchs/2021-2022/summary/Journaux-de-match-Norbert-Gyomber
+https://fbref.com/fr/joueurs/85a44ecc/matchs/2021-2022/summary/Journaux-de-match-Lassana-Coulibaly
+https://fbref.com/fr/joueurs/8c63fae5/matchs/2021-2022/summary/Journaux-de-match-Luca-Ranieri
+https://fbref.com/fr/joueurs/405f6586/matchs/2021-2022/summary/Journaux-de-match-Milan-Djuric
+https://fbref.com/fr/joueurs/4f8ce0e1/matchs/2021-2022/summary/Journaux-de-match-Vid-Belec
+https://fbref.com/fr/joueurs/bf57eaab/matchs/2021-2022/summary/Journaux-de-match-Federico-Bonazzoli
+https://fbref.com/fr/joueurs/4e358a2d/matchs/2021-2022/summary/Journaux-de-match-Federico-Fazio
+https://fbref.com/fr/joueurs/f61c7c4e/matchs/2021-2022/summary/Journaux-de-match-Franck-Ribery
+https://fbref.com/fr/joueurs/343f753a/matchs/2021-2022/summary/Journaux-de-match-Luigi-Sepe
+https://fbref.com/fr/joueurs/2a82aa85/matchs/2021-2022/summary/Journaux-de-match-Grigoris-Kastanos
+https://fbref.com/fr/joueurs/eb0ec070/matchs/2021-2022/summary/Journaux-de-match-Pasquale-Mazzocchi
+https://fbref.com/fr/joueurs/b5c3ff9f/matchs/2021-2022/summary/Journaux-de-match-Francesco-Di-Tacchio
+https://fbref.com/fr/joueurs/82598b71/matchs/2021-2022/summary/Journaux-de-match-Nadir-Zortea
+https://fbref.com/fr/joueurs/a9202def/matchs/2021-2022/summary/Journaux-de-match-Ederson
+https://fbref.com/fr/joueurs/614c38fb/matchs/2021-2022/summary/Journaux-de-match-Joel-Obi
+https://fbref.com/fr/joueurs/173061c0/matchs/2021-2022/summary/Journaux-de-match-Riccardo-Gagliolo
+https://fbref.com/fr/joueurs/023937a9/matchs/2021-2022/summary/Journaux-de-match-Ivan-Radovanovic
+https://fbref.com/fr/joueurs/6d5e62b0/matchs/2021-2022/summary/Journaux-de-match-Stefan-Strandberg
+https://fbref.com/fr/joueurs/0375723e/matchs/2021-2022/summary/Journaux-de-match-Simone-Verdi
+https://fbref.com/fr/joueurs/11962fe7/matchs/2021-2022/summary/Journaux-de-match-Wajdi-Kechrida
+https://fbref.com/fr/joueurs/80dbbd10/matchs/2021-2022/summary/Journaux-de-match-Simeon-Nwankwo
+https://fbref.com/fr/joueurs/ff37d2ef/matchs/2021-2022/summary/Journaux-de-match-Cedric-Gondo
+https://fbref.com/fr/joueurs/c976160c/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Coulibaly
+https://fbref.com/fr/joueurs/c83c203f/matchs/2021-2022/summary/Journaux-de-match-Emil-Bohinen
+https://fbref.com/fr/joueurs/ae9898c5/matchs/2021-2022/summary/Journaux-de-match-Matteo-Ruggeri
+https://fbref.com/fr/joueurs/d541e703/matchs/2021-2022/summary/Journaux-de-match-Freddie-Veseli
+https://fbref.com/fr/joueurs/4b55eb4d/matchs/2021-2022/summary/Journaux-de-match-Andrea-Schiavone
+https://fbref.com/fr/joueurs/620922ed/matchs/2021-2022/summary/Journaux-de-match-Radu-Dragusin
+https://fbref.com/fr/joueurs/958a601f/matchs/2021-2022/summary/Journaux-de-match-Pawel-Jaroszynski
+https://fbref.com/fr/joueurs/cb678320/matchs/2021-2022/summary/Journaux-de-match-Luka-Bogdan
+https://fbref.com/fr/joueurs/d2e8fd9b/matchs/2021-2022/summary/Journaux-de-match-Filippo-Delli-Carri
+https://fbref.com/fr/joueurs/07ea0ef2/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Capezzi
+https://fbref.com/fr/joueurs/d9cfca3d/matchs/2021-2022/summary/Journaux-de-match-Lys-Mousset
+https://fbref.com/fr/joueurs/6a1f66a7/matchs/2021-2022/summary/Journaux-de-match-Ramzi-Aya
+https://fbref.com/fr/joueurs/a40d5a0c/matchs/2021-2022/summary/Journaux-de-match-Diego-Perotti
+https://fbref.com/fr/joueurs/2873973b/matchs/2021-2022/summary/Journaux-de-match-Edoardo-Vergani
+https://fbref.com/fr/joueurs/a2565f79/matchs/2021-2022/summary/Journaux-de-match-Vincenzo-Fiorillo
+https://fbref.com/fr/joueurs/b64073a0/matchs/2021-2022/summary/Journaux-de-match-Andrei-Motoc
+https://fbref.com/fr/joueurs/33502726/matchs/2021-2022/summary/Journaux-de-match-Mikael
+https://fbref.com/fr/joueurs/7152082d/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Russo
+https://fbref.com/fr/joueurs/6cd33e2a/matchs/2021-2022/summary/Journaux-de-match-Mario-Perrone
+https://fbref.com/fr/joueurs/b804c280/matchs/2021-2022/summary/Journaux-de-match-Julian-Kristoffersen
+Number of players : 42
+Go to https://fbref.com/fr/joueurs/0be276c6/matchs/2021-2022/summary/Journaux-de-match-Norbert-Gyomber
+Total Ads removed: 23
+Norbert Gyömbér
+Save genstats_Salernitana_Norbert Gyömbér_2021.csv 
+Total Ads removed: 24
+Save passes_Norbert Gyömbér_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Norbert Gyömbér_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Norbert Gyömbér_Salernitana_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Norbert Gyömbér_Salernitana_2021.csv 
+Total Ads removed: 25
+Save possession_Norbert Gyömbér_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Norbert Gyömbér_Salernitana_2021.csv 
+Done player Norbert Gyömbér | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/85a44ecc/matchs/2021-2022/summary/Journaux-de-match-Lassana-Coulibaly
+Total Ads removed: 22
+Lassana Coulibaly
+Save genstats_Salernitana_Lassana Coulibaly_2021.csv 
+Total Ads removed: 24
+Save passes_Lassana Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Lassana Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Lassana Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Lassana Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 25
+Save possession_Lassana Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Lassana Coulibaly_Salernitana_2021.csv 
+Done player Lassana Coulibaly | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/8c63fae5/matchs/2021-2022/summary/Journaux-de-match-Luca-Ranieri
+Total Ads removed: 22
+Luca Ranieri
+Save genstats_Salernitana_Luca Ranieri_2021.csv 
+Total Ads removed: 23
+Save passes_Luca Ranieri_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Luca Ranieri_Salernitana_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Luca Ranieri_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Luca Ranieri_Salernitana_2021.csv 
+Total Ads removed: 25
+Save possession_Luca Ranieri_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Luca Ranieri_Salernitana_2021.csv 
+Done player Luca Ranieri | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/405f6586/matchs/2021-2022/summary/Journaux-de-match-Milan-Djuric
+Total Ads removed: 23
+Milan Đurić
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 26
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Done player Milan Đurić | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/4f8ce0e1/matchs/2021-2022/summary/Journaux-de-match-Vid-Belec
+Total Ads removed: 22
+Vid Belec
+Save genstats_Salernitana_Vid Belec_2021.csv 
+Total Ads removed: 23
+Save passes_Vid Belec_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Vid Belec_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Vid Belec_Salernitana_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Vid Belec_Salernitana_2021.csv 
+Total Ads removed: 24
+Save possession_Vid Belec_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Vid Belec_Salernitana_2021.csv 
+Total Ads removed: 23
+Save keeper_Vid Belec_Salernitana_2021.csv 
+Done player Vid Belec | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/bf57eaab/matchs/2021-2022/summary/Journaux-de-match-Federico-Bonazzoli
+Total Ads removed: 22
+Federico Bonazzoli
+Save genstats_Salernitana_Federico Bonazzoli_2021.csv 
+Total Ads removed: 22
+Save passes_Federico Bonazzoli_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Federico Bonazzoli_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Federico Bonazzoli_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Federico Bonazzoli_Salernitana_2021.csv 
+Total Ads removed: 24
+Save possession_Federico Bonazzoli_Salernitana_2021.csv 
+Total Ads removed: 25
+Save various-stats_Federico Bonazzoli_Salernitana_2021.csv 
+Done player Federico Bonazzoli | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/4e358a2d/matchs/2021-2022/summary/Journaux-de-match-Federico-Fazio
+Total Ads removed: 22
+Federico Fazio
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Federico Fazio | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/f61c7c4e/matchs/2021-2022/summary/Journaux-de-match-Franck-Ribery
+Total Ads removed: 23
+Franck Ribéry
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 24
+Done player Franck Ribéry | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/343f753a/matchs/2021-2022/summary/Journaux-de-match-Luigi-Sepe
+Total Ads removed: 22
+Luigi Sepe
+Total Ads removed: 23
+Total Ads removed: 25
+Total Ads removed: 26
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Luigi Sepe | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/2a82aa85/matchs/2021-2022/summary/Journaux-de-match-Grigoris-Kastanos
+Total Ads removed: 22
+Grigoris Kastanos
+Save genstats_Salernitana_Grigoris Kastanos_2021.csv 
+Total Ads removed: 24
+Save passes_Grigoris Kastanos_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Grigoris Kastanos_Salernitana_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Grigoris Kastanos_Salernitana_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Grigoris Kastanos_Salernitana_2021.csv 
+Total Ads removed: 24
+Save possession_Grigoris Kastanos_Salernitana_2021.csv 
+Total Ads removed: 22
+Save various-stats_Grigoris Kastanos_Salernitana_2021.csv 
+Done player Grigoris Kastanos | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/eb0ec070/matchs/2021-2022/summary/Journaux-de-match-Pasquale-Mazzocchi
+Total Ads removed: 22
+Pasquale Mazzocchi
+Save genstats_Salernitana_Pasquale Mazzocchi_2021.csv 
+Total Ads removed: 22
+Save passes_Pasquale Mazzocchi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Pasquale Mazzocchi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Pasquale Mazzocchi_Salernitana_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Pasquale Mazzocchi_Salernitana_2021.csv 
+Total Ads removed: 26
+Save possession_Pasquale Mazzocchi_Salernitana_2021.csv 
+Total Ads removed: 25
+Save various-stats_Pasquale Mazzocchi_Salernitana_2021.csv 
+Done player Pasquale Mazzocchi | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/b5c3ff9f/matchs/2021-2022/summary/Journaux-de-match-Francesco-Di-Tacchio
+Total Ads removed: 22
+Francesco Di Tacchio
+Save genstats_Salernitana_Francesco Di Tacchio_2021.csv 
+Total Ads removed: 22
+Save passes_Francesco Di Tacchio_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Francesco Di Tacchio_Salernitana_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Francesco Di Tacchio_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Francesco Di Tacchio_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Francesco Di Tacchio_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Francesco Di Tacchio_Salernitana_2021.csv 
+Done player Francesco Di Tacchio | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/82598b71/matchs/2021-2022/summary/Journaux-de-match-Nadir-Zortea
+Total Ads removed: 22
+Nadir Zortea
+Save genstats_Salernitana_Nadir Zortea_2021.csv 
+Total Ads removed: 23
+Save passes_Nadir Zortea_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Nadir Zortea_Salernitana_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Nadir Zortea_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Nadir Zortea_Salernitana_2021.csv 
+Total Ads removed: 22
+Save possession_Nadir Zortea_Salernitana_2021.csv 
+Total Ads removed: 22
+Save various-stats_Nadir Zortea_Salernitana_2021.csv 
+Done player Nadir Zortea | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/a9202def/matchs/2021-2022/summary/Journaux-de-match-Ederson
+Total Ads removed: 23
+Éderson
+Save genstats_Salernitana_Éderson_2021.csv 
+Total Ads removed: 23
+Save passes_Éderson_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Éderson_Salernitana_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Éderson_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Éderson_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Éderson_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Éderson_Salernitana_2021.csv 
+Done player Éderson | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/614c38fb/matchs/2021-2022/summary/Journaux-de-match-Joel-Obi
+Total Ads removed: 22
+Joel Obi
+Save genstats_Salernitana_Joel Obi_2021.csv 
+Total Ads removed: 23
+Save passes_Joel Obi_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Joel Obi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Joel Obi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Joel Obi_Salernitana_2021.csv 
+Total Ads removed: 22
+Save possession_Joel Obi_Salernitana_2021.csv 
+Total Ads removed: 25
+Save various-stats_Joel Obi_Salernitana_2021.csv 
+Done player Joel Obi | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/173061c0/matchs/2021-2022/summary/Journaux-de-match-Riccardo-Gagliolo
+Total Ads removed: 23
+Riccardo Gagliolo
+Save genstats_Salernitana_Riccardo Gagliolo_2021.csv 
+Total Ads removed: 23
+Save passes_Riccardo Gagliolo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Riccardo Gagliolo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Riccardo Gagliolo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Riccardo Gagliolo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Riccardo Gagliolo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Riccardo Gagliolo_Salernitana_2021.csv 
+Done player Riccardo Gagliolo | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/023937a9/matchs/2021-2022/summary/Journaux-de-match-Ivan-Radovanovic
+Total Ads removed: 22
+Ivan Radovanović
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 22
+Done player Ivan Radovanović | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/6d5e62b0/matchs/2021-2022/summary/Journaux-de-match-Stefan-Strandberg
+Total Ads removed: 21
+Stefan Strandberg
+Save genstats_Salernitana_Stefan Strandberg_2021.csv 
+Total Ads removed: 23
+Save passes_Stefan Strandberg_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Stefan Strandberg_Salernitana_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Stefan Strandberg_Salernitana_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Stefan Strandberg_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Stefan Strandberg_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Stefan Strandberg_Salernitana_2021.csv 
+Done player Stefan Strandberg | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/11962fe7/matchs/2021-2022/summary/Journaux-de-match-Wajdi-Kechrida
+Total Ads removed: 24
+Wajdi Kechrida
+Save genstats_Salernitana_Wajdi Kechrida_2021.csv 
+Total Ads removed: 23
+Save passes_Wajdi Kechrida_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Wajdi Kechrida_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Wajdi Kechrida_Salernitana_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Wajdi Kechrida_Salernitana_2021.csv 
+Total Ads removed: 25
+Save possession_Wajdi Kechrida_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Wajdi Kechrida_Salernitana_2021.csv 
+Done player Wajdi Kechrida | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/80dbbd10/matchs/2021-2022/summary/Journaux-de-match-Simeon-Nwankwo
+Total Ads removed: 23
+Simeon Nwankwo
+Save genstats_Salernitana_Simeon Nwankwo_2021.csv 
+Total Ads removed: 23
+Save passes_Simeon Nwankwo_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Simeon Nwankwo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Simeon Nwankwo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Simeon Nwankwo_Salernitana_2021.csv 
+Total Ads removed: 22
+Save possession_Simeon Nwankwo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Simeon Nwankwo_Salernitana_2021.csv 
+Done player Simeon Nwankwo | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/ff37d2ef/matchs/2021-2022/summary/Journaux-de-match-Cedric-Gondo
+Total Ads removed: 22
+Cedric Gondo
+Save genstats_Salernitana_Cedric Gondo_2021.csv 
+Total Ads removed: 23
+Save passes_Cedric Gondo_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Cedric Gondo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Cedric Gondo_Salernitana_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Cedric Gondo_Salernitana_2021.csv 
+Total Ads removed: 25
+Save possession_Cedric Gondo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Cedric Gondo_Salernitana_2021.csv 
+Done player Cedric Gondo | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/c976160c/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Coulibaly
+Total Ads removed: 24
+Mamadou Coulibaly
+Save genstats_Salernitana_Mamadou Coulibaly_2021.csv 
+Total Ads removed: 23
+Save passes_Mamadou Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mamadou Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Mamadou Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mamadou Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Mamadou Coulibaly_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mamadou Coulibaly_Salernitana_2021.csv 
+Done player Mamadou Coulibaly | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/c83c203f/matchs/2021-2022/summary/Journaux-de-match-Emil-Bohinen
+Total Ads removed: 22
+Emil Bohinen
+Save genstats_Salernitana_Emil Bohinen_2021.csv 
+Total Ads removed: 23
+Save passes_Emil Bohinen_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Emil Bohinen_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Emil Bohinen_Salernitana_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Emil Bohinen_Salernitana_2021.csv 
+Total Ads removed: 22
+Save possession_Emil Bohinen_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Emil Bohinen_Salernitana_2021.csv 
+Done player Emil Bohinen | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/ae9898c5/matchs/2021-2022/summary/Journaux-de-match-Matteo-Ruggeri
+Total Ads removed: 23
+Matteo Ruggeri
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 22
+Done player Matteo Ruggeri | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/d541e703/matchs/2021-2022/summary/Journaux-de-match-Freddie-Veseli
+Total Ads removed: 22
+Freddie Veseli
+Save genstats_Salernitana_Freddie Veseli_2021.csv 
+Total Ads removed: 23
+Save passes_Freddie Veseli_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Freddie Veseli_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Freddie Veseli_Salernitana_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Freddie Veseli_Salernitana_2021.csv 
+Total Ads removed: 22
+Save possession_Freddie Veseli_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Freddie Veseli_Salernitana_2021.csv 
+Done player Freddie Veseli | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/4b55eb4d/matchs/2021-2022/summary/Journaux-de-match-Andrea-Schiavone
+Total Ads removed: 23
+Andrea Schiavone
+Save genstats_Salernitana_Andrea Schiavone_2021.csv 
+Total Ads removed: 23
+Save passes_Andrea Schiavone_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Schiavone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrea Schiavone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrea Schiavone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Andrea Schiavone_Salernitana_2021.csv 
+Error removing wrapper
+No ads found
+Done player Andrea Schiavone | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/958a601f/matchs/2021-2022/summary/Journaux-de-match-Pawel-Jaroszynski
+Total Ads removed: 23
+Paweł Jaroszyński
+Save genstats_Salernitana_Paweł Jaroszyński_2021.csv 
+Total Ads removed: 26
+Save passes_Paweł Jaroszyński_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Paweł Jaroszyński_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Paweł Jaroszyński_Salernitana_2021.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 28
+https://fbref.com/fr/equipes/c5577084/2021-2022/Statistiques-Salernitana
+https://fbref.com/fr/equipes/c4260e09/2021-2022/Statistiques-Cagliari
+https://fbref.com/fr/equipes/658bf2de/2021-2022/Statistiques-Genoa
+https://fbref.com/fr/equipes/af5d5982/2021-2022/Statistiques-Venezia
+Total Ads removed: 26
+https://fbref.com/fr/joueurs/0be276c6/matchs/2021-2022/summary/Journaux-de-match-Norbert-Gyomber
+https://fbref.com/fr/joueurs/85a44ecc/matchs/2021-2022/summary/Journaux-de-match-Lassana-Coulibaly
+https://fbref.com/fr/joueurs/8c63fae5/matchs/2021-2022/summary/Journaux-de-match-Luca-Ranieri
+https://fbref.com/fr/joueurs/405f6586/matchs/2021-2022/summary/Journaux-de-match-Milan-Djuric
+https://fbref.com/fr/joueurs/4f8ce0e1/matchs/2021-2022/summary/Journaux-de-match-Vid-Belec
+https://fbref.com/fr/joueurs/bf57eaab/matchs/2021-2022/summary/Journaux-de-match-Federico-Bonazzoli
+https://fbref.com/fr/joueurs/4e358a2d/matchs/2021-2022/summary/Journaux-de-match-Federico-Fazio
+https://fbref.com/fr/joueurs/f61c7c4e/matchs/2021-2022/summary/Journaux-de-match-Franck-Ribery
+https://fbref.com/fr/joueurs/343f753a/matchs/2021-2022/summary/Journaux-de-match-Luigi-Sepe
+https://fbref.com/fr/joueurs/2a82aa85/matchs/2021-2022/summary/Journaux-de-match-Grigoris-Kastanos
+https://fbref.com/fr/joueurs/eb0ec070/matchs/2021-2022/summary/Journaux-de-match-Pasquale-Mazzocchi
+https://fbref.com/fr/joueurs/b5c3ff9f/matchs/2021-2022/summary/Journaux-de-match-Francesco-Di-Tacchio
+https://fbref.com/fr/joueurs/82598b71/matchs/2021-2022/summary/Journaux-de-match-Nadir-Zortea
+https://fbref.com/fr/joueurs/a9202def/matchs/2021-2022/summary/Journaux-de-match-Ederson
+https://fbref.com/fr/joueurs/614c38fb/matchs/2021-2022/summary/Journaux-de-match-Joel-Obi
+https://fbref.com/fr/joueurs/173061c0/matchs/2021-2022/summary/Journaux-de-match-Riccardo-Gagliolo
+https://fbref.com/fr/joueurs/023937a9/matchs/2021-2022/summary/Journaux-de-match-Ivan-Radovanovic
+https://fbref.com/fr/joueurs/6d5e62b0/matchs/2021-2022/summary/Journaux-de-match-Stefan-Strandberg
+https://fbref.com/fr/joueurs/0375723e/matchs/2021-2022/summary/Journaux-de-match-Simone-Verdi
+https://fbref.com/fr/joueurs/11962fe7/matchs/2021-2022/summary/Journaux-de-match-Wajdi-Kechrida
+https://fbref.com/fr/joueurs/80dbbd10/matchs/2021-2022/summary/Journaux-de-match-Simeon-Nwankwo
+https://fbref.com/fr/joueurs/ff37d2ef/matchs/2021-2022/summary/Journaux-de-match-Cedric-Gondo
+https://fbref.com/fr/joueurs/c976160c/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Coulibaly
+https://fbref.com/fr/joueurs/c83c203f/matchs/2021-2022/summary/Journaux-de-match-Emil-Bohinen
+https://fbref.com/fr/joueurs/ae9898c5/matchs/2021-2022/summary/Journaux-de-match-Matteo-Ruggeri
+https://fbref.com/fr/joueurs/d541e703/matchs/2021-2022/summary/Journaux-de-match-Freddie-Veseli
+https://fbref.com/fr/joueurs/4b55eb4d/matchs/2021-2022/summary/Journaux-de-match-Andrea-Schiavone
+https://fbref.com/fr/joueurs/620922ed/matchs/2021-2022/summary/Journaux-de-match-Radu-Dragusin
+https://fbref.com/fr/joueurs/958a601f/matchs/2021-2022/summary/Journaux-de-match-Pawel-Jaroszynski
+https://fbref.com/fr/joueurs/cb678320/matchs/2021-2022/summary/Journaux-de-match-Luka-Bogdan
+https://fbref.com/fr/joueurs/d2e8fd9b/matchs/2021-2022/summary/Journaux-de-match-Filippo-Delli-Carri
+https://fbref.com/fr/joueurs/07ea0ef2/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Capezzi
+https://fbref.com/fr/joueurs/d9cfca3d/matchs/2021-2022/summary/Journaux-de-match-Lys-Mousset
+https://fbref.com/fr/joueurs/6a1f66a7/matchs/2021-2022/summary/Journaux-de-match-Ramzi-Aya
+https://fbref.com/fr/joueurs/a40d5a0c/matchs/2021-2022/summary/Journaux-de-match-Diego-Perotti
+https://fbref.com/fr/joueurs/2873973b/matchs/2021-2022/summary/Journaux-de-match-Edoardo-Vergani
+https://fbref.com/fr/joueurs/a2565f79/matchs/2021-2022/summary/Journaux-de-match-Vincenzo-Fiorillo
+https://fbref.com/fr/joueurs/b64073a0/matchs/2021-2022/summary/Journaux-de-match-Andrei-Motoc
+https://fbref.com/fr/joueurs/33502726/matchs/2021-2022/summary/Journaux-de-match-Mikael
+https://fbref.com/fr/joueurs/7152082d/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Russo
+https://fbref.com/fr/joueurs/6cd33e2a/matchs/2021-2022/summary/Journaux-de-match-Mario-Perrone
+https://fbref.com/fr/joueurs/b804c280/matchs/2021-2022/summary/Journaux-de-match-Julian-Kristoffersen
+Number of players : 42
+Go to https://fbref.com/fr/joueurs/958a601f/matchs/2021-2022/summary/Journaux-de-match-Pawel-Jaroszynski
+Total Ads removed: 25
+Paweł Jaroszyński
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 25
+Done player Paweł Jaroszyński | team Salernitana | 2021
+Total Ads removed: 29
+https://fbref.com/fr/equipes/c5577084/2021-2022/Statistiques-Salernitana
+https://fbref.com/fr/equipes/c4260e09/2021-2022/Statistiques-Cagliari
+https://fbref.com/fr/equipes/658bf2de/2021-2022/Statistiques-Genoa
+https://fbref.com/fr/equipes/af5d5982/2021-2022/Statistiques-Venezia
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/0be276c6/matchs/2021-2022/summary/Journaux-de-match-Norbert-Gyomber
+https://fbref.com/fr/joueurs/85a44ecc/matchs/2021-2022/summary/Journaux-de-match-Lassana-Coulibaly
+https://fbref.com/fr/joueurs/8c63fae5/matchs/2021-2022/summary/Journaux-de-match-Luca-Ranieri
+https://fbref.com/fr/joueurs/405f6586/matchs/2021-2022/summary/Journaux-de-match-Milan-Djuric
+https://fbref.com/fr/joueurs/4f8ce0e1/matchs/2021-2022/summary/Journaux-de-match-Vid-Belec
+https://fbref.com/fr/joueurs/bf57eaab/matchs/2021-2022/summary/Journaux-de-match-Federico-Bonazzoli
+https://fbref.com/fr/joueurs/4e358a2d/matchs/2021-2022/summary/Journaux-de-match-Federico-Fazio
+https://fbref.com/fr/joueurs/f61c7c4e/matchs/2021-2022/summary/Journaux-de-match-Franck-Ribery
+https://fbref.com/fr/joueurs/343f753a/matchs/2021-2022/summary/Journaux-de-match-Luigi-Sepe
+https://fbref.com/fr/joueurs/2a82aa85/matchs/2021-2022/summary/Journaux-de-match-Grigoris-Kastanos
+https://fbref.com/fr/joueurs/eb0ec070/matchs/2021-2022/summary/Journaux-de-match-Pasquale-Mazzocchi
+https://fbref.com/fr/joueurs/b5c3ff9f/matchs/2021-2022/summary/Journaux-de-match-Francesco-Di-Tacchio
+https://fbref.com/fr/joueurs/82598b71/matchs/2021-2022/summary/Journaux-de-match-Nadir-Zortea
+https://fbref.com/fr/joueurs/a9202def/matchs/2021-2022/summary/Journaux-de-match-Ederson
+https://fbref.com/fr/joueurs/614c38fb/matchs/2021-2022/summary/Journaux-de-match-Joel-Obi
+https://fbref.com/fr/joueurs/173061c0/matchs/2021-2022/summary/Journaux-de-match-Riccardo-Gagliolo
+https://fbref.com/fr/joueurs/023937a9/matchs/2021-2022/summary/Journaux-de-match-Ivan-Radovanovic
+https://fbref.com/fr/joueurs/6d5e62b0/matchs/2021-2022/summary/Journaux-de-match-Stefan-Strandberg
+https://fbref.com/fr/joueurs/0375723e/matchs/2021-2022/summary/Journaux-de-match-Simone-Verdi
+https://fbref.com/fr/joueurs/11962fe7/matchs/2021-2022/summary/Journaux-de-match-Wajdi-Kechrida
+https://fbref.com/fr/joueurs/80dbbd10/matchs/2021-2022/summary/Journaux-de-match-Simeon-Nwankwo
+https://fbref.com/fr/joueurs/ff37d2ef/matchs/2021-2022/summary/Journaux-de-match-Cedric-Gondo
+https://fbref.com/fr/joueurs/c976160c/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Coulibaly
+https://fbref.com/fr/joueurs/c83c203f/matchs/2021-2022/summary/Journaux-de-match-Emil-Bohinen
+https://fbref.com/fr/joueurs/ae9898c5/matchs/2021-2022/summary/Journaux-de-match-Matteo-Ruggeri
+https://fbref.com/fr/joueurs/d541e703/matchs/2021-2022/summary/Journaux-de-match-Freddie-Veseli
+https://fbref.com/fr/joueurs/4b55eb4d/matchs/2021-2022/summary/Journaux-de-match-Andrea-Schiavone
+https://fbref.com/fr/joueurs/620922ed/matchs/2021-2022/summary/Journaux-de-match-Radu-Dragusin
+https://fbref.com/fr/joueurs/958a601f/matchs/2021-2022/summary/Journaux-de-match-Pawel-Jaroszynski
+https://fbref.com/fr/joueurs/cb678320/matchs/2021-2022/summary/Journaux-de-match-Luka-Bogdan
+https://fbref.com/fr/joueurs/d2e8fd9b/matchs/2021-2022/summary/Journaux-de-match-Filippo-Delli-Carri
+https://fbref.com/fr/joueurs/07ea0ef2/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Capezzi
+https://fbref.com/fr/joueurs/d9cfca3d/matchs/2021-2022/summary/Journaux-de-match-Lys-Mousset
+https://fbref.com/fr/joueurs/6a1f66a7/matchs/2021-2022/summary/Journaux-de-match-Ramzi-Aya
+https://fbref.com/fr/joueurs/a40d5a0c/matchs/2021-2022/summary/Journaux-de-match-Diego-Perotti
+https://fbref.com/fr/joueurs/2873973b/matchs/2021-2022/summary/Journaux-de-match-Edoardo-Vergani
+https://fbref.com/fr/joueurs/a2565f79/matchs/2021-2022/summary/Journaux-de-match-Vincenzo-Fiorillo
+https://fbref.com/fr/joueurs/b64073a0/matchs/2021-2022/summary/Journaux-de-match-Andrei-Motoc
+https://fbref.com/fr/joueurs/33502726/matchs/2021-2022/summary/Journaux-de-match-Mikael
+https://fbref.com/fr/joueurs/7152082d/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Russo
+https://fbref.com/fr/joueurs/6cd33e2a/matchs/2021-2022/summary/Journaux-de-match-Mario-Perrone
+https://fbref.com/fr/joueurs/b804c280/matchs/2021-2022/summary/Journaux-de-match-Julian-Kristoffersen
+Number of players : 42
+Go to https://fbref.com/fr/joueurs/cb678320/matchs/2021-2022/summary/Journaux-de-match-Luka-Bogdan
+Total Ads removed: 26
+Luka Bogdan
+Save genstats_Salernitana_Luka Bogdan_2021.csv 
+Total Ads removed: 25
+Save passes_Luka Bogdan_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Luka Bogdan_Salernitana_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Luka Bogdan_Salernitana_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Luka Bogdan_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Luka Bogdan_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Luka Bogdan_Salernitana_2021.csv 
+Done player Luka Bogdan | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/d2e8fd9b/matchs/2021-2022/summary/Journaux-de-match-Filippo-Delli-Carri
+Total Ads removed: 23
+Filippo Delli Carri
+Save genstats_Salernitana_Filippo Delli Carri_2021.csv 
+Total Ads removed: 23
+Save passes_Filippo Delli Carri_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Filippo Delli Carri_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Filippo Delli Carri_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Filippo Delli Carri_Salernitana_2021.csv 
+Total Ads removed: 24
+Save possession_Filippo Delli Carri_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Filippo Delli Carri_Salernitana_2021.csv 
+Done player Filippo Delli Carri | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/07ea0ef2/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Capezzi
+Total Ads removed: 26
+Leonardo Capezzi
+Save genstats_Salernitana_Leonardo Capezzi_2021.csv 
+Total Ads removed: 25
+Save passes_Leonardo Capezzi_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Leonardo Capezzi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Leonardo Capezzi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Leonardo Capezzi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Leonardo Capezzi_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Leonardo Capezzi_Salernitana_2021.csv 
+Done player Leonardo Capezzi | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/d9cfca3d/matchs/2021-2022/summary/Journaux-de-match-Lys-Mousset
+Total Ads removed: 24
+Lys Mousset
+Save genstats_Salernitana_Lys Mousset_2021.csv 
+Total Ads removed: 25
+Save passes_Lys Mousset_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Lys Mousset_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Lys Mousset_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Lys Mousset_Salernitana_2021.csv 
+Total Ads removed: 25
+Save possession_Lys Mousset_Salernitana_2021.csv 
+Total Ads removed: 25
+Save various-stats_Lys Mousset_Salernitana_2021.csv 
+Done player Lys Mousset | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/6a1f66a7/matchs/2021-2022/summary/Journaux-de-match-Ramzi-Aya
+Total Ads removed: 23
+Ramzi Aya
+Save genstats_Salernitana_Ramzi Aya_2021.csv 
+Total Ads removed: 23
+Save passes_Ramzi Aya_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ramzi Aya_Salernitana_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Ramzi Aya_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ramzi Aya_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Ramzi Aya_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Ramzi Aya_Salernitana_2021.csv 
+Done player Ramzi Aya | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/a40d5a0c/matchs/2021-2022/summary/Journaux-de-match-Diego-Perotti
+Total Ads removed: 23
+Diego Perotti
+Save genstats_Salernitana_Diego Perotti_2021.csv 
+Total Ads removed: 24
+Save passes_Diego Perotti_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Diego Perotti_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Diego Perotti_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Diego Perotti_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Diego Perotti_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Diego Perotti_Salernitana_2021.csv 
+Done player Diego Perotti | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/2873973b/matchs/2021-2022/summary/Journaux-de-match-Edoardo-Vergani
+Total Ads removed: 23
+Edoardo Vergani
+Save genstats_Salernitana_Edoardo Vergani_2021.csv 
+Total Ads removed: 23
+Save passes_Edoardo Vergani_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Edoardo Vergani_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Edoardo Vergani_Salernitana_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Edoardo Vergani_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Edoardo Vergani_Salernitana_2021.csv 
+Total Ads removed: 25
+Save various-stats_Edoardo Vergani_Salernitana_2021.csv 
+Done player Edoardo Vergani | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/a2565f79/matchs/2021-2022/summary/Journaux-de-match-Vincenzo-Fiorillo
+Total Ads removed: 23
+Vincenzo Fiorillo
+Save genstats_Salernitana_Vincenzo Fiorillo_2021.csv 
+Total Ads removed: 24
+Save passes_Vincenzo Fiorillo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Vincenzo Fiorillo_Salernitana_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Vincenzo Fiorillo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Vincenzo Fiorillo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Vincenzo Fiorillo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Vincenzo Fiorillo_Salernitana_2021.csv 
+Total Ads removed: 24
+Save keeper_Vincenzo Fiorillo_Salernitana_2021.csv 
+Done player Vincenzo Fiorillo | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/b64073a0/matchs/2021-2022/summary/Journaux-de-match-Andrei-Motoc
+Total Ads removed: 23
+Andrei Motoc
+Save genstats_Salernitana_Andrei Motoc_2021.csv 
+Total Ads removed: 25
+Save passes_Andrei Motoc_Salernitana_2021.csv 
+Total Ads removed: 24
+Save passes-type_Andrei Motoc_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrei Motoc_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrei Motoc_Salernitana_2021.csv 
+Total Ads removed: 24
+Save possession_Andrei Motoc_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Andrei Motoc_Salernitana_2021.csv 
+Done player Andrei Motoc | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/33502726/matchs/2021-2022/summary/Journaux-de-match-Mikael
+Total Ads removed: 23
+Mikael
+Save genstats_Salernitana_Mikael_2021.csv 
+Total Ads removed: 25
+Save passes_Mikael_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Mikael_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Mikael_Salernitana_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Mikael_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Mikael_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Mikael_Salernitana_2021.csv 
+Done player Mikael | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/7152082d/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Russo
+Total Ads removed: 24
+Alessandro Russo
+Save genstats_Salernitana_Alessandro Russo_2021.csv 
+Total Ads removed: 24
+Save passes_Alessandro Russo_Salernitana_2021.csv 
+Total Ads removed: 22
+Save passes-type_Alessandro Russo_Salernitana_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Alessandro Russo_Salernitana_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Alessandro Russo_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Alessandro Russo_Salernitana_2021.csv 
+Total Ads removed: 22
+Save various-stats_Alessandro Russo_Salernitana_2021.csv 
+Done player Alessandro Russo | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/6cd33e2a/matchs/2021-2022/summary/Journaux-de-match-Mario-Perrone
+Total Ads removed: 23
+Mario Perrone
+Save genstats_Salernitana_Mario Perrone_2021.csv 
+Total Ads removed: 24
+Save passes_Mario Perrone_Salernitana_2021.csv 
+Total Ads removed: 25
+Save passes-type_Mario Perrone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Mario Perrone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Mario Perrone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save possession_Mario Perrone_Salernitana_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mario Perrone_Salernitana_2021.csv 
+Done player Mario Perrone | team Salernitana | 2021
+Go to https://fbref.com/fr/joueurs/b804c280/matchs/2021-2022/summary/Journaux-de-match-Julian-Kristoffersen
+Total Ads removed: 22
+Julian Kristoffersen
+Save genstats_Salernitana_Julian Kristoffersen_2021.csv 
+Total Ads removed: 25
+Save passes_Julian Kristoffersen_Salernitana_2021.csv 
+Total Ads removed: 23
+Save passes-type_Julian Kristoffersen_Salernitana_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Julian Kristoffersen_Salernitana_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Julian Kristoffersen_Salernitana_2021.csv 
+Total Ads removed: 22
+Save possession_Julian Kristoffersen_Salernitana_2021.csv 
+Total Ads removed: 24
+Save various-stats_Julian Kristoffersen_Salernitana_2021.csv 
+Done player Julian Kristoffersen | team Salernitana | 2021
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/81255c03/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/f554e29b/matchs/2021-2022/summary/Journaux-de-match-Alessio-Cragno
+https://fbref.com/fr/joueurs/7fac99d4/matchs/2021-2022/summary/Journaux-de-match-Razvan-Marin
+https://fbref.com/fr/joueurs/7f267d66/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Deiola
+https://fbref.com/fr/joueurs/e3756e72/matchs/2021-2022/summary/Journaux-de-match-Raoul-Bellanova
+https://fbref.com/fr/joueurs/f45f9427/matchs/2021-2022/summary/Journaux-de-match-Dalbert-Henrique
+https://fbref.com/fr/joueurs/6cc97b6a/matchs/2021-2022/summary/Journaux-de-match-Alberto-Grassi
+https://fbref.com/fr/joueurs/f7e2af2c/matchs/2021-2022/summary/Journaux-de-match-Andrea-Carboni
+https://fbref.com/fr/joueurs/5efc5389/matchs/2021-2022/summary/Journaux-de-match-Charalambos-Lykogiannis
+https://fbref.com/fr/joueurs/aa5322d5/matchs/2021-2022/summary/Journaux-de-match-Giorgio-Altare
+https://fbref.com/fr/joueurs/95facda1/matchs/2021-2022/summary/Journaux-de-match-Nahitan-Nandez
+https://fbref.com/fr/joueurs/7d50454d/matchs/2021-2022/summary/Journaux-de-match-Luca-Ceppitelli
+https://fbref.com/fr/joueurs/d37b0350/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Pavoletti
+https://fbref.com/fr/joueurs/5fa57166/matchs/2021-2022/summary/Journaux-de-match-Matteo-Lovato
+https://fbref.com/fr/joueurs/509a4ccb/matchs/2021-2022/summary/Journaux-de-match-Keita-Balde
+https://fbref.com/fr/joueurs/ca3db240/matchs/2021-2022/summary/Journaux-de-match-Gabriele-Zappa
+https://fbref.com/fr/joueurs/4b029b31/matchs/2021-2022/summary/Journaux-de-match-Edoardo-Goldaniga
+https://fbref.com/fr/joueurs/7ec7738e/matchs/2021-2022/summary/Journaux-de-match-Gaston-Pereiro
+https://fbref.com/fr/joueurs/e94d79e3/matchs/2021-2022/summary/Journaux-de-match-Martin-Caceres
+https://fbref.com/fr/joueurs/fc4f85b1/matchs/2021-2022/summary/Journaux-de-match-Diego-Godin
+https://fbref.com/fr/joueurs/ef2e5e1a/matchs/2021-2022/summary/Journaux-de-match-Kevin-Strootman
+https://fbref.com/fr/joueurs/217875a4/matchs/2021-2022/summary/Journaux-de-match-Sebastian-Walukiewicz
+https://fbref.com/fr/joueurs/aa25ce92/matchs/2021-2022/summary/Journaux-de-match-Adam-Obert
+https://fbref.com/fr/joueurs/0dfce079/matchs/2021-2022/summary/Journaux-de-match-Boris-Radunovic
+https://fbref.com/fr/joueurs/b6b2b820/matchs/2021-2022/summary/Journaux-de-match-Marko-Rog
+https://fbref.com/fr/joueurs/ea06dd97/matchs/2021-2022/summary/Journaux-de-match-Daniele-Baselli
+https://fbref.com/fr/joueurs/157d29b6/matchs/2021-2022/summary/Journaux-de-match-Diego-Farias
+https://fbref.com/fr/joueurs/d3b888e3/matchs/2021-2022/summary/Journaux-de-match-Christian-Oliva
+https://fbref.com/fr/joueurs/5c522c88/matchs/2021-2022/summary/Journaux-de-match-Christos-Kourfalidis
+https://fbref.com/fr/joueurs/9085dd7c/matchs/2021-2022/summary/Journaux-de-match-Paolo-Farago
+https://fbref.com/fr/joueurs/1d00a56c/matchs/2021-2022/summary/Journaux-de-match-Luca-Gagliano
+https://fbref.com/fr/joueurs/343c0d52/matchs/2021-2022/summary/Journaux-de-match-Giovanni-Simeone
+https://fbref.com/fr/joueurs/eade5337/matchs/2021-2022/summary/Journaux-de-match-Damir-Ceter
+Number of players : 33
+Go to https://fbref.com/fr/joueurs/81255c03/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+Total Ads removed: 24
+João Pedro
+Save genstats_Cagliari_João Pedro_2021.csv 
+Total Ads removed: 24
+Save passes_João Pedro_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_João Pedro_Cagliari_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_João Pedro_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_João Pedro_Cagliari_2021.csv 
+Total Ads removed: 21
+Save possession_João Pedro_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_João Pedro_Cagliari_2021.csv 
+Done player João Pedro | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/f554e29b/matchs/2021-2022/summary/Journaux-de-match-Alessio-Cragno
+Total Ads removed: 23
+Alessio Cragno
+Save genstats_Cagliari_Alessio Cragno_2021.csv 
+Total Ads removed: 22
+Save passes_Alessio Cragno_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Alessio Cragno_Cagliari_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Alessio Cragno_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Alessio Cragno_Cagliari_2021.csv 
+Total Ads removed: 24
+Save possession_Alessio Cragno_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Alessio Cragno_Cagliari_2021.csv 
+Total Ads removed: 23
+Save keeper_Alessio Cragno_Cagliari_2021.csv 
+Done player Alessio Cragno | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/7fac99d4/matchs/2021-2022/summary/Journaux-de-match-Razvan-Marin
+Total Ads removed: 24
+Răzvan Marin
+Save genstats_Cagliari_Răzvan Marin_2021.csv 
+Total Ads removed: 23
+Save passes_Răzvan Marin_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Răzvan Marin_Cagliari_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Răzvan Marin_Cagliari_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Răzvan Marin_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Răzvan Marin_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Răzvan Marin_Cagliari_2021.csv 
+Done player Răzvan Marin | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/7f267d66/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Deiola
+Total Ads removed: 24
+Alessandro Deiola
+Save genstats_Cagliari_Alessandro Deiola_2021.csv 
+Total Ads removed: 23
+Save passes_Alessandro Deiola_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Alessandro Deiola_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Alessandro Deiola_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Alessandro Deiola_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Alessandro Deiola_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Alessandro Deiola_Cagliari_2021.csv 
+Done player Alessandro Deiola | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/e3756e72/matchs/2021-2022/summary/Journaux-de-match-Raoul-Bellanova
+Error removing wrapper
+Total Ads removed: 29
+https://fbref.com/fr/equipes/c4260e09/2021-2022/Statistiques-Cagliari
+https://fbref.com/fr/equipes/658bf2de/2021-2022/Statistiques-Genoa
+https://fbref.com/fr/equipes/af5d5982/2021-2022/Statistiques-Venezia
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/81255c03/matchs/2021-2022/summary/Journaux-de-match-Joao-Pedro
+https://fbref.com/fr/joueurs/f554e29b/matchs/2021-2022/summary/Journaux-de-match-Alessio-Cragno
+https://fbref.com/fr/joueurs/7fac99d4/matchs/2021-2022/summary/Journaux-de-match-Razvan-Marin
+https://fbref.com/fr/joueurs/7f267d66/matchs/2021-2022/summary/Journaux-de-match-Alessandro-Deiola
+https://fbref.com/fr/joueurs/e3756e72/matchs/2021-2022/summary/Journaux-de-match-Raoul-Bellanova
+https://fbref.com/fr/joueurs/f45f9427/matchs/2021-2022/summary/Journaux-de-match-Dalbert-Henrique
+https://fbref.com/fr/joueurs/6cc97b6a/matchs/2021-2022/summary/Journaux-de-match-Alberto-Grassi
+https://fbref.com/fr/joueurs/f7e2af2c/matchs/2021-2022/summary/Journaux-de-match-Andrea-Carboni
+https://fbref.com/fr/joueurs/5efc5389/matchs/2021-2022/summary/Journaux-de-match-Charalambos-Lykogiannis
+https://fbref.com/fr/joueurs/aa5322d5/matchs/2021-2022/summary/Journaux-de-match-Giorgio-Altare
+https://fbref.com/fr/joueurs/95facda1/matchs/2021-2022/summary/Journaux-de-match-Nahitan-Nandez
+https://fbref.com/fr/joueurs/7d50454d/matchs/2021-2022/summary/Journaux-de-match-Luca-Ceppitelli
+https://fbref.com/fr/joueurs/d37b0350/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Pavoletti
+https://fbref.com/fr/joueurs/5fa57166/matchs/2021-2022/summary/Journaux-de-match-Matteo-Lovato
+https://fbref.com/fr/joueurs/509a4ccb/matchs/2021-2022/summary/Journaux-de-match-Keita-Balde
+https://fbref.com/fr/joueurs/ca3db240/matchs/2021-2022/summary/Journaux-de-match-Gabriele-Zappa
+https://fbref.com/fr/joueurs/4b029b31/matchs/2021-2022/summary/Journaux-de-match-Edoardo-Goldaniga
+https://fbref.com/fr/joueurs/7ec7738e/matchs/2021-2022/summary/Journaux-de-match-Gaston-Pereiro
+https://fbref.com/fr/joueurs/e94d79e3/matchs/2021-2022/summary/Journaux-de-match-Martin-Caceres
+https://fbref.com/fr/joueurs/fc4f85b1/matchs/2021-2022/summary/Journaux-de-match-Diego-Godin
+https://fbref.com/fr/joueurs/ef2e5e1a/matchs/2021-2022/summary/Journaux-de-match-Kevin-Strootman
+https://fbref.com/fr/joueurs/217875a4/matchs/2021-2022/summary/Journaux-de-match-Sebastian-Walukiewicz
+https://fbref.com/fr/joueurs/aa25ce92/matchs/2021-2022/summary/Journaux-de-match-Adam-Obert
+https://fbref.com/fr/joueurs/0dfce079/matchs/2021-2022/summary/Journaux-de-match-Boris-Radunovic
+https://fbref.com/fr/joueurs/b6b2b820/matchs/2021-2022/summary/Journaux-de-match-Marko-Rog
+https://fbref.com/fr/joueurs/ea06dd97/matchs/2021-2022/summary/Journaux-de-match-Daniele-Baselli
+https://fbref.com/fr/joueurs/157d29b6/matchs/2021-2022/summary/Journaux-de-match-Diego-Farias
+https://fbref.com/fr/joueurs/d3b888e3/matchs/2021-2022/summary/Journaux-de-match-Christian-Oliva
+https://fbref.com/fr/joueurs/5c522c88/matchs/2021-2022/summary/Journaux-de-match-Christos-Kourfalidis
+https://fbref.com/fr/joueurs/9085dd7c/matchs/2021-2022/summary/Journaux-de-match-Paolo-Farago
+https://fbref.com/fr/joueurs/1d00a56c/matchs/2021-2022/summary/Journaux-de-match-Luca-Gagliano
+https://fbref.com/fr/joueurs/343c0d52/matchs/2021-2022/summary/Journaux-de-match-Giovanni-Simeone
+https://fbref.com/fr/joueurs/eade5337/matchs/2021-2022/summary/Journaux-de-match-Damir-Ceter
+Number of players : 33
+Go to https://fbref.com/fr/joueurs/e3756e72/matchs/2021-2022/summary/Journaux-de-match-Raoul-Bellanova
+Total Ads removed: 23
+Raoul Bellanova
+Save genstats_Cagliari_Raoul Bellanova_2021.csv 
+Total Ads removed: 26
+Save passes_Raoul Bellanova_Cagliari_2021.csv 
+Total Ads removed: 24
+Save passes-type_Raoul Bellanova_Cagliari_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Raoul Bellanova_Cagliari_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Raoul Bellanova_Cagliari_2021.csv 
+Total Ads removed: 26
+Save possession_Raoul Bellanova_Cagliari_2021.csv 
+Total Ads removed: 24
+Save various-stats_Raoul Bellanova_Cagliari_2021.csv 
+Done player Raoul Bellanova | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/f45f9427/matchs/2021-2022/summary/Journaux-de-match-Dalbert-Henrique
+Total Ads removed: 24
+Dalbert Henrique
+Save genstats_Cagliari_Dalbert Henrique_2021.csv 
+Total Ads removed: 25
+Save passes_Dalbert Henrique_Cagliari_2021.csv 
+Total Ads removed: 24
+Save passes-type_Dalbert Henrique_Cagliari_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Dalbert Henrique_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Dalbert Henrique_Cagliari_2021.csv 
+Total Ads removed: 24
+Save possession_Dalbert Henrique_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Dalbert Henrique_Cagliari_2021.csv 
+Done player Dalbert Henrique | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/6cc97b6a/matchs/2021-2022/summary/Journaux-de-match-Alberto-Grassi
+Total Ads removed: 23
+Alberto Grassi
+Save genstats_Cagliari_Alberto Grassi_2021.csv 
+Total Ads removed: 23
+Save passes_Alberto Grassi_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Alberto Grassi_Cagliari_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Alberto Grassi_Cagliari_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Alberto Grassi_Cagliari_2021.csv 
+Total Ads removed: 24
+Save possession_Alberto Grassi_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Alberto Grassi_Cagliari_2021.csv 
+Done player Alberto Grassi | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/f7e2af2c/matchs/2021-2022/summary/Journaux-de-match-Andrea-Carboni
+Total Ads removed: 23
+Andrea Carboni
+Save genstats_Cagliari_Andrea Carboni_2021.csv 
+Total Ads removed: 23
+Save passes_Andrea Carboni_Cagliari_2021.csv 
+Total Ads removed: 24
+Save passes-type_Andrea Carboni_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrea Carboni_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrea Carboni_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Andrea Carboni_Cagliari_2021.csv 
+Total Ads removed: 24
+Save various-stats_Andrea Carboni_Cagliari_2021.csv 
+Done player Andrea Carboni | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/5efc5389/matchs/2021-2022/summary/Journaux-de-match-Charalambos-Lykogiannis
+Total Ads removed: 23
+Charalambos Lykogiannis
+Save genstats_Cagliari_Charalambos Lykogiannis_2021.csv 
+Total Ads removed: 23
+Save passes_Charalambos Lykogiannis_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Charalambos Lykogiannis_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Charalambos Lykogiannis_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Charalambos Lykogiannis_Cagliari_2021.csv 
+Total Ads removed: 24
+Save possession_Charalambos Lykogiannis_Cagliari_2021.csv 
+Total Ads removed: 24
+Save various-stats_Charalambos Lykogiannis_Cagliari_2021.csv 
+Done player Charalambos Lykogiannis | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/aa5322d5/matchs/2021-2022/summary/Journaux-de-match-Giorgio-Altare
+Total Ads removed: 24
+Giorgio Altare
+Save genstats_Cagliari_Giorgio Altare_2021.csv 
+Total Ads removed: 23
+Save passes_Giorgio Altare_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Giorgio Altare_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Giorgio Altare_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Giorgio Altare_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Giorgio Altare_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Giorgio Altare_Cagliari_2021.csv 
+Done player Giorgio Altare | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/95facda1/matchs/2021-2022/summary/Journaux-de-match-Nahitan-Nandez
+Total Ads removed: 23
+Nahitan Nández
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Done player Nahitan Nández | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/7d50454d/matchs/2021-2022/summary/Journaux-de-match-Luca-Ceppitelli
+Total Ads removed: 24
+Luca Ceppitelli
+Save genstats_Cagliari_Luca Ceppitelli_2021.csv 
+Total Ads removed: 26
+Save passes_Luca Ceppitelli_Cagliari_2021.csv 
+Total Ads removed: 24
+Save passes-type_Luca Ceppitelli_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Luca Ceppitelli_Cagliari_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Luca Ceppitelli_Cagliari_2021.csv 
+Total Ads removed: 24
+Save possession_Luca Ceppitelli_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Luca Ceppitelli_Cagliari_2021.csv 
+Done player Luca Ceppitelli | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/d37b0350/matchs/2021-2022/summary/Journaux-de-match-Leonardo-Pavoletti
+Total Ads removed: 23
+Leonardo Pavoletti
+Save genstats_Cagliari_Leonardo Pavoletti_2021.csv 
+Total Ads removed: 23
+Save passes_Leonardo Pavoletti_Cagliari_2021.csv 
+Total Ads removed: 24
+Save passes-type_Leonardo Pavoletti_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Leonardo Pavoletti_Cagliari_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Leonardo Pavoletti_Cagliari_2021.csv 
+Total Ads removed: 24
+Save possession_Leonardo Pavoletti_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Leonardo Pavoletti_Cagliari_2021.csv 
+Done player Leonardo Pavoletti | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/509a4ccb/matchs/2021-2022/summary/Journaux-de-match-Keita-Balde
+Total Ads removed: 23
+Keita Baldé
+Save genstats_Cagliari_Keita Baldé_2021.csv 
+Total Ads removed: 25
+Save passes_Keita Baldé_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Keita Baldé_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Keita Baldé_Cagliari_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Keita Baldé_Cagliari_2021.csv 
+Total Ads removed: 25
+Save possession_Keita Baldé_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Keita Baldé_Cagliari_2021.csv 
+Done player Keita Baldé | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/ca3db240/matchs/2021-2022/summary/Journaux-de-match-Gabriele-Zappa
+Total Ads removed: 24
+Gabriele Zappa
+Save genstats_Cagliari_Gabriele Zappa_2021.csv 
+Total Ads removed: 23
+Save passes_Gabriele Zappa_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Gabriele Zappa_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Gabriele Zappa_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Gabriele Zappa_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Gabriele Zappa_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Gabriele Zappa_Cagliari_2021.csv 
+Done player Gabriele Zappa | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/7ec7738e/matchs/2021-2022/summary/Journaux-de-match-Gaston-Pereiro
+Total Ads removed: 23
+Gastón Pereiro
+Save genstats_Cagliari_Gastón Pereiro_2021.csv 
+Total Ads removed: 23
+Save passes_Gastón Pereiro_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Gastón Pereiro_Cagliari_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Gastón Pereiro_Cagliari_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Gastón Pereiro_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Gastón Pereiro_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Gastón Pereiro_Cagliari_2021.csv 
+Done player Gastón Pereiro | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/e94d79e3/matchs/2021-2022/summary/Journaux-de-match-Martin-Caceres
+Total Ads removed: 23
+Martín Cáceres
+Save genstats_Cagliari_Martín Cáceres_2021.csv 
+Total Ads removed: 24
+Save passes_Martín Cáceres_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Martín Cáceres_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Martín Cáceres_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Martín Cáceres_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Martín Cáceres_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Martín Cáceres_Cagliari_2021.csv 
+Done player Martín Cáceres | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/fc4f85b1/matchs/2021-2022/summary/Journaux-de-match-Diego-Godin
+Total Ads removed: 22
+Diego Godín
+Save genstats_Cagliari_Diego Godín_2021.csv 
+Total Ads removed: 22
+Save passes_Diego Godín_Cagliari_2021.csv 
+Total Ads removed: 25
+Save passes-type_Diego Godín_Cagliari_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Diego Godín_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Diego Godín_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Diego Godín_Cagliari_2021.csv 
+Total Ads removed: 24
+Save various-stats_Diego Godín_Cagliari_2021.csv 
+Done player Diego Godín | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/ef2e5e1a/matchs/2021-2022/summary/Journaux-de-match-Kevin-Strootman
+Total Ads removed: 22
+Kevin Strootman
+Save genstats_Cagliari_Kevin Strootman_2021.csv 
+Total Ads removed: 24
+Save passes_Kevin Strootman_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Kevin Strootman_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Kevin Strootman_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Kevin Strootman_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Kevin Strootman_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Kevin Strootman_Cagliari_2021.csv 
+Done player Kevin Strootman | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/217875a4/matchs/2021-2022/summary/Journaux-de-match-Sebastian-Walukiewicz
+Total Ads removed: 24
+Sebastian Walukiewicz
+Save genstats_Cagliari_Sebastian Walukiewicz_2021.csv 
+Total Ads removed: 23
+Save passes_Sebastian Walukiewicz_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Sebastian Walukiewicz_Cagliari_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Sebastian Walukiewicz_Cagliari_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Sebastian Walukiewicz_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Sebastian Walukiewicz_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Sebastian Walukiewicz_Cagliari_2021.csv 
+Done player Sebastian Walukiewicz | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/aa25ce92/matchs/2021-2022/summary/Journaux-de-match-Adam-Obert
+Total Ads removed: 22
+Adam Obert
+Save genstats_Cagliari_Adam Obert_2021.csv 
+Total Ads removed: 24
+Save passes_Adam Obert_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Adam Obert_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Adam Obert_Cagliari_2021.csv 
+Total Ads removed: 21
+Save defensive-actions_Adam Obert_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Adam Obert_Cagliari_2021.csv 
+Total Ads removed: 23
+Save various-stats_Adam Obert_Cagliari_2021.csv 
+Done player Adam Obert | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/0dfce079/matchs/2021-2022/summary/Journaux-de-match-Boris-Radunovic
+Total Ads removed: 22
+Boris Radunović
+Save genstats_Cagliari_Boris Radunović_2021.csv 
+Total Ads removed: 23
+Save passes_Boris Radunović_Cagliari_2021.csv 
+Total Ads removed: 23
+Save passes-type_Boris Radunović_Cagliari_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Boris Radunović_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Boris Radunović_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Boris Radunović_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Boris Radunović_Cagliari_2021.csv 
+Total Ads removed: 22
+Save keeper_Boris Radunović_Cagliari_2021.csv 
+Done player Boris Radunović | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/b6b2b820/matchs/2021-2022/summary/Journaux-de-match-Marko-Rog
+Total Ads removed: 23
+Marko Rog
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 24
+Total Ads removed: 22
+Total Ads removed: 22
+Done player Marko Rog | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/157d29b6/matchs/2021-2022/summary/Journaux-de-match-Diego-Farias
+Total Ads removed: 22
+Diego Farias
+Save genstats_Cagliari_Diego Farias_2021.csv 
+Total Ads removed: 22
+Save passes_Diego Farias_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Diego Farias_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Diego Farias_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Diego Farias_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Diego Farias_Cagliari_2021.csv 
+Total Ads removed: 24
+Save various-stats_Diego Farias_Cagliari_2021.csv 
+Done player Diego Farias | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/d3b888e3/matchs/2021-2022/summary/Journaux-de-match-Christian-Oliva
+Total Ads removed: 21
+Christian Oliva
+Save genstats_Cagliari_Christian Oliva_2021.csv 
+Total Ads removed: 23
+Save passes_Christian Oliva_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Christian Oliva_Cagliari_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Christian Oliva_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Christian Oliva_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Christian Oliva_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Christian Oliva_Cagliari_2021.csv 
+Done player Christian Oliva | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/5c522c88/matchs/2021-2022/summary/Journaux-de-match-Christos-Kourfalidis
+Total Ads removed: 22
+Christos Kourfalidis
+Save genstats_Cagliari_Christos Kourfalidis_2021.csv 
+Total Ads removed: 22
+Save passes_Christos Kourfalidis_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Christos Kourfalidis_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Christos Kourfalidis_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Christos Kourfalidis_Cagliari_2021.csv 
+Total Ads removed: 23
+Save possession_Christos Kourfalidis_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Christos Kourfalidis_Cagliari_2021.csv 
+Done player Christos Kourfalidis | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/9085dd7c/matchs/2021-2022/summary/Journaux-de-match-Paolo-Farago
+Total Ads removed: 24
+Paolo Faragò
+Save genstats_Cagliari_Paolo Faragò_2021.csv 
+Total Ads removed: 23
+Save passes_Paolo Faragò_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Paolo Faragò_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Paolo Faragò_Cagliari_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Paolo Faragò_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Paolo Faragò_Cagliari_2021.csv 
+Total Ads removed: 24
+Save various-stats_Paolo Faragò_Cagliari_2021.csv 
+Done player Paolo Faragò | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/1d00a56c/matchs/2021-2022/summary/Journaux-de-match-Luca-Gagliano
+Total Ads removed: 22
+Luca Gagliano
+Save genstats_Cagliari_Luca Gagliano_2021.csv 
+Total Ads removed: 22
+Save passes_Luca Gagliano_Cagliari_2021.csv 
+Total Ads removed: 21
+Save passes-type_Luca Gagliano_Cagliari_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Luca Gagliano_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Luca Gagliano_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Luca Gagliano_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Luca Gagliano_Cagliari_2021.csv 
+Done player Luca Gagliano | team Cagliari | 2021
+Go to https://fbref.com/fr/joueurs/eade5337/matchs/2021-2022/summary/Journaux-de-match-Damir-Ceter
+Total Ads removed: 22
+Damir Ceter
+Save genstats_Cagliari_Damir Ceter_2021.csv 
+Total Ads removed: 22
+Save passes_Damir Ceter_Cagliari_2021.csv 
+Total Ads removed: 22
+Save passes-type_Damir Ceter_Cagliari_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Damir Ceter_Cagliari_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Damir Ceter_Cagliari_2021.csv 
+Total Ads removed: 22
+Save possession_Damir Ceter_Cagliari_2021.csv 
+Total Ads removed: 22
+Save various-stats_Damir Ceter_Cagliari_2021.csv 
+Done player Damir Ceter | team Cagliari | 2021
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/10dc46f0/matchs/2021-2022/summary/Journaux-de-match-Salvatore-Sirigu
+https://fbref.com/fr/joueurs/e8c930bb/matchs/2021-2022/summary/Journaux-de-match-Milan-Badelj
+https://fbref.com/fr/joueurs/5eaed77a/matchs/2021-2022/summary/Journaux-de-match-Johan-Vasquez
+https://fbref.com/fr/joueurs/2334478a/matchs/2021-2022/summary/Journaux-de-match-Stefano-Sturaro
+https://fbref.com/fr/joueurs/247ed022/matchs/2021-2022/summary/Journaux-de-match-Andrea-Cambiaso
+https://fbref.com/fr/joueurs/d7d32194/matchs/2021-2022/summary/Journaux-de-match-Mattia-Destro
+https://fbref.com/fr/joueurs/7afbd2c3/matchs/2021-2022/summary/Journaux-de-match-Caleb-Ekuban
+https://fbref.com/fr/joueurs/35dd6d80/matchs/2021-2022/summary/Journaux-de-match-Domenico-Criscito
+https://fbref.com/fr/joueurs/c8c0dccd/matchs/2021-2022/summary/Journaux-de-match-Manolo-Portanova
+https://fbref.com/fr/joueurs/e58cbfd5/matchs/2021-2022/summary/Journaux-de-match-Nicolo-Rovella
+https://fbref.com/fr/joueurs/f8342731/matchs/2021-2022/summary/Journaux-de-match-Silvan-Hefti
+https://fbref.com/fr/joueurs/0821331c/matchs/2021-2022/summary/Journaux-de-match-Mattia-Bani
+https://fbref.com/fr/joueurs/b35a7399/matchs/2021-2022/summary/Journaux-de-match-Leo-Skiri-Ostigard
+https://fbref.com/fr/joueurs/16b9d5cf/matchs/2021-2022/summary/Journaux-de-match-Nikola-Maksimovic
+https://fbref.com/fr/joueurs/dd403465/matchs/2021-2022/summary/Journaux-de-match-Pablo-Galdames-Millan
+https://fbref.com/fr/joueurs/afbf187b/matchs/2021-2022/summary/Journaux-de-match-Zinho-Vanheusden
+https://fbref.com/fr/joueurs/64cd167d/matchs/2021-2022/summary/Journaux-de-match-Davide-Biraschi
+https://fbref.com/fr/joueurs/6604165d/matchs/2021-2022/summary/Journaux-de-match-Filippo-Melegoni
+https://fbref.com/fr/joueurs/ea0893d6/matchs/2021-2022/summary/Journaux-de-match-Kelvin-Yeboah
+https://fbref.com/fr/joueurs/555d5edd/matchs/2021-2022/summary/Journaux-de-match-Nadiem-Amiri
+https://fbref.com/fr/joueurs/d711d04f/matchs/2021-2022/summary/Journaux-de-match-Goran-Pandev
+https://fbref.com/fr/joueurs/6f5ead86/matchs/2021-2022/summary/Journaux-de-match-Hernani
+https://fbref.com/fr/joueurs/f4d60499/matchs/2021-2022/summary/Journaux-de-match-Morten-Frendrup
+https://fbref.com/fr/joueurs/b79858d5/matchs/2021-2022/summary/Journaux-de-match-Albert-Gudmundsson
+https://fbref.com/fr/joueurs/71dc23da/matchs/2021-2022/summary/Journaux-de-match-Paolo-Ghiglione
+https://fbref.com/fr/joueurs/b7a5bc86/matchs/2021-2022/summary/Journaux-de-match-Mohamed-Fares
+https://fbref.com/fr/joueurs/e0314d87/matchs/2021-2022/summary/Journaux-de-match-Andrea-Masiello
+https://fbref.com/fr/joueurs/ef7cd87a/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Toure
+https://fbref.com/fr/joueurs/f95f49d2/matchs/2021-2022/summary/Journaux-de-match-Yayah-Kallon
+https://fbref.com/fr/joueurs/0ccac09c/matchs/2021-2022/summary/Journaux-de-match-Stefano-Sabelli
+https://fbref.com/fr/joueurs/3ef965c1/matchs/2021-2022/summary/Journaux-de-match-Flavio-Junior-Bianchi
+https://fbref.com/fr/joueurs/d3d758d8/matchs/2021-2022/summary/Journaux-de-match-Valon-Behrami
+https://fbref.com/fr/joueurs/1cadaf34/matchs/2021-2022/summary/Journaux-de-match-Roberto-Piccoli
+https://fbref.com/fr/joueurs/93b891d1/matchs/2021-2022/summary/Journaux-de-match-Felipe-Caicedo
+https://fbref.com/fr/joueurs/f02dde20/matchs/2021-2022/summary/Journaux-de-match-Adrian-Semper
+https://fbref.com/fr/joueurs/aded8e6f/matchs/2021-2022/summary/Journaux-de-match-Riccardo-Calafiori
+https://fbref.com/fr/joueurs/59f2d958/matchs/2021-2022/summary/Journaux-de-match-Aleksander-Buksa
+https://fbref.com/fr/joueurs/79d60e74/matchs/2021-2022/summary/Journaux-de-match-Laurens-Serpe
+https://fbref.com/fr/joueurs/44510fde/matchs/2021-2022/summary/Journaux-de-match-Andrea-Favilli
+https://fbref.com/fr/joueurs/96960855/matchs/2021-2022/summary/Journaux-de-match-Francesco-Cassata
+Number of players : 40
+Go to https://fbref.com/fr/joueurs/10dc46f0/matchs/2021-2022/summary/Journaux-de-match-Salvatore-Sirigu
+Total Ads removed: 22
+Salvatore Sirigu
+Save genstats_Genoa_Salvatore Sirigu_2021.csv 
+Total Ads removed: 23
+Save passes_Salvatore Sirigu_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Salvatore Sirigu_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Salvatore Sirigu_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Salvatore Sirigu_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Salvatore Sirigu_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Salvatore Sirigu_Genoa_2021.csv 
+Total Ads removed: 22
+Save keeper_Salvatore Sirigu_Genoa_2021.csv 
+Done player Salvatore Sirigu | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/e8c930bb/matchs/2021-2022/summary/Journaux-de-match-Milan-Badelj
+Total Ads removed: 23
+Milan Badelj
+Save genstats_Genoa_Milan Badelj_2021.csv 
+Total Ads removed: 22
+Save passes_Milan Badelj_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Milan Badelj_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Milan Badelj_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Milan Badelj_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Milan Badelj_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Milan Badelj_Genoa_2021.csv 
+Done player Milan Badelj | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/5eaed77a/matchs/2021-2022/summary/Journaux-de-match-Johan-Vasquez
+Total Ads removed: 23
+Johan Vásquez
+Save genstats_Genoa_Johan Vásquez_2021.csv 
+Total Ads removed: 22
+Save passes_Johan Vásquez_Genoa_2021.csv 
+Total Ads removed: 21
+Save passes-type_Johan Vásquez_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Johan Vásquez_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Johan Vásquez_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Johan Vásquez_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Johan Vásquez_Genoa_2021.csv 
+Done player Johan Vásquez | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/2334478a/matchs/2021-2022/summary/Journaux-de-match-Stefano-Sturaro
+Total Ads removed: 22
+Stefano Sturaro
+Save genstats_Genoa_Stefano Sturaro_2021.csv 
+Total Ads removed: 23
+Save passes_Stefano Sturaro_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Stefano Sturaro_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Stefano Sturaro_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Stefano Sturaro_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Stefano Sturaro_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Stefano Sturaro_Genoa_2021.csv 
+Done player Stefano Sturaro | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/247ed022/matchs/2021-2022/summary/Journaux-de-match-Andrea-Cambiaso
+Total Ads removed: 21
+Andrea Cambiaso
+Save genstats_Genoa_Andrea Cambiaso_2021.csv 
+Total Ads removed: 22
+Save passes_Andrea Cambiaso_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Andrea Cambiaso_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Andrea Cambiaso_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Andrea Cambiaso_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Andrea Cambiaso_Genoa_2021.csv 
+Total Ads removed: 24
+Save various-stats_Andrea Cambiaso_Genoa_2021.csv 
+Done player Andrea Cambiaso | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/d7d32194/matchs/2021-2022/summary/Journaux-de-match-Mattia-Destro
+Total Ads removed: 24
+Mattia Destro
+Save genstats_Genoa_Mattia Destro_2021.csv 
+Total Ads removed: 22
+Save passes_Mattia Destro_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Mattia Destro_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mattia Destro_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mattia Destro_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Mattia Destro_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Mattia Destro_Genoa_2021.csv 
+Done player Mattia Destro | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/7afbd2c3/matchs/2021-2022/summary/Journaux-de-match-Caleb-Ekuban
+Total Ads removed: 23
+Caleb Ekuban
+Save genstats_Genoa_Caleb Ekuban_2021.csv 
+Total Ads removed: 23
+Save passes_Caleb Ekuban_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Caleb Ekuban_Genoa_2021.csv 
+Total Ads removed: 21
+Save penalty-prep_Caleb Ekuban_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Caleb Ekuban_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Caleb Ekuban_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Caleb Ekuban_Genoa_2021.csv 
+Done player Caleb Ekuban | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/35dd6d80/matchs/2021-2022/summary/Journaux-de-match-Domenico-Criscito
+Total Ads removed: 25
+Domenico Criscito
+Save genstats_Genoa_Domenico Criscito_2021.csv 
+Total Ads removed: 23
+Save passes_Domenico Criscito_Genoa_2021.csv 
+Total Ads removed: 24
+Save passes-type_Domenico Criscito_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Domenico Criscito_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Domenico Criscito_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Domenico Criscito_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Domenico Criscito_Genoa_2021.csv 
+Done player Domenico Criscito | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/c8c0dccd/matchs/2021-2022/summary/Journaux-de-match-Manolo-Portanova
+Total Ads removed: 23
+Manolo Portanova
+Save genstats_Genoa_Manolo Portanova_2021.csv 
+Total Ads removed: 22
+Save passes_Manolo Portanova_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Manolo Portanova_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Manolo Portanova_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Manolo Portanova_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Manolo Portanova_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Manolo Portanova_Genoa_2021.csv 
+Done player Manolo Portanova | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/e58cbfd5/matchs/2021-2022/summary/Journaux-de-match-Nicolo-Rovella
+Total Ads removed: 22
+Nicolò Rovella
+Save genstats_Genoa_Nicolò Rovella_2021.csv 
+Total Ads removed: 24
+Save passes_Nicolò Rovella_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nicolò Rovella_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Nicolò Rovella_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Nicolò Rovella_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Nicolò Rovella_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Nicolò Rovella_Genoa_2021.csv 
+Done player Nicolò Rovella | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/f8342731/matchs/2021-2022/summary/Journaux-de-match-Silvan-Hefti
+Total Ads removed: 22
+Silvan Hefti
+Save genstats_Genoa_Silvan Hefti_2021.csv 
+Total Ads removed: 22
+Save passes_Silvan Hefti_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Silvan Hefti_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Silvan Hefti_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Silvan Hefti_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Silvan Hefti_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Silvan Hefti_Genoa_2021.csv 
+Done player Silvan Hefti | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/0821331c/matchs/2021-2022/summary/Journaux-de-match-Mattia-Bani
+Total Ads removed: 23
+Mattia Bani
+Save genstats_Genoa_Mattia Bani_2021.csv 
+Total Ads removed: 23
+Save passes_Mattia Bani_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mattia Bani_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mattia Bani_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mattia Bani_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Mattia Bani_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mattia Bani_Genoa_2021.csv 
+Done player Mattia Bani | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/b35a7399/matchs/2021-2022/summary/Journaux-de-match-Leo-Skiri-Ostigard
+Total Ads removed: 22
+Leo Skiri Østigård
+Save genstats_Genoa_Leo Skiri Østigård_2021.csv 
+Total Ads removed: 22
+Save passes_Leo Skiri Østigård_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Leo Skiri Østigård_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Leo Skiri Østigård_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Leo Skiri Østigård_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Leo Skiri Østigård_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Leo Skiri Østigård_Genoa_2021.csv 
+Done player Leo Skiri Østigård | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/16b9d5cf/matchs/2021-2022/summary/Journaux-de-match-Nikola-Maksimovic
+Total Ads removed: 24
+Nikola Maksimović
+Save genstats_Genoa_Nikola Maksimović_2021.csv 
+Total Ads removed: 21
+Save passes_Nikola Maksimović_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nikola Maksimović_Genoa_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Nikola Maksimović_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Nikola Maksimović_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Nikola Maksimović_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Nikola Maksimović_Genoa_2021.csv 
+Done player Nikola Maksimović | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/dd403465/matchs/2021-2022/summary/Journaux-de-match-Pablo-Galdames-Millan
+Total Ads removed: 22
+Pablo Galdames Millán
+Save genstats_Genoa_Pablo Galdames Millán_2021.csv 
+Total Ads removed: 22
+Save passes_Pablo Galdames Millán_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Pablo Galdames Millán_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Pablo Galdames Millán_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Pablo Galdames Millán_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Pablo Galdames Millán_Genoa_2021.csv 
+Total Ads removed: 24
+Save various-stats_Pablo Galdames Millán_Genoa_2021.csv 
+Done player Pablo Galdames Millán | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/afbf187b/matchs/2021-2022/summary/Journaux-de-match-Zinho-Vanheusden
+Total Ads removed: 21
+Zinho Vanheusden
+Save genstats_Genoa_Zinho Vanheusden_2021.csv 
+Total Ads removed: 22
+Save passes_Zinho Vanheusden_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Zinho Vanheusden_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Zinho Vanheusden_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Zinho Vanheusden_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Zinho Vanheusden_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Zinho Vanheusden_Genoa_2021.csv 
+Done player Zinho Vanheusden | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/64cd167d/matchs/2021-2022/summary/Journaux-de-match-Davide-Biraschi
+Total Ads removed: 23
+Davide Biraschi
+Save genstats_Genoa_Davide Biraschi_2021.csv 
+Total Ads removed: 22
+Save passes_Davide Biraschi_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Davide Biraschi_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Davide Biraschi_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Davide Biraschi_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Davide Biraschi_Genoa_2021.csv 
+Total Ads removed: 24
+Save various-stats_Davide Biraschi_Genoa_2021.csv 
+Done player Davide Biraschi | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/6604165d/matchs/2021-2022/summary/Journaux-de-match-Filippo-Melegoni
+Total Ads removed: 22
+Filippo Melegoni
+Save genstats_Genoa_Filippo Melegoni_2021.csv 
+Total Ads removed: 23
+Save passes_Filippo Melegoni_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Filippo Melegoni_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Filippo Melegoni_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Filippo Melegoni_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Filippo Melegoni_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Filippo Melegoni_Genoa_2021.csv 
+Done player Filippo Melegoni | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/ea0893d6/matchs/2021-2022/summary/Journaux-de-match-Kelvin-Yeboah
+Total Ads removed: 22
+Kelvin Yeboah
+Total Ads removed: 24
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 22
+Done player Kelvin Yeboah | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/555d5edd/matchs/2021-2022/summary/Journaux-de-match-Nadiem-Amiri
+Total Ads removed: 22
+Nadiem Amiri
+Save genstats_Genoa_Nadiem Amiri_2021.csv 
+Total Ads removed: 22
+Save passes_Nadiem Amiri_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Nadiem Amiri_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Nadiem Amiri_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Nadiem Amiri_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Nadiem Amiri_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Nadiem Amiri_Genoa_2021.csv 
+Done player Nadiem Amiri | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/d711d04f/matchs/2021-2022/summary/Journaux-de-match-Goran-Pandev
+Total Ads removed: 23
+Goran Pandev
+Save genstats_Genoa_Goran Pandev_2021.csv 
+Total Ads removed: 23
+Save passes_Goran Pandev_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Goran Pandev_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Goran Pandev_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Goran Pandev_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Goran Pandev_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Goran Pandev_Genoa_2021.csv 
+Done player Goran Pandev | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/6f5ead86/matchs/2021-2022/summary/Journaux-de-match-Hernani
+Total Ads removed: 23
+Hernani
+Save genstats_Genoa_Hernani_2021.csv 
+Total Ads removed: 23
+Save passes_Hernani_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Hernani_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Hernani_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Hernani_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Hernani_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Hernani_Genoa_2021.csv 
+Done player Hernani | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/f4d60499/matchs/2021-2022/summary/Journaux-de-match-Morten-Frendrup
+Total Ads removed: 22
+Morten Frendrup
+Save genstats_Genoa_Morten Frendrup_2021.csv 
+Total Ads removed: 23
+Save passes_Morten Frendrup_Genoa_2021.csv 
+Total Ads removed: 26
+Save passes-type_Morten Frendrup_Genoa_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Morten Frendrup_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Morten Frendrup_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Morten Frendrup_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Morten Frendrup_Genoa_2021.csv 
+Done player Morten Frendrup | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/b79858d5/matchs/2021-2022/summary/Journaux-de-match-Albert-Gudmundsson
+Total Ads removed: 22
+Albert Guðmundsson
+Save genstats_Genoa_Albert Guðmundsson_2021.csv 
+Total Ads removed: 22
+Save passes_Albert Guðmundsson_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Albert Guðmundsson_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Albert Guðmundsson_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Albert Guðmundsson_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Albert Guðmundsson_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Albert Guðmundsson_Genoa_2021.csv 
+Done player Albert Guðmundsson | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/71dc23da/matchs/2021-2022/summary/Journaux-de-match-Paolo-Ghiglione
+Total Ads removed: 22
+Paolo Ghiglione
+Save genstats_Genoa_Paolo Ghiglione_2021.csv 
+Total Ads removed: 22
+Save passes_Paolo Ghiglione_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Paolo Ghiglione_Genoa_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Paolo Ghiglione_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Paolo Ghiglione_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Paolo Ghiglione_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Paolo Ghiglione_Genoa_2021.csv 
+Done player Paolo Ghiglione | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/b7a5bc86/matchs/2021-2022/summary/Journaux-de-match-Mohamed-Fares
+Total Ads removed: 23
+Mohamed Fares
+Save genstats_Genoa_Mohamed Fares_2021.csv 
+Total Ads removed: 22
+Save passes_Mohamed Fares_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mohamed Fares_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mohamed Fares_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mohamed Fares_Genoa_2021.csv 
+Total Ads removed: 25
+Save possession_Mohamed Fares_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mohamed Fares_Genoa_2021.csv 
+Done player Mohamed Fares | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/e0314d87/matchs/2021-2022/summary/Journaux-de-match-Andrea-Masiello
+Total Ads removed: 23
+Andrea Masiello
+Save genstats_Genoa_Andrea Masiello_2021.csv 
+Total Ads removed: 22
+Save passes_Andrea Masiello_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Masiello_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Andrea Masiello_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrea Masiello_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Andrea Masiello_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Andrea Masiello_Genoa_2021.csv 
+Done player Andrea Masiello | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/ef7cd87a/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Toure
+Total Ads removed: 22
+Abdoulaye Touré
+Save genstats_Genoa_Abdoulaye Touré_2021.csv 
+Total Ads removed: 22
+Save passes_Abdoulaye Touré_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Abdoulaye Touré_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Abdoulaye Touré_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Abdoulaye Touré_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Abdoulaye Touré_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Abdoulaye Touré_Genoa_2021.csv 
+Done player Abdoulaye Touré | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/f95f49d2/matchs/2021-2022/summary/Journaux-de-match-Yayah-Kallon
+Total Ads removed: 22
+Yayah Kallon
+Save genstats_Genoa_Yayah Kallon_2021.csv 
+Total Ads removed: 22
+Save passes_Yayah Kallon_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Yayah Kallon_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Yayah Kallon_Genoa_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Yayah Kallon_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Yayah Kallon_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Yayah Kallon_Genoa_2021.csv 
+Done player Yayah Kallon | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/0ccac09c/matchs/2021-2022/summary/Journaux-de-match-Stefano-Sabelli
+Total Ads removed: 22
+Stefano Sabelli
+Save genstats_Genoa_Stefano Sabelli_2021.csv 
+Total Ads removed: 22
+Save passes_Stefano Sabelli_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Stefano Sabelli_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Stefano Sabelli_Genoa_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Stefano Sabelli_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Stefano Sabelli_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Stefano Sabelli_Genoa_2021.csv 
+Done player Stefano Sabelli | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/3ef965c1/matchs/2021-2022/summary/Journaux-de-match-Flavio-Junior-Bianchi
+Total Ads removed: 22
+Flavio Junior Bianchi
+Save genstats_Genoa_Flavio Junior Bianchi_2021.csv 
+Total Ads removed: 22
+Save passes_Flavio Junior Bianchi_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Flavio Junior Bianchi_Genoa_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Flavio Junior Bianchi_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Flavio Junior Bianchi_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Flavio Junior Bianchi_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Flavio Junior Bianchi_Genoa_2021.csv 
+Done player Flavio Junior Bianchi | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/d3d758d8/matchs/2021-2022/summary/Journaux-de-match-Valon-Behrami
+Total Ads removed: 22
+Valon Behrami
+Save genstats_Genoa_Valon Behrami_2021.csv 
+Total Ads removed: 22
+Save passes_Valon Behrami_Genoa_2021.csv 
+Total Ads removed: 23
+Save passes-type_Valon Behrami_Genoa_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Valon Behrami_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Valon Behrami_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Valon Behrami_Genoa_2021.csv 
+Total Ads removed: 22
+Save various-stats_Valon Behrami_Genoa_2021.csv 
+Done player Valon Behrami | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/f02dde20/matchs/2021-2022/summary/Journaux-de-match-Adrian-Semper
+Total Ads removed: 22
+Adrian Šemper
+Save genstats_Genoa_Adrian Šemper_2021.csv 
+Total Ads removed: 21
+Save passes_Adrian Šemper_Genoa_2021.csv 
+Total Ads removed: 22
+Save passes-type_Adrian Šemper_Genoa_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Adrian Šemper_Genoa_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Adrian Šemper_Genoa_2021.csv 
+Total Ads removed: 22
+Save possession_Adrian Šemper_Genoa_2021.csv 
+Total Ads removed: 23
+Save various-stats_Adrian Šemper_Genoa_2021.csv 
+Total Ads removed: 22
+Save keeper_Adrian Šemper_Genoa_2021.csv 
+Done player Adrian Šemper | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/59f2d958/matchs/2021-2022/summary/Journaux-de-match-Aleksander-Buksa
+Total Ads removed: 22
+Aleksander Buksa
+Save genstats_Genoa_Aleksander Buksa_2021.csv 
+Total Ads removed: 22
+Save passes_Aleksander Buksa_Genoa_2021.csv 
+Total Ads removed: 24
+Save passes-type_Aleksander Buksa_Genoa_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Aleksander Buksa_Genoa_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Aleksander Buksa_Genoa_2021.csv 
+Total Ads removed: 24
+Save possession_Aleksander Buksa_Genoa_2021.csv 
+Total Ads removed: 24
+Save various-stats_Aleksander Buksa_Genoa_2021.csv 
+Done player Aleksander Buksa | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/79d60e74/matchs/2021-2022/summary/Journaux-de-match-Laurens-Serpe
+Total Ads removed: 22
+Laurens Serpe
+Save genstats_Genoa_Laurens Serpe_2021.csv 
+Total Ads removed: 24
+Save passes_Laurens Serpe_Genoa_2021.csv 
+Total Ads removed: 25
+Save passes-type_Laurens Serpe_Genoa_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Laurens Serpe_Genoa_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Laurens Serpe_Genoa_2021.csv 
+Total Ads removed: 24
+Save possession_Laurens Serpe_Genoa_2021.csv 
+Total Ads removed: 25
+Save various-stats_Laurens Serpe_Genoa_2021.csv 
+Done player Laurens Serpe | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/44510fde/matchs/2021-2022/summary/Journaux-de-match-Andrea-Favilli
+Total Ads removed: 23
+Andrea Favilli
+Save genstats_Genoa_Andrea Favilli_2021.csv 
+Total Ads removed: 25
+Save passes_Andrea Favilli_Genoa_2021.csv 
+Total Ads removed: 25
+Save passes-type_Andrea Favilli_Genoa_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Andrea Favilli_Genoa_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Andrea Favilli_Genoa_2021.csv 
+Total Ads removed: 24
+Save possession_Andrea Favilli_Genoa_2021.csv 
+Total Ads removed: 24
+Save various-stats_Andrea Favilli_Genoa_2021.csv 
+Done player Andrea Favilli | team Genoa | 2021
+Go to https://fbref.com/fr/joueurs/96960855/matchs/2021-2022/summary/Journaux-de-match-Francesco-Cassata
+Total Ads removed: 22
+Francesco Cassata
+Save genstats_Genoa_Francesco Cassata_2021.csv 
+Total Ads removed: 24
+Save passes_Francesco Cassata_Genoa_2021.csv 
+Total Ads removed: 24
+Save passes-type_Francesco Cassata_Genoa_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Francesco Cassata_Genoa_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Francesco Cassata_Genoa_2021.csv 
+Total Ads removed: 23
+Save possession_Francesco Cassata_Genoa_2021.csv 
+Total Ads removed: 24
+Save various-stats_Francesco Cassata_Genoa_2021.csv 
+Done player Francesco Cassata | team Genoa | 2021
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/4d1efb48/matchs/2021-2022/summary/Journaux-de-match-Pietro-Ceccaroni
+https://fbref.com/fr/joueurs/ac7e640b/matchs/2021-2022/summary/Journaux-de-match-Mattia-Caldara
+https://fbref.com/fr/joueurs/10b9fa99/matchs/2021-2022/summary/Journaux-de-match-Ethan-Ampadu
+https://fbref.com/fr/joueurs/0847b5a5/matchs/2021-2022/summary/Journaux-de-match-Mattia-Aramu
+https://fbref.com/fr/joueurs/c8d7131c/matchs/2021-2022/summary/Journaux-de-match-Ridgeciano-Haps
+https://fbref.com/fr/joueurs/d125f22f/matchs/2021-2022/summary/Journaux-de-match-David-Okereke
+https://fbref.com/fr/joueurs/9ef42479/matchs/2021-2022/summary/Journaux-de-match-Thomas-Henry
+https://fbref.com/fr/joueurs/4a0b7f07/matchs/2021-2022/summary/Journaux-de-match-Gianluca-Busio
+https://fbref.com/fr/joueurs/22cd43d2/matchs/2021-2022/summary/Journaux-de-match-Domen-Crnigoj
+https://fbref.com/fr/joueurs/66784dee/matchs/2021-2022/summary/Journaux-de-match-Dennis-Johnsen
+https://fbref.com/fr/joueurs/14a96e1c/matchs/2021-2022/summary/Journaux-de-match-Niki-Maenpaa
+https://fbref.com/fr/joueurs/1e26e376/matchs/2021-2022/summary/Journaux-de-match-Sergio-Romero
+https://fbref.com/fr/joueurs/eb0ec070/matchs/2021-2022/summary/Journaux-de-match-Pasquale-Mazzocchi
+https://fbref.com/fr/joueurs/444c89d9/matchs/2021-2022/summary/Journaux-de-match-Antonio-Vacca
+https://fbref.com/fr/joueurs/ce1806be/matchs/2021-2022/summary/Journaux-de-match-Sofian-Kiyine
+https://fbref.com/fr/joueurs/8abd174d/matchs/2021-2022/summary/Journaux-de-match-Michael-Svoboda
+https://fbref.com/fr/joueurs/5722eced/matchs/2021-2022/summary/Journaux-de-match-Mickael-Cuisance
+https://fbref.com/fr/joueurs/6af30900/matchs/2021-2022/summary/Journaux-de-match-Tyronne-Ebuehi
+https://fbref.com/fr/joueurs/deb748c9/matchs/2021-2022/summary/Journaux-de-match-Ales-Mateju
+https://fbref.com/fr/joueurs/ac277993/matchs/2021-2022/summary/Journaux-de-match-Tanner-Tessmann
+https://fbref.com/fr/joueurs/1c8c5aed/matchs/2021-2022/summary/Journaux-de-match-Cristian-Molinaro
+https://fbref.com/fr/joueurs/c9c32262/matchs/2021-2022/summary/Journaux-de-match-Luca-Lezzerini
+https://fbref.com/fr/joueurs/9bb1ad91/matchs/2021-2022/summary/Journaux-de-match-Luca-Fiordilino
+https://fbref.com/fr/joueurs/e2a302a8/matchs/2021-2022/summary/Journaux-de-match-Dor-Peretz
+https://fbref.com/fr/joueurs/69e11a01/matchs/2021-2022/summary/Journaux-de-match-Francesco-Forte
+https://fbref.com/fr/joueurs/fdcdb521/matchs/2021-2022/summary/Journaux-de-match-Marco-Modolo
+https://fbref.com/fr/joueurs/15e9c7e6/matchs/2021-2022/summary/Journaux-de-match-Nani
+https://fbref.com/fr/joueurs/6d70c771/matchs/2021-2022/summary/Journaux-de-match-Daan-Heymans
+https://fbref.com/fr/joueurs/caaf2ed1/matchs/2021-2022/summary/Journaux-de-match-Maximilian-Ullmann
+https://fbref.com/fr/joueurs/1c341b14/matchs/2021-2022/summary/Journaux-de-match-David-Schnegg
+https://fbref.com/fr/joueurs/12e6d21a/matchs/2021-2022/summary/Journaux-de-match-Jean-Pierre-Nsame
+https://fbref.com/fr/joueurs/35a2557c/matchs/2021-2022/summary/Journaux-de-match-Francesco-Di-Mariano
+https://fbref.com/fr/joueurs/f209b81e/matchs/2021-2022/summary/Journaux-de-match-Arnor-Sigurdsson
+https://fbref.com/fr/joueurs/5add9b29/matchs/2021-2022/summary/Journaux-de-match-Hilmir-Mikaelsson
+https://fbref.com/fr/joueurs/e921b9db/matchs/2021-2022/summary/Journaux-de-match-Jacopo-Dezi
+https://fbref.com/fr/joueurs/a796492f/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Galazzi
+https://fbref.com/fr/joueurs/956a78ea/matchs/2021-2022/summary/Journaux-de-match-Issa-Bah
+https://fbref.com/fr/joueurs/f1d25de7/matchs/2021-2022/summary/Journaux-de-match-Bjarki-Bjarkason
+https://fbref.com/fr/joueurs/d97ec0d1/matchs/2021-2022/summary/Journaux-de-match-Patrick-Leal
+Number of players : 39
+Go to https://fbref.com/fr/joueurs/4d1efb48/matchs/2021-2022/summary/Journaux-de-match-Pietro-Ceccaroni
+Total Ads removed: 22
+Pietro Ceccaroni
+Save genstats_Venezia_Pietro Ceccaroni_2021.csv 
+Total Ads removed: 24
+Save passes_Pietro Ceccaroni_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Pietro Ceccaroni_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Pietro Ceccaroni_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Pietro Ceccaroni_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Pietro Ceccaroni_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Pietro Ceccaroni_Venezia_2021.csv 
+Done player Pietro Ceccaroni | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/ac7e640b/matchs/2021-2022/summary/Journaux-de-match-Mattia-Caldara
+Total Ads removed: 22
+Mattia Caldara
+Save genstats_Venezia_Mattia Caldara_2021.csv 
+Total Ads removed: 27
+Save passes_Mattia Caldara_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mattia Caldara_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mattia Caldara_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mattia Caldara_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Mattia Caldara_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Mattia Caldara_Venezia_2021.csv 
+Done player Mattia Caldara | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/10b9fa99/matchs/2021-2022/summary/Journaux-de-match-Ethan-Ampadu
+Total Ads removed: 22
+Ethan Ampadu
+Save genstats_Venezia_Ethan Ampadu_2021.csv 
+Total Ads removed: 24
+Save passes_Ethan Ampadu_Venezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Ethan Ampadu_Venezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Ethan Ampadu_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Ethan Ampadu_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Ethan Ampadu_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Ethan Ampadu_Venezia_2021.csv 
+Done player Ethan Ampadu | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/0847b5a5/matchs/2021-2022/summary/Journaux-de-match-Mattia-Aramu
+Total Ads removed: 23
+Mattia Aramu
+Save genstats_Venezia_Mattia Aramu_2021.csv 
+Total Ads removed: 22
+Save passes_Mattia Aramu_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Mattia Aramu_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Mattia Aramu_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Mattia Aramu_Venezia_2021.csv 
+Total Ads removed: 21
+Save possession_Mattia Aramu_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mattia Aramu_Venezia_2021.csv 
+Done player Mattia Aramu | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/c8d7131c/matchs/2021-2022/summary/Journaux-de-match-Ridgeciano-Haps
+Total Ads removed: 22
+Ridgeciano Haps
+Save genstats_Venezia_Ridgeciano Haps_2021.csv 
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Ridgeciano Haps | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/d125f22f/matchs/2021-2022/summary/Journaux-de-match-David-Okereke
+Total Ads removed: 22
+David Okereke
+Save genstats_Venezia_David Okereke_2021.csv 
+Total Ads removed: 22
+Save passes_David Okereke_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_David Okereke_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_David Okereke_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_David Okereke_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_David Okereke_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_David Okereke_Venezia_2021.csv 
+Done player David Okereke | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/9ef42479/matchs/2021-2022/summary/Journaux-de-match-Thomas-Henry
+Total Ads removed: 22
+Thomas Henry
+Save genstats_Venezia_Thomas Henry_2021.csv 
+Total Ads removed: 22
+Save passes_Thomas Henry_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Thomas Henry_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Thomas Henry_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Thomas Henry_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Thomas Henry_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Thomas Henry_Venezia_2021.csv 
+Done player Thomas Henry | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/4a0b7f07/matchs/2021-2022/summary/Journaux-de-match-Gianluca-Busio
+Total Ads removed: 22
+Gianluca Busio
+Save genstats_Venezia_Gianluca Busio_2021.csv 
+Total Ads removed: 25
+Save passes_Gianluca Busio_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Gianluca Busio_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Gianluca Busio_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Gianluca Busio_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Gianluca Busio_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Gianluca Busio_Venezia_2021.csv 
+Done player Gianluca Busio | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/22cd43d2/matchs/2021-2022/summary/Journaux-de-match-Domen-Crnigoj
+Total Ads removed: 22
+Domen Črnigoj
+Save genstats_Venezia_Domen Črnigoj_2021.csv 
+Total Ads removed: 23
+Save passes_Domen Črnigoj_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Domen Črnigoj_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Domen Črnigoj_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Domen Črnigoj_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Domen Črnigoj_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Domen Črnigoj_Venezia_2021.csv 
+Done player Domen Črnigoj | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/66784dee/matchs/2021-2022/summary/Journaux-de-match-Dennis-Johnsen
+Total Ads removed: 23
+Dennis Johnsen
+Save genstats_Venezia_Dennis Johnsen_2021.csv 
+Total Ads removed: 23
+Save passes_Dennis Johnsen_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Dennis Johnsen_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Dennis Johnsen_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Dennis Johnsen_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Dennis Johnsen_Venezia_2021.csv 
+Total Ads removed: 21
+Save various-stats_Dennis Johnsen_Venezia_2021.csv 
+Done player Dennis Johnsen | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/14a96e1c/matchs/2021-2022/summary/Journaux-de-match-Niki-Maenpaa
+Total Ads removed: 22
+Niki Mäenpää
+Save genstats_Venezia_Niki Mäenpää_2021.csv 
+Total Ads removed: 24
+Save passes_Niki Mäenpää_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Niki Mäenpää_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Niki Mäenpää_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Niki Mäenpää_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Niki Mäenpää_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Niki Mäenpää_Venezia_2021.csv 
+Total Ads removed: 22
+Save keeper_Niki Mäenpää_Venezia_2021.csv 
+Done player Niki Mäenpää | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/1e26e376/matchs/2021-2022/summary/Journaux-de-match-Sergio-Romero
+Total Ads removed: 23
+Sergio Romero
+Save genstats_Venezia_Sergio Romero_2021.csv 
+Total Ads removed: 22
+Save passes_Sergio Romero_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Sergio Romero_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Sergio Romero_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Sergio Romero_Venezia_2021.csv 
+Total Ads removed: 24
+Save possession_Sergio Romero_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Sergio Romero_Venezia_2021.csv 
+Done player Sergio Romero | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/444c89d9/matchs/2021-2022/summary/Journaux-de-match-Antonio-Vacca
+Total Ads removed: 22
+Antonio Vacca
+Save genstats_Venezia_Antonio Vacca_2021.csv 
+Total Ads removed: 22
+Save passes_Antonio Vacca_Venezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Antonio Vacca_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Antonio Vacca_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Antonio Vacca_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Antonio Vacca_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Antonio Vacca_Venezia_2021.csv 
+Done player Antonio Vacca | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/ce1806be/matchs/2021-2022/summary/Journaux-de-match-Sofian-Kiyine
+Total Ads removed: 23
+Sofian Kiyine
+Save genstats_Venezia_Sofian Kiyine_2021.csv 
+Total Ads removed: 22
+Save passes_Sofian Kiyine_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Sofian Kiyine_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Sofian Kiyine_Venezia_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Sofian Kiyine_Venezia_2021.csv 
+Total Ads removed: 24
+Save possession_Sofian Kiyine_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Sofian Kiyine_Venezia_2021.csv 
+Done player Sofian Kiyine | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/8abd174d/matchs/2021-2022/summary/Journaux-de-match-Michael-Svoboda
+Total Ads removed: 22
+Michael Svoboda
+Save genstats_Venezia_Michael Svoboda_2021.csv 
+Total Ads removed: 23
+Save passes_Michael Svoboda_Venezia_2021.csv 
+Total Ads removed: 24
+Save passes-type_Michael Svoboda_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Michael Svoboda_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Michael Svoboda_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Michael Svoboda_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Michael Svoboda_Venezia_2021.csv 
+Done player Michael Svoboda | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/5722eced/matchs/2021-2022/summary/Journaux-de-match-Mickael-Cuisance
+Total Ads removed: 22
+Mickaël Cuisance
+Save genstats_Venezia_Mickaël Cuisance_2021.csv 
+Total Ads removed: 23
+Save passes_Mickaël Cuisance_Venezia_2021.csv 
+Total Ads removed: 21
+Save passes-type_Mickaël Cuisance_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mickaël Cuisance_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Mickaël Cuisance_Venezia_2021.csv 
+Total Ads removed: 25
+Save possession_Mickaël Cuisance_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mickaël Cuisance_Venezia_2021.csv 
+Done player Mickaël Cuisance | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/6af30900/matchs/2021-2022/summary/Journaux-de-match-Tyronne-Ebuehi
+Total Ads removed: 22
+Tyronne Ebuehi
+Save genstats_Venezia_Tyronne Ebuehi_2021.csv 
+Total Ads removed: 23
+Save passes_Tyronne Ebuehi_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Tyronne Ebuehi_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Tyronne Ebuehi_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Tyronne Ebuehi_Venezia_2021.csv 
+Total Ads removed: 24
+Save possession_Tyronne Ebuehi_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Tyronne Ebuehi_Venezia_2021.csv 
+Done player Tyronne Ebuehi | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/deb748c9/matchs/2021-2022/summary/Journaux-de-match-Ales-Mateju
+Total Ads removed: 22
+Aleš Matějů
+Save genstats_Venezia_Aleš Matějů_2021.csv 
+Total Ads removed: 24
+Save passes_Aleš Matějů_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Aleš Matějů_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Aleš Matějů_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Aleš Matějů_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Aleš Matějů_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Aleš Matějů_Venezia_2021.csv 
+Done player Aleš Matějů | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/ac277993/matchs/2021-2022/summary/Journaux-de-match-Tanner-Tessmann
+Total Ads removed: 24
+Tanner Tessmann
+Save genstats_Venezia_Tanner Tessmann_2021.csv 
+Total Ads removed: 22
+Save passes_Tanner Tessmann_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Tanner Tessmann_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Tanner Tessmann_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Tanner Tessmann_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Tanner Tessmann_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Tanner Tessmann_Venezia_2021.csv 
+Done player Tanner Tessmann | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/1c8c5aed/matchs/2021-2022/summary/Journaux-de-match-Cristian-Molinaro
+Total Ads removed: 22
+Cristian Molinaro
+Save genstats_Venezia_Cristian Molinaro_2021.csv 
+Total Ads removed: 23
+Save passes_Cristian Molinaro_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Cristian Molinaro_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Cristian Molinaro_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Cristian Molinaro_Venezia_2021.csv 
+Total Ads removed: 28
+Save possession_Cristian Molinaro_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Cristian Molinaro_Venezia_2021.csv 
+Done player Cristian Molinaro | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/c9c32262/matchs/2021-2022/summary/Journaux-de-match-Luca-Lezzerini
+Total Ads removed: 22
+Luca Lezzerini
+Save genstats_Venezia_Luca Lezzerini_2021.csv 
+Total Ads removed: 23
+Save passes_Luca Lezzerini_Venezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Luca Lezzerini_Venezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Luca Lezzerini_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Luca Lezzerini_Venezia_2021.csv 
+Total Ads removed: 25
+Save possession_Luca Lezzerini_Venezia_2021.csv 
+Total Ads removed: 25
+Save various-stats_Luca Lezzerini_Venezia_2021.csv 
+Total Ads removed: 22
+Save keeper_Luca Lezzerini_Venezia_2021.csv 
+Done player Luca Lezzerini | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/9bb1ad91/matchs/2021-2022/summary/Journaux-de-match-Luca-Fiordilino
+Total Ads removed: 23
+Luca Fiordilino
+Save genstats_Venezia_Luca Fiordilino_2021.csv 
+Total Ads removed: 24
+Save passes_Luca Fiordilino_Venezia_2021.csv 
+Total Ads removed: 24
+Save passes-type_Luca Fiordilino_Venezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Luca Fiordilino_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Luca Fiordilino_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Luca Fiordilino_Venezia_2021.csv 
+Total Ads removed: 25
+Save various-stats_Luca Fiordilino_Venezia_2021.csv 
+Done player Luca Fiordilino | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/e2a302a8/matchs/2021-2022/summary/Journaux-de-match-Dor-Peretz
+Total Ads removed: 23
+Dor Peretz
+Save genstats_Venezia_Dor Peretz_2021.csv 
+Total Ads removed: 22
+Save passes_Dor Peretz_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Dor Peretz_Venezia_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Dor Peretz_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Dor Peretz_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Dor Peretz_Venezia_2021.csv 
+Total Ads removed: 25
+Save various-stats_Dor Peretz_Venezia_2021.csv 
+Done player Dor Peretz | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/69e11a01/matchs/2021-2022/summary/Journaux-de-match-Francesco-Forte
+Total Ads removed: 22
+Francesco Forte
+Save genstats_Venezia_Francesco Forte_2021.csv 
+Total Ads removed: 23
+Save passes_Francesco Forte_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Francesco Forte_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Francesco Forte_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Francesco Forte_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Francesco Forte_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Francesco Forte_Venezia_2021.csv 
+Done player Francesco Forte | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/fdcdb521/matchs/2021-2022/summary/Journaux-de-match-Marco-Modolo
+Total Ads removed: 23
+Marco Modolo
+Save genstats_Venezia_Marco Modolo_2021.csv 
+Total Ads removed: 22
+Save passes_Marco Modolo_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Marco Modolo_Venezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Marco Modolo_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Marco Modolo_Venezia_2021.csv 
+Total Ads removed: 24
+Save possession_Marco Modolo_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Marco Modolo_Venezia_2021.csv 
+Done player Marco Modolo | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/15e9c7e6/matchs/2021-2022/summary/Journaux-de-match-Nani
+Total Ads removed: 23
+Nani
+Save genstats_Venezia_Nani_2021.csv 
+Total Ads removed: 23
+Save passes_Nani_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nani_Venezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Nani_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Nani_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Nani_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Nani_Venezia_2021.csv 
+Done player Nani | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/6d70c771/matchs/2021-2022/summary/Journaux-de-match-Daan-Heymans
+Total Ads removed: 22
+Daan Heymans
+Save genstats_Venezia_Daan Heymans_2021.csv 
+Total Ads removed: 23
+Save passes_Daan Heymans_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Daan Heymans_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Daan Heymans_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Daan Heymans_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Daan Heymans_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Daan Heymans_Venezia_2021.csv 
+Done player Daan Heymans | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/caaf2ed1/matchs/2021-2022/summary/Journaux-de-match-Maximilian-Ullmann
+Total Ads removed: 23
+Maximilian Ullmann
+Save genstats_Venezia_Maximilian Ullmann_2021.csv 
+Total Ads removed: 25
+Save passes_Maximilian Ullmann_Venezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Maximilian Ullmann_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Maximilian Ullmann_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Maximilian Ullmann_Venezia_2021.csv 
+Total Ads removed: 24
+Save possession_Maximilian Ullmann_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Maximilian Ullmann_Venezia_2021.csv 
+Done player Maximilian Ullmann | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/1c341b14/matchs/2021-2022/summary/Journaux-de-match-David-Schnegg
+Total Ads removed: 23
+David Schnegg
+Save genstats_Venezia_David Schnegg_2021.csv 
+Total Ads removed: 22
+Save passes_David Schnegg_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_David Schnegg_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_David Schnegg_Venezia_2021.csv 
+Total Ads removed: 27
+Save defensive-actions_David Schnegg_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_David Schnegg_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_David Schnegg_Venezia_2021.csv 
+Done player David Schnegg | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/12e6d21a/matchs/2021-2022/summary/Journaux-de-match-Jean-Pierre-Nsame
+Total Ads removed: 22
+Jean-Pierre Nsame
+Save genstats_Venezia_Jean-Pierre Nsame_2021.csv 
+Total Ads removed: 23
+Save passes_Jean-Pierre Nsame_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jean-Pierre Nsame_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jean-Pierre Nsame_Venezia_2021.csv 
+Total Ads removed: 20
+Save defensive-actions_Jean-Pierre Nsame_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Jean-Pierre Nsame_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Jean-Pierre Nsame_Venezia_2021.csv 
+Done player Jean-Pierre Nsame | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/35a2557c/matchs/2021-2022/summary/Journaux-de-match-Francesco-Di-Mariano
+Total Ads removed: 22
+Francesco Di Mariano
+Save genstats_Venezia_Francesco Di Mariano_2021.csv 
+Total Ads removed: 25
+Save passes_Francesco Di Mariano_Venezia_2021.csv 
+Total Ads removed: 25
+Save passes-type_Francesco Di Mariano_Venezia_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Francesco Di Mariano_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Francesco Di Mariano_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Francesco Di Mariano_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Francesco Di Mariano_Venezia_2021.csv 
+Done player Francesco Di Mariano | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/f209b81e/matchs/2021-2022/summary/Journaux-de-match-Arnor-Sigurdsson
+Total Ads removed: 22
+Arnór Sigurðsson
+Save genstats_Venezia_Arnór Sigurðsson_2021.csv 
+Total Ads removed: 22
+Save passes_Arnór Sigurðsson_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Arnór Sigurðsson_Venezia_2021.csv 
+Total Ads removed: 27
+Save penalty-prep_Arnór Sigurðsson_Venezia_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Arnór Sigurðsson_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Arnór Sigurðsson_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Arnór Sigurðsson_Venezia_2021.csv 
+Done player Arnór Sigurðsson | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/5add9b29/matchs/2021-2022/summary/Journaux-de-match-Hilmir-Mikaelsson
+Total Ads removed: 23
+Hilmir Mikaelsson
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 21
+Total Ads removed: 24
+Total Ads removed: 22
+Total Ads removed: 22
+Done player Hilmir Mikaelsson | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/e921b9db/matchs/2021-2022/summary/Journaux-de-match-Jacopo-Dezi
+Total Ads removed: 22
+Jacopo Dezi
+Save genstats_Venezia_Jacopo Dezi_2021.csv 
+Total Ads removed: 22
+Save passes_Jacopo Dezi_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Jacopo Dezi_Venezia_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jacopo Dezi_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jacopo Dezi_Venezia_2021.csv 
+Total Ads removed: 24
+Save possession_Jacopo Dezi_Venezia_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jacopo Dezi_Venezia_2021.csv 
+Done player Jacopo Dezi | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/a796492f/matchs/2021-2022/summary/Journaux-de-match-Nicolas-Galazzi
+Total Ads removed: 22
+Nicolas Galazzi
+Total Ads removed: 22
+Total Ads removed: 21
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 23
+Done player Nicolas Galazzi | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/956a78ea/matchs/2021-2022/summary/Journaux-de-match-Issa-Bah
+Total Ads removed: 22
+Issa Bah
+Save genstats_Venezia_Issa Bah_2021.csv 
+Total Ads removed: 24
+Save passes_Issa Bah_Venezia_2021.csv 
+Total Ads removed: 22
+Save passes-type_Issa Bah_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Issa Bah_Venezia_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Issa Bah_Venezia_2021.csv 
+Total Ads removed: 23
+Save possession_Issa Bah_Venezia_2021.csv 
+Total Ads removed: 22
+Save various-stats_Issa Bah_Venezia_2021.csv 
+Done player Issa Bah | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/f1d25de7/matchs/2021-2022/summary/Journaux-de-match-Bjarki-Bjarkason
+Total Ads removed: 22
+Bjarki Bjarkason
+Save genstats_Venezia_Bjarki Bjarkason_2021.csv 
+Total Ads removed: 23
+Save passes_Bjarki Bjarkason_Venezia_2021.csv 
+Total Ads removed: 23
+Save passes-type_Bjarki Bjarkason_Venezia_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Bjarki Bjarkason_Venezia_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Bjarki Bjarkason_Venezia_2021.csv 
+Total Ads removed: 22
+Save possession_Bjarki Bjarkason_Venezia_2021.csv 
+Total Ads removed: 24
+Save various-stats_Bjarki Bjarkason_Venezia_2021.csv 
+Done player Bjarki Bjarkason | team Venezia | 2021
+Go to https://fbref.com/fr/joueurs/d97ec0d1/matchs/2021-2022/summary/Journaux-de-match-Patrick-Leal
+Total Ads removed: 22
+Patrick Leal
+Total Ads removed: 25
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 24
+Done player Patrick Leal | team Venezia | 2021

@@ -8463,3 +8463,2289 @@ Done player Jodel Dossou | team Clermont Foot | 2021
 Go to https://fbref.com/fr/joueurs/25749008/matchs/2021-2022/summary/Journaux-de-match-Elba-Rashani
 Total Ads removed: 26
 Elba Rashani
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 25
+Done player Elba Rashani | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/03e91055/matchs/2021-2022/summary/Journaux-de-match-Jason-Berthomier
+Total Ads removed: 25
+Jason Berthomier
+Save genstats_Clermont Foot_Jason Berthomier_2021.csv 
+Total Ads removed: 25
+Save passes_Jason Berthomier_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save passes-type_Jason Berthomier_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Jason Berthomier_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Jason Berthomier_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save possession_Jason Berthomier_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save various-stats_Jason Berthomier_Clermont Foot_2021.csv 
+Done player Jason Berthomier | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/caa7aaea/matchs/2021-2022/summary/Journaux-de-match-Yohann-Magnin
+Total Ads removed: 25
+Yohann Magnin
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 24
+Done player Yohann Magnin | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/cea59f02/matchs/2021-2022/summary/Journaux-de-match-Alidu-Seidu
+Total Ads removed: 24
+Alidu Seidu
+Save genstats_Clermont Foot_Alidu Seidu_2021.csv 
+Total Ads removed: 25
+Save passes_Alidu Seidu_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save passes-type_Alidu Seidu_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Alidu Seidu_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Alidu Seidu_Clermont Foot_2021.csv 
+Total Ads removed: 26
+Save possession_Alidu Seidu_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save various-stats_Alidu Seidu_Clermont Foot_2021.csv 
+Done player Alidu Seidu | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/e8c5dd4d/matchs/2021-2022/summary/Journaux-de-match-Arthur-Desmas
+Total Ads removed: 25
+Arthur Desmas
+Save genstats_Clermont Foot_Arthur Desmas_2021.csv 
+Total Ads removed: 25
+Save passes_Arthur Desmas_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save passes-type_Arthur Desmas_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Arthur Desmas_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Arthur Desmas_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save possession_Arthur Desmas_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save various-stats_Arthur Desmas_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save keeper_Arthur Desmas_Clermont Foot_2021.csv 
+Done player Arthur Desmas | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/1956b948/matchs/2021-2022/summary/Journaux-de-match-Jim-Allevinah
+Total Ads removed: 25
+Jim Allevinah
+Save genstats_Clermont Foot_Jim Allevinah_2021.csv 
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 24
+Done player Jim Allevinah | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/a3e1d20d/matchs/2021-2022/summary/Journaux-de-match-Jean-Claude-Billong
+Total Ads removed: 24
+Jean-Claude Billong
+Save genstats_Clermont Foot_Jean-Claude Billong_2021.csv 
+Total Ads removed: 24
+Save passes_Jean-Claude Billong_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save passes-type_Jean-Claude Billong_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Jean-Claude Billong_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 25
+Done player Jean-Claude Billong | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/796b1c41/matchs/2021-2022/summary/Journaux-de-match-Saif-Eddine-Khaoui
+Total Ads removed: 24
+Saîf-Eddine Khaoui
+Save genstats_Clermont Foot_Saîf-Eddine Khaoui_2021.csv 
+Total Ads removed: 25
+Save passes_Saîf-Eddine Khaoui_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save passes-type_Saîf-Eddine Khaoui_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Saîf-Eddine Khaoui_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Saîf-Eddine Khaoui_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save possession_Saîf-Eddine Khaoui_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save various-stats_Saîf-Eddine Khaoui_Clermont Foot_2021.csv 
+Done player Saîf-Eddine Khaoui | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/9f0f4b49/matchs/2021-2022/summary/Journaux-de-match-Arial-Mendy
+Total Ads removed: 24
+Arial Mendy
+Save genstats_Clermont Foot_Arial Mendy_2021.csv 
+Total Ads removed: 26
+Save passes_Arial Mendy_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save passes-type_Arial Mendy_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Arial Mendy_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Arial Mendy_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save possession_Arial Mendy_Clermont Foot_2021.csv 
+Total Ads removed: 27
+Save various-stats_Arial Mendy_Clermont Foot_2021.csv 
+Done player Arial Mendy | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/639ca1cf/matchs/2021-2022/summary/Journaux-de-match-Jonathan-Iglesias
+Total Ads removed: 23
+Jonathan Iglesias
+Save genstats_Clermont Foot_Jonathan Iglesias_2021.csv 
+Total Ads removed: 24
+Save passes_Jonathan Iglesias_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save passes-type_Jonathan Iglesias_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Jonathan Iglesias_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jonathan Iglesias_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save possession_Jonathan Iglesias_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jonathan Iglesias_Clermont Foot_2021.csv 
+Done player Jonathan Iglesias | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/397ba086/matchs/2021-2022/summary/Journaux-de-match-Grejohn-Kyei
+Total Ads removed: 22
+Grejohn Kyei
+Save genstats_Clermont Foot_Grejohn Kyei_2021.csv 
+Total Ads removed: 23
+Save passes_Grejohn Kyei_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save passes-type_Grejohn Kyei_Clermont Foot_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Grejohn Kyei_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Grejohn Kyei_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save possession_Grejohn Kyei_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save various-stats_Grejohn Kyei_Clermont Foot_2021.csv 
+Done player Grejohn Kyei | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/49712367/matchs/2021-2022/summary/Journaux-de-match-Oriol-Busquets
+Total Ads removed: 24
+Oriol Busquets
+Save genstats_Clermont Foot_Oriol Busquets_2021.csv 
+Total Ads removed: 25
+Save passes_Oriol Busquets_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save passes-type_Oriol Busquets_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Oriol Busquets_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Oriol Busquets_Clermont Foot_2021.csv 
+Total Ads removed: 26
+Save possession_Oriol Busquets_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save various-stats_Oriol Busquets_Clermont Foot_2021.csv 
+Done player Oriol Busquets | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/4f093689/matchs/2021-2022/summary/Journaux-de-match-Jordan-Tell
+Total Ads removed: 25
+Jordan Tell
+Save genstats_Clermont Foot_Jordan Tell_2021.csv 
+Total Ads removed: 24
+Save passes_Jordan Tell_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save passes-type_Jordan Tell_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jordan Tell_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jordan Tell_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save possession_Jordan Tell_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jordan Tell_Clermont Foot_2021.csv 
+Done player Jordan Tell | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/5630a6e0/matchs/2021-2022/summary/Journaux-de-match-Yadaly-Diaby
+Total Ads removed: 25
+Yadaly Diaby
+Save genstats_Clermont Foot_Yadaly Diaby_2021.csv 
+Total Ads removed: 25
+Save passes_Yadaly Diaby_Clermont Foot_2021.csv 
+Total Ads removed: 26
+Save passes-type_Yadaly Diaby_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Yadaly Diaby_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Yadaly Diaby_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save possession_Yadaly Diaby_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save various-stats_Yadaly Diaby_Clermont Foot_2021.csv 
+Done player Yadaly Diaby | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/3d738df0/matchs/2021-2022/summary/Journaux-de-match-Josue-Albert
+Total Ads removed: 25
+Josué Albert
+Save genstats_Clermont Foot_Josué Albert_2021.csv 
+Total Ads removed: 25
+Save passes_Josué Albert_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save passes-type_Josué Albert_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Josué Albert_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Josué Albert_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save possession_Josué Albert_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save various-stats_Josué Albert_Clermont Foot_2021.csv 
+Done player Josué Albert | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/ff44d058/matchs/2021-2022/summary/Journaux-de-match-Jerome-Phojo
+Total Ads removed: 24
+Jérôme Phojo
+Save genstats_Clermont Foot_Jérôme Phojo_2021.csv 
+Total Ads removed: 23
+Save passes_Jérôme Phojo_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save passes-type_Jérôme Phojo_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jérôme Phojo_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jérôme Phojo_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save possession_Jérôme Phojo_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save various-stats_Jérôme Phojo_Clermont Foot_2021.csv 
+Done player Jérôme Phojo | team Clermont Foot | 2021
+Go to https://fbref.com/fr/joueurs/ae5b93a0/matchs/2021-2022/summary/Journaux-de-match-Aboubakar-Sidibe
+Total Ads removed: 24
+Aboubakar Sidibé
+Save genstats_Clermont Foot_Aboubakar Sidibé_2021.csv 
+Total Ads removed: 23
+Save passes_Aboubakar Sidibé_Clermont Foot_2021.csv 
+Total Ads removed: 23
+Save passes-type_Aboubakar Sidibé_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Aboubakar Sidibé_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Aboubakar Sidibé_Clermont Foot_2021.csv 
+Total Ads removed: 24
+Save possession_Aboubakar Sidibé_Clermont Foot_2021.csv 
+Total Ads removed: 25
+Save various-stats_Aboubakar Sidibé_Clermont Foot_2021.csv 
+Done player Aboubakar Sidibé | team Clermont Foot | 2021
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/8577e60a/matchs/2021-2022/summary/Journaux-de-match-Mahdi-Camara
+https://fbref.com/fr/joueurs/ab096c6f/matchs/2021-2022/summary/Journaux-de-match-Timothee-Kolodziejczak
+https://fbref.com/fr/joueurs/a6b6fa6e/matchs/2021-2022/summary/Journaux-de-match-Mickael-Nade
+https://fbref.com/fr/joueurs/0b0cbe5b/matchs/2021-2022/summary/Journaux-de-match-Denis-Bouanga
+https://fbref.com/fr/joueurs/1001ae82/matchs/2021-2022/summary/Journaux-de-match-Ryad-Boudebouz
+https://fbref.com/fr/joueurs/2677a1de/matchs/2021-2022/summary/Journaux-de-match-Wahbi-Khazri
+https://fbref.com/fr/joueurs/7b9a9e25/matchs/2021-2022/summary/Journaux-de-match-Arnaud-Nordin
+https://fbref.com/fr/joueurs/3cd7820a/matchs/2021-2022/summary/Journaux-de-match-Lucas-Gourna-Douath
+https://fbref.com/fr/joueurs/28dabd43/matchs/2021-2022/summary/Journaux-de-match-Paul-Bernardoni
+https://fbref.com/fr/joueurs/0bb6e193/matchs/2021-2022/summary/Journaux-de-match-Yvann-Macon
+https://fbref.com/fr/joueurs/e2f9bb5f/matchs/2021-2022/summary/Journaux-de-match-Zaydou-Youssouf
+https://fbref.com/fr/joueurs/5f26e0c5/matchs/2021-2022/summary/Journaux-de-match-Harold-Moukoudi
+https://fbref.com/fr/joueurs/667b65da/matchs/2021-2022/summary/Journaux-de-match-Etienne-Green
+https://fbref.com/fr/joueurs/f520049f/matchs/2021-2022/summary/Journaux-de-match-Eliaquim-Mangala
+https://fbref.com/fr/joueurs/e4b72e34/matchs/2021-2022/summary/Journaux-de-match-Miguel-Trauco
+https://fbref.com/fr/joueurs/0ad37003/matchs/2021-2022/summary/Journaux-de-match-Yvan-Neyou
+https://fbref.com/fr/joueurs/b94b8be1/matchs/2021-2022/summary/Journaux-de-match-Adil-Aouchiche
+https://fbref.com/fr/joueurs/f6b94e8d/matchs/2021-2022/summary/Journaux-de-match-Saidou-Sow
+https://fbref.com/fr/joueurs/f4bc42b1/matchs/2021-2022/summary/Journaux-de-match-Sada-Thioub
+https://fbref.com/fr/joueurs/4914ed4a/matchs/2021-2022/summary/Journaux-de-match-Gabriel-Silva
+https://fbref.com/fr/joueurs/6388e356/matchs/2021-2022/summary/Journaux-de-match-Falaye-Sacko
+https://fbref.com/fr/joueurs/0b4d8274/matchs/2021-2022/summary/Journaux-de-match-Romain-Hamouma
+https://fbref.com/fr/joueurs/037f2523/matchs/2021-2022/summary/Journaux-de-match-Jean-Philippe-Krasso
+https://fbref.com/fr/joueurs/be13e5a8/matchs/2021-2022/summary/Journaux-de-match-Stefan-Bajic
+https://fbref.com/fr/joueurs/2591b066/matchs/2021-2022/summary/Journaux-de-match-Aimen-Moueffek
+https://fbref.com/fr/joueurs/ee95585f/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Bakayoko
+https://fbref.com/fr/joueurs/381d7d54/matchs/2021-2022/summary/Journaux-de-match-Bakary-Sako
+https://fbref.com/fr/joueurs/ad513a6b/matchs/2021-2022/summary/Journaux-de-match-Juan-Ignacio-Ramirez
+https://fbref.com/fr/joueurs/469d3d84/matchs/2021-2022/summary/Journaux-de-match-Charles-Abi
+https://fbref.com/fr/joueurs/12bd0579/matchs/2021-2022/summary/Journaux-de-match-Nelson-Sissoko
+https://fbref.com/fr/joueurs/06f33dc8/matchs/2021-2022/summary/Journaux-de-match-Enzo-Crivelli
+https://fbref.com/fr/joueurs/7d9f3d69/matchs/2021-2022/summary/Journaux-de-match-Mathys-Saban
+https://fbref.com/fr/joueurs/cc972842/matchs/2021-2022/summary/Journaux-de-match-Yanis-Lhery
+https://fbref.com/fr/joueurs/75186a6a/matchs/2021-2022/summary/Journaux-de-match-Bryan-Djile-Nokoue
+https://fbref.com/fr/joueurs/6a04bb7c/matchs/2021-2022/summary/Journaux-de-match-Elhadji-Dieye
+https://fbref.com/fr/joueurs/7f622eef/matchs/2021-2022/summary/Journaux-de-match-Assane-Diousse
+https://fbref.com/fr/joueurs/46a7b605/matchs/2021-2022/summary/Journaux-de-match-Maxence-Rivera
+https://fbref.com/fr/joueurs/7a72e960/matchs/2021-2022/summary/Journaux-de-match-Lucas-Calodat
+https://fbref.com/fr/joueurs/ce84946a/matchs/2021-2022/summary/Journaux-de-match-Lamine-Ghezali
+Number of players : 39
+Go to https://fbref.com/fr/joueurs/8577e60a/matchs/2021-2022/summary/Journaux-de-match-Mahdi-Camara
+Total Ads removed: 25
+Mahdi Camara
+Total Ads removed: 26
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 23
+Total Ads removed: 24
+Done player Mahdi Camara | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/ab096c6f/matchs/2021-2022/summary/Journaux-de-match-Timothee-Kolodziejczak
+Total Ads removed: 23
+Timothée Kolodziejczak
+Save genstats_Saint-Étienne_Timothée Kolodziejczak_2021.csv 
+Total Ads removed: 25
+Save passes_Timothée Kolodziejczak_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Timothée Kolodziejczak_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Timothée Kolodziejczak_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Timothée Kolodziejczak_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Timothée Kolodziejczak_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save various-stats_Timothée Kolodziejczak_Saint-Étienne_2021.csv 
+Done player Timothée Kolodziejczak | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/a6b6fa6e/matchs/2021-2022/summary/Journaux-de-match-Mickael-Nade
+Total Ads removed: 25
+Mickael Nade
+Save genstats_Saint-Étienne_Mickael Nade_2021.csv 
+Total Ads removed: 25
+Save passes_Mickael Nade_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Mickael Nade_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Mickael Nade_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Mickael Nade_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Total Ads removed: 24
+Done player Mickael Nade | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/0b0cbe5b/matchs/2021-2022/summary/Journaux-de-match-Denis-Bouanga
+Total Ads removed: 24
+Denis Bouanga
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 23
+Total Ads removed: 25
+Done player Denis Bouanga | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/1001ae82/matchs/2021-2022/summary/Journaux-de-match-Ryad-Boudebouz
+Total Ads removed: 25
+Ryad Boudebouz
+Save genstats_Saint-Étienne_Ryad Boudebouz_2021.csv 
+Total Ads removed: 25
+Save passes_Ryad Boudebouz_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Ryad Boudebouz_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Ryad Boudebouz_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Ryad Boudebouz_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Ryad Boudebouz_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Ryad Boudebouz_Saint-Étienne_2021.csv 
+Done player Ryad Boudebouz | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/2677a1de/matchs/2021-2022/summary/Journaux-de-match-Wahbi-Khazri
+Total Ads removed: 23
+Wahbi Khazri
+Total Ads removed: 23
+Total Ads removed: 26
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Wahbi Khazri | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/7b9a9e25/matchs/2021-2022/summary/Journaux-de-match-Arnaud-Nordin
+Total Ads removed: 24
+Arnaud Nordin
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 24
+Done player Arnaud Nordin | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/3cd7820a/matchs/2021-2022/summary/Journaux-de-match-Lucas-Gourna-Douath
+Total Ads removed: 25
+Lucas Gourna-Douath
+Save genstats_Saint-Étienne_Lucas Gourna-Douath_2021.csv 
+Total Ads removed: 23
+Save passes_Lucas Gourna-Douath_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Lucas Gourna-Douath_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Lucas Gourna-Douath_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Lucas Gourna-Douath_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Lucas Gourna-Douath_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Lucas Gourna-Douath_Saint-Étienne_2021.csv 
+Done player Lucas Gourna-Douath | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/0bb6e193/matchs/2021-2022/summary/Journaux-de-match-Yvann-Macon
+Total Ads removed: 25
+Yvann Macon
+Save genstats_Saint-Étienne_Yvann Macon_2021.csv 
+Total Ads removed: 24
+Save passes_Yvann Macon_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Yvann Macon_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Yvann Macon_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Yvann Macon_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Yvann Macon_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Yvann Macon_Saint-Étienne_2021.csv 
+Done player Yvann Macon | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/e2f9bb5f/matchs/2021-2022/summary/Journaux-de-match-Zaydou-Youssouf
+Total Ads removed: 25
+Zaydou Youssouf
+Save genstats_Saint-Étienne_Zaydou Youssouf_2021.csv 
+Total Ads removed: 24
+Save passes_Zaydou Youssouf_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Zaydou Youssouf_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Zaydou Youssouf_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Zaydou Youssouf_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Zaydou Youssouf_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Zaydou Youssouf_Saint-Étienne_2021.csv 
+Done player Zaydou Youssouf | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/5f26e0c5/matchs/2021-2022/summary/Journaux-de-match-Harold-Moukoudi
+Total Ads removed: 24
+Harold Moukoudi
+Save genstats_Saint-Étienne_Harold Moukoudi_2021.csv 
+Total Ads removed: 25
+Save passes_Harold Moukoudi_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Harold Moukoudi_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Harold Moukoudi_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Harold Moukoudi_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Harold Moukoudi_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Harold Moukoudi_Saint-Étienne_2021.csv 
+Done player Harold Moukoudi | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/667b65da/matchs/2021-2022/summary/Journaux-de-match-Etienne-Green
+Total Ads removed: 25
+Etienne Green
+Save genstats_Saint-Étienne_Etienne Green_2021.csv 
+Total Ads removed: 26
+Save passes_Etienne Green_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Etienne Green_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Etienne Green_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Etienne Green_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Etienne Green_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Etienne Green_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save keeper_Etienne Green_Saint-Étienne_2021.csv 
+Done player Etienne Green | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/f520049f/matchs/2021-2022/summary/Journaux-de-match-Eliaquim-Mangala
+Total Ads removed: 24
+Eliaquim Mangala
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 25
+Total Ads removed: 26
+Total Ads removed: 24
+Total Ads removed: 23
+Done player Eliaquim Mangala | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/e4b72e34/matchs/2021-2022/summary/Journaux-de-match-Miguel-Trauco
+Total Ads removed: 25
+Miguel Trauco
+Save genstats_Saint-Étienne_Miguel Trauco_2021.csv 
+Total Ads removed: 24
+Save passes_Miguel Trauco_Saint-Étienne_2021.csv 
+Total Ads removed: 27
+Save passes-type_Miguel Trauco_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Miguel Trauco_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Miguel Trauco_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save possession_Miguel Trauco_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Miguel Trauco_Saint-Étienne_2021.csv 
+Done player Miguel Trauco | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/0ad37003/matchs/2021-2022/summary/Journaux-de-match-Yvan-Neyou
+Total Ads removed: 25
+Yvan Neyou
+Save genstats_Saint-Étienne_Yvan Neyou_2021.csv 
+Total Ads removed: 26
+Save passes_Yvan Neyou_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Yvan Neyou_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Yvan Neyou_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Yvan Neyou_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Yvan Neyou_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Yvan Neyou_Saint-Étienne_2021.csv 
+Done player Yvan Neyou | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/b94b8be1/matchs/2021-2022/summary/Journaux-de-match-Adil-Aouchiche
+Total Ads removed: 25
+Adil Aouchiche
+Save genstats_Saint-Étienne_Adil Aouchiche_2021.csv 
+Total Ads removed: 25
+Save passes_Adil Aouchiche_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Adil Aouchiche_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Adil Aouchiche_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Adil Aouchiche_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save possession_Adil Aouchiche_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save various-stats_Adil Aouchiche_Saint-Étienne_2021.csv 
+Done player Adil Aouchiche | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/f6b94e8d/matchs/2021-2022/summary/Journaux-de-match-Saidou-Sow
+Total Ads removed: 22
+Saidou Sow
+Save genstats_Saint-Étienne_Saidou Sow_2021.csv 
+Total Ads removed: 24
+Save passes_Saidou Sow_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Saidou Sow_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Saidou Sow_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Saidou Sow_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Saidou Sow_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save various-stats_Saidou Sow_Saint-Étienne_2021.csv 
+Done player Saidou Sow | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/4914ed4a/matchs/2021-2022/summary/Journaux-de-match-Gabriel-Silva
+Total Ads removed: 22
+Gabriel Silva
+Save genstats_Saint-Étienne_Gabriel Silva_2021.csv 
+Total Ads removed: 25
+Save passes_Gabriel Silva_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Gabriel Silva_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Gabriel Silva_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Gabriel Silva_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Gabriel Silva_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save various-stats_Gabriel Silva_Saint-Étienne_2021.csv 
+Done player Gabriel Silva | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/6388e356/matchs/2021-2022/summary/Journaux-de-match-Falaye-Sacko
+Total Ads removed: 24
+Falaye Sacko
+Save genstats_Saint-Étienne_Falaye Sacko_2021.csv 
+Total Ads removed: 24
+Save passes_Falaye Sacko_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Falaye Sacko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Falaye Sacko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Falaye Sacko_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save possession_Falaye Sacko_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Falaye Sacko_Saint-Étienne_2021.csv 
+Done player Falaye Sacko | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/0b4d8274/matchs/2021-2022/summary/Journaux-de-match-Romain-Hamouma
+Total Ads removed: 24
+Romain Hamouma
+Total Ads removed: 26
+Total Ads removed: 24
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 23
+Done player Romain Hamouma | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/037f2523/matchs/2021-2022/summary/Journaux-de-match-Jean-Philippe-Krasso
+Total Ads removed: 23
+Jean-Philippe Krasso
+Save genstats_Saint-Étienne_Jean-Philippe Krasso_2021.csv 
+Total Ads removed: 25
+Save passes_Jean-Philippe Krasso_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Jean-Philippe Krasso_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Jean-Philippe Krasso_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Jean-Philippe Krasso_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Jean-Philippe Krasso_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jean-Philippe Krasso_Saint-Étienne_2021.csv 
+Done player Jean-Philippe Krasso | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/be13e5a8/matchs/2021-2022/summary/Journaux-de-match-Stefan-Bajic
+Total Ads removed: 25
+Stefan Bajic
+Save genstats_Saint-Étienne_Stefan Bajic_2021.csv 
+Total Ads removed: 24
+Save passes_Stefan Bajic_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Stefan Bajic_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save penalty-prep_Stefan Bajic_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Stefan Bajic_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Stefan Bajic_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Stefan Bajic_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save keeper_Stefan Bajic_Saint-Étienne_2021.csv 
+Done player Stefan Bajic | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/2591b066/matchs/2021-2022/summary/Journaux-de-match-Aimen-Moueffek
+Total Ads removed: 24
+Aimen Moueffek
+Save genstats_Saint-Étienne_Aimen Moueffek_2021.csv 
+Total Ads removed: 25
+Save passes_Aimen Moueffek_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Aimen Moueffek_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Aimen Moueffek_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Aimen Moueffek_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Aimen Moueffek_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Aimen Moueffek_Saint-Étienne_2021.csv 
+Done player Aimen Moueffek | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/ee95585f/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Bakayoko
+Total Ads removed: 24
+Abdoulaye Bakayoko
+Save genstats_Saint-Étienne_Abdoulaye Bakayoko_2021.csv 
+Total Ads removed: 24
+Save passes_Abdoulaye Bakayoko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Abdoulaye Bakayoko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Abdoulaye Bakayoko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Abdoulaye Bakayoko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Abdoulaye Bakayoko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Abdoulaye Bakayoko_Saint-Étienne_2021.csv 
+Done player Abdoulaye Bakayoko | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/381d7d54/matchs/2021-2022/summary/Journaux-de-match-Bakary-Sako
+Total Ads removed: 24
+Bakary Sako
+Save genstats_Saint-Étienne_Bakary Sako_2021.csv 
+Total Ads removed: 23
+Save passes_Bakary Sako_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Bakary Sako_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Bakary Sako_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Bakary Sako_Saint-Étienne_2021.csv 
+Total Ads removed: 26
+Save possession_Bakary Sako_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Bakary Sako_Saint-Étienne_2021.csv 
+Done player Bakary Sako | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/ad513a6b/matchs/2021-2022/summary/Journaux-de-match-Juan-Ignacio-Ramirez
+Total Ads removed: 24
+Juan Ignacio Ramírez
+Save genstats_Saint-Étienne_Juan Ignacio Ramírez_2021.csv 
+Total Ads removed: 24
+Save passes_Juan Ignacio Ramírez_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Juan Ignacio Ramírez_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Juan Ignacio Ramírez_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Juan Ignacio Ramírez_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Juan Ignacio Ramírez_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Juan Ignacio Ramírez_Saint-Étienne_2021.csv 
+Done player Juan Ignacio Ramírez | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/469d3d84/matchs/2021-2022/summary/Journaux-de-match-Charles-Abi
+Total Ads removed: 26
+Charles Abi
+Save genstats_Saint-Étienne_Charles Abi_2021.csv 
+Total Ads removed: 25
+Save passes_Charles Abi_Saint-Étienne_2021.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 28
+https://fbref.com/fr/equipes/d298ef2c/2021-2022/Statistiques-Saint-Etienne
+https://fbref.com/fr/equipes/f83960ae/2021-2022/Statistiques-Metz
+https://fbref.com/fr/equipes/123f3efe/2021-2022/Statistiques-Bordeaux
+Total Ads removed: 26
+https://fbref.com/fr/joueurs/8577e60a/matchs/2021-2022/summary/Journaux-de-match-Mahdi-Camara
+https://fbref.com/fr/joueurs/ab096c6f/matchs/2021-2022/summary/Journaux-de-match-Timothee-Kolodziejczak
+https://fbref.com/fr/joueurs/a6b6fa6e/matchs/2021-2022/summary/Journaux-de-match-Mickael-Nade
+https://fbref.com/fr/joueurs/0b0cbe5b/matchs/2021-2022/summary/Journaux-de-match-Denis-Bouanga
+https://fbref.com/fr/joueurs/1001ae82/matchs/2021-2022/summary/Journaux-de-match-Ryad-Boudebouz
+https://fbref.com/fr/joueurs/2677a1de/matchs/2021-2022/summary/Journaux-de-match-Wahbi-Khazri
+https://fbref.com/fr/joueurs/7b9a9e25/matchs/2021-2022/summary/Journaux-de-match-Arnaud-Nordin
+https://fbref.com/fr/joueurs/3cd7820a/matchs/2021-2022/summary/Journaux-de-match-Lucas-Gourna-Douath
+https://fbref.com/fr/joueurs/28dabd43/matchs/2021-2022/summary/Journaux-de-match-Paul-Bernardoni
+https://fbref.com/fr/joueurs/0bb6e193/matchs/2021-2022/summary/Journaux-de-match-Yvann-Macon
+https://fbref.com/fr/joueurs/e2f9bb5f/matchs/2021-2022/summary/Journaux-de-match-Zaydou-Youssouf
+https://fbref.com/fr/joueurs/5f26e0c5/matchs/2021-2022/summary/Journaux-de-match-Harold-Moukoudi
+https://fbref.com/fr/joueurs/667b65da/matchs/2021-2022/summary/Journaux-de-match-Etienne-Green
+https://fbref.com/fr/joueurs/f520049f/matchs/2021-2022/summary/Journaux-de-match-Eliaquim-Mangala
+https://fbref.com/fr/joueurs/e4b72e34/matchs/2021-2022/summary/Journaux-de-match-Miguel-Trauco
+https://fbref.com/fr/joueurs/0ad37003/matchs/2021-2022/summary/Journaux-de-match-Yvan-Neyou
+https://fbref.com/fr/joueurs/b94b8be1/matchs/2021-2022/summary/Journaux-de-match-Adil-Aouchiche
+https://fbref.com/fr/joueurs/f6b94e8d/matchs/2021-2022/summary/Journaux-de-match-Saidou-Sow
+https://fbref.com/fr/joueurs/f4bc42b1/matchs/2021-2022/summary/Journaux-de-match-Sada-Thioub
+https://fbref.com/fr/joueurs/4914ed4a/matchs/2021-2022/summary/Journaux-de-match-Gabriel-Silva
+https://fbref.com/fr/joueurs/6388e356/matchs/2021-2022/summary/Journaux-de-match-Falaye-Sacko
+https://fbref.com/fr/joueurs/0b4d8274/matchs/2021-2022/summary/Journaux-de-match-Romain-Hamouma
+https://fbref.com/fr/joueurs/037f2523/matchs/2021-2022/summary/Journaux-de-match-Jean-Philippe-Krasso
+https://fbref.com/fr/joueurs/be13e5a8/matchs/2021-2022/summary/Journaux-de-match-Stefan-Bajic
+https://fbref.com/fr/joueurs/2591b066/matchs/2021-2022/summary/Journaux-de-match-Aimen-Moueffek
+https://fbref.com/fr/joueurs/ee95585f/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Bakayoko
+https://fbref.com/fr/joueurs/381d7d54/matchs/2021-2022/summary/Journaux-de-match-Bakary-Sako
+https://fbref.com/fr/joueurs/ad513a6b/matchs/2021-2022/summary/Journaux-de-match-Juan-Ignacio-Ramirez
+https://fbref.com/fr/joueurs/469d3d84/matchs/2021-2022/summary/Journaux-de-match-Charles-Abi
+https://fbref.com/fr/joueurs/12bd0579/matchs/2021-2022/summary/Journaux-de-match-Nelson-Sissoko
+https://fbref.com/fr/joueurs/06f33dc8/matchs/2021-2022/summary/Journaux-de-match-Enzo-Crivelli
+https://fbref.com/fr/joueurs/7d9f3d69/matchs/2021-2022/summary/Journaux-de-match-Mathys-Saban
+https://fbref.com/fr/joueurs/cc972842/matchs/2021-2022/summary/Journaux-de-match-Yanis-Lhery
+https://fbref.com/fr/joueurs/75186a6a/matchs/2021-2022/summary/Journaux-de-match-Bryan-Djile-Nokoue
+https://fbref.com/fr/joueurs/6a04bb7c/matchs/2021-2022/summary/Journaux-de-match-Elhadji-Dieye
+https://fbref.com/fr/joueurs/7f622eef/matchs/2021-2022/summary/Journaux-de-match-Assane-Diousse
+https://fbref.com/fr/joueurs/46a7b605/matchs/2021-2022/summary/Journaux-de-match-Maxence-Rivera
+https://fbref.com/fr/joueurs/7a72e960/matchs/2021-2022/summary/Journaux-de-match-Lucas-Calodat
+https://fbref.com/fr/joueurs/ce84946a/matchs/2021-2022/summary/Journaux-de-match-Lamine-Ghezali
+Number of players : 39
+Go to https://fbref.com/fr/joueurs/469d3d84/matchs/2021-2022/summary/Journaux-de-match-Charles-Abi
+Total Ads removed: 25
+Charles Abi
+Total Ads removed: 25
+Save passes-type_Charles Abi_Saint-Étienne_2021.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 28
+https://fbref.com/fr/equipes/d298ef2c/2021-2022/Statistiques-Saint-Etienne
+https://fbref.com/fr/equipes/f83960ae/2021-2022/Statistiques-Metz
+https://fbref.com/fr/equipes/123f3efe/2021-2022/Statistiques-Bordeaux
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/8577e60a/matchs/2021-2022/summary/Journaux-de-match-Mahdi-Camara
+https://fbref.com/fr/joueurs/ab096c6f/matchs/2021-2022/summary/Journaux-de-match-Timothee-Kolodziejczak
+https://fbref.com/fr/joueurs/a6b6fa6e/matchs/2021-2022/summary/Journaux-de-match-Mickael-Nade
+https://fbref.com/fr/joueurs/0b0cbe5b/matchs/2021-2022/summary/Journaux-de-match-Denis-Bouanga
+https://fbref.com/fr/joueurs/1001ae82/matchs/2021-2022/summary/Journaux-de-match-Ryad-Boudebouz
+https://fbref.com/fr/joueurs/2677a1de/matchs/2021-2022/summary/Journaux-de-match-Wahbi-Khazri
+https://fbref.com/fr/joueurs/7b9a9e25/matchs/2021-2022/summary/Journaux-de-match-Arnaud-Nordin
+https://fbref.com/fr/joueurs/3cd7820a/matchs/2021-2022/summary/Journaux-de-match-Lucas-Gourna-Douath
+https://fbref.com/fr/joueurs/28dabd43/matchs/2021-2022/summary/Journaux-de-match-Paul-Bernardoni
+https://fbref.com/fr/joueurs/0bb6e193/matchs/2021-2022/summary/Journaux-de-match-Yvann-Macon
+https://fbref.com/fr/joueurs/e2f9bb5f/matchs/2021-2022/summary/Journaux-de-match-Zaydou-Youssouf
+https://fbref.com/fr/joueurs/5f26e0c5/matchs/2021-2022/summary/Journaux-de-match-Harold-Moukoudi
+https://fbref.com/fr/joueurs/667b65da/matchs/2021-2022/summary/Journaux-de-match-Etienne-Green
+https://fbref.com/fr/joueurs/f520049f/matchs/2021-2022/summary/Journaux-de-match-Eliaquim-Mangala
+https://fbref.com/fr/joueurs/e4b72e34/matchs/2021-2022/summary/Journaux-de-match-Miguel-Trauco
+https://fbref.com/fr/joueurs/0ad37003/matchs/2021-2022/summary/Journaux-de-match-Yvan-Neyou
+https://fbref.com/fr/joueurs/b94b8be1/matchs/2021-2022/summary/Journaux-de-match-Adil-Aouchiche
+https://fbref.com/fr/joueurs/f6b94e8d/matchs/2021-2022/summary/Journaux-de-match-Saidou-Sow
+https://fbref.com/fr/joueurs/f4bc42b1/matchs/2021-2022/summary/Journaux-de-match-Sada-Thioub
+https://fbref.com/fr/joueurs/4914ed4a/matchs/2021-2022/summary/Journaux-de-match-Gabriel-Silva
+https://fbref.com/fr/joueurs/6388e356/matchs/2021-2022/summary/Journaux-de-match-Falaye-Sacko
+https://fbref.com/fr/joueurs/0b4d8274/matchs/2021-2022/summary/Journaux-de-match-Romain-Hamouma
+https://fbref.com/fr/joueurs/037f2523/matchs/2021-2022/summary/Journaux-de-match-Jean-Philippe-Krasso
+https://fbref.com/fr/joueurs/be13e5a8/matchs/2021-2022/summary/Journaux-de-match-Stefan-Bajic
+https://fbref.com/fr/joueurs/2591b066/matchs/2021-2022/summary/Journaux-de-match-Aimen-Moueffek
+https://fbref.com/fr/joueurs/ee95585f/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Bakayoko
+https://fbref.com/fr/joueurs/381d7d54/matchs/2021-2022/summary/Journaux-de-match-Bakary-Sako
+https://fbref.com/fr/joueurs/ad513a6b/matchs/2021-2022/summary/Journaux-de-match-Juan-Ignacio-Ramirez
+https://fbref.com/fr/joueurs/469d3d84/matchs/2021-2022/summary/Journaux-de-match-Charles-Abi
+https://fbref.com/fr/joueurs/12bd0579/matchs/2021-2022/summary/Journaux-de-match-Nelson-Sissoko
+https://fbref.com/fr/joueurs/06f33dc8/matchs/2021-2022/summary/Journaux-de-match-Enzo-Crivelli
+https://fbref.com/fr/joueurs/7d9f3d69/matchs/2021-2022/summary/Journaux-de-match-Mathys-Saban
+https://fbref.com/fr/joueurs/cc972842/matchs/2021-2022/summary/Journaux-de-match-Yanis-Lhery
+https://fbref.com/fr/joueurs/75186a6a/matchs/2021-2022/summary/Journaux-de-match-Bryan-Djile-Nokoue
+https://fbref.com/fr/joueurs/6a04bb7c/matchs/2021-2022/summary/Journaux-de-match-Elhadji-Dieye
+https://fbref.com/fr/joueurs/7f622eef/matchs/2021-2022/summary/Journaux-de-match-Assane-Diousse
+https://fbref.com/fr/joueurs/46a7b605/matchs/2021-2022/summary/Journaux-de-match-Maxence-Rivera
+https://fbref.com/fr/joueurs/7a72e960/matchs/2021-2022/summary/Journaux-de-match-Lucas-Calodat
+https://fbref.com/fr/joueurs/ce84946a/matchs/2021-2022/summary/Journaux-de-match-Lamine-Ghezali
+Number of players : 39
+Go to https://fbref.com/fr/joueurs/469d3d84/matchs/2021-2022/summary/Journaux-de-match-Charles-Abi
+Total Ads removed: 26
+Charles Abi
+Total Ads removed: 26
+Save penalty-prep_Charles Abi_Saint-Étienne_2021.csv 
+Total Ads removed: 27
+Save defensive-actions_Charles Abi_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Charles Abi_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Charles Abi_Saint-Étienne_2021.csv 
+Done player Charles Abi | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/12bd0579/matchs/2021-2022/summary/Journaux-de-match-Nelson-Sissoko
+Total Ads removed: 24
+Nelson Sissoko
+Save genstats_Saint-Étienne_Nelson Sissoko_2021.csv 
+Total Ads removed: 25
+Save passes_Nelson Sissoko_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Nelson Sissoko_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Nelson Sissoko_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Nelson Sissoko_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save possession_Nelson Sissoko_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Nelson Sissoko_Saint-Étienne_2021.csv 
+Done player Nelson Sissoko | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/06f33dc8/matchs/2021-2022/summary/Journaux-de-match-Enzo-Crivelli
+Total Ads removed: 23
+Enzo Crivelli
+Save genstats_Saint-Étienne_Enzo Crivelli_2021.csv 
+Total Ads removed: 25
+Save passes_Enzo Crivelli_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Enzo Crivelli_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Enzo Crivelli_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Enzo Crivelli_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save possession_Enzo Crivelli_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Enzo Crivelli_Saint-Étienne_2021.csv 
+Done player Enzo Crivelli | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/7d9f3d69/matchs/2021-2022/summary/Journaux-de-match-Mathys-Saban
+Total Ads removed: 23
+Mathys Saban
+Save genstats_Saint-Étienne_Mathys Saban_2021.csv 
+Total Ads removed: 24
+Save passes_Mathys Saban_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Mathys Saban_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Mathys Saban_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Mathys Saban_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Mathys Saban_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mathys Saban_Saint-Étienne_2021.csv 
+Done player Mathys Saban | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/cc972842/matchs/2021-2022/summary/Journaux-de-match-Yanis-Lhery
+Total Ads removed: 23
+Yanis Lhery
+Save genstats_Saint-Étienne_Yanis Lhery_2021.csv 
+Total Ads removed: 24
+Save passes_Yanis Lhery_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Yanis Lhery_Saint-Étienne_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Yanis Lhery_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Yanis Lhery_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save possession_Yanis Lhery_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Yanis Lhery_Saint-Étienne_2021.csv 
+Done player Yanis Lhery | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/75186a6a/matchs/2021-2022/summary/Journaux-de-match-Bryan-Djile-Nokoue
+Total Ads removed: 24
+Bryan Djile Nokoué
+Save genstats_Saint-Étienne_Bryan Djile Nokoué_2021.csv 
+Total Ads removed: 24
+Save passes_Bryan Djile Nokoué_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Bryan Djile Nokoué_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Bryan Djile Nokoué_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Bryan Djile Nokoué_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save possession_Bryan Djile Nokoué_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Bryan Djile Nokoué_Saint-Étienne_2021.csv 
+Done player Bryan Djile Nokoué | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/6a04bb7c/matchs/2021-2022/summary/Journaux-de-match-Elhadji-Dieye
+Total Ads removed: 23
+Elhadji Dieye
+Save genstats_Saint-Étienne_Elhadji Dieye_2021.csv 
+Total Ads removed: 24
+Save passes_Elhadji Dieye_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save passes-type_Elhadji Dieye_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Elhadji Dieye_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 24
+Done player Elhadji Dieye | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/7f622eef/matchs/2021-2022/summary/Journaux-de-match-Assane-Diousse
+Total Ads removed: 23
+Assane Dioussé
+Save genstats_Saint-Étienne_Assane Dioussé_2021.csv 
+Total Ads removed: 23
+Save passes_Assane Dioussé_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save passes-type_Assane Dioussé_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Assane Dioussé_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Assane Dioussé_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save possession_Assane Dioussé_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save various-stats_Assane Dioussé_Saint-Étienne_2021.csv 
+Done player Assane Dioussé | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/46a7b605/matchs/2021-2022/summary/Journaux-de-match-Maxence-Rivera
+Total Ads removed: 23
+Maxence Rivera
+Save genstats_Saint-Étienne_Maxence Rivera_2021.csv 
+Total Ads removed: 23
+Save passes_Maxence Rivera_Saint-Étienne_2021.csv 
+Total Ads removed: 25
+Save passes-type_Maxence Rivera_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Maxence Rivera_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Maxence Rivera_Saint-Étienne_2021.csv 
+Total Ads removed: 23
+Save possession_Maxence Rivera_Saint-Étienne_2021.csv 
+Total Ads removed: 24
+Save various-stats_Maxence Rivera_Saint-Étienne_2021.csv 
+Done player Maxence Rivera | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/7a72e960/matchs/2021-2022/summary/Journaux-de-match-Lucas-Calodat
+Total Ads removed: 22
+Lucas Calodat
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Lucas Calodat | team Saint-Étienne | 2021
+Go to https://fbref.com/fr/joueurs/ce84946a/matchs/2021-2022/summary/Journaux-de-match-Lamine-Ghezali
+Total Ads removed: 23
+Lamine Ghezali
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Done player Lamine Ghezali | team Saint-Étienne | 2021
+Total Ads removed: 28
+https://fbref.com/fr/joueurs/562a4799/matchs/2021-2022/summary/Journaux-de-match-Boubakar-Kouyate
+https://fbref.com/fr/joueurs/edd81e2a/matchs/2021-2022/summary/Journaux-de-match-Dylan-Bronn
+https://fbref.com/fr/joueurs/f86ca403/matchs/2021-2022/summary/Journaux-de-match-Vincent-Pajot
+https://fbref.com/fr/joueurs/8332db56/matchs/2021-2022/summary/Journaux-de-match-Thomas-Delaine
+https://fbref.com/fr/joueurs/b0547a87/matchs/2021-2022/summary/Journaux-de-match-Nicolas-de-Preville
+https://fbref.com/fr/joueurs/feb5d972/matchs/2021-2022/summary/Journaux-de-match-Pape-Matar-Sarr
+https://fbref.com/fr/joueurs/ae7d0ecd/matchs/2021-2022/summary/Journaux-de-match-Alexandre-Oukidja
+https://fbref.com/fr/joueurs/46faabfa/matchs/2021-2022/summary/Journaux-de-match-Ibrahima-Niane
+https://fbref.com/fr/joueurs/3c6bbbab/matchs/2021-2022/summary/Journaux-de-match-Fabien-Centonze
+https://fbref.com/fr/joueurs/a0791826/matchs/2021-2022/summary/Journaux-de-match-Farid-Boulaya
+https://fbref.com/fr/joueurs/999ceb5f/matchs/2021-2022/summary/Journaux-de-match-Boubacar-Traore
+https://fbref.com/fr/joueurs/5ee6e943/matchs/2021-2022/summary/Journaux-de-match-Marc-Aurele-Caillard
+https://fbref.com/fr/joueurs/e768de1f/matchs/2021-2022/summary/Journaux-de-match-Habib-Maiga
+https://fbref.com/fr/joueurs/e50623a0/matchs/2021-2022/summary/Journaux-de-match-Kevin-NDoram
+https://fbref.com/fr/joueurs/7cab69b5/matchs/2021-2022/summary/Journaux-de-match-Jemerson
+https://fbref.com/fr/joueurs/cc41f558/matchs/2021-2022/summary/Journaux-de-match-Matthieu-Udol
+https://fbref.com/fr/joueurs/3cc4bb19/matchs/2021-2022/summary/Journaux-de-match-Fali-Cande
+https://fbref.com/fr/joueurs/75a63397/matchs/2021-2022/summary/Journaux-de-match-Opa-Nguette
+https://fbref.com/fr/joueurs/9260926b/matchs/2021-2022/summary/Journaux-de-match-Ibrahim-Amadou
+https://fbref.com/fr/joueurs/76a4233b/matchs/2021-2022/summary/Journaux-de-match-Jean-Armel-Kana-Biyik
+https://fbref.com/fr/joueurs/8eef18aa/matchs/2021-2022/summary/Journaux-de-match-Sikou-Niakate
+https://fbref.com/fr/joueurs/14df1d7f/matchs/2021-2022/summary/Journaux-de-match-William-Mikelbrencis
+https://fbref.com/fr/joueurs/b229aa13/matchs/2021-2022/summary/Journaux-de-match-Didier-Lamkel-Ze
+https://fbref.com/fr/joueurs/9d5dcc23/matchs/2021-2022/summary/Journaux-de-match-Lamine-Gueye
+https://fbref.com/fr/joueurs/87e9c7cd/matchs/2021-2022/summary/Journaux-de-match-Papa-Ndiaga-Yade
+https://fbref.com/fr/joueurs/14d2670e/matchs/2021-2022/summary/Journaux-de-match-Amadou-Mbengue
+https://fbref.com/fr/joueurs/bec3d251/matchs/2021-2022/summary/Journaux-de-match-Louis-Mafouta
+https://fbref.com/fr/joueurs/5413ef36/matchs/2021-2022/summary/Journaux-de-match-Lenny-Lacroix
+https://fbref.com/fr/joueurs/ced1d98f/matchs/2021-2022/summary/Journaux-de-match-Amine-Bassi
+https://fbref.com/fr/joueurs/9ddf7fae/matchs/2021-2022/summary/Journaux-de-match-Cheikh-Tidiane-Sabaly
+https://fbref.com/fr/joueurs/93b8f9f4/matchs/2021-2022/summary/Journaux-de-match-Warren-Tchimbembe
+https://fbref.com/fr/joueurs/5314e067/matchs/2021-2022/summary/Journaux-de-match-Sofiane-Alakouch
+https://fbref.com/fr/joueurs/d1828392/matchs/2021-2022/summary/Journaux-de-match-Lenny-Joseph
+https://fbref.com/fr/joueurs/743fd71f/matchs/2021-2022/summary/Journaux-de-match-Vagner-Goncalves
+https://fbref.com/fr/joueurs/4c4ffacc/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Fofana
+https://fbref.com/fr/joueurs/4788cb6b/matchs/2021-2022/summary/Journaux-de-match-Georges-Mikautadze
+Number of players : 36
+Go to https://fbref.com/fr/joueurs/562a4799/matchs/2021-2022/summary/Journaux-de-match-Boubakar-Kouyate
+Total Ads removed: 23
+Boubakar Kouyaté
+Save genstats_Metz_Boubakar Kouyaté_2021.csv 
+Total Ads removed: 23
+Save passes_Boubakar Kouyaté_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Boubakar Kouyaté_Metz_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Boubakar Kouyaté_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Boubakar Kouyaté_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Boubakar Kouyaté_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Boubakar Kouyaté_Metz_2021.csv 
+Done player Boubakar Kouyaté | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/edd81e2a/matchs/2021-2022/summary/Journaux-de-match-Dylan-Bronn
+Total Ads removed: 23
+Dylan Bronn
+Save genstats_Metz_Dylan Bronn_2021.csv 
+Total Ads removed: 24
+Save passes_Dylan Bronn_Metz_2021.csv 
+Total Ads removed: 24
+Save passes-type_Dylan Bronn_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Dylan Bronn_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Dylan Bronn_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Dylan Bronn_Metz_2021.csv 
+Total Ads removed: 24
+Save various-stats_Dylan Bronn_Metz_2021.csv 
+Done player Dylan Bronn | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/f86ca403/matchs/2021-2022/summary/Journaux-de-match-Vincent-Pajot
+Total Ads removed: 24
+Vincent Pajot
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 27
+Total Ads removed: 24
+Done player Vincent Pajot | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/8332db56/matchs/2021-2022/summary/Journaux-de-match-Thomas-Delaine
+Total Ads removed: 27
+Thomas Delaine
+Save genstats_Metz_Thomas Delaine_2021.csv 
+Total Ads removed: 23
+Save passes_Thomas Delaine_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Thomas Delaine_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Thomas Delaine_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Thomas Delaine_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Thomas Delaine_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Thomas Delaine_Metz_2021.csv 
+Done player Thomas Delaine | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/b0547a87/matchs/2021-2022/summary/Journaux-de-match-Nicolas-de-Preville
+Total Ads removed: 24
+Nicolas de Préville
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 24
+Total Ads removed: 22
+Total Ads removed: 24
+Done player Nicolas de Préville | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/feb5d972/matchs/2021-2022/summary/Journaux-de-match-Pape-Matar-Sarr
+Total Ads removed: 24
+Pape Matar Sarr
+Save genstats_Metz_Pape Matar Sarr_2021.csv 
+Total Ads removed: 22
+Save passes_Pape Matar Sarr_Metz_2021.csv 
+Total Ads removed: 25
+Save passes-type_Pape Matar Sarr_Metz_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Pape Matar Sarr_Metz_2021.csv 
+Total Ads removed: 26
+Save defensive-actions_Pape Matar Sarr_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Pape Matar Sarr_Metz_2021.csv 
+Total Ads removed: 25
+Save various-stats_Pape Matar Sarr_Metz_2021.csv 
+Done player Pape Matar Sarr | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/ae7d0ecd/matchs/2021-2022/summary/Journaux-de-match-Alexandre-Oukidja
+Total Ads removed: 22
+Alexandre Oukidja
+Save genstats_Metz_Alexandre Oukidja_2021.csv 
+Total Ads removed: 22
+Save passes_Alexandre Oukidja_Metz_2021.csv 
+Error removing wrapper
+Total Ads removed: 2
+Total Ads removed: 29
+https://fbref.com/fr/equipes/f83960ae/2021-2022/Statistiques-Metz
+https://fbref.com/fr/equipes/123f3efe/2021-2022/Statistiques-Bordeaux
+Total Ads removed: 28
+https://fbref.com/fr/joueurs/562a4799/matchs/2021-2022/summary/Journaux-de-match-Boubakar-Kouyate
+https://fbref.com/fr/joueurs/edd81e2a/matchs/2021-2022/summary/Journaux-de-match-Dylan-Bronn
+https://fbref.com/fr/joueurs/f86ca403/matchs/2021-2022/summary/Journaux-de-match-Vincent-Pajot
+https://fbref.com/fr/joueurs/8332db56/matchs/2021-2022/summary/Journaux-de-match-Thomas-Delaine
+https://fbref.com/fr/joueurs/b0547a87/matchs/2021-2022/summary/Journaux-de-match-Nicolas-de-Preville
+https://fbref.com/fr/joueurs/feb5d972/matchs/2021-2022/summary/Journaux-de-match-Pape-Matar-Sarr
+https://fbref.com/fr/joueurs/ae7d0ecd/matchs/2021-2022/summary/Journaux-de-match-Alexandre-Oukidja
+https://fbref.com/fr/joueurs/46faabfa/matchs/2021-2022/summary/Journaux-de-match-Ibrahima-Niane
+https://fbref.com/fr/joueurs/3c6bbbab/matchs/2021-2022/summary/Journaux-de-match-Fabien-Centonze
+https://fbref.com/fr/joueurs/a0791826/matchs/2021-2022/summary/Journaux-de-match-Farid-Boulaya
+https://fbref.com/fr/joueurs/999ceb5f/matchs/2021-2022/summary/Journaux-de-match-Boubacar-Traore
+https://fbref.com/fr/joueurs/5ee6e943/matchs/2021-2022/summary/Journaux-de-match-Marc-Aurele-Caillard
+https://fbref.com/fr/joueurs/e768de1f/matchs/2021-2022/summary/Journaux-de-match-Habib-Maiga
+https://fbref.com/fr/joueurs/e50623a0/matchs/2021-2022/summary/Journaux-de-match-Kevin-NDoram
+https://fbref.com/fr/joueurs/7cab69b5/matchs/2021-2022/summary/Journaux-de-match-Jemerson
+https://fbref.com/fr/joueurs/cc41f558/matchs/2021-2022/summary/Journaux-de-match-Matthieu-Udol
+https://fbref.com/fr/joueurs/3cc4bb19/matchs/2021-2022/summary/Journaux-de-match-Fali-Cande
+https://fbref.com/fr/joueurs/75a63397/matchs/2021-2022/summary/Journaux-de-match-Opa-Nguette
+https://fbref.com/fr/joueurs/9260926b/matchs/2021-2022/summary/Journaux-de-match-Ibrahim-Amadou
+https://fbref.com/fr/joueurs/76a4233b/matchs/2021-2022/summary/Journaux-de-match-Jean-Armel-Kana-Biyik
+https://fbref.com/fr/joueurs/8eef18aa/matchs/2021-2022/summary/Journaux-de-match-Sikou-Niakate
+https://fbref.com/fr/joueurs/14df1d7f/matchs/2021-2022/summary/Journaux-de-match-William-Mikelbrencis
+https://fbref.com/fr/joueurs/b229aa13/matchs/2021-2022/summary/Journaux-de-match-Didier-Lamkel-Ze
+https://fbref.com/fr/joueurs/9d5dcc23/matchs/2021-2022/summary/Journaux-de-match-Lamine-Gueye
+https://fbref.com/fr/joueurs/87e9c7cd/matchs/2021-2022/summary/Journaux-de-match-Papa-Ndiaga-Yade
+https://fbref.com/fr/joueurs/14d2670e/matchs/2021-2022/summary/Journaux-de-match-Amadou-Mbengue
+https://fbref.com/fr/joueurs/bec3d251/matchs/2021-2022/summary/Journaux-de-match-Louis-Mafouta
+https://fbref.com/fr/joueurs/5413ef36/matchs/2021-2022/summary/Journaux-de-match-Lenny-Lacroix
+https://fbref.com/fr/joueurs/ced1d98f/matchs/2021-2022/summary/Journaux-de-match-Amine-Bassi
+https://fbref.com/fr/joueurs/9ddf7fae/matchs/2021-2022/summary/Journaux-de-match-Cheikh-Tidiane-Sabaly
+https://fbref.com/fr/joueurs/93b8f9f4/matchs/2021-2022/summary/Journaux-de-match-Warren-Tchimbembe
+https://fbref.com/fr/joueurs/5314e067/matchs/2021-2022/summary/Journaux-de-match-Sofiane-Alakouch
+https://fbref.com/fr/joueurs/d1828392/matchs/2021-2022/summary/Journaux-de-match-Lenny-Joseph
+https://fbref.com/fr/joueurs/743fd71f/matchs/2021-2022/summary/Journaux-de-match-Vagner-Goncalves
+https://fbref.com/fr/joueurs/4c4ffacc/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Fofana
+https://fbref.com/fr/joueurs/4788cb6b/matchs/2021-2022/summary/Journaux-de-match-Georges-Mikautadze
+Number of players : 36
+Go to https://fbref.com/fr/joueurs/ae7d0ecd/matchs/2021-2022/summary/Journaux-de-match-Alexandre-Oukidja
+Total Ads removed: 26
+Alexandre Oukidja
+Total Ads removed: 26
+Save passes-type_Alexandre Oukidja_Metz_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Alexandre Oukidja_Metz_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Alexandre Oukidja_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Alexandre Oukidja_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Alexandre Oukidja_Metz_2021.csv 
+Total Ads removed: 23
+Save keeper_Alexandre Oukidja_Metz_2021.csv 
+Done player Alexandre Oukidja | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/46faabfa/matchs/2021-2022/summary/Journaux-de-match-Ibrahima-Niane
+Total Ads removed: 23
+Ibrahima Niane
+Save genstats_Metz_Ibrahima Niane_2021.csv 
+Total Ads removed: 27
+Save passes_Ibrahima Niane_Metz_2021.csv 
+Total Ads removed: 24
+Save passes-type_Ibrahima Niane_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Ibrahima Niane_Metz_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Ibrahima Niane_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Ibrahima Niane_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ibrahima Niane_Metz_2021.csv 
+Done player Ibrahima Niane | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/3c6bbbab/matchs/2021-2022/summary/Journaux-de-match-Fabien-Centonze
+Total Ads removed: 23
+Fabien Centonze
+Total Ads removed: 25
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Fabien Centonze | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/a0791826/matchs/2021-2022/summary/Journaux-de-match-Farid-Boulaya
+Total Ads removed: 24
+Farid Boulaya
+Save genstats_Metz_Farid Boulaya_2021.csv 
+Total Ads removed: 23
+Save passes_Farid Boulaya_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Farid Boulaya_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Farid Boulaya_Metz_2021.csv 
+Total Ads removed: 29
+Save defensive-actions_Farid Boulaya_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Farid Boulaya_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Farid Boulaya_Metz_2021.csv 
+Done player Farid Boulaya | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/999ceb5f/matchs/2021-2022/summary/Journaux-de-match-Boubacar-Traore
+Total Ads removed: 23
+Boubacar Traoré
+Save genstats_Metz_Boubacar Traoré_2021.csv 
+Total Ads removed: 24
+Save passes_Boubacar Traoré_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Boubacar Traoré_Metz_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Boubacar Traoré_Metz_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Boubacar Traoré_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Boubacar Traoré_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Boubacar Traoré_Metz_2021.csv 
+Done player Boubacar Traoré | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/5ee6e943/matchs/2021-2022/summary/Journaux-de-match-Marc-Aurele-Caillard
+Total Ads removed: 24
+Marc-Aurèle Caillard
+Save genstats_Metz_Marc-Aurèle Caillard_2021.csv 
+Total Ads removed: 23
+Save passes_Marc-Aurèle Caillard_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Marc-Aurèle Caillard_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Marc-Aurèle Caillard_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Marc-Aurèle Caillard_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Marc-Aurèle Caillard_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Marc-Aurèle Caillard_Metz_2021.csv 
+Total Ads removed: 23
+Save keeper_Marc-Aurèle Caillard_Metz_2021.csv 
+Done player Marc-Aurèle Caillard | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/e768de1f/matchs/2021-2022/summary/Journaux-de-match-Habib-Maiga
+Total Ads removed: 23
+Habib Maïga
+Save genstats_Metz_Habib Maïga_2021.csv 
+Total Ads removed: 23
+Save passes_Habib Maïga_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Habib Maïga_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Habib Maïga_Metz_2021.csv 
+Total Ads removed: 27
+Save defensive-actions_Habib Maïga_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Habib Maïga_Metz_2021.csv 
+Total Ads removed: 24
+Save various-stats_Habib Maïga_Metz_2021.csv 
+Done player Habib Maïga | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/e50623a0/matchs/2021-2022/summary/Journaux-de-match-Kevin-NDoram
+Total Ads removed: 22
+Kévin N'Doram
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Done player Kévin N'Doram | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/7cab69b5/matchs/2021-2022/summary/Journaux-de-match-Jemerson
+Total Ads removed: 23
+Jemerson
+Save genstats_Metz_Jemerson_2021.csv 
+Total Ads removed: 23
+Save passes_Jemerson_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Jemerson_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jemerson_Metz_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Jemerson_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Jemerson_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Jemerson_Metz_2021.csv 
+Done player Jemerson | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/cc41f558/matchs/2021-2022/summary/Journaux-de-match-Matthieu-Udol
+Total Ads removed: 23
+Matthieu Udol
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 22
+Total Ads removed: 23
+Done player Matthieu Udol | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/3cc4bb19/matchs/2021-2022/summary/Journaux-de-match-Fali-Cande
+Total Ads removed: 23
+Fali Candé
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 24
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Fali Candé | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/75a63397/matchs/2021-2022/summary/Journaux-de-match-Opa-Nguette
+Total Ads removed: 23
+Opa Nguette
+Save genstats_Metz_Opa Nguette_2021.csv 
+Total Ads removed: 24
+Save passes_Opa Nguette_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Opa Nguette_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Opa Nguette_Metz_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Opa Nguette_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Opa Nguette_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Opa Nguette_Metz_2021.csv 
+Done player Opa Nguette | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/9260926b/matchs/2021-2022/summary/Journaux-de-match-Ibrahim-Amadou
+Total Ads removed: 23
+Ibrahim Amadou
+Save genstats_Metz_Ibrahim Amadou_2021.csv 
+Total Ads removed: 23
+Save passes_Ibrahim Amadou_Metz_2021.csv 
+Total Ads removed: 24
+Save passes-type_Ibrahim Amadou_Metz_2021.csv 
+Total Ads removed: 29
+Save penalty-prep_Ibrahim Amadou_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Ibrahim Amadou_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Ibrahim Amadou_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ibrahim Amadou_Metz_2021.csv 
+Done player Ibrahim Amadou | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/76a4233b/matchs/2021-2022/summary/Journaux-de-match-Jean-Armel-Kana-Biyik
+Total Ads removed: 23
+Jean-Armel Kana-Biyik
+Save genstats_Metz_Jean-Armel Kana-Biyik_2021.csv 
+Total Ads removed: 23
+Save passes_Jean-Armel Kana-Biyik_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Jean-Armel Kana-Biyik_Metz_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Jean-Armel Kana-Biyik_Metz_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Jean-Armel Kana-Biyik_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Jean-Armel Kana-Biyik_Metz_2021.csv 
+Total Ads removed: 25
+Save various-stats_Jean-Armel Kana-Biyik_Metz_2021.csv 
+Done player Jean-Armel Kana-Biyik | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/8eef18aa/matchs/2021-2022/summary/Journaux-de-match-Sikou-Niakate
+Total Ads removed: 25
+Sikou Niakaté
+Save genstats_Metz_Sikou Niakaté_2021.csv 
+Total Ads removed: 25
+Save passes_Sikou Niakaté_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Sikou Niakaté_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Sikou Niakaté_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Sikou Niakaté_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Sikou Niakaté_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Sikou Niakaté_Metz_2021.csv 
+Done player Sikou Niakaté | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/14df1d7f/matchs/2021-2022/summary/Journaux-de-match-William-Mikelbrencis
+Total Ads removed: 22
+William Mikelbrencis
+Save genstats_Metz_William Mikelbrencis_2021.csv 
+Total Ads removed: 22
+Save passes_William Mikelbrencis_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_William Mikelbrencis_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_William Mikelbrencis_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_William Mikelbrencis_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_William Mikelbrencis_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_William Mikelbrencis_Metz_2021.csv 
+Done player William Mikelbrencis | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/b229aa13/matchs/2021-2022/summary/Journaux-de-match-Didier-Lamkel-Ze
+Total Ads removed: 22
+Didier Lamkel Zé
+Total Ads removed: 23
+Total Ads removed: 25
+Total Ads removed: 22
+Total Ads removed: 22
+Total Ads removed: 23
+Total Ads removed: 22
+Done player Didier Lamkel Zé | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/9d5dcc23/matchs/2021-2022/summary/Journaux-de-match-Lamine-Gueye
+Total Ads removed: 23
+Lamine Gueye
+Save genstats_Metz_Lamine Gueye_2021.csv 
+Total Ads removed: 23
+Save passes_Lamine Gueye_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Lamine Gueye_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Lamine Gueye_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Lamine Gueye_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Lamine Gueye_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Lamine Gueye_Metz_2021.csv 
+Done player Lamine Gueye | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/87e9c7cd/matchs/2021-2022/summary/Journaux-de-match-Papa-Ndiaga-Yade
+Total Ads removed: 22
+Papa Ndiaga Yade
+Save genstats_Metz_Papa Ndiaga Yade_2021.csv 
+Total Ads removed: 22
+Save passes_Papa Ndiaga Yade_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Papa Ndiaga Yade_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Papa Ndiaga Yade_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Papa Ndiaga Yade_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Papa Ndiaga Yade_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Papa Ndiaga Yade_Metz_2021.csv 
+Done player Papa Ndiaga Yade | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/14d2670e/matchs/2021-2022/summary/Journaux-de-match-Amadou-Mbengue
+Total Ads removed: 24
+Amadou Mbengue
+Save genstats_Metz_Amadou Mbengue_2021.csv 
+Total Ads removed: 22
+Save passes_Amadou Mbengue_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Amadou Mbengue_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Amadou Mbengue_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Amadou Mbengue_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Amadou Mbengue_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Amadou Mbengue_Metz_2021.csv 
+Done player Amadou Mbengue | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/bec3d251/matchs/2021-2022/summary/Journaux-de-match-Louis-Mafouta
+Total Ads removed: 23
+Louis Mafouta
+Save genstats_Metz_Louis Mafouta_2021.csv 
+Total Ads removed: 22
+Save passes_Louis Mafouta_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Louis Mafouta_Metz_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Louis Mafouta_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Louis Mafouta_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Louis Mafouta_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Louis Mafouta_Metz_2021.csv 
+Done player Louis Mafouta | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/5413ef36/matchs/2021-2022/summary/Journaux-de-match-Lenny-Lacroix
+Total Ads removed: 22
+Lenny Lacroix
+Save genstats_Metz_Lenny Lacroix_2021.csv 
+Total Ads removed: 23
+Save passes_Lenny Lacroix_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Lenny Lacroix_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Lenny Lacroix_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Lenny Lacroix_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Lenny Lacroix_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Lenny Lacroix_Metz_2021.csv 
+Done player Lenny Lacroix | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/ced1d98f/matchs/2021-2022/summary/Journaux-de-match-Amine-Bassi
+Total Ads removed: 23
+Amine Bassi
+Save genstats_Metz_Amine Bassi_2021.csv 
+Total Ads removed: 22
+Save passes_Amine Bassi_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Amine Bassi_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Amine Bassi_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Amine Bassi_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Amine Bassi_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Amine Bassi_Metz_2021.csv 
+Done player Amine Bassi | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/9ddf7fae/matchs/2021-2022/summary/Journaux-de-match-Cheikh-Tidiane-Sabaly
+Total Ads removed: 23
+Cheikh Tidiane Sabaly
+Save genstats_Metz_Cheikh Tidiane Sabaly_2021.csv 
+Total Ads removed: 23
+Save passes_Cheikh Tidiane Sabaly_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Cheikh Tidiane Sabaly_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Cheikh Tidiane Sabaly_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Cheikh Tidiane Sabaly_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Cheikh Tidiane Sabaly_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Cheikh Tidiane Sabaly_Metz_2021.csv 
+Done player Cheikh Tidiane Sabaly | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/93b8f9f4/matchs/2021-2022/summary/Journaux-de-match-Warren-Tchimbembe
+Total Ads removed: 22
+Warren Tchimbembé
+Save genstats_Metz_Warren Tchimbembé_2021.csv 
+Total Ads removed: 22
+Save passes_Warren Tchimbembé_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Warren Tchimbembé_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Warren Tchimbembé_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Warren Tchimbembé_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Warren Tchimbembé_Metz_2021.csv 
+Total Ads removed: 24
+Save various-stats_Warren Tchimbembé_Metz_2021.csv 
+Done player Warren Tchimbembé | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/5314e067/matchs/2021-2022/summary/Journaux-de-match-Sofiane-Alakouch
+Total Ads removed: 22
+Sofiane Alakouch
+Save genstats_Metz_Sofiane Alakouch_2021.csv 
+Total Ads removed: 22
+Save passes_Sofiane Alakouch_Metz_2021.csv 
+Total Ads removed: 23
+Save passes-type_Sofiane Alakouch_Metz_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Sofiane Alakouch_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Sofiane Alakouch_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Sofiane Alakouch_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Sofiane Alakouch_Metz_2021.csv 
+Done player Sofiane Alakouch | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/d1828392/matchs/2021-2022/summary/Journaux-de-match-Lenny-Joseph
+Total Ads removed: 23
+Lenny Joseph
+Save genstats_Metz_Lenny Joseph_2021.csv 
+Total Ads removed: 22
+Save passes_Lenny Joseph_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Lenny Joseph_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Lenny Joseph_Metz_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Lenny Joseph_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Lenny Joseph_Metz_2021.csv 
+Total Ads removed: 22
+Save various-stats_Lenny Joseph_Metz_2021.csv 
+Done player Lenny Joseph | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/743fd71f/matchs/2021-2022/summary/Journaux-de-match-Vagner-Goncalves
+Total Ads removed: 23
+Vagner Gonçalves
+Save genstats_Metz_Vagner Gonçalves_2021.csv 
+Total Ads removed: 22
+Save passes_Vagner Gonçalves_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Vagner Gonçalves_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Vagner Gonçalves_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Vagner Gonçalves_Metz_2021.csv 
+Total Ads removed: 24
+Save possession_Vagner Gonçalves_Metz_2021.csv 
+Total Ads removed: 20
+Save various-stats_Vagner Gonçalves_Metz_2021.csv 
+Done player Vagner Gonçalves | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/4c4ffacc/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Fofana
+Total Ads removed: 23
+Mamadou Fofana
+Save genstats_Metz_Mamadou Fofana_2021.csv 
+Total Ads removed: 22
+Save passes_Mamadou Fofana_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mamadou Fofana_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mamadou Fofana_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Mamadou Fofana_Metz_2021.csv 
+Total Ads removed: 23
+Save possession_Mamadou Fofana_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Mamadou Fofana_Metz_2021.csv 
+Done player Mamadou Fofana | team Metz | 2021
+Go to https://fbref.com/fr/joueurs/4788cb6b/matchs/2021-2022/summary/Journaux-de-match-Georges-Mikautadze
+Total Ads removed: 24
+Georges Mikautadze
+Save genstats_Metz_Georges Mikautadze_2021.csv 
+Total Ads removed: 22
+Save passes_Georges Mikautadze_Metz_2021.csv 
+Total Ads removed: 22
+Save passes-type_Georges Mikautadze_Metz_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Georges Mikautadze_Metz_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Georges Mikautadze_Metz_2021.csv 
+Total Ads removed: 22
+Save possession_Georges Mikautadze_Metz_2021.csv 
+Total Ads removed: 23
+Save various-stats_Georges Mikautadze_Metz_2021.csv 
+Done player Georges Mikautadze | team Metz | 2021
+Total Ads removed: 22
+https://fbref.com/fr/joueurs/a2d873dd/matchs/2021-2022/summary/Journaux-de-match-Hwang-Ui-jo
+https://fbref.com/fr/joueurs/eef2d8ce/matchs/2021-2022/summary/Journaux-de-match-Ricardo-Mangas
+https://fbref.com/fr/joueurs/26777636/matchs/2021-2022/summary/Journaux-de-match-Yacine-Adli
+https://fbref.com/fr/joueurs/2434f24a/matchs/2021-2022/summary/Journaux-de-match-Benoit-Costil
+https://fbref.com/fr/joueurs/b5bb8188/matchs/2021-2022/summary/Journaux-de-match-Jean-Onana
+https://fbref.com/fr/joueurs/4bf69118/matchs/2021-2022/summary/Journaux-de-match-Enock-Kwateng
+https://fbref.com/fr/joueurs/5f011e05/matchs/2021-2022/summary/Journaux-de-match-Stian-Rode-Gregersen
+https://fbref.com/fr/joueurs/ea02beaf/matchs/2021-2022/summary/Journaux-de-match-Remi-Oudin
+https://fbref.com/fr/joueurs/34a0f5ff/matchs/2021-2022/summary/Journaux-de-match-Javairo-Dilrosun
+https://fbref.com/fr/joueurs/f8ce97ca/matchs/2021-2022/summary/Journaux-de-match-Timothee-Pembele
+https://fbref.com/fr/joueurs/104b4ad3/matchs/2021-2022/summary/Journaux-de-match-Alberth-Elis
+https://fbref.com/fr/joueurs/eab957a3/matchs/2021-2022/summary/Journaux-de-match-Anel-Ahmedhodzic
+https://fbref.com/fr/joueurs/e6c43eec/matchs/2021-2022/summary/Journaux-de-match-Josuha-Guilavogui
+https://fbref.com/fr/joueurs/deba6b05/matchs/2021-2022/summary/Journaux-de-match-Fransergio
+https://fbref.com/fr/joueurs/ce492295/matchs/2021-2022/summary/Journaux-de-match-Mexer
+https://fbref.com/fr/joueurs/9bdd8118/matchs/2021-2022/summary/Journaux-de-match-Gideon-Mensah
+https://fbref.com/fr/joueurs/c252c705/matchs/2021-2022/summary/Journaux-de-match-Gaetan-Poussin
+https://fbref.com/fr/joueurs/243f4a0b/matchs/2021-2022/summary/Journaux-de-match-Otavio
+https://fbref.com/fr/joueurs/f5efb153/matchs/2021-2022/summary/Journaux-de-match-Laurent-Koscielny
+https://fbref.com/fr/joueurs/295ba708/matchs/2021-2022/summary/Journaux-de-match-Tom-Lacoux
+https://fbref.com/fr/joueurs/e3d0b0c4/matchs/2021-2022/summary/Journaux-de-match-Marcelo
+https://fbref.com/fr/joueurs/3544641e/matchs/2021-2022/summary/Journaux-de-match-Sekou-Mara
+https://fbref.com/fr/joueurs/2054d037/matchs/2021-2022/summary/Journaux-de-match-MBaye-Niang
+https://fbref.com/fr/joueurs/65bbfba3/matchs/2021-2022/summary/Journaux-de-match-Danylo-Ihnatenko
+https://fbref.com/fr/joueurs/4937a9f7/matchs/2021-2022/summary/Journaux-de-match-Abdel-Jalil-Medioub
+https://fbref.com/fr/joueurs/792a9d41/matchs/2021-2022/summary/Journaux-de-match-Issouf-Sissokho
+https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+https://fbref.com/fr/joueurs/80556f08/matchs/2021-2022/summary/Journaux-de-match-Toma-Basic
+https://fbref.com/fr/joueurs/f83c8d6c/matchs/2021-2022/summary/Journaux-de-match-Jimmy-Briand
+https://fbref.com/fr/joueurs/ee158be5/matchs/2021-2022/summary/Journaux-de-match-Junior-Mwanga
+https://fbref.com/fr/joueurs/f5b6fb78/matchs/2021-2022/summary/Journaux-de-match-Loris-Benito
+https://fbref.com/fr/joueurs/db013c7d/matchs/2021-2022/summary/Journaux-de-match-Thibault-Klidje
+https://fbref.com/fr/joueurs/53f6306f/matchs/2021-2022/summary/Journaux-de-match-Mehdi-Zerkane
+https://fbref.com/fr/joueurs/2b5a35e5/matchs/2021-2022/summary/Journaux-de-match-Dilane-Bakwa
+https://fbref.com/fr/joueurs/4eb0686f/matchs/2021-2022/summary/Journaux-de-match-Amadou-Traore
+https://fbref.com/fr/joueurs/9af3613f/matchs/2021-2022/summary/Journaux-de-match-Johaneko-Louisjean
+https://fbref.com/fr/joueurs/2515040a/matchs/2021-2022/summary/Journaux-de-match-Paul-Baysse
+https://fbref.com/fr/joueurs/bc0bfc64/matchs/2021-2022/summary/Journaux-de-match-Josh-Maja
+https://fbref.com/fr/joueurs/2306bfde/matchs/2021-2022/summary/Journaux-de-match-Ruben-Pardo
+Number of players : 39
+Go to https://fbref.com/fr/joueurs/a2d873dd/matchs/2021-2022/summary/Journaux-de-match-Hwang-Ui-jo
+Total Ads removed: 22
+Hwang Ui-jo
+Save genstats_Bordeaux_Hwang Ui-jo_2021.csv 
+Total Ads removed: 22
+Save passes_Hwang Ui-jo_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Hwang Ui-jo_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Hwang Ui-jo_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Hwang Ui-jo_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Hwang Ui-jo_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Hwang Ui-jo_Bordeaux_2021.csv 
+Done player Hwang Ui-jo | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/eef2d8ce/matchs/2021-2022/summary/Journaux-de-match-Ricardo-Mangas
+Total Ads removed: 22
+Ricardo Mangas
+Save genstats_Bordeaux_Ricardo Mangas_2021.csv 
+Total Ads removed: 23
+Save passes_Ricardo Mangas_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save passes-type_Ricardo Mangas_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Ricardo Mangas_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Ricardo Mangas_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save possession_Ricardo Mangas_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Ricardo Mangas_Bordeaux_2021.csv 
+Done player Ricardo Mangas | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/26777636/matchs/2021-2022/summary/Journaux-de-match-Yacine-Adli
+Total Ads removed: 22
+Yacine Adli
+Save genstats_Bordeaux_Yacine Adli_2021.csv 
+Total Ads removed: 22
+Save passes_Yacine Adli_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Yacine Adli_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Yacine Adli_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Yacine Adli_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Yacine Adli_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Yacine Adli_Bordeaux_2021.csv 
+Done player Yacine Adli | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/2434f24a/matchs/2021-2022/summary/Journaux-de-match-Benoit-Costil
+Total Ads removed: 22
+Benoît Costil
+Save genstats_Bordeaux_Benoît Costil_2021.csv 
+Total Ads removed: 23
+Save passes_Benoît Costil_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save passes-type_Benoît Costil_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Benoît Costil_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Benoît Costil_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save possession_Benoît Costil_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save various-stats_Benoît Costil_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save keeper_Benoît Costil_Bordeaux_2021.csv 
+Done player Benoît Costil | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/b5bb8188/matchs/2021-2022/summary/Journaux-de-match-Jean-Onana
+Total Ads removed: 22
+Jean Onana
+Save genstats_Bordeaux_Jean Onana_2021.csv 
+Total Ads removed: 23
+Save passes_Jean Onana_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jean Onana_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Jean Onana_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Jean Onana_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Jean Onana_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Jean Onana_Bordeaux_2021.csv 
+Done player Jean Onana | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/4bf69118/matchs/2021-2022/summary/Journaux-de-match-Enock-Kwateng
+Total Ads removed: 23
+Enock Kwateng
+Save genstats_Bordeaux_Enock Kwateng_2021.csv 
+Total Ads removed: 22
+Save passes_Enock Kwateng_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Enock Kwateng_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Enock Kwateng_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Enock Kwateng_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save possession_Enock Kwateng_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Enock Kwateng_Bordeaux_2021.csv 
+Done player Enock Kwateng | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/5f011e05/matchs/2021-2022/summary/Journaux-de-match-Stian-Rode-Gregersen
+Total Ads removed: 22
+Stian Rode Gregersen
+Save genstats_Bordeaux_Stian Rode Gregersen_2021.csv 
+Total Ads removed: 22
+Save passes_Stian Rode Gregersen_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Stian Rode Gregersen_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Stian Rode Gregersen_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Stian Rode Gregersen_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Stian Rode Gregersen_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Stian Rode Gregersen_Bordeaux_2021.csv 
+Done player Stian Rode Gregersen | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/ea02beaf/matchs/2021-2022/summary/Journaux-de-match-Remi-Oudin
+Total Ads removed: 23
+Remi Oudin
+Save genstats_Bordeaux_Remi Oudin_2021.csv 
+Total Ads removed: 22
+Save passes_Remi Oudin_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Remi Oudin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Remi Oudin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Remi Oudin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Remi Oudin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Remi Oudin_Bordeaux_2021.csv 
+Done player Remi Oudin | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/34a0f5ff/matchs/2021-2022/summary/Journaux-de-match-Javairo-Dilrosun
+Total Ads removed: 22
+Javairô Dilrosun
+Save genstats_Bordeaux_Javairô Dilrosun_2021.csv 
+Total Ads removed: 22
+Save passes_Javairô Dilrosun_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Javairô Dilrosun_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Javairô Dilrosun_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Javairô Dilrosun_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Javairô Dilrosun_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Javairô Dilrosun_Bordeaux_2021.csv 
+Done player Javairô Dilrosun | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/f8ce97ca/matchs/2021-2022/summary/Journaux-de-match-Timothee-Pembele
+Total Ads removed: 21
+Timothee Pembele
+Save genstats_Bordeaux_Timothee Pembele_2021.csv 
+Total Ads removed: 22
+Save passes_Timothee Pembele_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Timothee Pembele_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Timothee Pembele_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Timothee Pembele_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Timothee Pembele_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Timothee Pembele_Bordeaux_2021.csv 
+Done player Timothee Pembele | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/104b4ad3/matchs/2021-2022/summary/Journaux-de-match-Alberth-Elis
+Total Ads removed: 23
+Alberth Elis
+Save genstats_Bordeaux_Alberth Elis_2021.csv 
+Total Ads removed: 23
+Save passes_Alberth Elis_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Alberth Elis_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Alberth Elis_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Alberth Elis_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Alberth Elis_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Alberth Elis_Bordeaux_2021.csv 
+Done player Alberth Elis | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/eab957a3/matchs/2021-2022/summary/Journaux-de-match-Anel-Ahmedhodzic
+Total Ads removed: 24
+Anel Ahmedhodzic
+Save genstats_Bordeaux_Anel Ahmedhodzic_2021.csv 
+Total Ads removed: 22
+Save passes_Anel Ahmedhodzic_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Anel Ahmedhodzic_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Anel Ahmedhodzic_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Anel Ahmedhodzic_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save possession_Anel Ahmedhodzic_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Anel Ahmedhodzic_Bordeaux_2021.csv 
+Done player Anel Ahmedhodzic | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/e6c43eec/matchs/2021-2022/summary/Journaux-de-match-Josuha-Guilavogui
+Total Ads removed: 22
+Josuha Guilavogui
+Save genstats_Bordeaux_Josuha Guilavogui_2021.csv 
+Total Ads removed: 22
+Save passes_Josuha Guilavogui_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Josuha Guilavogui_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Josuha Guilavogui_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Josuha Guilavogui_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save possession_Josuha Guilavogui_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Josuha Guilavogui_Bordeaux_2021.csv 
+Done player Josuha Guilavogui | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/deba6b05/matchs/2021-2022/summary/Journaux-de-match-Fransergio
+Total Ads removed: 22
+Fransérgio
+Save genstats_Bordeaux_Fransérgio_2021.csv 
+Total Ads removed: 23
+Save passes_Fransérgio_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Fransérgio_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Fransérgio_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Fransérgio_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Fransérgio_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Fransérgio_Bordeaux_2021.csv 
+Done player Fransérgio | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/ce492295/matchs/2021-2022/summary/Journaux-de-match-Mexer
+Total Ads removed: 22
+Mexer
+Save genstats_Bordeaux_Mexer_2021.csv 
+Total Ads removed: 23
+Save passes_Mexer_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mexer_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Mexer_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Mexer_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Mexer_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Mexer_Bordeaux_2021.csv 
+Done player Mexer | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/9bdd8118/matchs/2021-2022/summary/Journaux-de-match-Gideon-Mensah
+Total Ads removed: 22
+Gideon Mensah
+Save genstats_Bordeaux_Gideon Mensah_2021.csv 
+Total Ads removed: 23
+Save passes_Gideon Mensah_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Gideon Mensah_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Gideon Mensah_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Gideon Mensah_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Gideon Mensah_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save various-stats_Gideon Mensah_Bordeaux_2021.csv 
+Done player Gideon Mensah | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/c252c705/matchs/2021-2022/summary/Journaux-de-match-Gaetan-Poussin
+Total Ads removed: 22
+Gaëtan Poussin
+Save genstats_Bordeaux_Gaëtan Poussin_2021.csv 
+Total Ads removed: 24
+Save passes_Gaëtan Poussin_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Gaëtan Poussin_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Gaëtan Poussin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Gaëtan Poussin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Gaëtan Poussin_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Gaëtan Poussin_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save keeper_Gaëtan Poussin_Bordeaux_2021.csv 
+Done player Gaëtan Poussin | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/243f4a0b/matchs/2021-2022/summary/Journaux-de-match-Otavio
+Total Ads removed: 23
+Otávio
+Save genstats_Bordeaux_Otávio_2021.csv 
+Total Ads removed: 23
+Save passes_Otávio_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save passes-type_Otávio_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Otávio_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Otávio_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save possession_Otávio_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Otávio_Bordeaux_2021.csv 
+Done player Otávio | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/f5efb153/matchs/2021-2022/summary/Journaux-de-match-Laurent-Koscielny
+Total Ads removed: 22
+Laurent Koscielny
+Save genstats_Bordeaux_Laurent Koscielny_2021.csv 
+Total Ads removed: 25
+Save passes_Laurent Koscielny_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Laurent Koscielny_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Laurent Koscielny_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Laurent Koscielny_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Laurent Koscielny_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Laurent Koscielny_Bordeaux_2021.csv 
+Done player Laurent Koscielny | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/295ba708/matchs/2021-2022/summary/Journaux-de-match-Tom-Lacoux
+Total Ads removed: 24
+Tom Lacoux
+Save genstats_Bordeaux_Tom Lacoux_2021.csv 
+Total Ads removed: 23
+Save passes_Tom Lacoux_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Tom Lacoux_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Tom Lacoux_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Tom Lacoux_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save possession_Tom Lacoux_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Tom Lacoux_Bordeaux_2021.csv 
+Done player Tom Lacoux | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/3544641e/matchs/2021-2022/summary/Journaux-de-match-Sekou-Mara
+Total Ads removed: 23
+Sekou Mara
+Save genstats_Bordeaux_Sekou Mara_2021.csv 
+Total Ads removed: 23
+Save passes_Sekou Mara_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Sekou Mara_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Sekou Mara_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Sekou Mara_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Sekou Mara_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Sekou Mara_Bordeaux_2021.csv 
+Done player Sekou Mara | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/2054d037/matchs/2021-2022/summary/Journaux-de-match-MBaye-Niang
+Total Ads removed: 23
+M'Baye Niang
+Save genstats_Bordeaux_M'Baye Niang_2021.csv 
+Total Ads removed: 22
+Save passes_M'Baye Niang_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_M'Baye Niang_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_M'Baye Niang_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_M'Baye Niang_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_M'Baye Niang_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save various-stats_M'Baye Niang_Bordeaux_2021.csv 
+Done player M'Baye Niang | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/65bbfba3/matchs/2021-2022/summary/Journaux-de-match-Danylo-Ihnatenko
+Total Ads removed: 22
+Danylo Ihnatenko
+Save genstats_Bordeaux_Danylo Ihnatenko_2021.csv 
+Total Ads removed: 23
+Save passes_Danylo Ihnatenko_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Danylo Ihnatenko_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Danylo Ihnatenko_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Danylo Ihnatenko_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Danylo Ihnatenko_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Danylo Ihnatenko_Bordeaux_2021.csv 
+Done player Danylo Ihnatenko | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/4937a9f7/matchs/2021-2022/summary/Journaux-de-match-Abdel-Jalil-Medioub
+Total Ads removed: 23
+Abdel Jalil Medioub
+Save genstats_Bordeaux_Abdel Jalil Medioub_2021.csv 
+Total Ads removed: 22
+Save passes_Abdel Jalil Medioub_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Abdel Jalil Medioub_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Abdel Jalil Medioub_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Abdel Jalil Medioub_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Abdel Jalil Medioub_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save various-stats_Abdel Jalil Medioub_Bordeaux_2021.csv 
+Done player Abdel Jalil Medioub | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/792a9d41/matchs/2021-2022/summary/Journaux-de-match-Issouf-Sissokho
+Total Ads removed: 23
+Issouf Sissokho
+Save genstats_Bordeaux_Issouf Sissokho_2021.csv 
+Total Ads removed: 22
+Save passes_Issouf Sissokho_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Issouf Sissokho_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Issouf Sissokho_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Issouf Sissokho_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save possession_Issouf Sissokho_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save various-stats_Issouf Sissokho_Bordeaux_2021.csv 
+Done player Issouf Sissokho | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/f83c8d6c/matchs/2021-2022/summary/Journaux-de-match-Jimmy-Briand
+Total Ads removed: 22
+Jimmy Briand
+Save genstats_Bordeaux_Jimmy Briand_2021.csv 
+Total Ads removed: 22
+Save passes_Jimmy Briand_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Jimmy Briand_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Jimmy Briand_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Jimmy Briand_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Jimmy Briand_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Jimmy Briand_Bordeaux_2021.csv 
+Done player Jimmy Briand | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/ee158be5/matchs/2021-2022/summary/Journaux-de-match-Junior-Mwanga
+Total Ads removed: 23
+Junior Mwanga
+Save genstats_Bordeaux_Junior Mwanga_2021.csv 
+Total Ads removed: 21
+Save passes_Junior Mwanga_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Junior Mwanga_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save penalty-prep_Junior Mwanga_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Junior Mwanga_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Junior Mwanga_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Junior Mwanga_Bordeaux_2021.csv 
+Done player Junior Mwanga | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/f5b6fb78/matchs/2021-2022/summary/Journaux-de-match-Loris-Benito
+Total Ads removed: 23
+Loris Benito
+Save genstats_Bordeaux_Loris Benito_2021.csv 
+Total Ads removed: 23
+Save passes_Loris Benito_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Loris Benito_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Loris Benito_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Loris Benito_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Loris Benito_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Loris Benito_Bordeaux_2021.csv 
+Done player Loris Benito | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/db013c7d/matchs/2021-2022/summary/Journaux-de-match-Thibault-Klidje
+Total Ads removed: 22
+Thibault Klidje
+Save genstats_Bordeaux_Thibault Klidje_2021.csv 
+Total Ads removed: 22
+Save passes_Thibault Klidje_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Thibault Klidje_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save penalty-prep_Thibault Klidje_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Thibault Klidje_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save possession_Thibault Klidje_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save various-stats_Thibault Klidje_Bordeaux_2021.csv 
+Done player Thibault Klidje | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/53f6306f/matchs/2021-2022/summary/Journaux-de-match-Mehdi-Zerkane
+Total Ads removed: 24
+Mehdi Zerkane
+Save genstats_Bordeaux_Mehdi Zerkane_2021.csv 
+Total Ads removed: 22
+Save passes_Mehdi Zerkane_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Mehdi Zerkane_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Mehdi Zerkane_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Mehdi Zerkane_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Mehdi Zerkane_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Mehdi Zerkane_Bordeaux_2021.csv 
+Done player Mehdi Zerkane | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/2b5a35e5/matchs/2021-2022/summary/Journaux-de-match-Dilane-Bakwa
+Total Ads removed: 23
+Dilane Bakwa
+Save genstats_Bordeaux_Dilane Bakwa_2021.csv 
+Total Ads removed: 22
+Save passes_Dilane Bakwa_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save passes-type_Dilane Bakwa_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save penalty-prep_Dilane Bakwa_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Dilane Bakwa_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save possession_Dilane Bakwa_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Dilane Bakwa_Bordeaux_2021.csv 
+Done player Dilane Bakwa | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/4eb0686f/matchs/2021-2022/summary/Journaux-de-match-Amadou-Traore
+Total Ads removed: 24
+Amadou Traore
+Save genstats_Bordeaux_Amadou Traore_2021.csv 
+Total Ads removed: 22
+Save passes_Amadou Traore_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Amadou Traore_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Amadou Traore_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Amadou Traore_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Amadou Traore_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Amadou Traore_Bordeaux_2021.csv 
+Done player Amadou Traore | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/9af3613f/matchs/2021-2022/summary/Journaux-de-match-Johaneko-Louisjean
+Total Ads removed: 23
+Johaneko Louisjean
+Save genstats_Bordeaux_Johaneko Louisjean_2021.csv 
+Total Ads removed: 22
+Save passes_Johaneko Louisjean_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Johaneko Louisjean_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save penalty-prep_Johaneko Louisjean_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save defensive-actions_Johaneko Louisjean_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save possession_Johaneko Louisjean_Bordeaux_2021.csv 
+Total Ads removed: 22
+Save various-stats_Johaneko Louisjean_Bordeaux_2021.csv 
+Done player Johaneko Louisjean | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/2515040a/matchs/2021-2022/summary/Journaux-de-match-Paul-Baysse
+Total Ads removed: 22
+Paul Baysse
+Save genstats_Bordeaux_Paul Baysse_2021.csv 
+Total Ads removed: 22
+Save passes_Paul Baysse_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save passes-type_Paul Baysse_Bordeaux_2021.csv 
+Total Ads removed: 21
+Save penalty-prep_Paul Baysse_Bordeaux_2021.csv 
+Total Ads removed: 23
+Save defensive-actions_Paul Baysse_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save possession_Paul Baysse_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save various-stats_Paul Baysse_Bordeaux_2021.csv 
+Done player Paul Baysse | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/bc0bfc64/matchs/2021-2022/summary/Journaux-de-match-Josh-Maja
+Total Ads removed: 23
+Josh Maja
+Save genstats_Bordeaux_Josh Maja_2021.csv 
+Total Ads removed: 24
+Save passes_Josh Maja_Bordeaux_2021.csv 
+Total Ads removed: 26
+Save passes-type_Josh Maja_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save penalty-prep_Josh Maja_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save defensive-actions_Josh Maja_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save possession_Josh Maja_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save various-stats_Josh Maja_Bordeaux_2021.csv 
+Done player Josh Maja | team Bordeaux | 2021
+Go to https://fbref.com/fr/joueurs/2306bfde/matchs/2021-2022/summary/Journaux-de-match-Ruben-Pardo
+Total Ads removed: 23
+Rubén Pardo
+Save genstats_Bordeaux_Rubén Pardo_2021.csv 
+Total Ads removed: 24
+Save passes_Rubén Pardo_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save passes-type_Rubén Pardo_Bordeaux_2021.csv 
+Total Ads removed: 24
+Save penalty-prep_Rubén Pardo_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save defensive-actions_Rubén Pardo_Bordeaux_2021.csv 
+Total Ads removed: 26
+Save possession_Rubén Pardo_Bordeaux_2021.csv 
+Total Ads removed: 25
+Save various-stats_Rubén Pardo_Bordeaux_2021.csv 
+Done player Rubén Pardo | team Bordeaux | 2021
