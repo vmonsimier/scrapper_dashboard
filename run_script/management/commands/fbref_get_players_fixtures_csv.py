@@ -101,6 +101,7 @@ class Command(BaseCommand):
                 time.sleep(5)
 
                 tname_links = [
+                    "/html/body/div[3]/div[6]/div[2]/div[4]/div[2]/table/tbody/tr/td[1]/a",
                     "/html/body/div[1]/div[6]/div[3]/div[4]/div[1]/table/tbody/tr/td[1]/a",
                     "/html/body/div[2]/div[6]/div[3]/div[4]/div[1]/table/tbody/tr/td[1]/a",
                     "/html/body/div[3]/div[6]/div[3]/div[4]/div[2]/table/tbody/tr/td[1]/a",
@@ -237,9 +238,8 @@ class Command(BaseCommand):
                         filename = 'genstats_' + teams_names[j] + '_' + player_name + '_' + match_season + '.csv'
 
                         if not scrapper.checkFileExists(2, league, filename):
-
-                            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span','//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
-                            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button',  '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[3]/button']
+                            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span','//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
+                            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[3]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button',  '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[3]/button']
                             pre_selector = '//*[@id="csv_matchlogs_all"]'
 
                             for k in range(0, len(menu_link_selector)):
@@ -415,8 +415,8 @@ class Command(BaseCommand):
 
             node = scrapper.getNode(print_scrapper)
 
-            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
-            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[3]/button']
+            menu_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[1]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/span']
+            csv_link_selector = ['//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[1]/div/ul/li[3]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[4]/button', '//*[@id="matchlogs_all_sh"]/div/ul/li[2]/div/ul/li[3]/button']
             pre_selector = '//*[@id="csv_matchlogs_all"]'
 
             for k in range(0, len(menu_link_selector)):

@@ -1,34 +1,1191 @@
-Total number players: 505
-Links found: 505
-Test executed: 502
+Total number players: 589
+Links found: 589
+Test executed: 583
 
-Failed tests: 0
+Failed tests: 128
 
+https://fbref.com/fr/joueurs/741418c3/matchs/2021-2022/summary/Journaux-de-match-Alexis-Claude-Maurice
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f5c8b425/matchs/2021-2022/summary/Journaux-de-match-Yusuf-Yazici
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - OK
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/34a88e3e/matchs/2021-2022/summary/Journaux-de-match-Edon-Zhegrova
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f5c8b425/matchs/2021-2022/summary/Journaux-de-match-Yusuf-Yazici
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - OK
+keeper - FAIL
+https://fbref.com/fr/joueurs/8bbe2df5/matchs/2021-2022/summary/Journaux-de-match-Domagoj-Bradaric
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/57a46f3f/matchs/2021-2022/summary/Journaux-de-match-Isaac-Lihadji
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/ff20acfe/matchs/2021-2022/summary/Journaux-de-match-Cheikh-Niasse
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/a634b9d2/matchs/2021-2022/summary/Journaux-de-match-Jeremy-Pied
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/db7849ca/matchs/2021-2022/summary/Journaux-de-match-Franck-Honorat
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/16aa7d4c/matchs/2021-2022/summary/Journaux-de-match-Brendan-Chardonnet
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2b1bed19/matchs/2021-2022/summary/Journaux-de-match-Haris-Belkebla
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/19ba6c6d/matchs/2021-2022/summary/Journaux-de-match-Steve-Mounie
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/5b146df3/matchs/2021-2022/summary/Journaux-de-match-Lilian-Brassier
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/d4d35152/matchs/2021-2022/summary/Journaux-de-match-Hugo-Magnetti
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/542cc80f/matchs/2021-2022/summary/Journaux-de-match-Paul-Lasne
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/5065d67d/matchs/2021-2022/summary/Journaux-de-match-Denys-Bain
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - OK
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6a2b9aee/matchs/2021-2022/summary/Journaux-de-match-Youssouph-Badji
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/32c2d95f/matchs/2021-2022/summary/Journaux-de-match-Yunis-Abdelhamid
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/a17a94d6/matchs/2021-2022/summary/Journaux-de-match-Azor-Matusiwa
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/49136c42/matchs/2021-2022/summary/Journaux-de-match-Andrew-Gravillon
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2acf0cd7/matchs/2021-2022/summary/Journaux-de-match-Marshall-Munetsi
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/64c14d49/matchs/2021-2022/summary/Journaux-de-match-Dion-Lopy
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/5b92d896/matchs/2021-2022/summary/Journaux-de-match-Hugo-Ekitike
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/47c609d5/matchs/2021-2022/summary/Journaux-de-match-El-Bilal-Toure
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/d5575935/matchs/2021-2022/summary/Journaux-de-match-Valon-Berisha
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/095e4199/matchs/2021-2022/summary/Journaux-de-match-Arber-Zeneli
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/928a4a61/matchs/2021-2022/summary/Journaux-de-match-Jens-Cajuste
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/29aee77c/matchs/2021-2022/summary/Journaux-de-match-Fraser-Hornby
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/9f1c2822/matchs/2021-2022/summary/Journaux-de-match-Philippe-Koffi
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/0f26fd24/matchs/2021-2022/summary/Journaux-de-match-Anastasios-Donis
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2a657da0/matchs/2021-2022/summary/Journaux-de-match-Mathieu-Cafaro
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7587446d/matchs/2021-2022/summary/Journaux-de-match-Martin-Adeline
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/9226aa22/matchs/2021-2022/summary/Journaux-de-match-Kamory-Doumbia
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/279ddf6a/matchs/2021-2022/summary/Journaux-de-match-Xavier-Chavalerin
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/3f3a2cba/matchs/2021-2022/summary/Journaux-de-match-Moustapha-Mbow
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/9c2b1f11/matchs/2021-2022/summary/Journaux-de-match-Kaj-Sierhuis
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/e4bb1f08/matchs/2021-2022/summary/Journaux-de-match-Sambou-Sissoko
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/d8c19a60/matchs/2021-2022/summary/Journaux-de-match-Ibrahim-Diakite
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7909ffa4/matchs/2021-2022/summary/Journaux-de-match-Joris-Chotard
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/375622c5/matchs/2021-2022/summary/Journaux-de-match-Jordan-Ferri
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7e82a78f/matchs/2021-2022/summary/Journaux-de-match-Florent-Mollet
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/c631f952/matchs/2021-2022/summary/Journaux-de-match-Jonas-Omlin
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/87935cf3/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Sakho
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6bde367b/matchs/2021-2022/summary/Journaux-de-match-Teji-Savanier
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/4e0afc5d/matchs/2021-2022/summary/Journaux-de-match-Arnaud-Souquet
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/ea0ff634/matchs/2021-2022/summary/Journaux-de-match-Valere-Germain
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/0d7b6576/matchs/2021-2022/summary/Journaux-de-match-Sepe-Elye-Wahi
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/ea0aa7e0/matchs/2021-2022/summary/Journaux-de-match-Mihailo-Ristic
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - OK
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/24eb7ed6/matchs/2021-2022/summary/Journaux-de-match-Junior-Sambia
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/db23d9fc/matchs/2021-2022/summary/Journaux-de-match-Thuler
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/380a15e2/matchs/2021-2022/summary/Journaux-de-match-Dimitry-Bertaud
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/e3e05edf/matchs/2021-2022/summary/Journaux-de-match-Ambroise-Oyongo
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/fcc84a07/matchs/2021-2022/summary/Journaux-de-match-Leo-Leroy
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/148e136f/matchs/2021-2022/summary/Journaux-de-match-Remy-Cabella
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/654f49ca/matchs/2021-2022/summary/Journaux-de-match-Beni-Makouana
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6690ef25/matchs/2021-2022/summary/Journaux-de-match-Pedro-Mendes
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/b666421b/matchs/2021-2022/summary/Journaux-de-match-Ismael-Traore
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/4b96c347/matchs/2021-2022/summary/Journaux-de-match-Angelo-Fulgini
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/b0c71810/matchs/2021-2022/summary/Journaux-de-match-Sofiane-Boufal
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/c801616a/matchs/2021-2022/summary/Journaux-de-match-Thomas-Mangani
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/46359159/matchs/2021-2022/summary/Journaux-de-match-Jimmy-Cabot
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/9ba7b4fa/matchs/2021-2022/summary/Journaux-de-match-Enzo-Ebosse
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f8405304/matchs/2021-2022/summary/Journaux-de-match-Mohamed-Ali-Cho
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/3189f61a/matchs/2021-2022/summary/Journaux-de-match-Nabil-Bentaleb
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/b98cea65/matchs/2021-2022/summary/Journaux-de-match-Danijel-Petkovic
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - OK
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/28dabd43/matchs/2021-2022/summary/Journaux-de-match-Paul-Bernardoni
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/79b2399c/matchs/2021-2022/summary/Journaux-de-match-Pierrick-Capelle
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f7d3a773/matchs/2021-2022/summary/Journaux-de-match-Anthony-Mandrea
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7fecbcdb/matchs/2021-2022/summary/Journaux-de-match-Abdoulaye-Bamba
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/91f2da4c/matchs/2021-2022/summary/Journaux-de-match-Casimir-Ninga
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/95192fe4/matchs/2021-2022/summary/Journaux-de-match-Waniss-Taibi
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7d937aa1/matchs/2021-2022/summary/Journaux-de-match-Antonin-Bobichon
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/d21e361a/matchs/2021-2022/summary/Journaux-de-match-Farid-El-Melali
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2693f6bc/matchs/2021-2022/summary/Journaux-de-match-Noah-Fatar
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f4bc42b1/matchs/2021-2022/summary/Journaux-de-match-Sada-Thioub
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/db3164e1/matchs/2021-2022/summary/Journaux-de-match-Gauthier-Gallon
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/c3725db2/matchs/2021-2022/summary/Journaux-de-match-Yoann-Salmier
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/ed39121c/matchs/2021-2022/summary/Journaux-de-match-Florian-Tardieu
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/de40e38c/matchs/2021-2022/summary/Journaux-de-match-Giulian-Biancone
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/beae3a73/matchs/2021-2022/summary/Journaux-de-match-Renaud-Ripart
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/e5c1e0ca/matchs/2021-2022/summary/Journaux-de-match-Erik-Palmer-Brown
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6ba71da5/matchs/2021-2022/summary/Journaux-de-match-Jimmy-Giraudon
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/cfa49cc1/matchs/2021-2022/summary/Journaux-de-match-Abdu-Conte
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/8dbff17c/matchs/2021-2022/summary/Journaux-de-match-Adil-Rami
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/92b56413/matchs/2021-2022/summary/Journaux-de-match-Tristan-Dingome
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/9f29c204/matchs/2021-2022/summary/Journaux-de-match-Oualid-El-Hajjam
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/e6eadfb8/matchs/2021-2022/summary/Journaux-de-match-Youssouf-Kone
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/3814b753/matchs/2021-2022/summary/Journaux-de-match-Gerson-Rodrigues
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/dbde4959/matchs/2021-2022/summary/Journaux-de-match-Dylan-Chambost
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/eaf71a5e/matchs/2021-2022/summary/Journaux-de-match-Karim-Azamoum
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/0ed063d6/matchs/2021-2022/summary/Journaux-de-match-Yasser-Larouci
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/5c61496e/matchs/2021-2022/summary/Journaux-de-match-Nassim-Chadli
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/60740e70/matchs/2021-2022/summary/Journaux-de-match-Philippe-Sandler
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7ffaf233/matchs/2021-2022/summary/Journaux-de-match-Suk-Hyun-jun
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/199ff86e/matchs/2021-2022/summary/Journaux-de-match-Levi-Lumeka
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/316e70c7/matchs/2021-2022/summary/Journaux-de-match-Mamadou-Camara
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/59d93937/matchs/2021-2022/summary/Journaux-de-match-Patrick-Roberts
+genstats - OK
+passes - OK
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2321ea6e/matchs/2021-2022/summary/Journaux-de-match-Vincent-Le-Goff
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/31626657/matchs/2021-2022/summary/Journaux-de-match-Laurent-Abergel
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/065dc209/matchs/2021-2022/summary/Journaux-de-match-Terem-Moffi
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2d22cea7/matchs/2021-2022/summary/Journaux-de-match-Armand-Lauriente
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6f806d99/matchs/2021-2022/summary/Journaux-de-match-Enzo-Le-Fee
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/54d51e22/matchs/2021-2022/summary/Journaux-de-match-Fabien-Lemoine
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/04bb2b06/matchs/2021-2022/summary/Journaux-de-match-Ibrahima-Kone
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/29939a1d/matchs/2021-2022/summary/Journaux-de-match-Stephane-Diarra
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/01870104/matchs/2021-2022/summary/Journaux-de-match-Mohamed-Lamine-Bayo
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/00891164/matchs/2021-2022/summary/Journaux-de-match-Cedric-Hountondji
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/25749008/matchs/2021-2022/summary/Journaux-de-match-Elba-Rashani
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/caa7aaea/matchs/2021-2022/summary/Journaux-de-match-Yohann-Magnin
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/1956b948/matchs/2021-2022/summary/Journaux-de-match-Jim-Allevinah
+genstats - OK
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/a3e1d20d/matchs/2021-2022/summary/Journaux-de-match-Jean-Claude-Billong
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/8577e60a/matchs/2021-2022/summary/Journaux-de-match-Mahdi-Camara
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/a6b6fa6e/matchs/2021-2022/summary/Journaux-de-match-Mickael-Nade
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - OK
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/0b0cbe5b/matchs/2021-2022/summary/Journaux-de-match-Denis-Bouanga
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/2677a1de/matchs/2021-2022/summary/Journaux-de-match-Wahbi-Khazri
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7b9a9e25/matchs/2021-2022/summary/Journaux-de-match-Arnaud-Nordin
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f520049f/matchs/2021-2022/summary/Journaux-de-match-Eliaquim-Mangala
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/0b4d8274/matchs/2021-2022/summary/Journaux-de-match-Romain-Hamouma
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/6a04bb7c/matchs/2021-2022/summary/Journaux-de-match-Elhadji-Dieye
+genstats - OK
+passes - OK
+passes-type - OK
+penalty-prep - OK
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/7a72e960/matchs/2021-2022/summary/Journaux-de-match-Lucas-Calodat
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/ce84946a/matchs/2021-2022/summary/Journaux-de-match-Lamine-Ghezali
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/f86ca403/matchs/2021-2022/summary/Journaux-de-match-Vincent-Pajot
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/b0547a87/matchs/2021-2022/summary/Journaux-de-match-Nicolas-de-Preville
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/3c6bbbab/matchs/2021-2022/summary/Journaux-de-match-Fabien-Centonze
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/e50623a0/matchs/2021-2022/summary/Journaux-de-match-Kevin-NDoram
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/cc41f558/matchs/2021-2022/summary/Journaux-de-match-Matthieu-Udol
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/3cc4bb19/matchs/2021-2022/summary/Journaux-de-match-Fali-Cande
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
+https://fbref.com/fr/joueurs/b229aa13/matchs/2021-2022/summary/Journaux-de-match-Didier-Lamkel-Ze
+genstats - FAIL
+passes - FAIL
+passes-type - FAIL
+penalty-prep - FAIL
+defensive-actions - FAIL
+possession - FAIL
+various-stats - FAIL
+keeper - FAIL
 
-Missing links:3
-Missing test for https://fbref.com/fr/joueurs/19b8b0b9/matchs/2018-2019/summary/Journaux-de-match-Collin-Quaner
-Missing test for https://fbref.com/fr/joueurs/8f866fe8/matchs/2018-2019/summary/Journaux-de-match-Manolo-Gabbiadini
-Missing test for https://fbref.com/fr/joueurs/839c14e1/matchs/2018-2019/summary/Journaux-de-match-Cedric-Soares
+Missing links:6
+Missing test for https://fbref.com/fr/joueurs/b8d22478/matchs/2021-2022/summary/Journaux-de-match-Samuel-Kalu
+Missing test for https://fbref.com/fr/joueurs/2306bfde/matchs/2021-2022/summary/Journaux-de-match-Ruben-Pardo
+Missing test for https://fbref.com/fr/joueurs/42eaa028/matchs/2021-2022/summary/Journaux-de-match-Jonathan-Ikone
+Missing test for https://fbref.com/fr/joueurs/706a60e1/matchs/2021-2022/summary/Journaux-de-match-Myziane-Maolida
+Missing test for https://fbref.com/fr/joueurs/5cdddffa/matchs/2021-2022/summary/Journaux-de-match-Tanguy-Ndombele
+Missing test for https://fbref.com/fr/joueurs/86383d0e/matchs/2021-2022/summary/Journaux-de-match-Martin-Satriano
+Missing test for https://fbref.com/fr/joueurs/80556f08/matchs/2021-2022/summary/Journaux-de-match-Toma-Basic
+Missing test for https://fbref.com/fr/joueurs/e0bc6fdc/matchs/2021-2022/summary/Journaux-de-match-Emerson-Palmieri
 
 Teams done: 20
 
-Manchester City - OK
-Liverpool - OK
-Chelsea - OK
-Tottenham - OK
-Arsenal - OK
-Manchester Utd - OK
-Wolves - OK
-Everton - OK
-Leicester City - OK
-West Ham - OK
-Watford - OK
-Crystal Palace - OK
-Newcastle Utd - OK
-Bournemouth - OK
-Burnley - OK
-Southampton - OK
-Brighton - OK
-Cardiff City - OK
-Fulham - OK
-Huddersfield - OK
+Paris S-G - OK
+Marseille - OK
+Monaco - OK
+Rennes - OK
+Nice - OK
+Strasbourg - OK
+Lens - OK
+Lyon - OK
+Nantes - OK
+Lille - OK
+Brest - OK
+Reims - OK
+Montpellier - OK
+Angers - OK
+Troyes - OK
+Lorient - OK
+Clermont Foot - OK
+Saint-Étienne - OK
+Metz - OK
+Bordeaux - OK
