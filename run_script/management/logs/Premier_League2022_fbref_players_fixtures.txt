@@ -5100,3 +5100,2881 @@ Total Ads removed: 24
 Save penalty-prep_Philip Billing_Bournemouth_2022.csv 
 Total Ads removed: 25
 Save defensive-actions_Philip Billing_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save possession_Philip Billing_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save various-stats_Philip Billing_Bournemouth_2022.csv 
+Done player Philip Billing | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/e77dc3b2/matchs/2022-2023/summary/Journaux-de-match-Dominic-Solanke
+Total Ads removed: 22
+Dominic Solanke
+Save genstats_Bournemouth_Dominic Solanke_2022.csv 
+Total Ads removed: 22
+Save passes_Dominic Solanke_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Dominic Solanke_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Dominic Solanke_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Dominic Solanke_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Dominic Solanke_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Dominic Solanke_Bournemouth_2022.csv 
+Done player Dominic Solanke | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/35141f4c/matchs/2022-2023/summary/Journaux-de-match-Marcos-Senesi
+Total Ads removed: 23
+Marcos Senesi
+Save genstats_Bournemouth_Marcos Senesi_2022.csv 
+Total Ads removed: 24
+Save passes_Marcos Senesi_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Marcos Senesi_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Marcos Senesi_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Marcos Senesi_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Marcos Senesi_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save various-stats_Marcos Senesi_Bournemouth_2022.csv 
+Done player Marcos Senesi | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/26ce2263/matchs/2022-2023/summary/Journaux-de-match-Ryan-Christie
+Total Ads removed: 23
+Ryan Christie
+Save genstats_Bournemouth_Ryan Christie_2022.csv 
+Total Ads removed: 23
+Save passes_Ryan Christie_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ryan Christie_Bournemouth_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Ryan Christie_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Ryan Christie_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Ryan Christie_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Ryan Christie_Bournemouth_2022.csv 
+Done player Ryan Christie | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/e8271ad9/matchs/2022-2023/summary/Journaux-de-match-Jordan-Zemura
+Total Ads removed: 22
+Jordan Zemura
+Save genstats_Bournemouth_Jordan Zemura_2022.csv 
+Total Ads removed: 23
+Save passes_Jordan Zemura_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jordan Zemura_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jordan Zemura_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jordan Zemura_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Jordan Zemura_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jordan Zemura_Bournemouth_2022.csv 
+Done player Jordan Zemura | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/a9dc785c/matchs/2022-2023/summary/Journaux-de-match-Neto
+Total Ads removed: 22
+Neto
+Save genstats_Bournemouth_Neto_2022.csv 
+Total Ads removed: 23
+Save passes_Neto_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Neto_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Neto_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Neto_Bournemouth_2022.csv 
+Total Ads removed: 26
+Save possession_Neto_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Neto_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save keeper_Neto_Bournemouth_2022.csv 
+Done player Neto | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/01ce9e70/matchs/2022-2023/summary/Journaux-de-match-Kieffer-Moore
+Total Ads removed: 23
+Kieffer Moore
+Save genstats_Bournemouth_Kieffer Moore_2022.csv 
+Total Ads removed: 23
+Save passes_Kieffer Moore_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Kieffer Moore_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Kieffer Moore_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Kieffer Moore_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Kieffer Moore_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Kieffer Moore_Bournemouth_2022.csv 
+Done player Kieffer Moore | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/fe558029/matchs/2022-2023/summary/Journaux-de-match-Mark-Travers
+Total Ads removed: 24
+Mark Travers
+Save genstats_Bournemouth_Mark Travers_2022.csv 
+Total Ads removed: 24
+Save passes_Mark Travers_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save passes-type_Mark Travers_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Mark Travers_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Mark Travers_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Mark Travers_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Mark Travers_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save keeper_Mark Travers_Bournemouth_2022.csv 
+Done player Mark Travers | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/f31def1e/matchs/2022-2023/summary/Journaux-de-match-Lloyd-Kelly
+Total Ads removed: 25
+Lloyd Kelly
+Save genstats_Bournemouth_Lloyd Kelly_2022.csv 
+Total Ads removed: 23
+Save passes_Lloyd Kelly_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Lloyd Kelly_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lloyd Kelly_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Lloyd Kelly_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Lloyd Kelly_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Lloyd Kelly_Bournemouth_2022.csv 
+Done player Lloyd Kelly | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/c067631c/matchs/2022-2023/summary/Journaux-de-match-Ryan-Fredericks
+Total Ads removed: 22
+Ryan Fredericks
+Save genstats_Bournemouth_Ryan Fredericks_2022.csv 
+Total Ads removed: 23
+Save passes_Ryan Fredericks_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ryan Fredericks_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ryan Fredericks_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ryan Fredericks_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save possession_Ryan Fredericks_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save various-stats_Ryan Fredericks_Bournemouth_2022.csv 
+Done player Ryan Fredericks | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/a6b461e7/matchs/2022-2023/summary/Journaux-de-match-Ben-Pearson
+Total Ads removed: 23
+Ben Pearson
+Save genstats_Bournemouth_Ben Pearson_2022.csv 
+Total Ads removed: 26
+Save passes_Ben Pearson_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ben Pearson_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ben Pearson_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ben Pearson_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save possession_Ben Pearson_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Ben Pearson_Bournemouth_2022.csv 
+Done player Ben Pearson | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/e4238fb1/matchs/2022-2023/summary/Journaux-de-match-Jaidon-Anthony
+Total Ads removed: 22
+Jaidon Anthony
+Save genstats_Bournemouth_Jaidon Anthony_2022.csv 
+Total Ads removed: 24
+Save passes_Jaidon Anthony_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jaidon Anthony_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Jaidon Anthony_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jaidon Anthony_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Jaidon Anthony_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jaidon Anthony_Bournemouth_2022.csv 
+Done player Jaidon Anthony | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/558807c0/matchs/2022-2023/summary/Journaux-de-match-Jack-Stacey
+Total Ads removed: 22
+Jack Stacey
+Save genstats_Bournemouth_Jack Stacey_2022.csv 
+Total Ads removed: 23
+Save passes_Jack Stacey_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jack Stacey_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Jack Stacey_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jack Stacey_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Jack Stacey_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jack Stacey_Bournemouth_2022.csv 
+Done player Jack Stacey | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/6992791d/matchs/2022-2023/summary/Journaux-de-match-Junior-Stanislas
+Total Ads removed: 23
+Junior Stanislas
+Save genstats_Bournemouth_Junior Stanislas_2022.csv 
+Total Ads removed: 23
+Save passes_Junior Stanislas_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Junior Stanislas_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Junior Stanislas_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Junior Stanislas_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save possession_Junior Stanislas_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save various-stats_Junior Stanislas_Bournemouth_2022.csv 
+Done player Junior Stanislas | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/10a10454/matchs/2022-2023/summary/Journaux-de-match-Joe-Rothwell
+Total Ads removed: 22
+Joe Rothwell
+Save genstats_Bournemouth_Joe Rothwell_2022.csv 
+Total Ads removed: 23
+Save passes_Joe Rothwell_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Joe Rothwell_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Joe Rothwell_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Joe Rothwell_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Joe Rothwell_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Joe Rothwell_Bournemouth_2022.csv 
+Done player Joe Rothwell | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/87966294/matchs/2022-2023/summary/Journaux-de-match-Owen-Bevan
+Total Ads removed: 22
+Owen Bevan
+Save genstats_Bournemouth_Owen Bevan_2022.csv 
+Total Ads removed: 23
+Save passes_Owen Bevan_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Owen Bevan_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Owen Bevan_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Owen Bevan_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Owen Bevan_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save various-stats_Owen Bevan_Bournemouth_2022.csv 
+Done player Owen Bevan | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/4d960fc3/matchs/2022-2023/summary/Journaux-de-match-Emiliano-Marcondes
+Total Ads removed: 23
+Emiliano Marcondes
+Save genstats_Bournemouth_Emiliano Marcondes_2022.csv 
+Total Ads removed: 23
+Save passes_Emiliano Marcondes_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Emiliano Marcondes_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Emiliano Marcondes_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Emiliano Marcondes_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Emiliano Marcondes_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Emiliano Marcondes_Bournemouth_2022.csv 
+Done player Emiliano Marcondes | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/11f54bd5/matchs/2022-2023/summary/Journaux-de-match-Siriki-Dembele
+Total Ads removed: 22
+Siriki Dembélé
+Save genstats_Bournemouth_Siriki Dembélé_2022.csv 
+Total Ads removed: 23
+Save passes_Siriki Dembélé_Bournemouth_2022.csv 
+Total Ads removed: 22
+Save passes-type_Siriki Dembélé_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Siriki Dembélé_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Siriki Dembélé_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save possession_Siriki Dembélé_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Siriki Dembélé_Bournemouth_2022.csv 
+Done player Siriki Dembélé | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/6adbc307/matchs/2022-2023/summary/Journaux-de-match-Jack-Stephens
+Total Ads removed: 22
+Jack Stephens
+Save genstats_Bournemouth_Jack Stephens_2022.csv 
+Total Ads removed: 24
+Save passes_Jack Stephens_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jack Stephens_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jack Stephens_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Jack Stephens_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save possession_Jack Stephens_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jack Stephens_Bournemouth_2022.csv 
+Done player Jack Stephens | team Bournemouth | 2022
+Go to https://fbref.com/fr/joueurs/b2856bc0/matchs/2022-2023/summary/Journaux-de-match-Jamal-Lowe
+Total Ads removed: 22
+Jamal Lowe
+Save genstats_Bournemouth_Jamal Lowe_2022.csv 
+Total Ads removed: 24
+Save passes_Jamal Lowe_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jamal Lowe_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Jamal Lowe_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Jamal Lowe_Bournemouth_2022.csv 
+Total Ads removed: 24
+Save possession_Jamal Lowe_Bournemouth_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jamal Lowe_Bournemouth_2022.csv 
+Done player Jamal Lowe | team Bournemouth | 2022
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/6b625ac2/matchs/2022-2023/summary/Journaux-de-match-Illan-Meslier
+https://fbref.com/fr/joueurs/ea6bc03a/matchs/2022-2023/summary/Journaux-de-match-Robin-Koch
+https://fbref.com/fr/joueurs/5bc43860/matchs/2022-2023/summary/Journaux-de-match-Brenden-Aaronson
+https://fbref.com/fr/joueurs/da27e268/matchs/2022-2023/summary/Journaux-de-match-Marc-Roca
+https://fbref.com/fr/joueurs/2b09d998/matchs/2022-2023/summary/Journaux-de-match-Tyler-Adams
+https://fbref.com/fr/joueurs/f4d296e4/matchs/2022-2023/summary/Journaux-de-match-Pascal-Struijk
+https://fbref.com/fr/joueurs/aa849a12/matchs/2022-2023/summary/Journaux-de-match-Jack-Harrison
+https://fbref.com/fr/joueurs/39769cff/matchs/2022-2023/summary/Journaux-de-match-Rasmus-Nissen
+https://fbref.com/fr/joueurs/1fb1c435/matchs/2022-2023/summary/Journaux-de-match-Rodrigo
+https://fbref.com/fr/joueurs/bba30585/matchs/2022-2023/summary/Journaux-de-match-Diego-Llorente
+https://fbref.com/fr/joueurs/8e16dd48/matchs/2022-2023/summary/Journaux-de-match-Luis-Sinisterra
+https://fbref.com/fr/joueurs/dc64b8b3/matchs/2022-2023/summary/Journaux-de-match-Liam-Cooper
+https://fbref.com/fr/joueurs/93feac6e/matchs/2022-2023/summary/Journaux-de-match-Patrick-Bamford
+https://fbref.com/fr/joueurs/df04eb4b/matchs/2022-2023/summary/Journaux-de-match-Crysencio-Summerville
+https://fbref.com/fr/joueurs/c931d9f9/matchs/2022-2023/summary/Journaux-de-match-Daniel-James
+https://fbref.com/fr/joueurs/01962d0d/matchs/2022-2023/summary/Journaux-de-match-Joe-Gelhardt
+https://fbref.com/fr/joueurs/420d7c7d/matchs/2022-2023/summary/Journaux-de-match-Luke-Ayling
+https://fbref.com/fr/joueurs/24f59bb2/matchs/2022-2023/summary/Journaux-de-match-Junior-Firpo
+https://fbref.com/fr/joueurs/f3354c07/matchs/2022-2023/summary/Journaux-de-match-Sam-Greenwood
+https://fbref.com/fr/joueurs/e0d1510a/matchs/2022-2023/summary/Journaux-de-match-Cody-Drameh
+https://fbref.com/fr/joueurs/282679b4/matchs/2022-2023/summary/Journaux-de-match-Mateusz-Klich
+https://fbref.com/fr/joueurs/9f1938ab/matchs/2022-2023/summary/Journaux-de-match-Adam-Forshaw
+https://fbref.com/fr/joueurs/75fdd638/matchs/2022-2023/summary/Journaux-de-match-Degnand-Gnonto
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/6b625ac2/matchs/2022-2023/summary/Journaux-de-match-Illan-Meslier
+Total Ads removed: 22
+Illan Meslier
+Save genstats_Leeds United_Illan Meslier_2022.csv 
+Total Ads removed: 23
+Save passes_Illan Meslier_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Illan Meslier_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Illan Meslier_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Illan Meslier_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Illan Meslier_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Illan Meslier_Leeds United_2022.csv 
+Total Ads removed: 23
+Save keeper_Illan Meslier_Leeds United_2022.csv 
+Done player Illan Meslier | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/ea6bc03a/matchs/2022-2023/summary/Journaux-de-match-Robin-Koch
+Total Ads removed: 22
+Robin Koch
+Save genstats_Leeds United_Robin Koch_2022.csv 
+Total Ads removed: 23
+Save passes_Robin Koch_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Robin Koch_Leeds United_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Robin Koch_Leeds United_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Robin Koch_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Robin Koch_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Robin Koch_Leeds United_2022.csv 
+Done player Robin Koch | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/5bc43860/matchs/2022-2023/summary/Journaux-de-match-Brenden-Aaronson
+Total Ads removed: 23
+Brenden Aaronson
+Save genstats_Leeds United_Brenden Aaronson_2022.csv 
+Total Ads removed: 23
+Save passes_Brenden Aaronson_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Brenden Aaronson_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Brenden Aaronson_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Brenden Aaronson_Leeds United_2022.csv 
+Total Ads removed: 24
+Save possession_Brenden Aaronson_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Brenden Aaronson_Leeds United_2022.csv 
+Done player Brenden Aaronson | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/da27e268/matchs/2022-2023/summary/Journaux-de-match-Marc-Roca
+Total Ads removed: 22
+Marc Roca
+Save genstats_Leeds United_Marc Roca_2022.csv 
+Total Ads removed: 23
+Save passes_Marc Roca_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Marc Roca_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Marc Roca_Leeds United_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Marc Roca_Leeds United_2022.csv 
+Error removing wrapper
+Total Ads removed: 30
+https://fbref.com/fr/equipes/5bfb9659/Statistiques-Leeds-United
+https://fbref.com/fr/equipes/8602292d/Statistiques-Aston-Villa
+https://fbref.com/fr/equipes/33c895d4/Statistiques-Southampton
+https://fbref.com/fr/equipes/a2d435b3/Statistiques-Leicester-City
+https://fbref.com/fr/equipes/8cec06e1/Statistiques-Wolverhampton-Wanderers
+https://fbref.com/fr/equipes/e4a775cb/Statistiques-Nottingham-Forest
+Total Ads removed: 26
+https://fbref.com/fr/joueurs/6b625ac2/matchs/2022-2023/summary/Journaux-de-match-Illan-Meslier
+https://fbref.com/fr/joueurs/ea6bc03a/matchs/2022-2023/summary/Journaux-de-match-Robin-Koch
+https://fbref.com/fr/joueurs/5bc43860/matchs/2022-2023/summary/Journaux-de-match-Brenden-Aaronson
+https://fbref.com/fr/joueurs/da27e268/matchs/2022-2023/summary/Journaux-de-match-Marc-Roca
+https://fbref.com/fr/joueurs/2b09d998/matchs/2022-2023/summary/Journaux-de-match-Tyler-Adams
+https://fbref.com/fr/joueurs/f4d296e4/matchs/2022-2023/summary/Journaux-de-match-Pascal-Struijk
+https://fbref.com/fr/joueurs/aa849a12/matchs/2022-2023/summary/Journaux-de-match-Jack-Harrison
+https://fbref.com/fr/joueurs/39769cff/matchs/2022-2023/summary/Journaux-de-match-Rasmus-Nissen
+https://fbref.com/fr/joueurs/1fb1c435/matchs/2022-2023/summary/Journaux-de-match-Rodrigo
+https://fbref.com/fr/joueurs/bba30585/matchs/2022-2023/summary/Journaux-de-match-Diego-Llorente
+https://fbref.com/fr/joueurs/8e16dd48/matchs/2022-2023/summary/Journaux-de-match-Luis-Sinisterra
+https://fbref.com/fr/joueurs/dc64b8b3/matchs/2022-2023/summary/Journaux-de-match-Liam-Cooper
+https://fbref.com/fr/joueurs/93feac6e/matchs/2022-2023/summary/Journaux-de-match-Patrick-Bamford
+https://fbref.com/fr/joueurs/df04eb4b/matchs/2022-2023/summary/Journaux-de-match-Crysencio-Summerville
+https://fbref.com/fr/joueurs/c931d9f9/matchs/2022-2023/summary/Journaux-de-match-Daniel-James
+https://fbref.com/fr/joueurs/01962d0d/matchs/2022-2023/summary/Journaux-de-match-Joe-Gelhardt
+https://fbref.com/fr/joueurs/420d7c7d/matchs/2022-2023/summary/Journaux-de-match-Luke-Ayling
+https://fbref.com/fr/joueurs/24f59bb2/matchs/2022-2023/summary/Journaux-de-match-Junior-Firpo
+https://fbref.com/fr/joueurs/f3354c07/matchs/2022-2023/summary/Journaux-de-match-Sam-Greenwood
+https://fbref.com/fr/joueurs/e0d1510a/matchs/2022-2023/summary/Journaux-de-match-Cody-Drameh
+https://fbref.com/fr/joueurs/282679b4/matchs/2022-2023/summary/Journaux-de-match-Mateusz-Klich
+https://fbref.com/fr/joueurs/9f1938ab/matchs/2022-2023/summary/Journaux-de-match-Adam-Forshaw
+https://fbref.com/fr/joueurs/75fdd638/matchs/2022-2023/summary/Journaux-de-match-Degnand-Gnonto
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/da27e268/matchs/2022-2023/summary/Journaux-de-match-Marc-Roca
+Total Ads removed: 24
+Marc Roca
+Total Ads removed: 22
+Save possession_Marc Roca_Leeds United_2022.csv 
+Total Ads removed: 25
+Save various-stats_Marc Roca_Leeds United_2022.csv 
+Done player Marc Roca | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/2b09d998/matchs/2022-2023/summary/Journaux-de-match-Tyler-Adams
+Total Ads removed: 24
+Tyler Adams
+Save genstats_Leeds United_Tyler Adams_2022.csv 
+Total Ads removed: 29
+Save passes_Tyler Adams_Leeds United_2022.csv 
+Total Ads removed: 26
+Save passes-type_Tyler Adams_Leeds United_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Tyler Adams_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Tyler Adams_Leeds United_2022.csv 
+Total Ads removed: 24
+Save possession_Tyler Adams_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Tyler Adams_Leeds United_2022.csv 
+Done player Tyler Adams | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/f4d296e4/matchs/2022-2023/summary/Journaux-de-match-Pascal-Struijk
+Total Ads removed: 23
+Pascal Struijk
+Save genstats_Leeds United_Pascal Struijk_2022.csv 
+Total Ads removed: 24
+Save passes_Pascal Struijk_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Pascal Struijk_Leeds United_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Pascal Struijk_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Pascal Struijk_Leeds United_2022.csv 
+Total Ads removed: 26
+Save possession_Pascal Struijk_Leeds United_2022.csv 
+Total Ads removed: 25
+Save various-stats_Pascal Struijk_Leeds United_2022.csv 
+Done player Pascal Struijk | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/aa849a12/matchs/2022-2023/summary/Journaux-de-match-Jack-Harrison
+Total Ads removed: 25
+Jack Harrison
+Save genstats_Leeds United_Jack Harrison_2022.csv 
+Total Ads removed: 23
+Save passes_Jack Harrison_Leeds United_2022.csv 
+Total Ads removed: 24
+Save passes-type_Jack Harrison_Leeds United_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Jack Harrison_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jack Harrison_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Jack Harrison_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jack Harrison_Leeds United_2022.csv 
+Done player Jack Harrison | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/39769cff/matchs/2022-2023/summary/Journaux-de-match-Rasmus-Nissen
+Total Ads removed: 23
+Rasmus Nissen
+Save genstats_Leeds United_Rasmus Nissen_2022.csv 
+Total Ads removed: 24
+Save passes_Rasmus Nissen_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Rasmus Nissen_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Rasmus Nissen_Leeds United_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Rasmus Nissen_Leeds United_2022.csv 
+Total Ads removed: 22
+Save possession_Rasmus Nissen_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Rasmus Nissen_Leeds United_2022.csv 
+Done player Rasmus Nissen | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/1fb1c435/matchs/2022-2023/summary/Journaux-de-match-Rodrigo
+Total Ads removed: 24
+Rodrigo
+Save genstats_Leeds United_Rodrigo_2022.csv 
+Total Ads removed: 23
+Save passes_Rodrigo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Rodrigo_Leeds United_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Rodrigo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Rodrigo_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Rodrigo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Rodrigo_Leeds United_2022.csv 
+Done player Rodrigo | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/bba30585/matchs/2022-2023/summary/Journaux-de-match-Diego-Llorente
+Total Ads removed: 24
+Diego Llorente
+Save genstats_Leeds United_Diego Llorente_2022.csv 
+Total Ads removed: 23
+Save passes_Diego Llorente_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Diego Llorente_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Diego Llorente_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Diego Llorente_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Diego Llorente_Leeds United_2022.csv 
+Total Ads removed: 24
+Save various-stats_Diego Llorente_Leeds United_2022.csv 
+Done player Diego Llorente | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/8e16dd48/matchs/2022-2023/summary/Journaux-de-match-Luis-Sinisterra
+Total Ads removed: 23
+Luis Sinisterra
+Save genstats_Leeds United_Luis Sinisterra_2022.csv 
+Total Ads removed: 20
+Save passes_Luis Sinisterra_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Luis Sinisterra_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Luis Sinisterra_Leeds United_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Luis Sinisterra_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Luis Sinisterra_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Luis Sinisterra_Leeds United_2022.csv 
+Done player Luis Sinisterra | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/dc64b8b3/matchs/2022-2023/summary/Journaux-de-match-Liam-Cooper
+Total Ads removed: 22
+Liam Cooper
+Save genstats_Leeds United_Liam Cooper_2022.csv 
+Total Ads removed: 22
+Save passes_Liam Cooper_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Liam Cooper_Leeds United_2022.csv 
+Total Ads removed: 21
+Save penalty-prep_Liam Cooper_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Liam Cooper_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Liam Cooper_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Liam Cooper_Leeds United_2022.csv 
+Done player Liam Cooper | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/93feac6e/matchs/2022-2023/summary/Journaux-de-match-Patrick-Bamford
+Total Ads removed: 22
+Patrick Bamford
+Save genstats_Leeds United_Patrick Bamford_2022.csv 
+Total Ads removed: 22
+Save passes_Patrick Bamford_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Patrick Bamford_Leeds United_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Patrick Bamford_Leeds United_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Patrick Bamford_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Patrick Bamford_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Patrick Bamford_Leeds United_2022.csv 
+Done player Patrick Bamford | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/df04eb4b/matchs/2022-2023/summary/Journaux-de-match-Crysencio-Summerville
+Total Ads removed: 23
+Crysencio Summerville
+Save genstats_Leeds United_Crysencio Summerville_2022.csv 
+Total Ads removed: 23
+Save passes_Crysencio Summerville_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Crysencio Summerville_Leeds United_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Crysencio Summerville_Leeds United_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Crysencio Summerville_Leeds United_2022.csv 
+Total Ads removed: 22
+Save possession_Crysencio Summerville_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Crysencio Summerville_Leeds United_2022.csv 
+Done player Crysencio Summerville | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/01962d0d/matchs/2022-2023/summary/Journaux-de-match-Joe-Gelhardt
+Total Ads removed: 23
+Joe Gelhardt
+Save genstats_Leeds United_Joe Gelhardt_2022.csv 
+Total Ads removed: 23
+Save passes_Joe Gelhardt_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Joe Gelhardt_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Joe Gelhardt_Leeds United_2022.csv 
+Total Ads removed: 21
+Save defensive-actions_Joe Gelhardt_Leeds United_2022.csv 
+Total Ads removed: 22
+Save possession_Joe Gelhardt_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Joe Gelhardt_Leeds United_2022.csv 
+Done player Joe Gelhardt | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/420d7c7d/matchs/2022-2023/summary/Journaux-de-match-Luke-Ayling
+Total Ads removed: 23
+Luke Ayling
+Save genstats_Leeds United_Luke Ayling_2022.csv 
+Total Ads removed: 23
+Save passes_Luke Ayling_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Luke Ayling_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Luke Ayling_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Luke Ayling_Leeds United_2022.csv 
+Total Ads removed: 22
+Save possession_Luke Ayling_Leeds United_2022.csv 
+Total Ads removed: 23
+Save various-stats_Luke Ayling_Leeds United_2022.csv 
+Done player Luke Ayling | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/24f59bb2/matchs/2022-2023/summary/Journaux-de-match-Junior-Firpo
+Total Ads removed: 23
+Junior Firpo
+Save genstats_Leeds United_Junior Firpo_2022.csv 
+Total Ads removed: 22
+Save passes_Junior Firpo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Junior Firpo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Junior Firpo_Leeds United_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Junior Firpo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save possession_Junior Firpo_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Junior Firpo_Leeds United_2022.csv 
+Done player Junior Firpo | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/f3354c07/matchs/2022-2023/summary/Journaux-de-match-Sam-Greenwood
+Total Ads removed: 23
+Sam Greenwood
+Save genstats_Leeds United_Sam Greenwood_2022.csv 
+Total Ads removed: 22
+Save passes_Sam Greenwood_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Sam Greenwood_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Sam Greenwood_Leeds United_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Sam Greenwood_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Sam Greenwood_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Sam Greenwood_Leeds United_2022.csv 
+Done player Sam Greenwood | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/e0d1510a/matchs/2022-2023/summary/Journaux-de-match-Cody-Drameh
+Total Ads removed: 23
+Cody Drameh
+Save genstats_Leeds United_Cody Drameh_2022.csv 
+Total Ads removed: 22
+Save passes_Cody Drameh_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Cody Drameh_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Cody Drameh_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Cody Drameh_Leeds United_2022.csv 
+Total Ads removed: 23
+Save possession_Cody Drameh_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Cody Drameh_Leeds United_2022.csv 
+Done player Cody Drameh | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/282679b4/matchs/2022-2023/summary/Journaux-de-match-Mateusz-Klich
+Total Ads removed: 23
+Mateusz Klich
+Save genstats_Leeds United_Mateusz Klich_2022.csv 
+Total Ads removed: 22
+Save passes_Mateusz Klich_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Mateusz Klich_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Mateusz Klich_Leeds United_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Mateusz Klich_Leeds United_2022.csv 
+Total Ads removed: 25
+Save possession_Mateusz Klich_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Mateusz Klich_Leeds United_2022.csv 
+Done player Mateusz Klich | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/9f1938ab/matchs/2022-2023/summary/Journaux-de-match-Adam-Forshaw
+Total Ads removed: 23
+Adam Forshaw
+Save genstats_Leeds United_Adam Forshaw_2022.csv 
+Total Ads removed: 22
+Save passes_Adam Forshaw_Leeds United_2022.csv 
+Total Ads removed: 23
+Save passes-type_Adam Forshaw_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Adam Forshaw_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Adam Forshaw_Leeds United_2022.csv 
+Total Ads removed: 24
+Save possession_Adam Forshaw_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Adam Forshaw_Leeds United_2022.csv 
+Done player Adam Forshaw | team Leeds United | 2022
+Go to https://fbref.com/fr/joueurs/75fdd638/matchs/2022-2023/summary/Journaux-de-match-Degnand-Gnonto
+Total Ads removed: 23
+Degnand Gnonto
+Save genstats_Leeds United_Degnand Gnonto_2022.csv 
+Total Ads removed: 22
+Save passes_Degnand Gnonto_Leeds United_2022.csv 
+Total Ads removed: 22
+Save passes-type_Degnand Gnonto_Leeds United_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Degnand Gnonto_Leeds United_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Degnand Gnonto_Leeds United_2022.csv 
+Total Ads removed: 22
+Save possession_Degnand Gnonto_Leeds United_2022.csv 
+Total Ads removed: 22
+Save various-stats_Degnand Gnonto_Leeds United_2022.csv 
+Done player Degnand Gnonto | team Leeds United | 2022
+Total Ads removed: 22
+https://fbref.com/fr/joueurs/7956236f/matchs/2022-2023/summary/Journaux-de-match-Emiliano-Martinez
+https://fbref.com/fr/joueurs/aed3a70f/matchs/2022-2023/summary/Journaux-de-match-Ollie-Watkins
+https://fbref.com/fr/joueurs/0313a347/matchs/2022-2023/summary/Journaux-de-match-Ezri-Konsa
+https://fbref.com/fr/joueurs/8397a50c/matchs/2022-2023/summary/Journaux-de-match-Tyrone-Mings
+https://fbref.com/fr/joueurs/90f91999/matchs/2022-2023/summary/Journaux-de-match-John-McGinn
+https://fbref.com/fr/joueurs/1544f145/matchs/2022-2023/summary/Journaux-de-match-Jacob-Ramsey
+https://fbref.com/fr/joueurs/2389cdc2/matchs/2022-2023/summary/Journaux-de-match-Matty-Cash
+https://fbref.com/fr/joueurs/3a233281/matchs/2022-2023/summary/Journaux-de-match-Leon-Bailey
+https://fbref.com/fr/joueurs/6f7d826d/matchs/2022-2023/summary/Journaux-de-match-Douglas-Luiz
+https://fbref.com/fr/joueurs/be927d03/matchs/2022-2023/summary/Journaux-de-match-Ashley-Young
+https://fbref.com/fr/joueurs/1b84dbe1/matchs/2022-2023/summary/Journaux-de-match-Lucas-Digne
+https://fbref.com/fr/joueurs/07802f7f/matchs/2022-2023/summary/Journaux-de-match-Danny-Ings
+https://fbref.com/fr/joueurs/cc77354e/matchs/2022-2023/summary/Journaux-de-match-Boubacar-Kamara
+https://fbref.com/fr/joueurs/0ef89a37/matchs/2022-2023/summary/Journaux-de-match-Philippe-Coutinho
+https://fbref.com/fr/joueurs/66b76d44/matchs/2022-2023/summary/Journaux-de-match-Emi-Buendia
+https://fbref.com/fr/joueurs/5a7301ae/matchs/2022-2023/summary/Journaux-de-match-Leander-Dendoncker
+https://fbref.com/fr/joueurs/b4a014b1/matchs/2022-2023/summary/Journaux-de-match-Diego-Carlos
+https://fbref.com/fr/joueurs/dc6f5bdd/matchs/2022-2023/summary/Journaux-de-match-Calum-Chambers
+https://fbref.com/fr/joueurs/4115ce4e/matchs/2022-2023/summary/Journaux-de-match-Jan-Bednarek
+https://fbref.com/fr/joueurs/9fec8860/matchs/2022-2023/summary/Journaux-de-match-Ludwig-Augustinsson
+https://fbref.com/fr/joueurs/e7ee38c3/matchs/2022-2023/summary/Journaux-de-match-Robin-Olsen
+https://fbref.com/fr/joueurs/05e8ca6d/matchs/2022-2023/summary/Journaux-de-match-Cameron-Archer
+Number of players : 22
+Go to https://fbref.com/fr/joueurs/7956236f/matchs/2022-2023/summary/Journaux-de-match-Emiliano-Martinez
+Total Ads removed: 23
+Emiliano Martínez
+Save genstats_Aston Villa_Emiliano Martínez_2022.csv 
+Total Ads removed: 22
+Save passes_Emiliano Martínez_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save passes-type_Emiliano Martínez_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Emiliano Martínez_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Emiliano Martínez_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Emiliano Martínez_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Emiliano Martínez_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save keeper_Emiliano Martínez_Aston Villa_2022.csv 
+Done player Emiliano Martínez | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/aed3a70f/matchs/2022-2023/summary/Journaux-de-match-Ollie-Watkins
+Total Ads removed: 22
+Ollie Watkins
+Save genstats_Aston Villa_Ollie Watkins_2022.csv 
+Total Ads removed: 22
+Save passes_Ollie Watkins_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ollie Watkins_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ollie Watkins_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ollie Watkins_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Ollie Watkins_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save various-stats_Ollie Watkins_Aston Villa_2022.csv 
+Done player Ollie Watkins | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/0313a347/matchs/2022-2023/summary/Journaux-de-match-Ezri-Konsa
+Total Ads removed: 23
+Ezri Konsa
+Save genstats_Aston Villa_Ezri Konsa_2022.csv 
+Total Ads removed: 23
+Save passes_Ezri Konsa_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ezri Konsa_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Ezri Konsa_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Ezri Konsa_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Ezri Konsa_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Ezri Konsa_Aston Villa_2022.csv 
+Done player Ezri Konsa | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/8397a50c/matchs/2022-2023/summary/Journaux-de-match-Tyrone-Mings
+Total Ads removed: 22
+Tyrone Mings
+Save genstats_Aston Villa_Tyrone Mings_2022.csv 
+Total Ads removed: 22
+Save passes_Tyrone Mings_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save passes-type_Tyrone Mings_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Tyrone Mings_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Tyrone Mings_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Tyrone Mings_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Tyrone Mings_Aston Villa_2022.csv 
+Done player Tyrone Mings | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/90f91999/matchs/2022-2023/summary/Journaux-de-match-John-McGinn
+Total Ads removed: 22
+John McGinn
+Save genstats_Aston Villa_John McGinn_2022.csv 
+Total Ads removed: 23
+Save passes_John McGinn_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_John McGinn_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_John McGinn_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_John McGinn_Aston Villa_2022.csv 
+Total Ads removed: 25
+Save possession_John McGinn_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save various-stats_John McGinn_Aston Villa_2022.csv 
+Done player John McGinn | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/1544f145/matchs/2022-2023/summary/Journaux-de-match-Jacob-Ramsey
+Total Ads removed: 24
+Jacob Ramsey
+Save genstats_Aston Villa_Jacob Ramsey_2022.csv 
+Total Ads removed: 23
+Save passes_Jacob Ramsey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jacob Ramsey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Jacob Ramsey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Jacob Ramsey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Jacob Ramsey_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jacob Ramsey_Aston Villa_2022.csv 
+Done player Jacob Ramsey | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/2389cdc2/matchs/2022-2023/summary/Journaux-de-match-Matty-Cash
+Total Ads removed: 23
+Matty Cash
+Save genstats_Aston Villa_Matty Cash_2022.csv 
+Total Ads removed: 22
+Save passes_Matty Cash_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Matty Cash_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Matty Cash_Aston Villa_2022.csv 
+Total Ads removed: 21
+Save defensive-actions_Matty Cash_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Matty Cash_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Matty Cash_Aston Villa_2022.csv 
+Done player Matty Cash | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/3a233281/matchs/2022-2023/summary/Journaux-de-match-Leon-Bailey
+Total Ads removed: 24
+Leon Bailey
+Save genstats_Aston Villa_Leon Bailey_2022.csv 
+Total Ads removed: 23
+Save passes_Leon Bailey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Leon Bailey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Leon Bailey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Leon Bailey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Leon Bailey_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save various-stats_Leon Bailey_Aston Villa_2022.csv 
+Done player Leon Bailey | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/6f7d826d/matchs/2022-2023/summary/Journaux-de-match-Douglas-Luiz
+Total Ads removed: 22
+Douglas Luiz
+Save genstats_Aston Villa_Douglas Luiz_2022.csv 
+Total Ads removed: 23
+Save passes_Douglas Luiz_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save passes-type_Douglas Luiz_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Douglas Luiz_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Douglas Luiz_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Douglas Luiz_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save various-stats_Douglas Luiz_Aston Villa_2022.csv 
+Done player Douglas Luiz | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/be927d03/matchs/2022-2023/summary/Journaux-de-match-Ashley-Young
+Total Ads removed: 23
+Ashley Young
+Save genstats_Aston Villa_Ashley Young_2022.csv 
+Total Ads removed: 24
+Save passes_Ashley Young_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ashley Young_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Ashley Young_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Ashley Young_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Ashley Young_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save various-stats_Ashley Young_Aston Villa_2022.csv 
+Done player Ashley Young | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/1b84dbe1/matchs/2022-2023/summary/Journaux-de-match-Lucas-Digne
+Total Ads removed: 21
+Lucas Digne
+Save genstats_Aston Villa_Lucas Digne_2022.csv 
+Total Ads removed: 22
+Save passes_Lucas Digne_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Lucas Digne_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Lucas Digne_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lucas Digne_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Lucas Digne_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Lucas Digne_Aston Villa_2022.csv 
+Done player Lucas Digne | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/07802f7f/matchs/2022-2023/summary/Journaux-de-match-Danny-Ings
+Total Ads removed: 22
+Danny Ings
+Save genstats_Aston Villa_Danny Ings_2022.csv 
+Total Ads removed: 22
+Save passes_Danny Ings_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Danny Ings_Aston Villa_2022.csv 
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Total Ads removed: 23
+Done player Danny Ings | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/cc77354e/matchs/2022-2023/summary/Journaux-de-match-Boubacar-Kamara
+Total Ads removed: 22
+Boubacar Kamara
+Save genstats_Aston Villa_Boubacar Kamara_2022.csv 
+Total Ads removed: 23
+Save passes_Boubacar Kamara_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save passes-type_Boubacar Kamara_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Boubacar Kamara_Aston Villa_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Boubacar Kamara_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save possession_Boubacar Kamara_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save various-stats_Boubacar Kamara_Aston Villa_2022.csv 
+Done player Boubacar Kamara | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/0ef89a37/matchs/2022-2023/summary/Journaux-de-match-Philippe-Coutinho
+Total Ads removed: 23
+Philippe Coutinho
+Save genstats_Aston Villa_Philippe Coutinho_2022.csv 
+Total Ads removed: 23
+Save passes_Philippe Coutinho_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save passes-type_Philippe Coutinho_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Philippe Coutinho_Aston Villa_2022.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 28
+https://fbref.com/fr/equipes/8602292d/Statistiques-Aston-Villa
+https://fbref.com/fr/equipes/33c895d4/Statistiques-Southampton
+https://fbref.com/fr/equipes/a2d435b3/Statistiques-Leicester-City
+https://fbref.com/fr/equipes/8cec06e1/Statistiques-Wolverhampton-Wanderers
+https://fbref.com/fr/equipes/e4a775cb/Statistiques-Nottingham-Forest
+Total Ads removed: 26
+https://fbref.com/fr/joueurs/7956236f/matchs/2022-2023/summary/Journaux-de-match-Emiliano-Martinez
+https://fbref.com/fr/joueurs/aed3a70f/matchs/2022-2023/summary/Journaux-de-match-Ollie-Watkins
+https://fbref.com/fr/joueurs/0313a347/matchs/2022-2023/summary/Journaux-de-match-Ezri-Konsa
+https://fbref.com/fr/joueurs/8397a50c/matchs/2022-2023/summary/Journaux-de-match-Tyrone-Mings
+https://fbref.com/fr/joueurs/90f91999/matchs/2022-2023/summary/Journaux-de-match-John-McGinn
+https://fbref.com/fr/joueurs/1544f145/matchs/2022-2023/summary/Journaux-de-match-Jacob-Ramsey
+https://fbref.com/fr/joueurs/2389cdc2/matchs/2022-2023/summary/Journaux-de-match-Matty-Cash
+https://fbref.com/fr/joueurs/3a233281/matchs/2022-2023/summary/Journaux-de-match-Leon-Bailey
+https://fbref.com/fr/joueurs/6f7d826d/matchs/2022-2023/summary/Journaux-de-match-Douglas-Luiz
+https://fbref.com/fr/joueurs/be927d03/matchs/2022-2023/summary/Journaux-de-match-Ashley-Young
+https://fbref.com/fr/joueurs/1b84dbe1/matchs/2022-2023/summary/Journaux-de-match-Lucas-Digne
+https://fbref.com/fr/joueurs/07802f7f/matchs/2022-2023/summary/Journaux-de-match-Danny-Ings
+https://fbref.com/fr/joueurs/cc77354e/matchs/2022-2023/summary/Journaux-de-match-Boubacar-Kamara
+https://fbref.com/fr/joueurs/0ef89a37/matchs/2022-2023/summary/Journaux-de-match-Philippe-Coutinho
+https://fbref.com/fr/joueurs/66b76d44/matchs/2022-2023/summary/Journaux-de-match-Emi-Buendia
+https://fbref.com/fr/joueurs/5a7301ae/matchs/2022-2023/summary/Journaux-de-match-Leander-Dendoncker
+https://fbref.com/fr/joueurs/b4a014b1/matchs/2022-2023/summary/Journaux-de-match-Diego-Carlos
+https://fbref.com/fr/joueurs/dc6f5bdd/matchs/2022-2023/summary/Journaux-de-match-Calum-Chambers
+https://fbref.com/fr/joueurs/4115ce4e/matchs/2022-2023/summary/Journaux-de-match-Jan-Bednarek
+https://fbref.com/fr/joueurs/9fec8860/matchs/2022-2023/summary/Journaux-de-match-Ludwig-Augustinsson
+https://fbref.com/fr/joueurs/e7ee38c3/matchs/2022-2023/summary/Journaux-de-match-Robin-Olsen
+https://fbref.com/fr/joueurs/05e8ca6d/matchs/2022-2023/summary/Journaux-de-match-Cameron-Archer
+Number of players : 22
+Go to https://fbref.com/fr/joueurs/0ef89a37/matchs/2022-2023/summary/Journaux-de-match-Philippe-Coutinho
+Total Ads removed: 26
+Philippe Coutinho
+Total Ads removed: 26
+Save defensive-actions_Philippe Coutinho_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save possession_Philippe Coutinho_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save various-stats_Philippe Coutinho_Aston Villa_2022.csv 
+Done player Philippe Coutinho | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/66b76d44/matchs/2022-2023/summary/Journaux-de-match-Emi-Buendia
+Total Ads removed: 25
+Emi Buendía
+Save genstats_Aston Villa_Emi Buendía_2022.csv 
+Total Ads removed: 22
+Save passes_Emi Buendía_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Emi Buendía_Aston Villa_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Emi Buendía_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Emi Buendía_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Emi Buendía_Aston Villa_2022.csv 
+Total Ads removed: 25
+Save various-stats_Emi Buendía_Aston Villa_2022.csv 
+Done player Emi Buendía | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/5a7301ae/matchs/2022-2023/summary/Journaux-de-match-Leander-Dendoncker
+Total Ads removed: 24
+Leander Dendoncker
+Save genstats_Aston Villa_Leander Dendoncker_2022.csv 
+Total Ads removed: 23
+Save passes_Leander Dendoncker_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Leander Dendoncker_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Leander Dendoncker_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Leander Dendoncker_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Leander Dendoncker_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Leander Dendoncker_Aston Villa_2022.csv 
+Done player Leander Dendoncker | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/b4a014b1/matchs/2022-2023/summary/Journaux-de-match-Diego-Carlos
+Total Ads removed: 23
+Diego Carlos
+Save genstats_Aston Villa_Diego Carlos_2022.csv 
+Total Ads removed: 23
+Save passes_Diego Carlos_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Diego Carlos_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Diego Carlos_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Diego Carlos_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Diego Carlos_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save various-stats_Diego Carlos_Aston Villa_2022.csv 
+Done player Diego Carlos | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/dc6f5bdd/matchs/2022-2023/summary/Journaux-de-match-Calum-Chambers
+Total Ads removed: 24
+Calum Chambers
+Save genstats_Aston Villa_Calum Chambers_2022.csv 
+Total Ads removed: 23
+Save passes_Calum Chambers_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Calum Chambers_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Calum Chambers_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Calum Chambers_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save possession_Calum Chambers_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Calum Chambers_Aston Villa_2022.csv 
+Done player Calum Chambers | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/4115ce4e/matchs/2022-2023/summary/Journaux-de-match-Jan-Bednarek
+Total Ads removed: 22
+Jan Bednarek
+Save genstats_Aston Villa_Jan Bednarek_2022.csv 
+Total Ads removed: 22
+Save passes_Jan Bednarek_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jan Bednarek_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Jan Bednarek_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Jan Bednarek_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save possession_Jan Bednarek_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jan Bednarek_Aston Villa_2022.csv 
+Done player Jan Bednarek | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/9fec8860/matchs/2022-2023/summary/Journaux-de-match-Ludwig-Augustinsson
+Total Ads removed: 24
+Ludwig Augustinsson
+Save genstats_Aston Villa_Ludwig Augustinsson_2022.csv 
+Total Ads removed: 23
+Save passes_Ludwig Augustinsson_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ludwig Augustinsson_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Ludwig Augustinsson_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Ludwig Augustinsson_Aston Villa_2022.csv 
+Total Ads removed: 25
+Save possession_Ludwig Augustinsson_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save various-stats_Ludwig Augustinsson_Aston Villa_2022.csv 
+Done player Ludwig Augustinsson | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/e7ee38c3/matchs/2022-2023/summary/Journaux-de-match-Robin-Olsen
+Total Ads removed: 22
+Robin Olsen
+Save genstats_Aston Villa_Robin Olsen_2022.csv 
+Total Ads removed: 22
+Save passes_Robin Olsen_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Robin Olsen_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Robin Olsen_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Robin Olsen_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save possession_Robin Olsen_Aston Villa_2022.csv 
+Total Ads removed: 24
+Save various-stats_Robin Olsen_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save keeper_Robin Olsen_Aston Villa_2022.csv 
+Done player Robin Olsen | team Aston Villa | 2022
+Go to https://fbref.com/fr/joueurs/05e8ca6d/matchs/2022-2023/summary/Journaux-de-match-Cameron-Archer
+Total Ads removed: 22
+Cameron Archer
+Save genstats_Aston Villa_Cameron Archer_2022.csv 
+Total Ads removed: 23
+Save passes_Cameron Archer_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save passes-type_Cameron Archer_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Cameron Archer_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Cameron Archer_Aston Villa_2022.csv 
+Total Ads removed: 23
+Save possession_Cameron Archer_Aston Villa_2022.csv 
+Total Ads removed: 22
+Save various-stats_Cameron Archer_Aston Villa_2022.csv 
+Done player Cameron Archer | team Aston Villa | 2022
+Total Ads removed: 22
+https://fbref.com/fr/joueurs/c91441dc/matchs/2022-2023/summary/Journaux-de-match-Gavin-Bazunu
+https://fbref.com/fr/joueurs/3515d404/matchs/2022-2023/summary/Journaux-de-match-James-Ward-Prowse
+https://fbref.com/fr/joueurs/0b33f6ad/matchs/2022-2023/summary/Journaux-de-match-Mohammed-Salisu
+https://fbref.com/fr/joueurs/984a5a64/matchs/2022-2023/summary/Journaux-de-match-Kyle-Walker-Peters
+https://fbref.com/fr/joueurs/f2bf1b0f/matchs/2022-2023/summary/Journaux-de-match-Che-Adams
+https://fbref.com/fr/joueurs/328f7d51/matchs/2022-2023/summary/Journaux-de-match-Joe-Aribo
+https://fbref.com/fr/joueurs/68dc0dac/matchs/2022-2023/summary/Journaux-de-match-Mohamed-Elyounoussi
+https://fbref.com/fr/joueurs/68c720b5/matchs/2022-2023/summary/Journaux-de-match-Adam-Armstrong
+https://fbref.com/fr/joueurs/a39d11bc/matchs/2022-2023/summary/Journaux-de-match-Armel-Bella-Kotchap
+https://fbref.com/fr/joueurs/6dfd8f05/matchs/2022-2023/summary/Journaux-de-match-Romain-Perraud
+https://fbref.com/fr/joueurs/11ff3d56/matchs/2022-2023/summary/Journaux-de-match-Ibrahima-Diallo
+https://fbref.com/fr/joueurs/97333cf5/matchs/2022-2023/summary/Journaux-de-match-Stuart-Armstrong
+https://fbref.com/fr/joueurs/254147d4/matchs/2022-2023/summary/Journaux-de-match-Moussa-Djenepo
+https://fbref.com/fr/joueurs/ecad9aa5/matchs/2022-2023/summary/Journaux-de-match-Romeo-Lavia
+https://fbref.com/fr/joueurs/94f8d10c/matchs/2022-2023/summary/Journaux-de-match-Duje-Caleta-Car
+https://fbref.com/fr/joueurs/e3a5814e/matchs/2022-2023/summary/Journaux-de-match-Ainsley-Maitland-Niles
+https://fbref.com/fr/joueurs/b5bf1770/matchs/2022-2023/summary/Journaux-de-match-Lyanco
+https://fbref.com/fr/joueurs/3544641e/matchs/2022-2023/summary/Journaux-de-match-Sekou-Mara
+https://fbref.com/fr/joueurs/4115ce4e/matchs/2022-2023/summary/Journaux-de-match-Jan-Bednarek
+https://fbref.com/fr/joueurs/cf7fb13a/matchs/2022-2023/summary/Journaux-de-match-Juan-Larios
+https://fbref.com/fr/joueurs/4b511457/matchs/2022-2023/summary/Journaux-de-match-Oriol-Romeu
+https://fbref.com/fr/joueurs/531a4aa8/matchs/2022-2023/summary/Journaux-de-match-Yan-Valery
+https://fbref.com/fr/joueurs/007414dd/matchs/2022-2023/summary/Journaux-de-match-Samuel-Edozie
+https://fbref.com/fr/joueurs/6adbc307/matchs/2022-2023/summary/Journaux-de-match-Jack-Stephens
+https://fbref.com/fr/joueurs/1ecb65be/matchs/2022-2023/summary/Journaux-de-match-Theo-Walcott
+https://fbref.com/fr/joueurs/ab651565/matchs/2022-2023/summary/Journaux-de-match-Nathan-Redmond
+Number of players : 26
+Go to https://fbref.com/fr/joueurs/c91441dc/matchs/2022-2023/summary/Journaux-de-match-Gavin-Bazunu
+Total Ads removed: 23
+Gavin Bazunu
+Save genstats_Southampton_Gavin Bazunu_2022.csv 
+Total Ads removed: 23
+Save passes_Gavin Bazunu_Southampton_2022.csv 
+Total Ads removed: 22
+Save passes-type_Gavin Bazunu_Southampton_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Gavin Bazunu_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Gavin Bazunu_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Gavin Bazunu_Southampton_2022.csv 
+Total Ads removed: 22
+Save various-stats_Gavin Bazunu_Southampton_2022.csv 
+Total Ads removed: 22
+Save keeper_Gavin Bazunu_Southampton_2022.csv 
+Done player Gavin Bazunu | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/3515d404/matchs/2022-2023/summary/Journaux-de-match-James-Ward-Prowse
+Total Ads removed: 22
+James Ward-Prowse
+Save genstats_Southampton_James Ward-Prowse_2022.csv 
+Total Ads removed: 22
+Save passes_James Ward-Prowse_Southampton_2022.csv 
+Total Ads removed: 22
+Save passes-type_James Ward-Prowse_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_James Ward-Prowse_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_James Ward-Prowse_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_James Ward-Prowse_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_James Ward-Prowse_Southampton_2022.csv 
+Done player James Ward-Prowse | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/0b33f6ad/matchs/2022-2023/summary/Journaux-de-match-Mohammed-Salisu
+Total Ads removed: 22
+Mohammed Salisu
+Save genstats_Southampton_Mohammed Salisu_2022.csv 
+Total Ads removed: 22
+Save passes_Mohammed Salisu_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Mohammed Salisu_Southampton_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Mohammed Salisu_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Mohammed Salisu_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Mohammed Salisu_Southampton_2022.csv 
+Total Ads removed: 22
+Save various-stats_Mohammed Salisu_Southampton_2022.csv 
+Done player Mohammed Salisu | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/984a5a64/matchs/2022-2023/summary/Journaux-de-match-Kyle-Walker-Peters
+Total Ads removed: 22
+Kyle Walker-Peters
+Save genstats_Southampton_Kyle Walker-Peters_2022.csv 
+Total Ads removed: 25
+Save passes_Kyle Walker-Peters_Southampton_2022.csv 
+Total Ads removed: 25
+Save passes-type_Kyle Walker-Peters_Southampton_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Kyle Walker-Peters_Southampton_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Kyle Walker-Peters_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Kyle Walker-Peters_Southampton_2022.csv 
+Total Ads removed: 22
+Save various-stats_Kyle Walker-Peters_Southampton_2022.csv 
+Done player Kyle Walker-Peters | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/f2bf1b0f/matchs/2022-2023/summary/Journaux-de-match-Che-Adams
+Total Ads removed: 23
+Che Adams
+Save genstats_Southampton_Che Adams_2022.csv 
+Total Ads removed: 23
+Save passes_Che Adams_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Che Adams_Southampton_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Che Adams_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Che Adams_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Che Adams_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Che Adams_Southampton_2022.csv 
+Done player Che Adams | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/328f7d51/matchs/2022-2023/summary/Journaux-de-match-Joe-Aribo
+Total Ads removed: 23
+Joe Aribo
+Save genstats_Southampton_Joe Aribo_2022.csv 
+Total Ads removed: 23
+Save passes_Joe Aribo_Southampton_2022.csv 
+Total Ads removed: 22
+Save passes-type_Joe Aribo_Southampton_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Joe Aribo_Southampton_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Joe Aribo_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Joe Aribo_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Joe Aribo_Southampton_2022.csv 
+Done player Joe Aribo | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/68dc0dac/matchs/2022-2023/summary/Journaux-de-match-Mohamed-Elyounoussi
+Total Ads removed: 23
+Mohamed Elyounoussi
+Save genstats_Southampton_Mohamed Elyounoussi_2022.csv 
+Total Ads removed: 23
+Save passes_Mohamed Elyounoussi_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Mohamed Elyounoussi_Southampton_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Mohamed Elyounoussi_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Mohamed Elyounoussi_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Mohamed Elyounoussi_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Mohamed Elyounoussi_Southampton_2022.csv 
+Done player Mohamed Elyounoussi | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/68c720b5/matchs/2022-2023/summary/Journaux-de-match-Adam-Armstrong
+Total Ads removed: 23
+Adam Armstrong
+Save genstats_Southampton_Adam Armstrong_2022.csv 
+Total Ads removed: 24
+Save passes_Adam Armstrong_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Adam Armstrong_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Adam Armstrong_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Adam Armstrong_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Adam Armstrong_Southampton_2022.csv 
+Total Ads removed: 24
+Save various-stats_Adam Armstrong_Southampton_2022.csv 
+Done player Adam Armstrong | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/a39d11bc/matchs/2022-2023/summary/Journaux-de-match-Armel-Bella-Kotchap
+Total Ads removed: 24
+Armel Bella Kotchap
+Save genstats_Southampton_Armel Bella Kotchap_2022.csv 
+Total Ads removed: 23
+Save passes_Armel Bella Kotchap_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Armel Bella Kotchap_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Armel Bella Kotchap_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Armel Bella Kotchap_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Armel Bella Kotchap_Southampton_2022.csv 
+Total Ads removed: 24
+Save various-stats_Armel Bella Kotchap_Southampton_2022.csv 
+Done player Armel Bella Kotchap | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/6dfd8f05/matchs/2022-2023/summary/Journaux-de-match-Romain-Perraud
+Total Ads removed: 23
+Romain Perraud
+Save genstats_Southampton_Romain Perraud_2022.csv 
+Total Ads removed: 22
+Save passes_Romain Perraud_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Romain Perraud_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Romain Perraud_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Romain Perraud_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Romain Perraud_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Romain Perraud_Southampton_2022.csv 
+Done player Romain Perraud | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/11ff3d56/matchs/2022-2023/summary/Journaux-de-match-Ibrahima-Diallo
+Total Ads removed: 22
+Ibrahima Diallo
+Save genstats_Southampton_Ibrahima Diallo_2022.csv 
+Total Ads removed: 23
+Save passes_Ibrahima Diallo_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ibrahima Diallo_Southampton_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Ibrahima Diallo_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ibrahima Diallo_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Ibrahima Diallo_Southampton_2022.csv 
+Total Ads removed: 24
+Save various-stats_Ibrahima Diallo_Southampton_2022.csv 
+Done player Ibrahima Diallo | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/97333cf5/matchs/2022-2023/summary/Journaux-de-match-Stuart-Armstrong
+Total Ads removed: 23
+Stuart Armstrong
+Save genstats_Southampton_Stuart Armstrong_2022.csv 
+Total Ads removed: 23
+Save passes_Stuart Armstrong_Southampton_2022.csv 
+Total Ads removed: 24
+Save passes-type_Stuart Armstrong_Southampton_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Stuart Armstrong_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Stuart Armstrong_Southampton_2022.csv 
+Total Ads removed: 25
+Save possession_Stuart Armstrong_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Stuart Armstrong_Southampton_2022.csv 
+Done player Stuart Armstrong | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/254147d4/matchs/2022-2023/summary/Journaux-de-match-Moussa-Djenepo
+Total Ads removed: 22
+Moussa Djenepo
+Save genstats_Southampton_Moussa Djenepo_2022.csv 
+Total Ads removed: 21
+Save passes_Moussa Djenepo_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Moussa Djenepo_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Moussa Djenepo_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Moussa Djenepo_Southampton_2022.csv 
+Total Ads removed: 24
+Save possession_Moussa Djenepo_Southampton_2022.csv 
+Total Ads removed: 22
+Save various-stats_Moussa Djenepo_Southampton_2022.csv 
+Done player Moussa Djenepo | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/ecad9aa5/matchs/2022-2023/summary/Journaux-de-match-Romeo-Lavia
+Total Ads removed: 23
+Roméo Lavia
+Save genstats_Southampton_Roméo Lavia_2022.csv 
+Total Ads removed: 24
+Save passes_Roméo Lavia_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Roméo Lavia_Southampton_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Roméo Lavia_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Roméo Lavia_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Roméo Lavia_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Roméo Lavia_Southampton_2022.csv 
+Done player Roméo Lavia | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/e3a5814e/matchs/2022-2023/summary/Journaux-de-match-Ainsley-Maitland-Niles
+Total Ads removed: 23
+Ainsley Maitland-Niles
+Save genstats_Southampton_Ainsley Maitland-Niles_2022.csv 
+Total Ads removed: 22
+Save passes_Ainsley Maitland-Niles_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ainsley Maitland-Niles_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ainsley Maitland-Niles_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ainsley Maitland-Niles_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Ainsley Maitland-Niles_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Ainsley Maitland-Niles_Southampton_2022.csv 
+Done player Ainsley Maitland-Niles | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/b5bf1770/matchs/2022-2023/summary/Journaux-de-match-Lyanco
+Total Ads removed: 24
+Lyanco
+Save genstats_Southampton_Lyanco_2022.csv 
+Total Ads removed: 24
+Save passes_Lyanco_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Lyanco_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lyanco_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Lyanco_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Lyanco_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Lyanco_Southampton_2022.csv 
+Done player Lyanco | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/3544641e/matchs/2022-2023/summary/Journaux-de-match-Sekou-Mara
+Total Ads removed: 22
+Sekou Mara
+Save genstats_Southampton_Sekou Mara_2022.csv 
+Total Ads removed: 22
+Save passes_Sekou Mara_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Sekou Mara_Southampton_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Sekou Mara_Southampton_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Sekou Mara_Southampton_2022.csv 
+Total Ads removed: 22
+Save possession_Sekou Mara_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Sekou Mara_Southampton_2022.csv 
+Done player Sekou Mara | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/cf7fb13a/matchs/2022-2023/summary/Journaux-de-match-Juan-Larios
+Total Ads removed: 23
+Juan Larios
+Save genstats_Southampton_Juan Larios_2022.csv 
+Total Ads removed: 21
+Save passes_Juan Larios_Southampton_2022.csv 
+Total Ads removed: 23
+Save passes-type_Juan Larios_Southampton_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Juan Larios_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Juan Larios_Southampton_2022.csv 
+Total Ads removed: 23
+Save possession_Juan Larios_Southampton_2022.csv 
+Total Ads removed: 23
+Save various-stats_Juan Larios_Southampton_2022.csv 
+Done player Juan Larios | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/4b511457/matchs/2022-2023/summary/Journaux-de-match-Oriol-Romeu
+Total Ads removed: 23
+Oriol Romeu
+Save genstats_Southampton_Oriol Romeu_2022.csv 
+Total Ads removed: 23
+Save passes_Oriol Romeu_Southampton_2022.csv 
+Total Ads removed: 25
+Save passes-type_Oriol Romeu_Southampton_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Oriol Romeu_Southampton_2022.csv 
+Total Ads removed: 21
+Save defensive-actions_Oriol Romeu_Southampton_2022.csv 
+Total Ads removed: 25
+Save possession_Oriol Romeu_Southampton_2022.csv 
+Total Ads removed: 25
+Save various-stats_Oriol Romeu_Southampton_2022.csv 
+Done player Oriol Romeu | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/531a4aa8/matchs/2022-2023/summary/Journaux-de-match-Yan-Valery
+Total Ads removed: 25
+Yan Valery
+Save genstats_Southampton_Yan Valery_2022.csv 
+Total Ads removed: 24
+Save passes_Yan Valery_Southampton_2022.csv 
+Total Ads removed: 24
+Save passes-type_Yan Valery_Southampton_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Yan Valery_Southampton_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Yan Valery_Southampton_2022.csv 
+Total Ads removed: 24
+Save possession_Yan Valery_Southampton_2022.csv 
+Total Ads removed: 25
+Save various-stats_Yan Valery_Southampton_2022.csv 
+Done player Yan Valery | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/007414dd/matchs/2022-2023/summary/Journaux-de-match-Samuel-Edozie
+Total Ads removed: 24
+Samuel Edozie
+Save genstats_Southampton_Samuel Edozie_2022.csv 
+Total Ads removed: 25
+Save passes_Samuel Edozie_Southampton_2022.csv 
+Total Ads removed: 26
+Save passes-type_Samuel Edozie_Southampton_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Samuel Edozie_Southampton_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Samuel Edozie_Southampton_2022.csv 
+Total Ads removed: 24
+Save possession_Samuel Edozie_Southampton_2022.csv 
+Total Ads removed: 24
+Save various-stats_Samuel Edozie_Southampton_2022.csv 
+Done player Samuel Edozie | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/1ecb65be/matchs/2022-2023/summary/Journaux-de-match-Theo-Walcott
+Total Ads removed: 25
+Theo Walcott
+Save genstats_Southampton_Theo Walcott_2022.csv 
+Total Ads removed: 24
+Save passes_Theo Walcott_Southampton_2022.csv 
+Total Ads removed: 22
+Save passes-type_Theo Walcott_Southampton_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Theo Walcott_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Theo Walcott_Southampton_2022.csv 
+Total Ads removed: 24
+Save possession_Theo Walcott_Southampton_2022.csv 
+Total Ads removed: 24
+Save various-stats_Theo Walcott_Southampton_2022.csv 
+Done player Theo Walcott | team Southampton | 2022
+Go to https://fbref.com/fr/joueurs/ab651565/matchs/2022-2023/summary/Journaux-de-match-Nathan-Redmond
+Total Ads removed: 24
+Nathan Redmond
+Save genstats_Southampton_Nathan Redmond_2022.csv 
+Total Ads removed: 21
+Save passes_Nathan Redmond_Southampton_2022.csv 
+Total Ads removed: 24
+Save passes-type_Nathan Redmond_Southampton_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Nathan Redmond_Southampton_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nathan Redmond_Southampton_2022.csv 
+Total Ads removed: 24
+Save possession_Nathan Redmond_Southampton_2022.csv 
+Total Ads removed: 24
+Save various-stats_Nathan Redmond_Southampton_2022.csv 
+Done player Nathan Redmond | team Southampton | 2022
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/d3ce0e89/matchs/2022-2023/summary/Journaux-de-match-Danny-Ward
+https://fbref.com/fr/joueurs/fb614c44/matchs/2022-2023/summary/Journaux-de-match-James-Justin
+https://fbref.com/fr/joueurs/56f7a928/matchs/2022-2023/summary/Journaux-de-match-Youri-Tielemans
+https://fbref.com/fr/joueurs/5c74c0f5/matchs/2022-2023/summary/Journaux-de-match-Kiernan-Dewsbury-Hall
+https://fbref.com/fr/joueurs/197640fd/matchs/2022-2023/summary/Journaux-de-match-Timothy-Castagne
+https://fbref.com/fr/joueurs/ee38d9c5/matchs/2022-2023/summary/Journaux-de-match-James-Maddison
+https://fbref.com/fr/joueurs/3ea50f67/matchs/2022-2023/summary/Journaux-de-match-Harvey-Barnes
+https://fbref.com/fr/joueurs/f8fcd2a5/matchs/2022-2023/summary/Journaux-de-match-Jonny-Evans
+https://fbref.com/fr/joueurs/1a4ef233/matchs/2022-2023/summary/Journaux-de-match-Daniel-Amartey
+https://fbref.com/fr/joueurs/45963054/matchs/2022-2023/summary/Journaux-de-match-Jamie-Vardy
+https://fbref.com/fr/joueurs/9c221d14/matchs/2022-2023/summary/Journaux-de-match-Wout-Faes
+https://fbref.com/fr/joueurs/6b47c5db/matchs/2022-2023/summary/Journaux-de-match-Wilfred-Ndidi
+https://fbref.com/fr/joueurs/ae59b359/matchs/2022-2023/summary/Journaux-de-match-Boubakary-Soumare
+https://fbref.com/fr/joueurs/ca45605e/matchs/2022-2023/summary/Journaux-de-match-Patson-Daka
+https://fbref.com/fr/joueurs/86695068/matchs/2022-2023/summary/Journaux-de-match-Dennis-Praet
+https://fbref.com/fr/joueurs/fc027d02/matchs/2022-2023/summary/Journaux-de-match-Luke-Thomas
+https://fbref.com/fr/joueurs/132a82f1/matchs/2022-2023/summary/Journaux-de-match-Wesley-Fofana
+https://fbref.com/fr/joueurs/c92e1a31/matchs/2022-2023/summary/Journaux-de-match-Kelechi-Iheanacho
+https://fbref.com/fr/joueurs/819aa8e7/matchs/2022-2023/summary/Journaux-de-match-Ayoze-Perez
+https://fbref.com/fr/joueurs/21166ff4/matchs/2022-2023/summary/Journaux-de-match-Caglar-Soyuncu
+https://fbref.com/fr/joueurs/1598599e/matchs/2022-2023/summary/Journaux-de-match-Nampalys-Mendy
+https://fbref.com/fr/joueurs/b827d5b3/matchs/2022-2023/summary/Journaux-de-match-Marc-Albrighton
+Number of players : 22
+Go to https://fbref.com/fr/joueurs/d3ce0e89/matchs/2022-2023/summary/Journaux-de-match-Danny-Ward
+Total Ads removed: 24
+Danny Ward
+Save genstats_Leicester City_Danny Ward_2022.csv 
+Total Ads removed: 24
+Save passes_Danny Ward_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_Danny Ward_Leicester City_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Danny Ward_Leicester City_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Danny Ward_Leicester City_2022.csv 
+Total Ads removed: 24
+Save possession_Danny Ward_Leicester City_2022.csv 
+Total Ads removed: 24
+Save various-stats_Danny Ward_Leicester City_2022.csv 
+Total Ads removed: 25
+Save keeper_Danny Ward_Leicester City_2022.csv 
+Done player Danny Ward | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/fb614c44/matchs/2022-2023/summary/Journaux-de-match-James-Justin
+Total Ads removed: 25
+James Justin
+Save genstats_Leicester City_James Justin_2022.csv 
+Total Ads removed: 25
+Save passes_James Justin_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_James Justin_Leicester City_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_James Justin_Leicester City_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_James Justin_Leicester City_2022.csv 
+Total Ads removed: 25
+Save possession_James Justin_Leicester City_2022.csv 
+Total Ads removed: 22
+Save various-stats_James Justin_Leicester City_2022.csv 
+Done player James Justin | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/56f7a928/matchs/2022-2023/summary/Journaux-de-match-Youri-Tielemans
+Total Ads removed: 25
+Youri Tielemans
+Save genstats_Leicester City_Youri Tielemans_2022.csv 
+Total Ads removed: 24
+Save passes_Youri Tielemans_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_Youri Tielemans_Leicester City_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Youri Tielemans_Leicester City_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Youri Tielemans_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_Youri Tielemans_Leicester City_2022.csv 
+Total Ads removed: 24
+Save various-stats_Youri Tielemans_Leicester City_2022.csv 
+Done player Youri Tielemans | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/5c74c0f5/matchs/2022-2023/summary/Journaux-de-match-Kiernan-Dewsbury-Hall
+Total Ads removed: 25
+Kiernan Dewsbury-Hall
+Save genstats_Leicester City_Kiernan Dewsbury-Hall_2022.csv 
+Total Ads removed: 26
+Save passes_Kiernan Dewsbury-Hall_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_Kiernan Dewsbury-Hall_Leicester City_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Kiernan Dewsbury-Hall_Leicester City_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Kiernan Dewsbury-Hall_Leicester City_2022.csv 
+Total Ads removed: 24
+Save possession_Kiernan Dewsbury-Hall_Leicester City_2022.csv 
+Total Ads removed: 23
+Save various-stats_Kiernan Dewsbury-Hall_Leicester City_2022.csv 
+Done player Kiernan Dewsbury-Hall | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/197640fd/matchs/2022-2023/summary/Journaux-de-match-Timothy-Castagne
+Total Ads removed: 23
+Timothy Castagne
+Save genstats_Leicester City_Timothy Castagne_2022.csv 
+Total Ads removed: 26
+Save passes_Timothy Castagne_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_Timothy Castagne_Leicester City_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Timothy Castagne_Leicester City_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Timothy Castagne_Leicester City_2022.csv 
+Total Ads removed: 24
+Save possession_Timothy Castagne_Leicester City_2022.csv 
+Total Ads removed: 24
+Save various-stats_Timothy Castagne_Leicester City_2022.csv 
+Done player Timothy Castagne | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/ee38d9c5/matchs/2022-2023/summary/Journaux-de-match-James-Maddison
+Total Ads removed: 23
+James Maddison
+Save genstats_Leicester City_James Maddison_2022.csv 
+Total Ads removed: 24
+Save passes_James Maddison_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_James Maddison_Leicester City_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_James Maddison_Leicester City_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_James Maddison_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_James Maddison_Leicester City_2022.csv 
+Total Ads removed: 23
+Save various-stats_James Maddison_Leicester City_2022.csv 
+Done player James Maddison | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/3ea50f67/matchs/2022-2023/summary/Journaux-de-match-Harvey-Barnes
+Total Ads removed: 25
+Harvey Barnes
+Save genstats_Leicester City_Harvey Barnes_2022.csv 
+Total Ads removed: 24
+Save passes_Harvey Barnes_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_Harvey Barnes_Leicester City_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Harvey Barnes_Leicester City_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Harvey Barnes_Leicester City_2022.csv 
+Total Ads removed: 22
+Save possession_Harvey Barnes_Leicester City_2022.csv 
+Total Ads removed: 25
+Save various-stats_Harvey Barnes_Leicester City_2022.csv 
+Done player Harvey Barnes | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/f8fcd2a5/matchs/2022-2023/summary/Journaux-de-match-Jonny-Evans
+Total Ads removed: 24
+Jonny Evans
+Save genstats_Leicester City_Jonny Evans_2022.csv 
+Total Ads removed: 24
+Save passes_Jonny Evans_Leicester City_2022.csv 
+Total Ads removed: 21
+Save passes-type_Jonny Evans_Leicester City_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jonny Evans_Leicester City_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jonny Evans_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_Jonny Evans_Leicester City_2022.csv 
+Total Ads removed: 21
+Save various-stats_Jonny Evans_Leicester City_2022.csv 
+Done player Jonny Evans | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/1a4ef233/matchs/2022-2023/summary/Journaux-de-match-Daniel-Amartey
+Total Ads removed: 22
+Daniel Amartey
+Save genstats_Leicester City_Daniel Amartey_2022.csv 
+Total Ads removed: 25
+Save passes_Daniel Amartey_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_Daniel Amartey_Leicester City_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Daniel Amartey_Leicester City_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Daniel Amartey_Leicester City_2022.csv 
+Total Ads removed: 22
+Save possession_Daniel Amartey_Leicester City_2022.csv 
+Total Ads removed: 24
+Save various-stats_Daniel Amartey_Leicester City_2022.csv 
+Done player Daniel Amartey | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/45963054/matchs/2022-2023/summary/Journaux-de-match-Jamie-Vardy
+Total Ads removed: 22
+Jamie Vardy
+Save genstats_Leicester City_Jamie Vardy_2022.csv 
+Total Ads removed: 24
+Save passes_Jamie Vardy_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jamie Vardy_Leicester City_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jamie Vardy_Leicester City_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Jamie Vardy_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_Jamie Vardy_Leicester City_2022.csv 
+Total Ads removed: 26
+Save various-stats_Jamie Vardy_Leicester City_2022.csv 
+Done player Jamie Vardy | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/6b47c5db/matchs/2022-2023/summary/Journaux-de-match-Wilfred-Ndidi
+Total Ads removed: 23
+Wilfred Ndidi
+Save genstats_Leicester City_Wilfred Ndidi_2022.csv 
+Total Ads removed: 25
+Save passes_Wilfred Ndidi_Leicester City_2022.csv 
+Total Ads removed: 24
+Save passes-type_Wilfred Ndidi_Leicester City_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Wilfred Ndidi_Leicester City_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Wilfred Ndidi_Leicester City_2022.csv 
+Total Ads removed: 22
+Save possession_Wilfred Ndidi_Leicester City_2022.csv 
+Total Ads removed: 23
+Save various-stats_Wilfred Ndidi_Leicester City_2022.csv 
+Done player Wilfred Ndidi | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/ae59b359/matchs/2022-2023/summary/Journaux-de-match-Boubakary-Soumare
+Total Ads removed: 24
+Boubakary Soumaré
+Save genstats_Leicester City_Boubakary Soumaré_2022.csv 
+Total Ads removed: 25
+Save passes_Boubakary Soumaré_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_Boubakary Soumaré_Leicester City_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Boubakary Soumaré_Leicester City_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Boubakary Soumaré_Leicester City_2022.csv 
+Total Ads removed: 25
+Save possession_Boubakary Soumaré_Leicester City_2022.csv 
+Total Ads removed: 25
+Save various-stats_Boubakary Soumaré_Leicester City_2022.csv 
+Done player Boubakary Soumaré | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/ca45605e/matchs/2022-2023/summary/Journaux-de-match-Patson-Daka
+Total Ads removed: 25
+Patson Daka
+Save genstats_Leicester City_Patson Daka_2022.csv 
+Total Ads removed: 21
+Save passes_Patson Daka_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_Patson Daka_Leicester City_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Patson Daka_Leicester City_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Patson Daka_Leicester City_2022.csv 
+Total Ads removed: 24
+Save possession_Patson Daka_Leicester City_2022.csv 
+Total Ads removed: 23
+Save various-stats_Patson Daka_Leicester City_2022.csv 
+Done player Patson Daka | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/86695068/matchs/2022-2023/summary/Journaux-de-match-Dennis-Praet
+Total Ads removed: 24
+Dennis Praet
+Save genstats_Leicester City_Dennis Praet_2022.csv 
+Total Ads removed: 25
+Save passes_Dennis Praet_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_Dennis Praet_Leicester City_2022.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 29
+https://fbref.com/fr/equipes/a2d435b3/Statistiques-Leicester-City
+https://fbref.com/fr/equipes/8cec06e1/Statistiques-Wolverhampton-Wanderers
+https://fbref.com/fr/equipes/e4a775cb/Statistiques-Nottingham-Forest
+Total Ads removed: 26
+https://fbref.com/fr/joueurs/d3ce0e89/matchs/2022-2023/summary/Journaux-de-match-Danny-Ward
+https://fbref.com/fr/joueurs/fb614c44/matchs/2022-2023/summary/Journaux-de-match-James-Justin
+https://fbref.com/fr/joueurs/56f7a928/matchs/2022-2023/summary/Journaux-de-match-Youri-Tielemans
+https://fbref.com/fr/joueurs/5c74c0f5/matchs/2022-2023/summary/Journaux-de-match-Kiernan-Dewsbury-Hall
+https://fbref.com/fr/joueurs/197640fd/matchs/2022-2023/summary/Journaux-de-match-Timothy-Castagne
+https://fbref.com/fr/joueurs/ee38d9c5/matchs/2022-2023/summary/Journaux-de-match-James-Maddison
+https://fbref.com/fr/joueurs/3ea50f67/matchs/2022-2023/summary/Journaux-de-match-Harvey-Barnes
+https://fbref.com/fr/joueurs/f8fcd2a5/matchs/2022-2023/summary/Journaux-de-match-Jonny-Evans
+https://fbref.com/fr/joueurs/1a4ef233/matchs/2022-2023/summary/Journaux-de-match-Daniel-Amartey
+https://fbref.com/fr/joueurs/45963054/matchs/2022-2023/summary/Journaux-de-match-Jamie-Vardy
+https://fbref.com/fr/joueurs/9c221d14/matchs/2022-2023/summary/Journaux-de-match-Wout-Faes
+https://fbref.com/fr/joueurs/6b47c5db/matchs/2022-2023/summary/Journaux-de-match-Wilfred-Ndidi
+https://fbref.com/fr/joueurs/ae59b359/matchs/2022-2023/summary/Journaux-de-match-Boubakary-Soumare
+https://fbref.com/fr/joueurs/ca45605e/matchs/2022-2023/summary/Journaux-de-match-Patson-Daka
+https://fbref.com/fr/joueurs/86695068/matchs/2022-2023/summary/Journaux-de-match-Dennis-Praet
+https://fbref.com/fr/joueurs/fc027d02/matchs/2022-2023/summary/Journaux-de-match-Luke-Thomas
+https://fbref.com/fr/joueurs/132a82f1/matchs/2022-2023/summary/Journaux-de-match-Wesley-Fofana
+https://fbref.com/fr/joueurs/c92e1a31/matchs/2022-2023/summary/Journaux-de-match-Kelechi-Iheanacho
+https://fbref.com/fr/joueurs/819aa8e7/matchs/2022-2023/summary/Journaux-de-match-Ayoze-Perez
+https://fbref.com/fr/joueurs/21166ff4/matchs/2022-2023/summary/Journaux-de-match-Caglar-Soyuncu
+https://fbref.com/fr/joueurs/1598599e/matchs/2022-2023/summary/Journaux-de-match-Nampalys-Mendy
+https://fbref.com/fr/joueurs/b827d5b3/matchs/2022-2023/summary/Journaux-de-match-Marc-Albrighton
+Number of players : 22
+Go to https://fbref.com/fr/joueurs/86695068/matchs/2022-2023/summary/Journaux-de-match-Dennis-Praet
+Total Ads removed: 25
+Dennis Praet
+Total Ads removed: 25
+Save penalty-prep_Dennis Praet_Leicester City_2022.csv 
+Total Ads removed: 27
+Save defensive-actions_Dennis Praet_Leicester City_2022.csv 
+Total Ads removed: 25
+Save possession_Dennis Praet_Leicester City_2022.csv 
+Total Ads removed: 25
+Save various-stats_Dennis Praet_Leicester City_2022.csv 
+Done player Dennis Praet | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/fc027d02/matchs/2022-2023/summary/Journaux-de-match-Luke-Thomas
+Total Ads removed: 26
+Luke Thomas
+Save genstats_Leicester City_Luke Thomas_2022.csv 
+Total Ads removed: 25
+Save passes_Luke Thomas_Leicester City_2022.csv 
+Total Ads removed: 25
+Save passes-type_Luke Thomas_Leicester City_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Luke Thomas_Leicester City_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Luke Thomas_Leicester City_2022.csv 
+Total Ads removed: 26
+Save possession_Luke Thomas_Leicester City_2022.csv 
+Total Ads removed: 24
+Save various-stats_Luke Thomas_Leicester City_2022.csv 
+Done player Luke Thomas | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/c92e1a31/matchs/2022-2023/summary/Journaux-de-match-Kelechi-Iheanacho
+Total Ads removed: 25
+Kelechi Iheanacho
+Save genstats_Leicester City_Kelechi Iheanacho_2022.csv 
+Total Ads removed: 24
+Save passes_Kelechi Iheanacho_Leicester City_2022.csv 
+Total Ads removed: 24
+Save passes-type_Kelechi Iheanacho_Leicester City_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Kelechi Iheanacho_Leicester City_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Kelechi Iheanacho_Leicester City_2022.csv 
+Total Ads removed: 25
+Save possession_Kelechi Iheanacho_Leicester City_2022.csv 
+Total Ads removed: 25
+Save various-stats_Kelechi Iheanacho_Leicester City_2022.csv 
+Done player Kelechi Iheanacho | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/819aa8e7/matchs/2022-2023/summary/Journaux-de-match-Ayoze-Perez
+Total Ads removed: 24
+Ayoze Pérez
+Save genstats_Leicester City_Ayoze Pérez_2022.csv 
+Total Ads removed: 24
+Save passes_Ayoze Pérez_Leicester City_2022.csv 
+Total Ads removed: 24
+Save passes-type_Ayoze Pérez_Leicester City_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Ayoze Pérez_Leicester City_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Ayoze Pérez_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_Ayoze Pérez_Leicester City_2022.csv 
+Total Ads removed: 25
+Save various-stats_Ayoze Pérez_Leicester City_2022.csv 
+Done player Ayoze Pérez | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/21166ff4/matchs/2022-2023/summary/Journaux-de-match-Caglar-Soyuncu
+Total Ads removed: 25
+Çağlar Söyüncü
+Save genstats_Leicester City_Çağlar Söyüncü_2022.csv 
+Total Ads removed: 22
+Save passes_Çağlar Söyüncü_Leicester City_2022.csv 
+Total Ads removed: 20
+Save passes-type_Çağlar Söyüncü_Leicester City_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Çağlar Söyüncü_Leicester City_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Çağlar Söyüncü_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_Çağlar Söyüncü_Leicester City_2022.csv 
+Total Ads removed: 21
+Save various-stats_Çağlar Söyüncü_Leicester City_2022.csv 
+Done player Çağlar Söyüncü | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/1598599e/matchs/2022-2023/summary/Journaux-de-match-Nampalys-Mendy
+Total Ads removed: 25
+Nampalys Mendy
+Save genstats_Leicester City_Nampalys Mendy_2022.csv 
+Total Ads removed: 24
+Save passes_Nampalys Mendy_Leicester City_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nampalys Mendy_Leicester City_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Nampalys Mendy_Leicester City_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nampalys Mendy_Leicester City_2022.csv 
+Total Ads removed: 22
+Save possession_Nampalys Mendy_Leicester City_2022.csv 
+Total Ads removed: 22
+Save various-stats_Nampalys Mendy_Leicester City_2022.csv 
+Done player Nampalys Mendy | team Leicester City | 2022
+Go to https://fbref.com/fr/joueurs/b827d5b3/matchs/2022-2023/summary/Journaux-de-match-Marc-Albrighton
+Total Ads removed: 23
+Marc Albrighton
+Save genstats_Leicester City_Marc Albrighton_2022.csv 
+Total Ads removed: 24
+Save passes_Marc Albrighton_Leicester City_2022.csv 
+Total Ads removed: 23
+Save passes-type_Marc Albrighton_Leicester City_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Marc Albrighton_Leicester City_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Marc Albrighton_Leicester City_2022.csv 
+Total Ads removed: 23
+Save possession_Marc Albrighton_Leicester City_2022.csv 
+Total Ads removed: 23
+Save various-stats_Marc Albrighton_Leicester City_2022.csv 
+Done player Marc Albrighton | team Leicester City | 2022
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/d0f72bf1/matchs/2022-2023/summary/Journaux-de-match-Max-Kilman
+https://fbref.com/fr/joueurs/903b6e8b/matchs/2022-2023/summary/Journaux-de-match-Jose-Sa
+https://fbref.com/fr/joueurs/44bfb6c5/matchs/2022-2023/summary/Journaux-de-match-Ruben-Neves
+https://fbref.com/fr/joueurs/7fcc71d8/matchs/2022-2023/summary/Journaux-de-match-Daniel-Podence
+https://fbref.com/fr/joueurs/e28868f3/matchs/2022-2023/summary/Journaux-de-match-Jonny-Castro
+https://fbref.com/fr/joueurs/e6af02e0/matchs/2022-2023/summary/Journaux-de-match-Matheus-Nunes
+https://fbref.com/fr/joueurs/a8c19eb8/matchs/2022-2023/summary/Journaux-de-match-Nathan-Collins
+https://fbref.com/fr/joueurs/f5a00fa4/matchs/2022-2023/summary/Journaux-de-match-Joao-Moutinho
+https://fbref.com/fr/joueurs/7ba2eaa9/matchs/2022-2023/summary/Journaux-de-match-Pedro-Neto
+https://fbref.com/fr/joueurs/9b398aea/matchs/2022-2023/summary/Journaux-de-match-Rayan-Ait-Nouri
+https://fbref.com/fr/joueurs/d04b94db/matchs/2022-2023/summary/Journaux-de-match-Nelson-Semedo
+https://fbref.com/fr/joueurs/e6bc67d7/matchs/2022-2023/summary/Journaux-de-match-Goncalo-Guedes
+https://fbref.com/fr/joueurs/9a28eba4/matchs/2022-2023/summary/Journaux-de-match-Adama-Traore
+https://fbref.com/fr/joueurs/a190d597/matchs/2022-2023/summary/Journaux-de-match-Diego-Costa
+https://fbref.com/fr/joueurs/bfc3b3a0/matchs/2022-2023/summary/Journaux-de-match-Hugo-Bueno
+https://fbref.com/fr/joueurs/169fd162/matchs/2022-2023/summary/Journaux-de-match-Hwang-Hee-chan
+https://fbref.com/fr/joueurs/5a7301ae/matchs/2022-2023/summary/Journaux-de-match-Leander-Dendoncker
+https://fbref.com/fr/joueurs/b561db50/matchs/2022-2023/summary/Journaux-de-match-Raul-Jimenez
+https://fbref.com/fr/joueurs/999ceb5f/matchs/2022-2023/summary/Journaux-de-match-Boubacar-Traore
+https://fbref.com/fr/joueurs/32f60ed8/matchs/2022-2023/summary/Journaux-de-match-Morgan-Gibbs-White
+https://fbref.com/fr/joueurs/f0caab96/matchs/2022-2023/summary/Journaux-de-match-Toti-Gomes
+https://fbref.com/fr/joueurs/15f24fe7/matchs/2022-2023/summary/Journaux-de-match-Sasa-Kalajdzic
+https://fbref.com/fr/joueurs/bd8a5d95/matchs/2022-2023/summary/Journaux-de-match-Joseph-Hodge
+https://fbref.com/fr/joueurs/6f711f67/matchs/2022-2023/summary/Journaux-de-match-Chem-Campbell
+Number of players : 24
+Go to https://fbref.com/fr/joueurs/d0f72bf1/matchs/2022-2023/summary/Journaux-de-match-Max-Kilman
+Total Ads removed: 25
+Max Kilman
+Save genstats_Wolves_Max Kilman_2022.csv 
+Total Ads removed: 25
+Save passes_Max Kilman_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Max Kilman_Wolves_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Max Kilman_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Max Kilman_Wolves_2022.csv 
+Total Ads removed: 25
+Save possession_Max Kilman_Wolves_2022.csv 
+Total Ads removed: 24
+Save various-stats_Max Kilman_Wolves_2022.csv 
+Done player Max Kilman | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/903b6e8b/matchs/2022-2023/summary/Journaux-de-match-Jose-Sa
+Total Ads removed: 24
+José Sá
+Save genstats_Wolves_José Sá_2022.csv 
+Total Ads removed: 24
+Save passes_José Sá_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_José Sá_Wolves_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_José Sá_Wolves_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_José Sá_Wolves_2022.csv 
+Total Ads removed: 25
+Save possession_José Sá_Wolves_2022.csv 
+Total Ads removed: 26
+Save various-stats_José Sá_Wolves_2022.csv 
+Total Ads removed: 25
+Save keeper_José Sá_Wolves_2022.csv 
+Done player José Sá | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/44bfb6c5/matchs/2022-2023/summary/Journaux-de-match-Ruben-Neves
+Total Ads removed: 23
+Rúben Neves
+Save genstats_Wolves_Rúben Neves_2022.csv 
+Total Ads removed: 22
+Save passes_Rúben Neves_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Rúben Neves_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Rúben Neves_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Rúben Neves_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Rúben Neves_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Rúben Neves_Wolves_2022.csv 
+Done player Rúben Neves | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/7fcc71d8/matchs/2022-2023/summary/Journaux-de-match-Daniel-Podence
+Total Ads removed: 26
+Daniel Podence
+Save genstats_Wolves_Daniel Podence_2022.csv 
+Total Ads removed: 23
+Save passes_Daniel Podence_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Daniel Podence_Wolves_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Daniel Podence_Wolves_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Daniel Podence_Wolves_2022.csv 
+Total Ads removed: 24
+Save possession_Daniel Podence_Wolves_2022.csv 
+Total Ads removed: 24
+Save various-stats_Daniel Podence_Wolves_2022.csv 
+Done player Daniel Podence | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/e28868f3/matchs/2022-2023/summary/Journaux-de-match-Jonny-Castro
+Total Ads removed: 23
+Jonny Castro
+Save genstats_Wolves_Jonny Castro_2022.csv 
+Total Ads removed: 22
+Save passes_Jonny Castro_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jonny Castro_Wolves_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jonny Castro_Wolves_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Jonny Castro_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Jonny Castro_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jonny Castro_Wolves_2022.csv 
+Done player Jonny Castro | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/e6af02e0/matchs/2022-2023/summary/Journaux-de-match-Matheus-Nunes
+Total Ads removed: 23
+Matheus Nunes
+Save genstats_Wolves_Matheus Nunes_2022.csv 
+Total Ads removed: 22
+Save passes_Matheus Nunes_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Matheus Nunes_Wolves_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Matheus Nunes_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Matheus Nunes_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Matheus Nunes_Wolves_2022.csv 
+Total Ads removed: 22
+Save various-stats_Matheus Nunes_Wolves_2022.csv 
+Done player Matheus Nunes | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/a8c19eb8/matchs/2022-2023/summary/Journaux-de-match-Nathan-Collins
+Total Ads removed: 25
+Nathan Collins
+Save genstats_Wolves_Nathan Collins_2022.csv 
+Total Ads removed: 25
+Save passes_Nathan Collins_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nathan Collins_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Nathan Collins_Wolves_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Nathan Collins_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Nathan Collins_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Nathan Collins_Wolves_2022.csv 
+Done player Nathan Collins | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/f5a00fa4/matchs/2022-2023/summary/Journaux-de-match-Joao-Moutinho
+Total Ads removed: 22
+João Moutinho
+Save genstats_Wolves_João Moutinho_2022.csv 
+Total Ads removed: 24
+Save passes_João Moutinho_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_João Moutinho_Wolves_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_João Moutinho_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_João Moutinho_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_João Moutinho_Wolves_2022.csv 
+Total Ads removed: 22
+Save various-stats_João Moutinho_Wolves_2022.csv 
+Done player João Moutinho | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/7ba2eaa9/matchs/2022-2023/summary/Journaux-de-match-Pedro-Neto
+Total Ads removed: 23
+Pedro Neto
+Save genstats_Wolves_Pedro Neto_2022.csv 
+Total Ads removed: 25
+Save passes_Pedro Neto_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Pedro Neto_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Pedro Neto_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Pedro Neto_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Pedro Neto_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Pedro Neto_Wolves_2022.csv 
+Done player Pedro Neto | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/9b398aea/matchs/2022-2023/summary/Journaux-de-match-Rayan-Ait-Nouri
+Total Ads removed: 23
+Rayan Aït Nouri
+Save genstats_Wolves_Rayan Aït Nouri_2022.csv 
+Total Ads removed: 26
+Save passes_Rayan Aït Nouri_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Rayan Aït Nouri_Wolves_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Rayan Aït Nouri_Wolves_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Rayan Aït Nouri_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Rayan Aït Nouri_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Rayan Aït Nouri_Wolves_2022.csv 
+Done player Rayan Aït Nouri | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/d04b94db/matchs/2022-2023/summary/Journaux-de-match-Nelson-Semedo
+Total Ads removed: 22
+Nélson Semedo
+Save genstats_Wolves_Nélson Semedo_2022.csv 
+Total Ads removed: 22
+Save passes_Nélson Semedo_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Nélson Semedo_Wolves_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Nélson Semedo_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nélson Semedo_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Nélson Semedo_Wolves_2022.csv 
+Total Ads removed: 22
+Save various-stats_Nélson Semedo_Wolves_2022.csv 
+Done player Nélson Semedo | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/e6bc67d7/matchs/2022-2023/summary/Journaux-de-match-Goncalo-Guedes
+Total Ads removed: 22
+Gonçalo Guedes
+Save genstats_Wolves_Gonçalo Guedes_2022.csv 
+Total Ads removed: 24
+Save passes_Gonçalo Guedes_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Gonçalo Guedes_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Gonçalo Guedes_Wolves_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Gonçalo Guedes_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Gonçalo Guedes_Wolves_2022.csv 
+Total Ads removed: 24
+Save various-stats_Gonçalo Guedes_Wolves_2022.csv 
+Done player Gonçalo Guedes | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/9a28eba4/matchs/2022-2023/summary/Journaux-de-match-Adama-Traore
+Total Ads removed: 23
+Adama Traoré
+Save genstats_Wolves_Adama Traoré_2022.csv 
+Total Ads removed: 25
+Save passes_Adama Traoré_Wolves_2022.csv 
+Total Ads removed: 24
+Save passes-type_Adama Traoré_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Adama Traoré_Wolves_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Adama Traoré_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Adama Traoré_Wolves_2022.csv 
+Total Ads removed: 24
+Save various-stats_Adama Traoré_Wolves_2022.csv 
+Done player Adama Traoré | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/a190d597/matchs/2022-2023/summary/Journaux-de-match-Diego-Costa
+Total Ads removed: 24
+Diego Costa
+Save genstats_Wolves_Diego Costa_2022.csv 
+Total Ads removed: 24
+Save passes_Diego Costa_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Diego Costa_Wolves_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Diego Costa_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Diego Costa_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Diego Costa_Wolves_2022.csv 
+Total Ads removed: 24
+Save various-stats_Diego Costa_Wolves_2022.csv 
+Done player Diego Costa | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/bfc3b3a0/matchs/2022-2023/summary/Journaux-de-match-Hugo-Bueno
+Total Ads removed: 24
+Hugo Bueno
+Save genstats_Wolves_Hugo Bueno_2022.csv 
+Total Ads removed: 24
+Save passes_Hugo Bueno_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Hugo Bueno_Wolves_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Hugo Bueno_Wolves_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Hugo Bueno_Wolves_2022.csv 
+Total Ads removed: 25
+Save possession_Hugo Bueno_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Hugo Bueno_Wolves_2022.csv 
+Done player Hugo Bueno | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/169fd162/matchs/2022-2023/summary/Journaux-de-match-Hwang-Hee-chan
+Total Ads removed: 23
+Hwang Hee-chan
+Save genstats_Wolves_Hwang Hee-chan_2022.csv 
+Total Ads removed: 24
+Save passes_Hwang Hee-chan_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Hwang Hee-chan_Wolves_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Hwang Hee-chan_Wolves_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Hwang Hee-chan_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Hwang Hee-chan_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Hwang Hee-chan_Wolves_2022.csv 
+Done player Hwang Hee-chan | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/b561db50/matchs/2022-2023/summary/Journaux-de-match-Raul-Jimenez
+Total Ads removed: 23
+Raúl Jiménez
+Save genstats_Wolves_Raúl Jiménez_2022.csv 
+Total Ads removed: 23
+Save passes_Raúl Jiménez_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Raúl Jiménez_Wolves_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Raúl Jiménez_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Raúl Jiménez_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Raúl Jiménez_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Raúl Jiménez_Wolves_2022.csv 
+Done player Raúl Jiménez | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/999ceb5f/matchs/2022-2023/summary/Journaux-de-match-Boubacar-Traore
+Total Ads removed: 22
+Boubacar Traoré
+Save genstats_Wolves_Boubacar Traoré_2022.csv 
+Total Ads removed: 25
+Save passes_Boubacar Traoré_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Boubacar Traoré_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Boubacar Traoré_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Boubacar Traoré_Wolves_2022.csv 
+Total Ads removed: 24
+Save possession_Boubacar Traoré_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Boubacar Traoré_Wolves_2022.csv 
+Done player Boubacar Traoré | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/32f60ed8/matchs/2022-2023/summary/Journaux-de-match-Morgan-Gibbs-White
+Total Ads removed: 22
+Morgan Gibbs-White
+Save genstats_Wolves_Morgan Gibbs-White_2022.csv 
+Total Ads removed: 23
+Save passes_Morgan Gibbs-White_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Morgan Gibbs-White_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Morgan Gibbs-White_Wolves_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Morgan Gibbs-White_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Morgan Gibbs-White_Wolves_2022.csv 
+Total Ads removed: 26
+Save various-stats_Morgan Gibbs-White_Wolves_2022.csv 
+Done player Morgan Gibbs-White | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/f0caab96/matchs/2022-2023/summary/Journaux-de-match-Toti-Gomes
+Total Ads removed: 25
+Toti Gomes
+Save genstats_Wolves_Toti Gomes_2022.csv 
+Total Ads removed: 23
+Save passes_Toti Gomes_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Toti Gomes_Wolves_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Toti Gomes_Wolves_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Toti Gomes_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Toti Gomes_Wolves_2022.csv 
+Total Ads removed: 21
+Save various-stats_Toti Gomes_Wolves_2022.csv 
+Done player Toti Gomes | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/15f24fe7/matchs/2022-2023/summary/Journaux-de-match-Sasa-Kalajdzic
+Total Ads removed: 22
+Sasa Kalajdzic
+Save genstats_Wolves_Sasa Kalajdzic_2022.csv 
+Total Ads removed: 23
+Save passes_Sasa Kalajdzic_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Sasa Kalajdzic_Wolves_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Sasa Kalajdzic_Wolves_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Sasa Kalajdzic_Wolves_2022.csv 
+Total Ads removed: 23
+Save possession_Sasa Kalajdzic_Wolves_2022.csv 
+Total Ads removed: 22
+Save various-stats_Sasa Kalajdzic_Wolves_2022.csv 
+Done player Sasa Kalajdzic | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/bd8a5d95/matchs/2022-2023/summary/Journaux-de-match-Joseph-Hodge
+Total Ads removed: 22
+Joseph Hodge
+Save genstats_Wolves_Joseph Hodge_2022.csv 
+Total Ads removed: 24
+Save passes_Joseph Hodge_Wolves_2022.csv 
+Total Ads removed: 22
+Save passes-type_Joseph Hodge_Wolves_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Joseph Hodge_Wolves_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Joseph Hodge_Wolves_2022.csv 
+Total Ads removed: 22
+Save possession_Joseph Hodge_Wolves_2022.csv 
+Total Ads removed: 23
+Save various-stats_Joseph Hodge_Wolves_2022.csv 
+Done player Joseph Hodge | team Wolves | 2022
+Go to https://fbref.com/fr/joueurs/6f711f67/matchs/2022-2023/summary/Journaux-de-match-Chem-Campbell
+Total Ads removed: 25
+Chem Campbell
+Save genstats_Wolves_Chem Campbell_2022.csv 
+Total Ads removed: 24
+Save passes_Chem Campbell_Wolves_2022.csv 
+Total Ads removed: 23
+Save passes-type_Chem Campbell_Wolves_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Chem Campbell_Wolves_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Chem Campbell_Wolves_2022.csv 
+Total Ads removed: 25
+Save possession_Chem Campbell_Wolves_2022.csv 
+Total Ads removed: 26
+Save various-stats_Chem Campbell_Wolves_2022.csv 
+Done player Chem Campbell | team Wolves | 2022
+Total Ads removed: 25
+https://fbref.com/fr/joueurs/e5a76dfe/matchs/2022-2023/summary/Journaux-de-match-Dean-Henderson
+https://fbref.com/fr/joueurs/4e5a4cbc/matchs/2022-2023/summary/Journaux-de-match-Scott-McKenna
+https://fbref.com/fr/joueurs/0cd31129/matchs/2022-2023/summary/Journaux-de-match-Brennan-Johnson
+https://fbref.com/fr/joueurs/dd323728/matchs/2022-2023/summary/Journaux-de-match-Neco-Williams
+https://fbref.com/fr/joueurs/3e5e4e63/matchs/2022-2023/summary/Journaux-de-match-Steve-Cook
+https://fbref.com/fr/joueurs/32f60ed8/matchs/2022-2023/summary/Journaux-de-match-Morgan-Gibbs-White
+https://fbref.com/fr/joueurs/c1fe2a48/matchs/2022-2023/summary/Journaux-de-match-Ryan-Yates
+https://fbref.com/fr/joueurs/810e3c74/matchs/2022-2023/summary/Journaux-de-match-Jesse-Lingard
+https://fbref.com/fr/joueurs/98d2c2c4/matchs/2022-2023/summary/Journaux-de-match-Remo-Freuler
+https://fbref.com/fr/joueurs/8d3c902d/matchs/2022-2023/summary/Journaux-de-match-Cheikhou-Kouyate
+https://fbref.com/fr/joueurs/a5212312/matchs/2022-2023/summary/Journaux-de-match-Joe-Worrall
+https://fbref.com/fr/joueurs/a105d46a/matchs/2022-2023/summary/Journaux-de-match-Harry-Toffolo
+https://fbref.com/fr/joueurs/e5478b87/matchs/2022-2023/summary/Journaux-de-match-Taiwo-Awoniyi
+https://fbref.com/fr/joueurs/089667a5/matchs/2022-2023/summary/Journaux-de-match-Lewis-OBrien
+https://fbref.com/fr/joueurs/ed9f7cfe/matchs/2022-2023/summary/Journaux-de-match-Renan-Lodi
+https://fbref.com/fr/joueurs/5c2b4f07/matchs/2022-2023/summary/Journaux-de-match-Serge-Aurier
+https://fbref.com/fr/joueurs/a572e291/matchs/2022-2023/summary/Journaux-de-match-Orel-Mangala
+https://fbref.com/fr/joueurs/2c44a35d/matchs/2022-2023/summary/Journaux-de-match-Emmanuel-Dennis
+https://fbref.com/fr/joueurs/00242715/matchs/2022-2023/summary/Journaux-de-match-Moussa-Niakhate
+https://fbref.com/fr/joueurs/963a9201/matchs/2022-2023/summary/Journaux-de-match-Jack-Colback
+https://fbref.com/fr/joueurs/b017b770/matchs/2022-2023/summary/Journaux-de-match-Sam-Surridge
+https://fbref.com/fr/joueurs/a4ac4b8f/matchs/2022-2023/summary/Journaux-de-match-Willy-Boly
+https://fbref.com/fr/joueurs/de40e38c/matchs/2022-2023/summary/Journaux-de-match-Giulian-Biancone
+https://fbref.com/fr/joueurs/10ec4169/matchs/2022-2023/summary/Journaux-de-match-Alexander-Mighten
+https://fbref.com/fr/joueurs/85322440/matchs/2022-2023/summary/Journaux-de-match-Cafu
+Number of players : 25
+Go to https://fbref.com/fr/joueurs/e5a76dfe/matchs/2022-2023/summary/Journaux-de-match-Dean-Henderson
+Total Ads removed: 22
+Dean Henderson
+Save genstats_Nott'ham Forest_Dean Henderson_2022.csv 
+Total Ads removed: 24
+Save passes_Dean Henderson_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Dean Henderson_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Dean Henderson_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Dean Henderson_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save possession_Dean Henderson_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save various-stats_Dean Henderson_Nott'ham Forest_2022.csv 
+Total Ads removed: 25
+Save keeper_Dean Henderson_Nott'ham Forest_2022.csv 
+Done player Dean Henderson | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/4e5a4cbc/matchs/2022-2023/summary/Journaux-de-match-Scott-McKenna
+Total Ads removed: 25
+Scott McKenna
+Save genstats_Nott'ham Forest_Scott McKenna_2022.csv 
+Total Ads removed: 22
+Save passes_Scott McKenna_Nott'ham Forest_2022.csv 
+Total Ads removed: 21
+Save passes-type_Scott McKenna_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Scott McKenna_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Scott McKenna_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save possession_Scott McKenna_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save various-stats_Scott McKenna_Nott'ham Forest_2022.csv 
+Done player Scott McKenna | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/0cd31129/matchs/2022-2023/summary/Journaux-de-match-Brennan-Johnson
+Total Ads removed: 22
+Brennan Johnson
+Save genstats_Nott'ham Forest_Brennan Johnson_2022.csv 
+Total Ads removed: 23
+Save passes_Brennan Johnson_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Brennan Johnson_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Brennan Johnson_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Brennan Johnson_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Brennan Johnson_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save various-stats_Brennan Johnson_Nott'ham Forest_2022.csv 
+Done player Brennan Johnson | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/dd323728/matchs/2022-2023/summary/Journaux-de-match-Neco-Williams
+Total Ads removed: 23
+Neco Williams
+Save genstats_Nott'ham Forest_Neco Williams_2022.csv 
+Total Ads removed: 25
+Save passes_Neco Williams_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Neco Williams_Nott'ham Forest_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Neco Williams_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Neco Williams_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save possession_Neco Williams_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save various-stats_Neco Williams_Nott'ham Forest_2022.csv 
+Done player Neco Williams | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/3e5e4e63/matchs/2022-2023/summary/Journaux-de-match-Steve-Cook
+Total Ads removed: 23
+Steve Cook
+Save genstats_Nott'ham Forest_Steve Cook_2022.csv 
+Total Ads removed: 24
+Save passes_Steve Cook_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Steve Cook_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Steve Cook_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Steve Cook_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Steve Cook_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save various-stats_Steve Cook_Nott'ham Forest_2022.csv 
+Done player Steve Cook | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/c1fe2a48/matchs/2022-2023/summary/Journaux-de-match-Ryan-Yates
+Total Ads removed: 24
+Ryan Yates
+Save genstats_Nott'ham Forest_Ryan Yates_2022.csv 
+Total Ads removed: 24
+Save passes_Ryan Yates_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ryan Yates_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ryan Yates_Nott'ham Forest_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Ryan Yates_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Ryan Yates_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Ryan Yates_Nott'ham Forest_2022.csv 
+Done player Ryan Yates | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/810e3c74/matchs/2022-2023/summary/Journaux-de-match-Jesse-Lingard
+Total Ads removed: 23
+Jesse Lingard
+Save genstats_Nott'ham Forest_Jesse Lingard_2022.csv 
+Total Ads removed: 24
+Save passes_Jesse Lingard_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jesse Lingard_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jesse Lingard_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Jesse Lingard_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Jesse Lingard_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Jesse Lingard_Nott'ham Forest_2022.csv 
+Done player Jesse Lingard | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/98d2c2c4/matchs/2022-2023/summary/Journaux-de-match-Remo-Freuler
+Total Ads removed: 23
+Remo Freuler
+Save genstats_Nott'ham Forest_Remo Freuler_2022.csv 
+Total Ads removed: 22
+Save passes_Remo Freuler_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Remo Freuler_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Remo Freuler_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Remo Freuler_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Remo Freuler_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Remo Freuler_Nott'ham Forest_2022.csv 
+Done player Remo Freuler | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/8d3c902d/matchs/2022-2023/summary/Journaux-de-match-Cheikhou-Kouyate
+Total Ads removed: 22
+Cheikhou Kouyaté
+Save genstats_Nott'ham Forest_Cheikhou Kouyaté_2022.csv 
+Total Ads removed: 23
+Save passes_Cheikhou Kouyaté_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Cheikhou Kouyaté_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Cheikhou Kouyaté_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Cheikhou Kouyaté_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Cheikhou Kouyaté_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Cheikhou Kouyaté_Nott'ham Forest_2022.csv 
+Done player Cheikhou Kouyaté | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/a5212312/matchs/2022-2023/summary/Journaux-de-match-Joe-Worrall
+Total Ads removed: 22
+Joe Worrall
+Save genstats_Nott'ham Forest_Joe Worrall_2022.csv 
+Total Ads removed: 22
+Save passes_Joe Worrall_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Joe Worrall_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Joe Worrall_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Joe Worrall_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Joe Worrall_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save various-stats_Joe Worrall_Nott'ham Forest_2022.csv 
+Done player Joe Worrall | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/a105d46a/matchs/2022-2023/summary/Journaux-de-match-Harry-Toffolo
+Total Ads removed: 22
+Harry Toffolo
+Save genstats_Nott'ham Forest_Harry Toffolo_2022.csv 
+Total Ads removed: 23
+Save passes_Harry Toffolo_Nott'ham Forest_2022.csv 
+Total Ads removed: 21
+Save passes-type_Harry Toffolo_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Harry Toffolo_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Harry Toffolo_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Harry Toffolo_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Harry Toffolo_Nott'ham Forest_2022.csv 
+Done player Harry Toffolo | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/e5478b87/matchs/2022-2023/summary/Journaux-de-match-Taiwo-Awoniyi
+Total Ads removed: 22
+Taiwo Awoniyi
+Save genstats_Nott'ham Forest_Taiwo Awoniyi_2022.csv 
+Total Ads removed: 24
+Save passes_Taiwo Awoniyi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Taiwo Awoniyi_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Taiwo Awoniyi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Taiwo Awoniyi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Taiwo Awoniyi_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save various-stats_Taiwo Awoniyi_Nott'ham Forest_2022.csv 
+Done player Taiwo Awoniyi | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/089667a5/matchs/2022-2023/summary/Journaux-de-match-Lewis-OBrien
+Total Ads removed: 24
+Lewis O'Brien
+Save genstats_Nott'ham Forest_Lewis O'Brien_2022.csv 
+Total Ads removed: 24
+Save passes_Lewis O'Brien_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save passes-type_Lewis O'Brien_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Lewis O'Brien_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lewis O'Brien_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Lewis O'Brien_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save various-stats_Lewis O'Brien_Nott'ham Forest_2022.csv 
+Done player Lewis O'Brien | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/ed9f7cfe/matchs/2022-2023/summary/Journaux-de-match-Renan-Lodi
+Total Ads removed: 22
+Renan Lodi
+Save genstats_Nott'ham Forest_Renan Lodi_2022.csv 
+Total Ads removed: 22
+Save passes_Renan Lodi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Renan Lodi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Renan Lodi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Renan Lodi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Renan Lodi_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Renan Lodi_Nott'ham Forest_2022.csv 
+Done player Renan Lodi | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/5c2b4f07/matchs/2022-2023/summary/Journaux-de-match-Serge-Aurier
+Total Ads removed: 22
+Serge Aurier
+Save genstats_Nott'ham Forest_Serge Aurier_2022.csv 
+Total Ads removed: 22
+Save passes_Serge Aurier_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Serge Aurier_Nott'ham Forest_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Serge Aurier_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Serge Aurier_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save possession_Serge Aurier_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Serge Aurier_Nott'ham Forest_2022.csv 
+Done player Serge Aurier | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/a572e291/matchs/2022-2023/summary/Journaux-de-match-Orel-Mangala
+Total Ads removed: 23
+Orel Mangala
+Save genstats_Nott'ham Forest_Orel Mangala_2022.csv 
+Total Ads removed: 23
+Save passes_Orel Mangala_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Orel Mangala_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Orel Mangala_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Orel Mangala_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Orel Mangala_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save various-stats_Orel Mangala_Nott'ham Forest_2022.csv 
+Done player Orel Mangala | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/2c44a35d/matchs/2022-2023/summary/Journaux-de-match-Emmanuel-Dennis
+Total Ads removed: 22
+Emmanuel Dennis
+Save genstats_Nott'ham Forest_Emmanuel Dennis_2022.csv 
+Total Ads removed: 23
+Save passes_Emmanuel Dennis_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Emmanuel Dennis_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Emmanuel Dennis_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Emmanuel Dennis_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save possession_Emmanuel Dennis_Nott'ham Forest_2022.csv 
+Total Ads removed: 25
+Save various-stats_Emmanuel Dennis_Nott'ham Forest_2022.csv 
+Done player Emmanuel Dennis | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/00242715/matchs/2022-2023/summary/Journaux-de-match-Moussa-Niakhate
+Total Ads removed: 23
+Moussa Niakhate
+Save genstats_Nott'ham Forest_Moussa Niakhate_2022.csv 
+Total Ads removed: 25
+Save passes_Moussa Niakhate_Nott'ham Forest_2022.csv 
+Total Ads removed: 26
+Save passes-type_Moussa Niakhate_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Moussa Niakhate_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Moussa Niakhate_Nott'ham Forest_2022.csv 
+Total Ads removed: 21
+Save possession_Moussa Niakhate_Nott'ham Forest_2022.csv 
+Total Ads removed: 26
+Save various-stats_Moussa Niakhate_Nott'ham Forest_2022.csv 
+Done player Moussa Niakhate | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/963a9201/matchs/2022-2023/summary/Journaux-de-match-Jack-Colback
+Total Ads removed: 24
+Jack Colback
+Save genstats_Nott'ham Forest_Jack Colback_2022.csv 
+Total Ads removed: 25
+Save passes_Jack Colback_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jack Colback_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jack Colback_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jack Colback_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Jack Colback_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Jack Colback_Nott'ham Forest_2022.csv 
+Done player Jack Colback | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/b017b770/matchs/2022-2023/summary/Journaux-de-match-Sam-Surridge
+Total Ads removed: 25
+Sam Surridge
+Save genstats_Nott'ham Forest_Sam Surridge_2022.csv 
+Total Ads removed: 24
+Save passes_Sam Surridge_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Sam Surridge_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Sam Surridge_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Sam Surridge_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Sam Surridge_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Sam Surridge_Nott'ham Forest_2022.csv 
+Done player Sam Surridge | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/a4ac4b8f/matchs/2022-2023/summary/Journaux-de-match-Willy-Boly
+Total Ads removed: 22
+Willy Boly
+Save genstats_Nott'ham Forest_Willy Boly_2022.csv 
+Total Ads removed: 22
+Save passes_Willy Boly_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Willy Boly_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Willy Boly_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Willy Boly_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Willy Boly_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Willy Boly_Nott'ham Forest_2022.csv 
+Done player Willy Boly | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/de40e38c/matchs/2022-2023/summary/Journaux-de-match-Giulian-Biancone
+Total Ads removed: 22
+Giulian Biancone
+Save genstats_Nott'ham Forest_Giulian Biancone_2022.csv 
+Total Ads removed: 23
+Save passes_Giulian Biancone_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Giulian Biancone_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Giulian Biancone_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Giulian Biancone_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Giulian Biancone_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Giulian Biancone_Nott'ham Forest_2022.csv 
+Done player Giulian Biancone | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/10ec4169/matchs/2022-2023/summary/Journaux-de-match-Alexander-Mighten
+Total Ads removed: 23
+Alexander Mighten
+Save genstats_Nott'ham Forest_Alexander Mighten_2022.csv 
+Total Ads removed: 23
+Save passes_Alexander Mighten_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save passes-type_Alexander Mighten_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Alexander Mighten_Nott'ham Forest_2022.csv 
+Total Ads removed: 21
+Save defensive-actions_Alexander Mighten_Nott'ham Forest_2022.csv 
+Total Ads removed: 23
+Save possession_Alexander Mighten_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Alexander Mighten_Nott'ham Forest_2022.csv 
+Done player Alexander Mighten | team Nott'ham Forest | 2022
+Go to https://fbref.com/fr/joueurs/85322440/matchs/2022-2023/summary/Journaux-de-match-Cafu
+Total Ads removed: 22
+Cafú
+Save genstats_Nott'ham Forest_Cafú_2022.csv 
+Total Ads removed: 22
+Save passes_Cafú_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save passes-type_Cafú_Nott'ham Forest_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Cafú_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Cafú_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save possession_Cafú_Nott'ham Forest_2022.csv 
+Total Ads removed: 22
+Save various-stats_Cafú_Nott'ham Forest_2022.csv 
+Done player Cafú | team Nott'ham Forest | 2022

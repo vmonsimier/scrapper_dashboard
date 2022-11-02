@@ -5247,3 +5247,3867 @@ Total Ads removed: 25
 Save various-stats_Alberto Grassi_Empoli_2022.csv 
 Done player Alberto Grassi | team Empoli | 2022
 Go to https://fbref.com/fr/joueurs/102e2599/matchs/2022-2023/summary/Journaux-de-match-Tommaso-Baldanzi
+Total Ads removed: 24
+Tommaso Baldanzi
+Save genstats_Empoli_Tommaso Baldanzi_2022.csv 
+Total Ads removed: 23
+Save passes_Tommaso Baldanzi_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Tommaso Baldanzi_Empoli_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Tommaso Baldanzi_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Tommaso Baldanzi_Empoli_2022.csv 
+Total Ads removed: 24
+Save possession_Tommaso Baldanzi_Empoli_2022.csv 
+Total Ads removed: 22
+Save various-stats_Tommaso Baldanzi_Empoli_2022.csv 
+Done player Tommaso Baldanzi | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/91ff775f/matchs/2022-2023/summary/Journaux-de-match-Nicolo-Cambiaghi
+Total Ads removed: 24
+Nicolò Cambiaghi
+Save genstats_Empoli_Nicolò Cambiaghi_2022.csv 
+Total Ads removed: 23
+Save passes_Nicolò Cambiaghi_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nicolò Cambiaghi_Empoli_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Nicolò Cambiaghi_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nicolò Cambiaghi_Empoli_2022.csv 
+Total Ads removed: 24
+Save possession_Nicolò Cambiaghi_Empoli_2022.csv 
+Total Ads removed: 23
+Save various-stats_Nicolò Cambiaghi_Empoli_2022.csv 
+Done player Nicolò Cambiaghi | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/6af30900/matchs/2022-2023/summary/Journaux-de-match-Tyronne-Ebuehi
+Total Ads removed: 23
+Tyronne Ebuehi
+Save genstats_Empoli_Tyronne Ebuehi_2022.csv 
+Total Ads removed: 23
+Save passes_Tyronne Ebuehi_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Tyronne Ebuehi_Empoli_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Tyronne Ebuehi_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Tyronne Ebuehi_Empoli_2022.csv 
+Total Ads removed: 23
+Save possession_Tyronne Ebuehi_Empoli_2022.csv 
+Total Ads removed: 23
+Save various-stats_Tyronne Ebuehi_Empoli_2022.csv 
+Done player Tyronne Ebuehi | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/fdf4b948/matchs/2022-2023/summary/Journaux-de-match-Jean-Daniel-Akpa-Akpro
+Total Ads removed: 23
+Jean-Daniel Akpa-Akpro
+Save genstats_Empoli_Jean-Daniel Akpa-Akpro_2022.csv 
+Total Ads removed: 24
+Save passes_Jean-Daniel Akpa-Akpro_Empoli_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jean-Daniel Akpa-Akpro_Empoli_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jean-Daniel Akpa-Akpro_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jean-Daniel Akpa-Akpro_Empoli_2022.csv 
+Total Ads removed: 24
+Save possession_Jean-Daniel Akpa-Akpro_Empoli_2022.csv 
+Total Ads removed: 22
+Save various-stats_Jean-Daniel Akpa-Akpro_Empoli_2022.csv 
+Done player Jean-Daniel Akpa-Akpro | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/dd86e8e4/matchs/2022-2023/summary/Journaux-de-match-Liberato-Cacace
+Total Ads removed: 23
+Liberato Cacace
+Save genstats_Empoli_Liberato Cacace_2022.csv 
+Total Ads removed: 23
+Save passes_Liberato Cacace_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Liberato Cacace_Empoli_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Liberato Cacace_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Liberato Cacace_Empoli_2022.csv 
+Total Ads removed: 22
+Save possession_Liberato Cacace_Empoli_2022.csv 
+Total Ads removed: 22
+Save various-stats_Liberato Cacace_Empoli_2022.csv 
+Done player Liberato Cacace | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/06b08c45/matchs/2022-2023/summary/Journaux-de-match-Jacopo-Fazzini
+Total Ads removed: 22
+Jacopo Fazzini
+Save genstats_Empoli_Jacopo Fazzini_2022.csv 
+Total Ads removed: 22
+Save passes_Jacopo Fazzini_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jacopo Fazzini_Empoli_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jacopo Fazzini_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jacopo Fazzini_Empoli_2022.csv 
+Total Ads removed: 23
+Save possession_Jacopo Fazzini_Empoli_2022.csv 
+Total Ads removed: 24
+Save various-stats_Jacopo Fazzini_Empoli_2022.csv 
+Done player Jacopo Fazzini | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/c20892ee/matchs/2022-2023/summary/Journaux-de-match-Emmanuel-Ekong
+Total Ads removed: 23
+Emmanuel Ekong
+Save genstats_Empoli_Emmanuel Ekong_2022.csv 
+Total Ads removed: 24
+Save passes_Emmanuel Ekong_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Emmanuel Ekong_Empoli_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Emmanuel Ekong_Empoli_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Emmanuel Ekong_Empoli_2022.csv 
+Total Ads removed: 23
+Save possession_Emmanuel Ekong_Empoli_2022.csv 
+Total Ads removed: 23
+Save various-stats_Emmanuel Ekong_Empoli_2022.csv 
+Done player Emmanuel Ekong | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/217875a4/matchs/2022-2023/summary/Journaux-de-match-Sebastian-Walukiewicz
+Total Ads removed: 22
+Sebastian Walukiewicz
+Save genstats_Empoli_Sebastian Walukiewicz_2022.csv 
+Total Ads removed: 23
+Save passes_Sebastian Walukiewicz_Empoli_2022.csv 
+Total Ads removed: 22
+Save passes-type_Sebastian Walukiewicz_Empoli_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Sebastian Walukiewicz_Empoli_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Sebastian Walukiewicz_Empoli_2022.csv 
+Total Ads removed: 23
+Save possession_Sebastian Walukiewicz_Empoli_2022.csv 
+Total Ads removed: 23
+Save various-stats_Sebastian Walukiewicz_Empoli_2022.csv 
+Done player Sebastian Walukiewicz | team Empoli | 2022
+Go to https://fbref.com/fr/joueurs/0e0d6c53/matchs/2022-2023/summary/Journaux-de-match-Duccio-Degli-Innocenti
+Total Ads removed: 22
+Duccio Degli Innocenti
+Save genstats_Empoli_Duccio Degli Innocenti_2022.csv 
+Total Ads removed: 22
+Save passes_Duccio Degli Innocenti_Empoli_2022.csv 
+Total Ads removed: 24
+Save passes-type_Duccio Degli Innocenti_Empoli_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Duccio Degli Innocenti_Empoli_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Duccio Degli Innocenti_Empoli_2022.csv 
+Total Ads removed: 22
+Save possession_Duccio Degli Innocenti_Empoli_2022.csv 
+Total Ads removed: 24
+Save various-stats_Duccio Degli Innocenti_Empoli_2022.csv 
+Done player Duccio Degli Innocenti | team Empoli | 2022
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/ab4449d6/matchs/2022-2023/summary/Journaux-de-match-Lukasz-Skorupski
+https://fbref.com/fr/joueurs/00459419/matchs/2022-2023/summary/Journaux-de-match-Marko-Arnautovic
+https://fbref.com/fr/joueurs/563a68ad/matchs/2022-2023/summary/Journaux-de-match-Gary-Medel
+https://fbref.com/fr/joueurs/247ed022/matchs/2022-2023/summary/Journaux-de-match-Andrea-Cambiaso
+https://fbref.com/fr/joueurs/2cfae697/matchs/2022-2023/summary/Journaux-de-match-Jerdy-Schouten
+https://fbref.com/fr/joueurs/20b3a502/matchs/2022-2023/summary/Journaux-de-match-Nicolas-Dominguez
+https://fbref.com/fr/joueurs/80490d7f/matchs/2022-2023/summary/Journaux-de-match-Jhon-Lucumi
+https://fbref.com/fr/joueurs/e5bf73f3/matchs/2022-2023/summary/Journaux-de-match-Musa-Barrow
+https://fbref.com/fr/joueurs/e74f0e59/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-De-Silvestri
+https://fbref.com/fr/joueurs/9d4c45d6/matchs/2022-2023/summary/Journaux-de-match-Roberto-Soriano
+https://fbref.com/fr/joueurs/e14ec482/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Orsolini
+https://fbref.com/fr/joueurs/7b075c75/matchs/2022-2023/summary/Journaux-de-match-Adama-Soumaoro
+https://fbref.com/fr/joueurs/f9c927de/matchs/2022-2023/summary/Journaux-de-match-Michel-Aebischer
+https://fbref.com/fr/joueurs/fb77bfef/matchs/2022-2023/summary/Journaux-de-match-Kevin-Bonifazi
+https://fbref.com/fr/joueurs/5efc5389/matchs/2022-2023/summary/Journaux-de-match-Charalambos-Lykogiannis
+https://fbref.com/fr/joueurs/7f609bfc/matchs/2022-2023/summary/Journaux-de-match-Stefan-Posch
+https://fbref.com/fr/joueurs/7ae36711/matchs/2022-2023/summary/Journaux-de-match-Denso-Kasius
+https://fbref.com/fr/joueurs/7eb97a8e/matchs/2022-2023/summary/Journaux-de-match-Nicola-Sansone
+https://fbref.com/fr/joueurs/ee64a822/matchs/2022-2023/summary/Journaux-de-match-Lewis-Ferguson
+https://fbref.com/fr/joueurs/ec5dae45/matchs/2022-2023/summary/Journaux-de-match-Emanuel-Vignato
+https://fbref.com/fr/joueurs/028e70b9/matchs/2022-2023/summary/Journaux-de-match-Joshua-Zirkzee
+https://fbref.com/fr/joueurs/50841bef/matchs/2022-2023/summary/Journaux-de-match-Joaquin-Sosa
+https://fbref.com/fr/joueurs/ff579c7e/matchs/2022-2023/summary/Journaux-de-match-Nikola-Moro
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/ab4449d6/matchs/2022-2023/summary/Journaux-de-match-Lukasz-Skorupski
+Total Ads removed: 22
+Łukasz Skorupski
+Save genstats_Bologna_Łukasz Skorupski_2022.csv 
+Total Ads removed: 23
+Save passes_Łukasz Skorupski_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Łukasz Skorupski_Bologna_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Łukasz Skorupski_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Łukasz Skorupski_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Łukasz Skorupski_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Łukasz Skorupski_Bologna_2022.csv 
+Total Ads removed: 24
+Save keeper_Łukasz Skorupski_Bologna_2022.csv 
+Done player Łukasz Skorupski | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/00459419/matchs/2022-2023/summary/Journaux-de-match-Marko-Arnautovic
+Total Ads removed: 22
+Marko Arnautović
+Save genstats_Bologna_Marko Arnautović_2022.csv 
+Total Ads removed: 23
+Save passes_Marko Arnautović_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Marko Arnautović_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Marko Arnautović_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Marko Arnautović_Bologna_2022.csv 
+Total Ads removed: 24
+Save possession_Marko Arnautović_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Marko Arnautović_Bologna_2022.csv 
+Done player Marko Arnautović | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/563a68ad/matchs/2022-2023/summary/Journaux-de-match-Gary-Medel
+Total Ads removed: 22
+Gary Medel
+Save genstats_Bologna_Gary Medel_2022.csv 
+Total Ads removed: 23
+Save passes_Gary Medel_Bologna_2022.csv 
+Total Ads removed: 24
+Save passes-type_Gary Medel_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Gary Medel_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Gary Medel_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Gary Medel_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Gary Medel_Bologna_2022.csv 
+Done player Gary Medel | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/247ed022/matchs/2022-2023/summary/Journaux-de-match-Andrea-Cambiaso
+Total Ads removed: 23
+Andrea Cambiaso
+Save genstats_Bologna_Andrea Cambiaso_2022.csv 
+Total Ads removed: 24
+Save passes_Andrea Cambiaso_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Cambiaso_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrea Cambiaso_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrea Cambiaso_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Andrea Cambiaso_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Andrea Cambiaso_Bologna_2022.csv 
+Done player Andrea Cambiaso | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/2cfae697/matchs/2022-2023/summary/Journaux-de-match-Jerdy-Schouten
+Total Ads removed: 22
+Jerdy Schouten
+Save genstats_Bologna_Jerdy Schouten_2022.csv 
+Total Ads removed: 24
+Save passes_Jerdy Schouten_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jerdy Schouten_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jerdy Schouten_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jerdy Schouten_Bologna_2022.csv 
+Total Ads removed: 24
+Save possession_Jerdy Schouten_Bologna_2022.csv 
+Total Ads removed: 25
+Save various-stats_Jerdy Schouten_Bologna_2022.csv 
+Done player Jerdy Schouten | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/20b3a502/matchs/2022-2023/summary/Journaux-de-match-Nicolas-Dominguez
+Total Ads removed: 22
+Nicolás Domínguez
+Save genstats_Bologna_Nicolás Domínguez_2022.csv 
+Total Ads removed: 23
+Save passes_Nicolás Domínguez_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Nicolás Domínguez_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Nicolás Domínguez_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nicolás Domínguez_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Nicolás Domínguez_Bologna_2022.csv 
+Total Ads removed: 24
+Save various-stats_Nicolás Domínguez_Bologna_2022.csv 
+Done player Nicolás Domínguez | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/80490d7f/matchs/2022-2023/summary/Journaux-de-match-Jhon-Lucumi
+Total Ads removed: 25
+Jhon Lucumí
+Save genstats_Bologna_Jhon Lucumí_2022.csv 
+Total Ads removed: 26
+Save passes_Jhon Lucumí_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jhon Lucumí_Bologna_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Jhon Lucumí_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jhon Lucumí_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Jhon Lucumí_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jhon Lucumí_Bologna_2022.csv 
+Done player Jhon Lucumí | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/e5bf73f3/matchs/2022-2023/summary/Journaux-de-match-Musa-Barrow
+Total Ads removed: 22
+Musa Barrow
+Save genstats_Bologna_Musa Barrow_2022.csv 
+Total Ads removed: 24
+Save passes_Musa Barrow_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Musa Barrow_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Musa Barrow_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Musa Barrow_Bologna_2022.csv 
+Total Ads removed: 24
+Save possession_Musa Barrow_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Musa Barrow_Bologna_2022.csv 
+Done player Musa Barrow | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/e74f0e59/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-De-Silvestri
+Total Ads removed: 22
+Lorenzo De Silvestri
+Save genstats_Bologna_Lorenzo De Silvestri_2022.csv 
+Total Ads removed: 25
+Save passes_Lorenzo De Silvestri_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Lorenzo De Silvestri_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lorenzo De Silvestri_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lorenzo De Silvestri_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Lorenzo De Silvestri_Bologna_2022.csv 
+Total Ads removed: 22
+Save various-stats_Lorenzo De Silvestri_Bologna_2022.csv 
+Done player Lorenzo De Silvestri | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/9d4c45d6/matchs/2022-2023/summary/Journaux-de-match-Roberto-Soriano
+Total Ads removed: 22
+Roberto Soriano
+Save genstats_Bologna_Roberto Soriano_2022.csv 
+Total Ads removed: 22
+Save passes_Roberto Soriano_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Roberto Soriano_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Roberto Soriano_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Roberto Soriano_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Roberto Soriano_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Roberto Soriano_Bologna_2022.csv 
+Done player Roberto Soriano | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/e14ec482/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Orsolini
+Total Ads removed: 23
+Riccardo Orsolini
+Save genstats_Bologna_Riccardo Orsolini_2022.csv 
+Total Ads removed: 23
+Save passes_Riccardo Orsolini_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Riccardo Orsolini_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Riccardo Orsolini_Bologna_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Riccardo Orsolini_Bologna_2022.csv 
+Total Ads removed: 24
+Save possession_Riccardo Orsolini_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Riccardo Orsolini_Bologna_2022.csv 
+Done player Riccardo Orsolini | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/7b075c75/matchs/2022-2023/summary/Journaux-de-match-Adama-Soumaoro
+Total Ads removed: 22
+Adama Soumaoro
+Save genstats_Bologna_Adama Soumaoro_2022.csv 
+Total Ads removed: 25
+Save passes_Adama Soumaoro_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Adama Soumaoro_Bologna_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Adama Soumaoro_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Adama Soumaoro_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Adama Soumaoro_Bologna_2022.csv 
+Total Ads removed: 24
+Save various-stats_Adama Soumaoro_Bologna_2022.csv 
+Done player Adama Soumaoro | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/f9c927de/matchs/2022-2023/summary/Journaux-de-match-Michel-Aebischer
+Total Ads removed: 23
+Michel Aebischer
+Save genstats_Bologna_Michel Aebischer_2022.csv 
+Total Ads removed: 22
+Save passes_Michel Aebischer_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Michel Aebischer_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Michel Aebischer_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Michel Aebischer_Bologna_2022.csv 
+Total Ads removed: 24
+Save possession_Michel Aebischer_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Michel Aebischer_Bologna_2022.csv 
+Done player Michel Aebischer | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/fb77bfef/matchs/2022-2023/summary/Journaux-de-match-Kevin-Bonifazi
+Total Ads removed: 23
+Kevin Bonifazi
+Save genstats_Bologna_Kevin Bonifazi_2022.csv 
+Total Ads removed: 23
+Save passes_Kevin Bonifazi_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Kevin Bonifazi_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Kevin Bonifazi_Bologna_2022.csv 
+Total Ads removed: 12
+Save defensive-actions_Kevin Bonifazi_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Kevin Bonifazi_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Kevin Bonifazi_Bologna_2022.csv 
+Done player Kevin Bonifazi | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/5efc5389/matchs/2022-2023/summary/Journaux-de-match-Charalambos-Lykogiannis
+Total Ads removed: 23
+Charalambos Lykogiannis
+Save genstats_Bologna_Charalambos Lykogiannis_2022.csv 
+Total Ads removed: 22
+Save passes_Charalambos Lykogiannis_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Charalambos Lykogiannis_Bologna_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Charalambos Lykogiannis_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Charalambos Lykogiannis_Bologna_2022.csv 
+Total Ads removed: 24
+Save possession_Charalambos Lykogiannis_Bologna_2022.csv 
+Total Ads removed: 24
+Save various-stats_Charalambos Lykogiannis_Bologna_2022.csv 
+Done player Charalambos Lykogiannis | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/7f609bfc/matchs/2022-2023/summary/Journaux-de-match-Stefan-Posch
+Total Ads removed: 23
+Stefan Posch
+Save genstats_Bologna_Stefan Posch_2022.csv 
+Total Ads removed: 23
+Save passes_Stefan Posch_Bologna_2022.csv 
+Total Ads removed: 23
+Save passes-type_Stefan Posch_Bologna_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Stefan Posch_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Stefan Posch_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Stefan Posch_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Stefan Posch_Bologna_2022.csv 
+Done player Stefan Posch | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/7ae36711/matchs/2022-2023/summary/Journaux-de-match-Denso-Kasius
+Total Ads removed: 25
+Denso Kasius
+Save genstats_Bologna_Denso Kasius_2022.csv 
+Total Ads removed: 23
+Save passes_Denso Kasius_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Denso Kasius_Bologna_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Denso Kasius_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Denso Kasius_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Denso Kasius_Bologna_2022.csv 
+Total Ads removed: 24
+Save various-stats_Denso Kasius_Bologna_2022.csv 
+Done player Denso Kasius | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/7eb97a8e/matchs/2022-2023/summary/Journaux-de-match-Nicola-Sansone
+Total Ads removed: 22
+Nicola Sansone
+Save genstats_Bologna_Nicola Sansone_2022.csv 
+Total Ads removed: 23
+Save passes_Nicola Sansone_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nicola Sansone_Bologna_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Nicola Sansone_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nicola Sansone_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Nicola Sansone_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Nicola Sansone_Bologna_2022.csv 
+Done player Nicola Sansone | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/ee64a822/matchs/2022-2023/summary/Journaux-de-match-Lewis-Ferguson
+Total Ads removed: 22
+Lewis Ferguson
+Save genstats_Bologna_Lewis Ferguson_2022.csv 
+Total Ads removed: 23
+Save passes_Lewis Ferguson_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Lewis Ferguson_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lewis Ferguson_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lewis Ferguson_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Lewis Ferguson_Bologna_2022.csv 
+Total Ads removed: 22
+Save various-stats_Lewis Ferguson_Bologna_2022.csv 
+Done player Lewis Ferguson | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/ec5dae45/matchs/2022-2023/summary/Journaux-de-match-Emanuel-Vignato
+Total Ads removed: 22
+Emanuel Vignato
+Save genstats_Bologna_Emanuel Vignato_2022.csv 
+Total Ads removed: 23
+Save passes_Emanuel Vignato_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Emanuel Vignato_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Emanuel Vignato_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Emanuel Vignato_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Emanuel Vignato_Bologna_2022.csv 
+Total Ads removed: 25
+Save various-stats_Emanuel Vignato_Bologna_2022.csv 
+Done player Emanuel Vignato | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/028e70b9/matchs/2022-2023/summary/Journaux-de-match-Joshua-Zirkzee
+Total Ads removed: 22
+Joshua Zirkzee
+Save genstats_Bologna_Joshua Zirkzee_2022.csv 
+Total Ads removed: 23
+Save passes_Joshua Zirkzee_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Joshua Zirkzee_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Joshua Zirkzee_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Joshua Zirkzee_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Joshua Zirkzee_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Joshua Zirkzee_Bologna_2022.csv 
+Done player Joshua Zirkzee | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/50841bef/matchs/2022-2023/summary/Journaux-de-match-Joaquin-Sosa
+Total Ads removed: 22
+Joaquin Sosa
+Save genstats_Bologna_Joaquin Sosa_2022.csv 
+Total Ads removed: 23
+Save passes_Joaquin Sosa_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Joaquin Sosa_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Joaquin Sosa_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Joaquin Sosa_Bologna_2022.csv 
+Total Ads removed: 22
+Save possession_Joaquin Sosa_Bologna_2022.csv 
+Total Ads removed: 23
+Save various-stats_Joaquin Sosa_Bologna_2022.csv 
+Done player Joaquin Sosa | team Bologna | 2022
+Go to https://fbref.com/fr/joueurs/ff579c7e/matchs/2022-2023/summary/Journaux-de-match-Nikola-Moro
+Total Ads removed: 25
+Nikola Moro
+Save genstats_Bologna_Nikola Moro_2022.csv 
+Total Ads removed: 24
+Save passes_Nikola Moro_Bologna_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nikola Moro_Bologna_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Nikola Moro_Bologna_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nikola Moro_Bologna_2022.csv 
+Total Ads removed: 23
+Save possession_Nikola Moro_Bologna_2022.csv 
+Total Ads removed: 25
+Save various-stats_Nikola Moro_Bologna_2022.csv 
+Done player Nikola Moro | team Bologna | 2022
+Total Ads removed: 25
+https://fbref.com/fr/joueurs/3ec3c1c9/matchs/2022-2023/summary/Journaux-de-match-Lucas-Martinez-Quarta
+https://fbref.com/fr/joueurs/9e1577aa/matchs/2022-2023/summary/Journaux-de-match-Cristiano-Biraghi
+https://fbref.com/fr/joueurs/58e933d2/matchs/2022-2023/summary/Journaux-de-match-Christian-Kouame
+https://fbref.com/fr/joueurs/e1b0a70d/matchs/2022-2023/summary/Journaux-de-match-Pietro-Terracciano
+https://fbref.com/fr/joueurs/d995ed27/matchs/2022-2023/summary/Journaux-de-match-Giacomo-Bonaventura
+https://fbref.com/fr/joueurs/01efac19/matchs/2022-2023/summary/Journaux-de-match-Antonin-Barak
+https://fbref.com/fr/joueurs/b5f7d10b/matchs/2022-2023/summary/Journaux-de-match-Dodo
+https://fbref.com/fr/joueurs/4d8cd038/matchs/2022-2023/summary/Journaux-de-match-Luka-Jovic
+https://fbref.com/fr/joueurs/5a2cb25d/matchs/2022-2023/summary/Journaux-de-match-Sofyan-Amrabat
+https://fbref.com/fr/joueurs/c7259b83/matchs/2022-2023/summary/Journaux-de-match-Rolando-Mandragora
+https://fbref.com/fr/joueurs/a4e85758/matchs/2022-2023/summary/Journaux-de-match-Igor
+https://fbref.com/fr/joueurs/bee704fc/matchs/2022-2023/summary/Journaux-de-match-Nikola-Milenkovic
+https://fbref.com/fr/joueurs/42eaa028/matchs/2022-2023/summary/Journaux-de-match-Jonathan-Ikone
+https://fbref.com/fr/joueurs/94816803/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Sottil
+https://fbref.com/fr/joueurs/4c8845f7/matchs/2022-2023/summary/Journaux-de-match-Youssef-Maleh
+https://fbref.com/fr/joueurs/3bb7af3b/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Saponara
+https://fbref.com/fr/joueurs/983ff2c7/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Venuti
+https://fbref.com/fr/joueurs/f0f7f62f/matchs/2022-2023/summary/Journaux-de-match-Pierluigi-Gollini
+https://fbref.com/fr/joueurs/a820e429/matchs/2022-2023/summary/Journaux-de-match-Arthur
+https://fbref.com/fr/joueurs/3ef0a2d7/matchs/2022-2023/summary/Journaux-de-match-Aleksa-Terzic
+https://fbref.com/fr/joueurs/2374aaca/matchs/2022-2023/summary/Journaux-de-match-Nicolas-Gonzalez
+https://fbref.com/fr/joueurs/528492ea/matchs/2022-2023/summary/Journaux-de-match-Alfred-Duncan
+https://fbref.com/fr/joueurs/0000acda/matchs/2022-2023/summary/Journaux-de-match-Marco-Benassi
+https://fbref.com/fr/joueurs/8c63fae5/matchs/2022-2023/summary/Journaux-de-match-Luca-Ranieri
+https://fbref.com/fr/joueurs/4e1d5e59/matchs/2022-2023/summary/Journaux-de-match-Szymon-Zurkowski
+Number of players : 25
+Go to https://fbref.com/fr/joueurs/3ec3c1c9/matchs/2022-2023/summary/Journaux-de-match-Lucas-Martinez-Quarta
+Total Ads removed: 23
+Lucas Martínez Quarta
+Save genstats_Fiorentina_Lucas Martínez Quarta_2022.csv 
+Total Ads removed: 23
+Save passes_Lucas Martínez Quarta_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save passes-type_Lucas Martínez Quarta_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lucas Martínez Quarta_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lucas Martínez Quarta_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save possession_Lucas Martínez Quarta_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Lucas Martínez Quarta_Fiorentina_2022.csv 
+Done player Lucas Martínez Quarta | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/9e1577aa/matchs/2022-2023/summary/Journaux-de-match-Cristiano-Biraghi
+Total Ads removed: 22
+Cristiano Biraghi
+Save genstats_Fiorentina_Cristiano Biraghi_2022.csv 
+Total Ads removed: 23
+Save passes_Cristiano Biraghi_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Cristiano Biraghi_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Cristiano Biraghi_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Cristiano Biraghi_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save possession_Cristiano Biraghi_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save various-stats_Cristiano Biraghi_Fiorentina_2022.csv 
+Done player Cristiano Biraghi | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/58e933d2/matchs/2022-2023/summary/Journaux-de-match-Christian-Kouame
+Total Ads removed: 23
+Christian Kouamé
+Save genstats_Fiorentina_Christian Kouamé_2022.csv 
+Total Ads removed: 24
+Save passes_Christian Kouamé_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save passes-type_Christian Kouamé_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Christian Kouamé_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Christian Kouamé_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Christian Kouamé_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Christian Kouamé_Fiorentina_2022.csv 
+Done player Christian Kouamé | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/e1b0a70d/matchs/2022-2023/summary/Journaux-de-match-Pietro-Terracciano
+Total Ads removed: 23
+Pietro Terracciano
+Save genstats_Fiorentina_Pietro Terracciano_2022.csv 
+Total Ads removed: 24
+Save passes_Pietro Terracciano_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Pietro Terracciano_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Pietro Terracciano_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Pietro Terracciano_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Pietro Terracciano_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save various-stats_Pietro Terracciano_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save keeper_Pietro Terracciano_Fiorentina_2022.csv 
+Done player Pietro Terracciano | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/d995ed27/matchs/2022-2023/summary/Journaux-de-match-Giacomo-Bonaventura
+Total Ads removed: 23
+Giacomo Bonaventura
+Save genstats_Fiorentina_Giacomo Bonaventura_2022.csv 
+Total Ads removed: 23
+Save passes_Giacomo Bonaventura_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save passes-type_Giacomo Bonaventura_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Giacomo Bonaventura_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Giacomo Bonaventura_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Giacomo Bonaventura_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Giacomo Bonaventura_Fiorentina_2022.csv 
+Done player Giacomo Bonaventura | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/01efac19/matchs/2022-2023/summary/Journaux-de-match-Antonin-Barak
+Total Ads removed: 22
+Antonín Barák
+Save genstats_Fiorentina_Antonín Barák_2022.csv 
+Total Ads removed: 24
+Save passes_Antonín Barák_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Antonín Barák_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Antonín Barák_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Antonín Barák_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Antonín Barák_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Antonín Barák_Fiorentina_2022.csv 
+Done player Antonín Barák | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/b5f7d10b/matchs/2022-2023/summary/Journaux-de-match-Dodo
+Total Ads removed: 22
+Dodô
+Save genstats_Fiorentina_Dodô_2022.csv 
+Total Ads removed: 22
+Save passes_Dodô_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Dodô_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Dodô_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Dodô_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Dodô_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Dodô_Fiorentina_2022.csv 
+Done player Dodô | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/4d8cd038/matchs/2022-2023/summary/Journaux-de-match-Luka-Jovic
+Total Ads removed: 23
+Luka Jović
+Save genstats_Fiorentina_Luka Jović_2022.csv 
+Total Ads removed: 23
+Save passes_Luka Jović_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Luka Jović_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Luka Jović_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Luka Jović_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Luka Jović_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save various-stats_Luka Jović_Fiorentina_2022.csv 
+Done player Luka Jović | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/5a2cb25d/matchs/2022-2023/summary/Journaux-de-match-Sofyan-Amrabat
+Total Ads removed: 23
+Sofyan Amrabat
+Save genstats_Fiorentina_Sofyan Amrabat_2022.csv 
+Total Ads removed: 23
+Save passes_Sofyan Amrabat_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save passes-type_Sofyan Amrabat_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Sofyan Amrabat_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Sofyan Amrabat_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Sofyan Amrabat_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Sofyan Amrabat_Fiorentina_2022.csv 
+Done player Sofyan Amrabat | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/c7259b83/matchs/2022-2023/summary/Journaux-de-match-Rolando-Mandragora
+Total Ads removed: 22
+Rolando Mandragora
+Save genstats_Fiorentina_Rolando Mandragora_2022.csv 
+Total Ads removed: 25
+Save passes_Rolando Mandragora_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save passes-type_Rolando Mandragora_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Rolando Mandragora_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Rolando Mandragora_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Rolando Mandragora_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Rolando Mandragora_Fiorentina_2022.csv 
+Done player Rolando Mandragora | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/a4e85758/matchs/2022-2023/summary/Journaux-de-match-Igor
+Total Ads removed: 23
+Igor
+Save genstats_Fiorentina_Igor_2022.csv 
+Total Ads removed: 23
+Save passes_Igor_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Igor_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Igor_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Igor_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Igor_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Igor_Fiorentina_2022.csv 
+Done player Igor | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/bee704fc/matchs/2022-2023/summary/Journaux-de-match-Nikola-Milenkovic
+Total Ads removed: 22
+Nikola Milenković
+Save genstats_Fiorentina_Nikola Milenković_2022.csv 
+Total Ads removed: 23
+Save passes_Nikola Milenković_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nikola Milenković_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Nikola Milenković_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nikola Milenković_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Nikola Milenković_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Nikola Milenković_Fiorentina_2022.csv 
+Done player Nikola Milenković | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/42eaa028/matchs/2022-2023/summary/Journaux-de-match-Jonathan-Ikone
+Total Ads removed: 24
+Jonathan Ikone
+Save genstats_Fiorentina_Jonathan Ikone_2022.csv 
+Total Ads removed: 23
+Save passes_Jonathan Ikone_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jonathan Ikone_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jonathan Ikone_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jonathan Ikone_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Jonathan Ikone_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jonathan Ikone_Fiorentina_2022.csv 
+Done player Jonathan Ikone | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/94816803/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Sottil
+Total Ads removed: 22
+Riccardo Sottil
+Save genstats_Fiorentina_Riccardo Sottil_2022.csv 
+Total Ads removed: 23
+Save passes_Riccardo Sottil_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Riccardo Sottil_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Riccardo Sottil_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Riccardo Sottil_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Riccardo Sottil_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Riccardo Sottil_Fiorentina_2022.csv 
+Done player Riccardo Sottil | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/4c8845f7/matchs/2022-2023/summary/Journaux-de-match-Youssef-Maleh
+Total Ads removed: 22
+Youssef Maleh
+Save genstats_Fiorentina_Youssef Maleh_2022.csv 
+Total Ads removed: 23
+Save passes_Youssef Maleh_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Youssef Maleh_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Youssef Maleh_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Youssef Maleh_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Youssef Maleh_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Youssef Maleh_Fiorentina_2022.csv 
+Done player Youssef Maleh | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/3bb7af3b/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Saponara
+Total Ads removed: 23
+Riccardo Saponara
+Save genstats_Fiorentina_Riccardo Saponara_2022.csv 
+Total Ads removed: 23
+Save passes_Riccardo Saponara_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Riccardo Saponara_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Riccardo Saponara_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Riccardo Saponara_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Riccardo Saponara_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Riccardo Saponara_Fiorentina_2022.csv 
+Done player Riccardo Saponara | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/983ff2c7/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Venuti
+Total Ads removed: 23
+Lorenzo Venuti
+Save genstats_Fiorentina_Lorenzo Venuti_2022.csv 
+Total Ads removed: 23
+Save passes_Lorenzo Venuti_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save passes-type_Lorenzo Venuti_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lorenzo Venuti_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lorenzo Venuti_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Lorenzo Venuti_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save various-stats_Lorenzo Venuti_Fiorentina_2022.csv 
+Done player Lorenzo Venuti | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/f0f7f62f/matchs/2022-2023/summary/Journaux-de-match-Pierluigi-Gollini
+Total Ads removed: 22
+Pierluigi Gollini
+Save genstats_Fiorentina_Pierluigi Gollini_2022.csv 
+Total Ads removed: 24
+Save passes_Pierluigi Gollini_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save passes-type_Pierluigi Gollini_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Pierluigi Gollini_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Pierluigi Gollini_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Pierluigi Gollini_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Pierluigi Gollini_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save keeper_Pierluigi Gollini_Fiorentina_2022.csv 
+Done player Pierluigi Gollini | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/a820e429/matchs/2022-2023/summary/Journaux-de-match-Arthur
+Total Ads removed: 23
+Arthur
+Save genstats_Fiorentina_Arthur_2022.csv 
+Total Ads removed: 23
+Save passes_Arthur_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save passes-type_Arthur_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Arthur_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Arthur_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Arthur_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save various-stats_Arthur_Fiorentina_2022.csv 
+Done player Arthur | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/3ef0a2d7/matchs/2022-2023/summary/Journaux-de-match-Aleksa-Terzic
+Total Ads removed: 22
+Aleksa Terzić
+Total Ads removed: 28
+https://fbref.com/fr/equipes/421387cf/Statistiques-Fiorentina
+https://fbref.com/fr/equipes/21680aa4/Statistiques-Monza
+https://fbref.com/fr/equipes/68449f6d/Statistiques-Spezia
+https://fbref.com/fr/equipes/ffcbe334/Statistiques-Lecce
+https://fbref.com/fr/equipes/8ff9e3b3/Statistiques-Sampdoria
+https://fbref.com/fr/equipes/0e72edf2/Statistiques-Hellas-Verona
+https://fbref.com/fr/equipes/9aad3a77/Statistiques-Cremonese
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/3ec3c1c9/matchs/2022-2023/summary/Journaux-de-match-Lucas-Martinez-Quarta
+https://fbref.com/fr/joueurs/9e1577aa/matchs/2022-2023/summary/Journaux-de-match-Cristiano-Biraghi
+https://fbref.com/fr/joueurs/58e933d2/matchs/2022-2023/summary/Journaux-de-match-Christian-Kouame
+https://fbref.com/fr/joueurs/e1b0a70d/matchs/2022-2023/summary/Journaux-de-match-Pietro-Terracciano
+https://fbref.com/fr/joueurs/d995ed27/matchs/2022-2023/summary/Journaux-de-match-Giacomo-Bonaventura
+https://fbref.com/fr/joueurs/01efac19/matchs/2022-2023/summary/Journaux-de-match-Antonin-Barak
+https://fbref.com/fr/joueurs/b5f7d10b/matchs/2022-2023/summary/Journaux-de-match-Dodo
+https://fbref.com/fr/joueurs/4d8cd038/matchs/2022-2023/summary/Journaux-de-match-Luka-Jovic
+https://fbref.com/fr/joueurs/5a2cb25d/matchs/2022-2023/summary/Journaux-de-match-Sofyan-Amrabat
+https://fbref.com/fr/joueurs/c7259b83/matchs/2022-2023/summary/Journaux-de-match-Rolando-Mandragora
+https://fbref.com/fr/joueurs/a4e85758/matchs/2022-2023/summary/Journaux-de-match-Igor
+https://fbref.com/fr/joueurs/bee704fc/matchs/2022-2023/summary/Journaux-de-match-Nikola-Milenkovic
+https://fbref.com/fr/joueurs/42eaa028/matchs/2022-2023/summary/Journaux-de-match-Jonathan-Ikone
+https://fbref.com/fr/joueurs/94816803/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Sottil
+https://fbref.com/fr/joueurs/4c8845f7/matchs/2022-2023/summary/Journaux-de-match-Youssef-Maleh
+https://fbref.com/fr/joueurs/3bb7af3b/matchs/2022-2023/summary/Journaux-de-match-Riccardo-Saponara
+https://fbref.com/fr/joueurs/983ff2c7/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Venuti
+https://fbref.com/fr/joueurs/f0f7f62f/matchs/2022-2023/summary/Journaux-de-match-Pierluigi-Gollini
+https://fbref.com/fr/joueurs/a820e429/matchs/2022-2023/summary/Journaux-de-match-Arthur
+https://fbref.com/fr/joueurs/3ef0a2d7/matchs/2022-2023/summary/Journaux-de-match-Aleksa-Terzic
+https://fbref.com/fr/joueurs/2374aaca/matchs/2022-2023/summary/Journaux-de-match-Nicolas-Gonzalez
+https://fbref.com/fr/joueurs/528492ea/matchs/2022-2023/summary/Journaux-de-match-Alfred-Duncan
+https://fbref.com/fr/joueurs/0000acda/matchs/2022-2023/summary/Journaux-de-match-Marco-Benassi
+https://fbref.com/fr/joueurs/8c63fae5/matchs/2022-2023/summary/Journaux-de-match-Luca-Ranieri
+https://fbref.com/fr/joueurs/4e1d5e59/matchs/2022-2023/summary/Journaux-de-match-Szymon-Zurkowski
+Number of players : 25
+Go to https://fbref.com/fr/joueurs/3ef0a2d7/matchs/2022-2023/summary/Journaux-de-match-Aleksa-Terzic
+Total Ads removed: 23
+Aleksa Terzić
+Save genstats_Fiorentina_Aleksa Terzić_2022.csv 
+Total Ads removed: 23
+Save passes_Aleksa Terzić_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save passes-type_Aleksa Terzić_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Aleksa Terzić_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Aleksa Terzić_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Aleksa Terzić_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save various-stats_Aleksa Terzić_Fiorentina_2022.csv 
+Done player Aleksa Terzić | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/2374aaca/matchs/2022-2023/summary/Journaux-de-match-Nicolas-Gonzalez
+Total Ads removed: 23
+Nicolás González
+Save genstats_Fiorentina_Nicolás González_2022.csv 
+Total Ads removed: 22
+Save passes_Nicolás González_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Nicolás González_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Nicolás González_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Nicolás González_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save possession_Nicolás González_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save various-stats_Nicolás González_Fiorentina_2022.csv 
+Done player Nicolás González | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/528492ea/matchs/2022-2023/summary/Journaux-de-match-Alfred-Duncan
+Total Ads removed: 24
+Alfred Duncan
+Save genstats_Fiorentina_Alfred Duncan_2022.csv 
+Total Ads removed: 23
+Save passes_Alfred Duncan_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save passes-type_Alfred Duncan_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Alfred Duncan_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Alfred Duncan_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Alfred Duncan_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Alfred Duncan_Fiorentina_2022.csv 
+Done player Alfred Duncan | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/0000acda/matchs/2022-2023/summary/Journaux-de-match-Marco-Benassi
+Total Ads removed: 23
+Marco Benassi
+Save genstats_Fiorentina_Marco Benassi_2022.csv 
+Total Ads removed: 23
+Save passes_Marco Benassi_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Marco Benassi_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Marco Benassi_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Marco Benassi_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Marco Benassi_Fiorentina_2022.csv 
+Total Ads removed: 21
+Save various-stats_Marco Benassi_Fiorentina_2022.csv 
+Done player Marco Benassi | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/8c63fae5/matchs/2022-2023/summary/Journaux-de-match-Luca-Ranieri
+Total Ads removed: 23
+Luca Ranieri
+Save genstats_Fiorentina_Luca Ranieri_2022.csv 
+Total Ads removed: 22
+Save passes_Luca Ranieri_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Luca Ranieri_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Luca Ranieri_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Luca Ranieri_Fiorentina_2022.csv 
+Total Ads removed: 24
+Save possession_Luca Ranieri_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save various-stats_Luca Ranieri_Fiorentina_2022.csv 
+Done player Luca Ranieri | team Fiorentina | 2022
+Go to https://fbref.com/fr/joueurs/4e1d5e59/matchs/2022-2023/summary/Journaux-de-match-Szymon-Zurkowski
+Total Ads removed: 23
+Szymon Żurkowski
+Save genstats_Fiorentina_Szymon Żurkowski_2022.csv 
+Total Ads removed: 22
+Save passes_Szymon Żurkowski_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save passes-type_Szymon Żurkowski_Fiorentina_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Szymon Żurkowski_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Szymon Żurkowski_Fiorentina_2022.csv 
+Total Ads removed: 23
+Save possession_Szymon Żurkowski_Fiorentina_2022.csv 
+Total Ads removed: 22
+Save various-stats_Szymon Żurkowski_Fiorentina_2022.csv 
+Done player Szymon Żurkowski | team Fiorentina | 2022
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/4e0c8d66/matchs/2022-2023/summary/Journaux-de-match-Michele-Di-Gregorio
+https://fbref.com/fr/joueurs/54e53b7e/matchs/2022-2023/summary/Journaux-de-match-Gianluca-Caprari
+https://fbref.com/fr/joueurs/8d3cd59d/matchs/2022-2023/summary/Journaux-de-match-Carlos
+https://fbref.com/fr/joueurs/b70bde8f/matchs/2022-2023/summary/Journaux-de-match-Stefano-Sensi
+https://fbref.com/fr/joueurs/aa54ec6f/matchs/2022-2023/summary/Journaux-de-match-Pablo-Mari
+https://fbref.com/fr/joueurs/780e3631/matchs/2022-2023/summary/Journaux-de-match-Matteo-Pessina
+https://fbref.com/fr/joueurs/226008f1/matchs/2022-2023/summary/Journaux-de-match-Luca-Caldirola
+https://fbref.com/fr/joueurs/cdf65d12/matchs/2022-2023/summary/Journaux-de-match-Marlon
+https://fbref.com/fr/joueurs/204ac005/matchs/2022-2023/summary/Journaux-de-match-Samuele-Birindelli
+https://fbref.com/fr/joueurs/e58cbfd5/matchs/2022-2023/summary/Journaux-de-match-Nicolo-Rovella
+https://fbref.com/fr/joueurs/5de3866c/matchs/2022-2023/summary/Journaux-de-match-Patrick-Ciurria
+https://fbref.com/fr/joueurs/efc9e31f/matchs/2022-2023/summary/Journaux-de-match-Dany-Mota
+https://fbref.com/fr/joueurs/89976232/matchs/2022-2023/summary/Journaux-de-match-Armando-Izzo
+https://fbref.com/fr/joueurs/03f946ed/matchs/2022-2023/summary/Journaux-de-match-Andrea-Petagna
+https://fbref.com/fr/joueurs/32ebfe1e/matchs/2022-2023/summary/Journaux-de-match-Andrea-Barberis
+https://fbref.com/fr/joueurs/9250bcff/matchs/2022-2023/summary/Journaux-de-match-Christian-Gytkjaer
+https://fbref.com/fr/joueurs/c414df9d/matchs/2022-2023/summary/Journaux-de-match-Mattia-Valoti
+https://fbref.com/fr/joueurs/060606ec/matchs/2022-2023/summary/Journaux-de-match-Marco-DAlessandro
+https://fbref.com/fr/joueurs/d9ebed1c/matchs/2022-2023/summary/Journaux-de-match-Filippo-Ranocchia
+https://fbref.com/fr/joueurs/ea468ea8/matchs/2022-2023/summary/Journaux-de-match-Luca-Marrone
+https://fbref.com/fr/joueurs/54ab971f/matchs/2022-2023/summary/Journaux-de-match-Salvatore-Molina
+https://fbref.com/fr/joueurs/6499048c/matchs/2022-2023/summary/Journaux-de-match-Andrea-Colpani
+https://fbref.com/fr/joueurs/f7e2af2c/matchs/2022-2023/summary/Journaux-de-match-Andrea-Carboni
+https://fbref.com/fr/joueurs/8f68aa41/matchs/2022-2023/summary/Journaux-de-match-Valentin-Antov
+https://fbref.com/fr/joueurs/7afb1573/matchs/2022-2023/summary/Journaux-de-match-Pepin
+https://fbref.com/fr/joueurs/539230cf/matchs/2022-2023/summary/Journaux-de-match-Andrea-Ranocchia
+https://fbref.com/fr/joueurs/22051fbe/matchs/2022-2023/summary/Journaux-de-match-Giulio-Donati
+https://fbref.com/fr/joueurs/0def2376/matchs/2022-2023/summary/Journaux-de-match-Warren-Bondo
+Number of players : 28
+Go to https://fbref.com/fr/joueurs/4e0c8d66/matchs/2022-2023/summary/Journaux-de-match-Michele-Di-Gregorio
+Total Ads removed: 21
+Michele Di Gregorio
+Save genstats_Monza_Michele Di Gregorio_2022.csv 
+Total Ads removed: 23
+Save passes_Michele Di Gregorio_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Michele Di Gregorio_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Michele Di Gregorio_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Michele Di Gregorio_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Michele Di Gregorio_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Michele Di Gregorio_Monza_2022.csv 
+Total Ads removed: 22
+Save keeper_Michele Di Gregorio_Monza_2022.csv 
+Done player Michele Di Gregorio | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/54e53b7e/matchs/2022-2023/summary/Journaux-de-match-Gianluca-Caprari
+Total Ads removed: 22
+Gianluca Caprari
+Save genstats_Monza_Gianluca Caprari_2022.csv 
+Total Ads removed: 23
+Save passes_Gianluca Caprari_Monza_2022.csv 
+Total Ads removed: 23
+Save passes-type_Gianluca Caprari_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Gianluca Caprari_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Gianluca Caprari_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Gianluca Caprari_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Gianluca Caprari_Monza_2022.csv 
+Done player Gianluca Caprari | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/8d3cd59d/matchs/2022-2023/summary/Journaux-de-match-Carlos
+Total Ads removed: 23
+Carlos
+Save genstats_Monza_Carlos_2022.csv 
+Total Ads removed: 22
+Save passes_Carlos_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Carlos_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Carlos_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Carlos_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Carlos_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Carlos_Monza_2022.csv 
+Done player Carlos | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/b70bde8f/matchs/2022-2023/summary/Journaux-de-match-Stefano-Sensi
+Total Ads removed: 22
+Stefano Sensi
+Save genstats_Monza_Stefano Sensi_2022.csv 
+Total Ads removed: 23
+Save passes_Stefano Sensi_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Stefano Sensi_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Stefano Sensi_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Stefano Sensi_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Stefano Sensi_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Stefano Sensi_Monza_2022.csv 
+Done player Stefano Sensi | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/aa54ec6f/matchs/2022-2023/summary/Journaux-de-match-Pablo-Mari
+Total Ads removed: 22
+Pablo Marí
+Save genstats_Monza_Pablo Marí_2022.csv 
+Total Ads removed: 22
+Save passes_Pablo Marí_Monza_2022.csv 
+Total Ads removed: 24
+Save passes-type_Pablo Marí_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Pablo Marí_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Pablo Marí_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Pablo Marí_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Pablo Marí_Monza_2022.csv 
+Done player Pablo Marí | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/780e3631/matchs/2022-2023/summary/Journaux-de-match-Matteo-Pessina
+Total Ads removed: 22
+Matteo Pessina
+Save genstats_Monza_Matteo Pessina_2022.csv 
+Total Ads removed: 22
+Save passes_Matteo Pessina_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Matteo Pessina_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Matteo Pessina_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Matteo Pessina_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Matteo Pessina_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Matteo Pessina_Monza_2022.csv 
+Done player Matteo Pessina | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/226008f1/matchs/2022-2023/summary/Journaux-de-match-Luca-Caldirola
+Total Ads removed: 22
+Luca Caldirola
+Save genstats_Monza_Luca Caldirola_2022.csv 
+Total Ads removed: 23
+Save passes_Luca Caldirola_Monza_2022.csv 
+Total Ads removed: 24
+Save passes-type_Luca Caldirola_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Luca Caldirola_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Luca Caldirola_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Luca Caldirola_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Luca Caldirola_Monza_2022.csv 
+Done player Luca Caldirola | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/cdf65d12/matchs/2022-2023/summary/Journaux-de-match-Marlon
+Total Ads removed: 22
+Marlon
+Save genstats_Monza_Marlon_2022.csv 
+Total Ads removed: 22
+Save passes_Marlon_Monza_2022.csv 
+Total Ads removed: 23
+Save passes-type_Marlon_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Marlon_Monza_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Marlon_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Marlon_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Marlon_Monza_2022.csv 
+Done player Marlon | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/204ac005/matchs/2022-2023/summary/Journaux-de-match-Samuele-Birindelli
+Total Ads removed: 23
+Samuele Birindelli
+Save genstats_Monza_Samuele Birindelli_2022.csv 
+Total Ads removed: 22
+Save passes_Samuele Birindelli_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Samuele Birindelli_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Samuele Birindelli_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Samuele Birindelli_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Samuele Birindelli_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Samuele Birindelli_Monza_2022.csv 
+Done player Samuele Birindelli | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/5de3866c/matchs/2022-2023/summary/Journaux-de-match-Patrick-Ciurria
+Total Ads removed: 22
+Patrick Ciurria
+Save genstats_Monza_Patrick Ciurria_2022.csv 
+Total Ads removed: 23
+Save passes_Patrick Ciurria_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Patrick Ciurria_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Patrick Ciurria_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Patrick Ciurria_Monza_2022.csv 
+Total Ads removed: 25
+Save possession_Patrick Ciurria_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Patrick Ciurria_Monza_2022.csv 
+Done player Patrick Ciurria | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/efc9e31f/matchs/2022-2023/summary/Journaux-de-match-Dany-Mota
+Total Ads removed: 22
+Dany Mota
+Save genstats_Monza_Dany Mota_2022.csv 
+Total Ads removed: 22
+Save passes_Dany Mota_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Dany Mota_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Dany Mota_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Dany Mota_Monza_2022.csv 
+Total Ads removed: 21
+Save possession_Dany Mota_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Dany Mota_Monza_2022.csv 
+Done player Dany Mota | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/89976232/matchs/2022-2023/summary/Journaux-de-match-Armando-Izzo
+Total Ads removed: 22
+Armando Izzo
+Save genstats_Monza_Armando Izzo_2022.csv 
+Total Ads removed: 22
+Save passes_Armando Izzo_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Armando Izzo_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Armando Izzo_Monza_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Armando Izzo_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Armando Izzo_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Armando Izzo_Monza_2022.csv 
+Done player Armando Izzo | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/03f946ed/matchs/2022-2023/summary/Journaux-de-match-Andrea-Petagna
+Total Ads removed: 23
+Andrea Petagna
+Save genstats_Monza_Andrea Petagna_2022.csv 
+Total Ads removed: 23
+Save passes_Andrea Petagna_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Petagna_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Andrea Petagna_Monza_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Andrea Petagna_Monza_2022.csv 
+Total Ads removed: 24
+Save possession_Andrea Petagna_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Andrea Petagna_Monza_2022.csv 
+Done player Andrea Petagna | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/32ebfe1e/matchs/2022-2023/summary/Journaux-de-match-Andrea-Barberis
+Total Ads removed: 22
+Andrea Barberis
+Save genstats_Monza_Andrea Barberis_2022.csv 
+Total Ads removed: 22
+Save passes_Andrea Barberis_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Barberis_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrea Barberis_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrea Barberis_Monza_2022.csv 
+Total Ads removed: 24
+Save possession_Andrea Barberis_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Andrea Barberis_Monza_2022.csv 
+Done player Andrea Barberis | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/9250bcff/matchs/2022-2023/summary/Journaux-de-match-Christian-Gytkjaer
+Total Ads removed: 23
+Christian Gytkjær
+Save genstats_Monza_Christian Gytkjær_2022.csv 
+Total Ads removed: 22
+Save passes_Christian Gytkjær_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Christian Gytkjær_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Christian Gytkjær_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Christian Gytkjær_Monza_2022.csv 
+Total Ads removed: 24
+Save possession_Christian Gytkjær_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Christian Gytkjær_Monza_2022.csv 
+Done player Christian Gytkjær | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/c414df9d/matchs/2022-2023/summary/Journaux-de-match-Mattia-Valoti
+Total Ads removed: 23
+Mattia Valoti
+Save genstats_Monza_Mattia Valoti_2022.csv 
+Total Ads removed: 22
+Save passes_Mattia Valoti_Monza_2022.csv 
+Total Ads removed: 24
+Save passes-type_Mattia Valoti_Monza_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Mattia Valoti_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Mattia Valoti_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Mattia Valoti_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Mattia Valoti_Monza_2022.csv 
+Done player Mattia Valoti | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/060606ec/matchs/2022-2023/summary/Journaux-de-match-Marco-DAlessandro
+Total Ads removed: 23
+Marco D'Alessandro
+Save genstats_Monza_Marco D'Alessandro_2022.csv 
+Total Ads removed: 23
+Save passes_Marco D'Alessandro_Monza_2022.csv 
+Total Ads removed: 21
+Save passes-type_Marco D'Alessandro_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Marco D'Alessandro_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Marco D'Alessandro_Monza_2022.csv 
+Total Ads removed: 24
+Save possession_Marco D'Alessandro_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Marco D'Alessandro_Monza_2022.csv 
+Done player Marco D'Alessandro | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/d9ebed1c/matchs/2022-2023/summary/Journaux-de-match-Filippo-Ranocchia
+Total Ads removed: 22
+Filippo Ranocchia
+Save genstats_Monza_Filippo Ranocchia_2022.csv 
+Total Ads removed: 22
+Save passes_Filippo Ranocchia_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Filippo Ranocchia_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Filippo Ranocchia_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Filippo Ranocchia_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Filippo Ranocchia_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Filippo Ranocchia_Monza_2022.csv 
+Done player Filippo Ranocchia | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/ea468ea8/matchs/2022-2023/summary/Journaux-de-match-Luca-Marrone
+Total Ads removed: 23
+Luca Marrone
+Save genstats_Monza_Luca Marrone_2022.csv 
+Total Ads removed: 23
+Save passes_Luca Marrone_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Luca Marrone_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Luca Marrone_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Luca Marrone_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Luca Marrone_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Luca Marrone_Monza_2022.csv 
+Done player Luca Marrone | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/54ab971f/matchs/2022-2023/summary/Journaux-de-match-Salvatore-Molina
+Total Ads removed: 23
+Salvatore Molina
+Save genstats_Monza_Salvatore Molina_2022.csv 
+Total Ads removed: 22
+Save passes_Salvatore Molina_Monza_2022.csv 
+Total Ads removed: 20
+Save passes-type_Salvatore Molina_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Salvatore Molina_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Salvatore Molina_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Salvatore Molina_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Salvatore Molina_Monza_2022.csv 
+Done player Salvatore Molina | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/6499048c/matchs/2022-2023/summary/Journaux-de-match-Andrea-Colpani
+Total Ads removed: 23
+Andrea Colpani
+Save genstats_Monza_Andrea Colpani_2022.csv 
+Total Ads removed: 20
+Save passes_Andrea Colpani_Monza_2022.csv 
+Total Ads removed: 23
+Save passes-type_Andrea Colpani_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Andrea Colpani_Monza_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Andrea Colpani_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Andrea Colpani_Monza_2022.csv 
+Total Ads removed: 22
+Save various-stats_Andrea Colpani_Monza_2022.csv 
+Done player Andrea Colpani | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/f7e2af2c/matchs/2022-2023/summary/Journaux-de-match-Andrea-Carboni
+Total Ads removed: 22
+Andrea Carboni
+Save genstats_Monza_Andrea Carboni_2022.csv 
+Total Ads removed: 24
+Save passes_Andrea Carboni_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Carboni_Monza_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Andrea Carboni_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Andrea Carboni_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Andrea Carboni_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Andrea Carboni_Monza_2022.csv 
+Done player Andrea Carboni | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/8f68aa41/matchs/2022-2023/summary/Journaux-de-match-Valentin-Antov
+Total Ads removed: 23
+Valentin Antov
+Save genstats_Monza_Valentin Antov_2022.csv 
+Total Ads removed: 22
+Save passes_Valentin Antov_Monza_2022.csv 
+Total Ads removed: 23
+Save passes-type_Valentin Antov_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Valentin Antov_Monza_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Valentin Antov_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Valentin Antov_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Valentin Antov_Monza_2022.csv 
+Done player Valentin Antov | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/7afb1573/matchs/2022-2023/summary/Journaux-de-match-Pepin
+Total Ads removed: 22
+Pepín
+Save genstats_Monza_Pepín_2022.csv 
+Total Ads removed: 22
+Save passes_Pepín_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Pepín_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Pepín_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Pepín_Monza_2022.csv 
+Total Ads removed: 23
+Save possession_Pepín_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Pepín_Monza_2022.csv 
+Done player Pepín | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/539230cf/matchs/2022-2023/summary/Journaux-de-match-Andrea-Ranocchia
+Total Ads removed: 23
+Andrea Ranocchia
+Save genstats_Monza_Andrea Ranocchia_2022.csv 
+Total Ads removed: 23
+Save passes_Andrea Ranocchia_Monza_2022.csv 
+Total Ads removed: 22
+Save passes-type_Andrea Ranocchia_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Andrea Ranocchia_Monza_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Andrea Ranocchia_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Andrea Ranocchia_Monza_2022.csv 
+Total Ads removed: 24
+Save various-stats_Andrea Ranocchia_Monza_2022.csv 
+Done player Andrea Ranocchia | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/22051fbe/matchs/2022-2023/summary/Journaux-de-match-Giulio-Donati
+Total Ads removed: 22
+Giulio Donati
+Save genstats_Monza_Giulio Donati_2022.csv 
+Total Ads removed: 23
+Save passes_Giulio Donati_Monza_2022.csv 
+Total Ads removed: 24
+Save passes-type_Giulio Donati_Monza_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Giulio Donati_Monza_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Giulio Donati_Monza_2022.csv 
+Total Ads removed: 22
+Save possession_Giulio Donati_Monza_2022.csv 
+Total Ads removed: 23
+Save various-stats_Giulio Donati_Monza_2022.csv 
+Done player Giulio Donati | team Monza | 2022
+Go to https://fbref.com/fr/joueurs/0def2376/matchs/2022-2023/summary/Journaux-de-match-Warren-Bondo
+Total Ads removed: 23
+Warren Bondo
+Save genstats_Monza_Warren Bondo_2022.csv 
+Total Ads removed: 23
+Save passes_Warren Bondo_Monza_2022.csv 
+Total Ads removed: 23
+Save passes-type_Warren Bondo_Monza_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Warren Bondo_Monza_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Warren Bondo_Monza_2022.csv 
+Total Ads removed: 25
+Save possession_Warren Bondo_Monza_2022.csv 
+Total Ads removed: 25
+Save various-stats_Warren Bondo_Monza_2022.csv 
+Done player Warren Bondo | team Monza | 2022
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/085e71a7/matchs/2022-2023/summary/Journaux-de-match-Bartlomiej-Dragowski
+https://fbref.com/fr/joueurs/a4948e67/matchs/2022-2023/summary/Journaux-de-match-MBala-Nzola
+https://fbref.com/fr/joueurs/cf961d8d/matchs/2022-2023/summary/Journaux-de-match-Dimitris-Nikolaou
+https://fbref.com/fr/joueurs/dc3e663e/matchs/2022-2023/summary/Journaux-de-match-Jakub-Kiwior
+https://fbref.com/fr/joueurs/0d077b88/matchs/2022-2023/summary/Journaux-de-match-Mehdi-Bourabia
+https://fbref.com/fr/joueurs/f9758dae/matchs/2022-2023/summary/Journaux-de-match-Emmanuel-Gyasi
+https://fbref.com/fr/joueurs/1ac232b8/matchs/2022-2023/summary/Journaux-de-match-Simone-Bastoni
+https://fbref.com/fr/joueurs/c2357b65/matchs/2022-2023/summary/Journaux-de-match-Emil-Holm
+https://fbref.com/fr/joueurs/46fa7204/matchs/2022-2023/summary/Journaux-de-match-Kevin-Agudelo
+https://fbref.com/fr/joueurs/6213fd82/matchs/2022-2023/summary/Journaux-de-match-Arkadiusz-Reca
+https://fbref.com/fr/joueurs/10b9fa99/matchs/2022-2023/summary/Journaux-de-match-Ethan-Ampadu
+https://fbref.com/fr/joueurs/ac7e640b/matchs/2022-2023/summary/Journaux-de-match-Mattia-Caldara
+https://fbref.com/fr/joueurs/9d60028d/matchs/2022-2023/summary/Journaux-de-match-Viktor-Kovalenko
+https://fbref.com/fr/joueurs/d8800a46/matchs/2022-2023/summary/Journaux-de-match-Petko-Hristov
+https://fbref.com/fr/joueurs/bcc81786/matchs/2022-2023/summary/Journaux-de-match-Kelvin-Amian
+https://fbref.com/fr/joueurs/f503ea63/matchs/2022-2023/summary/Journaux-de-match-Albin-Ekdal
+https://fbref.com/fr/joueurs/2cb9486d/matchs/2022-2023/summary/Journaux-de-match-David-Strelec
+https://fbref.com/fr/joueurs/d3298c99/matchs/2022-2023/summary/Journaux-de-match-Daniele-Verde
+https://fbref.com/fr/joueurs/c55967eb/matchs/2022-2023/summary/Journaux-de-match-Mikael-Ellertsson
+https://fbref.com/fr/joueurs/da5a981b/matchs/2022-2023/summary/Journaux-de-match-Jacopo-Sala
+https://fbref.com/fr/joueurs/801831fe/matchs/2022-2023/summary/Journaux-de-match-Daniel-Maldini
+https://fbref.com/fr/joueurs/4295f19c/matchs/2022-2023/summary/Journaux-de-match-Leandro-Sanca
+https://fbref.com/fr/joueurs/e892c325/matchs/2022-2023/summary/Journaux-de-match-Julius-Beck
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/085e71a7/matchs/2022-2023/summary/Journaux-de-match-Bartlomiej-Dragowski
+Total Ads removed: 22
+Bartłomiej Drągowski
+Save genstats_Spezia_Bartłomiej Drągowski_2022.csv 
+Total Ads removed: 24
+Save passes_Bartłomiej Drągowski_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Bartłomiej Drągowski_Spezia_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Bartłomiej Drągowski_Spezia_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Bartłomiej Drągowski_Spezia_2022.csv 
+Total Ads removed: 24
+Save possession_Bartłomiej Drągowski_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Bartłomiej Drągowski_Spezia_2022.csv 
+Total Ads removed: 23
+Save keeper_Bartłomiej Drągowski_Spezia_2022.csv 
+Done player Bartłomiej Drągowski | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/a4948e67/matchs/2022-2023/summary/Journaux-de-match-MBala-Nzola
+Total Ads removed: 24
+M'Bala Nzola
+Save genstats_Spezia_M'Bala Nzola_2022.csv 
+Total Ads removed: 25
+Save passes_M'Bala Nzola_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_M'Bala Nzola_Spezia_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_M'Bala Nzola_Spezia_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_M'Bala Nzola_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_M'Bala Nzola_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_M'Bala Nzola_Spezia_2022.csv 
+Done player M'Bala Nzola | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/cf961d8d/matchs/2022-2023/summary/Journaux-de-match-Dimitris-Nikolaou
+Total Ads removed: 22
+Dimitris Nikolaou
+Save genstats_Spezia_Dimitris Nikolaou_2022.csv 
+Total Ads removed: 24
+Save passes_Dimitris Nikolaou_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Dimitris Nikolaou_Spezia_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Dimitris Nikolaou_Spezia_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Dimitris Nikolaou_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Dimitris Nikolaou_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Dimitris Nikolaou_Spezia_2022.csv 
+Done player Dimitris Nikolaou | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/dc3e663e/matchs/2022-2023/summary/Journaux-de-match-Jakub-Kiwior
+Total Ads removed: 24
+Jakub Kiwior
+Save genstats_Spezia_Jakub Kiwior_2022.csv 
+Total Ads removed: 23
+Save passes_Jakub Kiwior_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jakub Kiwior_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jakub Kiwior_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jakub Kiwior_Spezia_2022.csv 
+Total Ads removed: 25
+Save possession_Jakub Kiwior_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jakub Kiwior_Spezia_2022.csv 
+Done player Jakub Kiwior | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/0d077b88/matchs/2022-2023/summary/Journaux-de-match-Mehdi-Bourabia
+Total Ads removed: 23
+Mehdi Bourabia
+Save genstats_Spezia_Mehdi Bourabia_2022.csv 
+Total Ads removed: 22
+Save passes_Mehdi Bourabia_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Mehdi Bourabia_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Mehdi Bourabia_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Mehdi Bourabia_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Mehdi Bourabia_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Mehdi Bourabia_Spezia_2022.csv 
+Done player Mehdi Bourabia | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/f9758dae/matchs/2022-2023/summary/Journaux-de-match-Emmanuel-Gyasi
+Total Ads removed: 23
+Emmanuel Gyasi
+Save genstats_Spezia_Emmanuel Gyasi_2022.csv 
+Total Ads removed: 24
+Save passes_Emmanuel Gyasi_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Emmanuel Gyasi_Spezia_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Emmanuel Gyasi_Spezia_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Emmanuel Gyasi_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Emmanuel Gyasi_Spezia_2022.csv 
+Total Ads removed: 22
+Save various-stats_Emmanuel Gyasi_Spezia_2022.csv 
+Done player Emmanuel Gyasi | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/1ac232b8/matchs/2022-2023/summary/Journaux-de-match-Simone-Bastoni
+Total Ads removed: 24
+Simone Bastoni
+Save genstats_Spezia_Simone Bastoni_2022.csv 
+Total Ads removed: 23
+Save passes_Simone Bastoni_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Simone Bastoni_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Simone Bastoni_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Simone Bastoni_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Simone Bastoni_Spezia_2022.csv 
+Total Ads removed: 22
+Save various-stats_Simone Bastoni_Spezia_2022.csv 
+Done player Simone Bastoni | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/c2357b65/matchs/2022-2023/summary/Journaux-de-match-Emil-Holm
+Total Ads removed: 22
+Emil Holm
+Save genstats_Spezia_Emil Holm_2022.csv 
+Total Ads removed: 23
+Save passes_Emil Holm_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Emil Holm_Spezia_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Emil Holm_Spezia_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Emil Holm_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Emil Holm_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Emil Holm_Spezia_2022.csv 
+Done player Emil Holm | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/46fa7204/matchs/2022-2023/summary/Journaux-de-match-Kevin-Agudelo
+Total Ads removed: 23
+Kevin Agudelo
+Save genstats_Spezia_Kevin Agudelo_2022.csv 
+Total Ads removed: 22
+Save passes_Kevin Agudelo_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Kevin Agudelo_Spezia_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Kevin Agudelo_Spezia_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Kevin Agudelo_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Kevin Agudelo_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Kevin Agudelo_Spezia_2022.csv 
+Done player Kevin Agudelo | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/6213fd82/matchs/2022-2023/summary/Journaux-de-match-Arkadiusz-Reca
+Total Ads removed: 24
+Arkadiusz Reca
+Save genstats_Spezia_Arkadiusz Reca_2022.csv 
+Total Ads removed: 22
+Save passes_Arkadiusz Reca_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Arkadiusz Reca_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Arkadiusz Reca_Spezia_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Arkadiusz Reca_Spezia_2022.csv 
+Total Ads removed: 24
+Save possession_Arkadiusz Reca_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Arkadiusz Reca_Spezia_2022.csv 
+Done player Arkadiusz Reca | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/10b9fa99/matchs/2022-2023/summary/Journaux-de-match-Ethan-Ampadu
+Total Ads removed: 22
+Ethan Ampadu
+Save genstats_Spezia_Ethan Ampadu_2022.csv 
+Total Ads removed: 23
+Save passes_Ethan Ampadu_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ethan Ampadu_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Ethan Ampadu_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ethan Ampadu_Spezia_2022.csv 
+Total Ads removed: 27
+Save possession_Ethan Ampadu_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Ethan Ampadu_Spezia_2022.csv 
+Done player Ethan Ampadu | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/ac7e640b/matchs/2022-2023/summary/Journaux-de-match-Mattia-Caldara
+Total Ads removed: 22
+Mattia Caldara
+Save genstats_Spezia_Mattia Caldara_2022.csv 
+Total Ads removed: 22
+Save passes_Mattia Caldara_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Mattia Caldara_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Mattia Caldara_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Mattia Caldara_Spezia_2022.csv 
+Total Ads removed: 24
+Save possession_Mattia Caldara_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Mattia Caldara_Spezia_2022.csv 
+Done player Mattia Caldara | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/9d60028d/matchs/2022-2023/summary/Journaux-de-match-Viktor-Kovalenko
+Total Ads removed: 22
+Viktor Kovalenko
+Save genstats_Spezia_Viktor Kovalenko_2022.csv 
+Total Ads removed: 23
+Save passes_Viktor Kovalenko_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Viktor Kovalenko_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Viktor Kovalenko_Spezia_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Viktor Kovalenko_Spezia_2022.csv 
+Total Ads removed: 21
+Save possession_Viktor Kovalenko_Spezia_2022.csv 
+Total Ads removed: 22
+Save various-stats_Viktor Kovalenko_Spezia_2022.csv 
+Done player Viktor Kovalenko | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/d8800a46/matchs/2022-2023/summary/Journaux-de-match-Petko-Hristov
+Total Ads removed: 22
+Petko Hristov
+Save genstats_Spezia_Petko Hristov_2022.csv 
+Total Ads removed: 22
+Save passes_Petko Hristov_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Petko Hristov_Spezia_2022.csv 
+Total Ads removed: 21
+Save penalty-prep_Petko Hristov_Spezia_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Petko Hristov_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Petko Hristov_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Petko Hristov_Spezia_2022.csv 
+Done player Petko Hristov | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/bcc81786/matchs/2022-2023/summary/Journaux-de-match-Kelvin-Amian
+Total Ads removed: 22
+Kelvin Amian
+Save genstats_Spezia_Kelvin Amian_2022.csv 
+Total Ads removed: 22
+Save passes_Kelvin Amian_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Kelvin Amian_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Kelvin Amian_Spezia_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Kelvin Amian_Spezia_2022.csv 
+Total Ads removed: 25
+Save possession_Kelvin Amian_Spezia_2022.csv 
+Total Ads removed: 25
+Save various-stats_Kelvin Amian_Spezia_2022.csv 
+Done player Kelvin Amian | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/f503ea63/matchs/2022-2023/summary/Journaux-de-match-Albin-Ekdal
+Total Ads removed: 23
+Albin Ekdal
+Save genstats_Spezia_Albin Ekdal_2022.csv 
+Total Ads removed: 22
+Save passes_Albin Ekdal_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Albin Ekdal_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Albin Ekdal_Spezia_2022.csv 
+Total Ads removed: 21
+Save defensive-actions_Albin Ekdal_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Albin Ekdal_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Albin Ekdal_Spezia_2022.csv 
+Done player Albin Ekdal | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/2cb9486d/matchs/2022-2023/summary/Journaux-de-match-David-Strelec
+Total Ads removed: 22
+Dávid Strelec
+Save genstats_Spezia_Dávid Strelec_2022.csv 
+Total Ads removed: 24
+Save passes_Dávid Strelec_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Dávid Strelec_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Dávid Strelec_Spezia_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Dávid Strelec_Spezia_2022.csv 
+Total Ads removed: 25
+Save possession_Dávid Strelec_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Dávid Strelec_Spezia_2022.csv 
+Done player Dávid Strelec | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/d3298c99/matchs/2022-2023/summary/Journaux-de-match-Daniele-Verde
+Total Ads removed: 22
+Daniele Verde
+Save genstats_Spezia_Daniele Verde_2022.csv 
+Total Ads removed: 23
+Save passes_Daniele Verde_Spezia_2022.csv 
+Total Ads removed: 24
+Save passes-type_Daniele Verde_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Daniele Verde_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Daniele Verde_Spezia_2022.csv 
+Total Ads removed: 22
+Save possession_Daniele Verde_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Daniele Verde_Spezia_2022.csv 
+Done player Daniele Verde | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/c55967eb/matchs/2022-2023/summary/Journaux-de-match-Mikael-Ellertsson
+Total Ads removed: 24
+Mikael Ellertsson
+Save genstats_Spezia_Mikael Ellertsson_2022.csv 
+Total Ads removed: 22
+Save passes_Mikael Ellertsson_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Mikael Ellertsson_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Mikael Ellertsson_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Mikael Ellertsson_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Mikael Ellertsson_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Mikael Ellertsson_Spezia_2022.csv 
+Done player Mikael Ellertsson | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/da5a981b/matchs/2022-2023/summary/Journaux-de-match-Jacopo-Sala
+Total Ads removed: 23
+Jacopo Sala
+Save genstats_Spezia_Jacopo Sala_2022.csv 
+Total Ads removed: 22
+Save passes_Jacopo Sala_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Jacopo Sala_Spezia_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Jacopo Sala_Spezia_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Jacopo Sala_Spezia_2022.csv 
+Total Ads removed: 23
+Save possession_Jacopo Sala_Spezia_2022.csv 
+Total Ads removed: 22
+Save various-stats_Jacopo Sala_Spezia_2022.csv 
+Done player Jacopo Sala | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/801831fe/matchs/2022-2023/summary/Journaux-de-match-Daniel-Maldini
+Total Ads removed: 23
+Daniel Maldini
+Save genstats_Spezia_Daniel Maldini_2022.csv 
+Total Ads removed: 25
+Save passes_Daniel Maldini_Spezia_2022.csv 
+Total Ads removed: 22
+Save passes-type_Daniel Maldini_Spezia_2022.csv 
+Total Ads removed: 21
+Save penalty-prep_Daniel Maldini_Spezia_2022.csv 
+Total Ads removed: 21
+Save defensive-actions_Daniel Maldini_Spezia_2022.csv 
+Total Ads removed: 22
+Save possession_Daniel Maldini_Spezia_2022.csv 
+Total Ads removed: 23
+Save various-stats_Daniel Maldini_Spezia_2022.csv 
+Done player Daniel Maldini | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/4295f19c/matchs/2022-2023/summary/Journaux-de-match-Leandro-Sanca
+Total Ads removed: 24
+Leandro Sanca
+Save genstats_Spezia_Leandro Sanca_2022.csv 
+Total Ads removed: 24
+Save passes_Leandro Sanca_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Leandro Sanca_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Leandro Sanca_Spezia_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Leandro Sanca_Spezia_2022.csv 
+Total Ads removed: 24
+Save possession_Leandro Sanca_Spezia_2022.csv 
+Total Ads removed: 25
+Save various-stats_Leandro Sanca_Spezia_2022.csv 
+Done player Leandro Sanca | team Spezia | 2022
+Go to https://fbref.com/fr/joueurs/e892c325/matchs/2022-2023/summary/Journaux-de-match-Julius-Beck
+Total Ads removed: 22
+Julius Beck
+Save genstats_Spezia_Julius Beck_2022.csv 
+Total Ads removed: 23
+Save passes_Julius Beck_Spezia_2022.csv 
+Total Ads removed: 23
+Save passes-type_Julius Beck_Spezia_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Julius Beck_Spezia_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Julius Beck_Spezia_2022.csv 
+Total Ads removed: 24
+Save possession_Julius Beck_Spezia_2022.csv 
+Total Ads removed: 24
+Save various-stats_Julius Beck_Spezia_2022.csv 
+Done player Julius Beck | team Spezia | 2022
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/5a08ee41/matchs/2022-2023/summary/Journaux-de-match-Federico-Baschirotto
+https://fbref.com/fr/joueurs/9f5a610b/matchs/2022-2023/summary/Journaux-de-match-Wladimiro-Falcone
+https://fbref.com/fr/joueurs/822ed0ec/matchs/2022-2023/summary/Journaux-de-match-Valentin-Gendrey
+https://fbref.com/fr/joueurs/d4456fb3/matchs/2022-2023/summary/Journaux-de-match-Morten-Hjulmand
+https://fbref.com/fr/joueurs/f025eade/matchs/2022-2023/summary/Journaux-de-match-Joan-Gonzalez
+https://fbref.com/fr/joueurs/07f8bcc8/matchs/2022-2023/summary/Journaux-de-match-Assan-Ceesay
+https://fbref.com/fr/joueurs/8a6de8c7/matchs/2022-2023/summary/Journaux-de-match-Lameck-Banda
+https://fbref.com/fr/joueurs/674cfc5a/matchs/2022-2023/summary/Journaux-de-match-Gabriel-Strefezza
+https://fbref.com/fr/joueurs/c74d63ac/matchs/2022-2023/summary/Journaux-de-match-Antonino-Gallo
+https://fbref.com/fr/joueurs/2a6cd437/matchs/2022-2023/summary/Journaux-de-match-Marin-Pongracic
+https://fbref.com/fr/joueurs/1fca9171/matchs/2022-2023/summary/Journaux-de-match-Federico-Di-Francesco
+https://fbref.com/fr/joueurs/a69cc629/matchs/2022-2023/summary/Journaux-de-match-Kristoffer-Askildsen
+https://fbref.com/fr/joueurs/149c5f5d/matchs/2022-2023/summary/Journaux-de-match-Giuseppe-Pezzella
+https://fbref.com/fr/joueurs/79370f8c/matchs/2022-2023/summary/Journaux-de-match-Kristijan-Bistrovic
+https://fbref.com/fr/joueurs/c69ef855/matchs/2022-2023/summary/Journaux-de-match-Alexis-Blin
+https://fbref.com/fr/joueurs/04df29a5/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Colombo
+https://fbref.com/fr/joueurs/26c54058/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Tuia
+https://fbref.com/fr/joueurs/3eed9821/matchs/2022-2023/summary/Journaux-de-match-Samuel-Umtiti
+https://fbref.com/fr/joueurs/dc765618/matchs/2022-2023/summary/Journaux-de-match-Thorir-Johann-Helgason
+https://fbref.com/fr/joueurs/ea02beaf/matchs/2022-2023/summary/Journaux-de-match-Remi-Oudin
+https://fbref.com/fr/joueurs/c730da00/matchs/2022-2023/summary/Journaux-de-match-Yildirim-Mert-Cetin
+https://fbref.com/fr/joueurs/a3695ac2/matchs/2022-2023/summary/Journaux-de-match-Marcin-Listkowski
+https://fbref.com/fr/joueurs/1d4e63b6/matchs/2022-2023/summary/Journaux-de-match-Pablo-Rodriguez
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/5a08ee41/matchs/2022-2023/summary/Journaux-de-match-Federico-Baschirotto
+Total Ads removed: 19
+Federico Baschirotto
+Save genstats_Lecce_Federico Baschirotto_2022.csv 
+Total Ads removed: 21
+Save passes_Federico Baschirotto_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Federico Baschirotto_Lecce_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Federico Baschirotto_Lecce_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Federico Baschirotto_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Federico Baschirotto_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Federico Baschirotto_Lecce_2022.csv 
+Done player Federico Baschirotto | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/9f5a610b/matchs/2022-2023/summary/Journaux-de-match-Wladimiro-Falcone
+Total Ads removed: 24
+Wladimiro Falcone
+Save genstats_Lecce_Wladimiro Falcone_2022.csv 
+Total Ads removed: 22
+Save passes_Wladimiro Falcone_Lecce_2022.csv 
+Total Ads removed: 24
+Save passes-type_Wladimiro Falcone_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Wladimiro Falcone_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Wladimiro Falcone_Lecce_2022.csv 
+Total Ads removed: 25
+Save possession_Wladimiro Falcone_Lecce_2022.csv 
+Total Ads removed: 25
+Save various-stats_Wladimiro Falcone_Lecce_2022.csv 
+Total Ads removed: 25
+Save keeper_Wladimiro Falcone_Lecce_2022.csv 
+Done player Wladimiro Falcone | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/822ed0ec/matchs/2022-2023/summary/Journaux-de-match-Valentin-Gendrey
+Total Ads removed: 22
+Valentin Gendrey
+Save genstats_Lecce_Valentin Gendrey_2022.csv 
+Total Ads removed: 22
+Save passes_Valentin Gendrey_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Valentin Gendrey_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Valentin Gendrey_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Valentin Gendrey_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Valentin Gendrey_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Valentin Gendrey_Lecce_2022.csv 
+Done player Valentin Gendrey | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/d4456fb3/matchs/2022-2023/summary/Journaux-de-match-Morten-Hjulmand
+Total Ads removed: 22
+Morten Hjulmand
+Save genstats_Lecce_Morten Hjulmand_2022.csv 
+Total Ads removed: 23
+Save passes_Morten Hjulmand_Lecce_2022.csv 
+Total Ads removed: 22
+Save passes-type_Morten Hjulmand_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Morten Hjulmand_Lecce_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Morten Hjulmand_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Morten Hjulmand_Lecce_2022.csv 
+Total Ads removed: 24
+Save various-stats_Morten Hjulmand_Lecce_2022.csv 
+Done player Morten Hjulmand | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/f025eade/matchs/2022-2023/summary/Journaux-de-match-Joan-Gonzalez
+Total Ads removed: 25
+Joan Gonzàlez
+Save genstats_Lecce_Joan Gonzàlez_2022.csv 
+Total Ads removed: 23
+Save passes_Joan Gonzàlez_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Joan Gonzàlez_Lecce_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Joan Gonzàlez_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Joan Gonzàlez_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Joan Gonzàlez_Lecce_2022.csv 
+Total Ads removed: 24
+Save various-stats_Joan Gonzàlez_Lecce_2022.csv 
+Done player Joan Gonzàlez | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/07f8bcc8/matchs/2022-2023/summary/Journaux-de-match-Assan-Ceesay
+Total Ads removed: 24
+Assan Ceesay
+Save genstats_Lecce_Assan Ceesay_2022.csv 
+Total Ads removed: 23
+Save passes_Assan Ceesay_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Assan Ceesay_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Assan Ceesay_Lecce_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Assan Ceesay_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Assan Ceesay_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Assan Ceesay_Lecce_2022.csv 
+Done player Assan Ceesay | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/8a6de8c7/matchs/2022-2023/summary/Journaux-de-match-Lameck-Banda
+Total Ads removed: 25
+Lameck Banda
+Save genstats_Lecce_Lameck Banda_2022.csv 
+Total Ads removed: 25
+Save passes_Lameck Banda_Lecce_2022.csv 
+Total Ads removed: 25
+Save passes-type_Lameck Banda_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lameck Banda_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lameck Banda_Lecce_2022.csv 
+Total Ads removed: 25
+Save possession_Lameck Banda_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Lameck Banda_Lecce_2022.csv 
+Done player Lameck Banda | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/674cfc5a/matchs/2022-2023/summary/Journaux-de-match-Gabriel-Strefezza
+Total Ads removed: 22
+Gabriel Strefezza
+Save genstats_Lecce_Gabriel Strefezza_2022.csv 
+Total Ads removed: 24
+Save passes_Gabriel Strefezza_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Gabriel Strefezza_Lecce_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Gabriel Strefezza_Lecce_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Gabriel Strefezza_Lecce_2022.csv 
+Total Ads removed: 24
+Save possession_Gabriel Strefezza_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Gabriel Strefezza_Lecce_2022.csv 
+Done player Gabriel Strefezza | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/c74d63ac/matchs/2022-2023/summary/Journaux-de-match-Antonino-Gallo
+Total Ads removed: 23
+Antonino Gallo
+Save genstats_Lecce_Antonino Gallo_2022.csv 
+Total Ads removed: 24
+Save passes_Antonino Gallo_Lecce_2022.csv 
+Total Ads removed: 24
+Save passes-type_Antonino Gallo_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Antonino Gallo_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Antonino Gallo_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Antonino Gallo_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Antonino Gallo_Lecce_2022.csv 
+Done player Antonino Gallo | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/2a6cd437/matchs/2022-2023/summary/Journaux-de-match-Marin-Pongracic
+Total Ads removed: 23
+Marin Pongračić
+Save genstats_Lecce_Marin Pongračić_2022.csv 
+Total Ads removed: 24
+Save passes_Marin Pongračić_Lecce_2022.csv 
+Total Ads removed: 25
+Save passes-type_Marin Pongračić_Lecce_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Marin Pongračić_Lecce_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Marin Pongračić_Lecce_2022.csv 
+Total Ads removed: 22
+Save possession_Marin Pongračić_Lecce_2022.csv 
+Total Ads removed: 24
+Save various-stats_Marin Pongračić_Lecce_2022.csv 
+Done player Marin Pongračić | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/1fca9171/matchs/2022-2023/summary/Journaux-de-match-Federico-Di-Francesco
+Total Ads removed: 23
+Federico Di Francesco
+Save genstats_Lecce_Federico Di Francesco_2022.csv 
+Total Ads removed: 23
+Save passes_Federico Di Francesco_Lecce_2022.csv 
+Total Ads removed: 22
+Save passes-type_Federico Di Francesco_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Federico Di Francesco_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Federico Di Francesco_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Federico Di Francesco_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Federico Di Francesco_Lecce_2022.csv 
+Done player Federico Di Francesco | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/a69cc629/matchs/2022-2023/summary/Journaux-de-match-Kristoffer-Askildsen
+Total Ads removed: 25
+Kristoffer Askildsen
+Save genstats_Lecce_Kristoffer Askildsen_2022.csv 
+Total Ads removed: 22
+Save passes_Kristoffer Askildsen_Lecce_2022.csv 
+Total Ads removed: 24
+Save passes-type_Kristoffer Askildsen_Lecce_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Kristoffer Askildsen_Lecce_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Kristoffer Askildsen_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Kristoffer Askildsen_Lecce_2022.csv 
+Total Ads removed: 25
+Save various-stats_Kristoffer Askildsen_Lecce_2022.csv 
+Done player Kristoffer Askildsen | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/149c5f5d/matchs/2022-2023/summary/Journaux-de-match-Giuseppe-Pezzella
+Total Ads removed: 25
+Giuseppe Pezzella
+Save genstats_Lecce_Giuseppe Pezzella_2022.csv 
+Total Ads removed: 25
+Save passes_Giuseppe Pezzella_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Giuseppe Pezzella_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Giuseppe Pezzella_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Giuseppe Pezzella_Lecce_2022.csv 
+Total Ads removed: 24
+Save possession_Giuseppe Pezzella_Lecce_2022.csv 
+Total Ads removed: 25
+Save various-stats_Giuseppe Pezzella_Lecce_2022.csv 
+Done player Giuseppe Pezzella | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/79370f8c/matchs/2022-2023/summary/Journaux-de-match-Kristijan-Bistrovic
+Total Ads removed: 25
+Kristijan Bistrović
+Save genstats_Lecce_Kristijan Bistrović_2022.csv 
+Total Ads removed: 23
+Save passes_Kristijan Bistrović_Lecce_2022.csv 
+Total Ads removed: 22
+Save passes-type_Kristijan Bistrović_Lecce_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Kristijan Bistrović_Lecce_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Kristijan Bistrović_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Kristijan Bistrović_Lecce_2022.csv 
+Total Ads removed: 24
+Save various-stats_Kristijan Bistrović_Lecce_2022.csv 
+Done player Kristijan Bistrović | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/c69ef855/matchs/2022-2023/summary/Journaux-de-match-Alexis-Blin
+Total Ads removed: 23
+Alexis Blin
+Save genstats_Lecce_Alexis Blin_2022.csv 
+Total Ads removed: 24
+Save passes_Alexis Blin_Lecce_2022.csv 
+Total Ads removed: 22
+Save passes-type_Alexis Blin_Lecce_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Alexis Blin_Lecce_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Alexis Blin_Lecce_2022.csv 
+Total Ads removed: 22
+Save possession_Alexis Blin_Lecce_2022.csv 
+Total Ads removed: 22
+Save various-stats_Alexis Blin_Lecce_2022.csv 
+Done player Alexis Blin | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/04df29a5/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Colombo
+Total Ads removed: 26
+Lorenzo Colombo
+Save genstats_Lecce_Lorenzo Colombo_2022.csv 
+Total Ads removed: 23
+Save passes_Lorenzo Colombo_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Lorenzo Colombo_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Lorenzo Colombo_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Lorenzo Colombo_Lecce_2022.csv 
+Total Ads removed: 22
+Save possession_Lorenzo Colombo_Lecce_2022.csv 
+Total Ads removed: 22
+Save various-stats_Lorenzo Colombo_Lecce_2022.csv 
+Done player Lorenzo Colombo | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/26c54058/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Tuia
+Total Ads removed: 23
+Alessandro Tuia
+Save genstats_Lecce_Alessandro Tuia_2022.csv 
+Total Ads removed: 22
+Save passes_Alessandro Tuia_Lecce_2022.csv 
+Total Ads removed: 22
+Save passes-type_Alessandro Tuia_Lecce_2022.csv 
+Error removing wrapper
+No ads found
+Total Ads removed: 30
+https://fbref.com/fr/equipes/ffcbe334/Statistiques-Lecce
+https://fbref.com/fr/equipes/8ff9e3b3/Statistiques-Sampdoria
+https://fbref.com/fr/equipes/0e72edf2/Statistiques-Hellas-Verona
+https://fbref.com/fr/equipes/9aad3a77/Statistiques-Cremonese
+Total Ads removed: 27
+https://fbref.com/fr/joueurs/5a08ee41/matchs/2022-2023/summary/Journaux-de-match-Federico-Baschirotto
+https://fbref.com/fr/joueurs/9f5a610b/matchs/2022-2023/summary/Journaux-de-match-Wladimiro-Falcone
+https://fbref.com/fr/joueurs/822ed0ec/matchs/2022-2023/summary/Journaux-de-match-Valentin-Gendrey
+https://fbref.com/fr/joueurs/d4456fb3/matchs/2022-2023/summary/Journaux-de-match-Morten-Hjulmand
+https://fbref.com/fr/joueurs/f025eade/matchs/2022-2023/summary/Journaux-de-match-Joan-Gonzalez
+https://fbref.com/fr/joueurs/07f8bcc8/matchs/2022-2023/summary/Journaux-de-match-Assan-Ceesay
+https://fbref.com/fr/joueurs/8a6de8c7/matchs/2022-2023/summary/Journaux-de-match-Lameck-Banda
+https://fbref.com/fr/joueurs/674cfc5a/matchs/2022-2023/summary/Journaux-de-match-Gabriel-Strefezza
+https://fbref.com/fr/joueurs/c74d63ac/matchs/2022-2023/summary/Journaux-de-match-Antonino-Gallo
+https://fbref.com/fr/joueurs/2a6cd437/matchs/2022-2023/summary/Journaux-de-match-Marin-Pongracic
+https://fbref.com/fr/joueurs/1fca9171/matchs/2022-2023/summary/Journaux-de-match-Federico-Di-Francesco
+https://fbref.com/fr/joueurs/a69cc629/matchs/2022-2023/summary/Journaux-de-match-Kristoffer-Askildsen
+https://fbref.com/fr/joueurs/149c5f5d/matchs/2022-2023/summary/Journaux-de-match-Giuseppe-Pezzella
+https://fbref.com/fr/joueurs/79370f8c/matchs/2022-2023/summary/Journaux-de-match-Kristijan-Bistrovic
+https://fbref.com/fr/joueurs/c69ef855/matchs/2022-2023/summary/Journaux-de-match-Alexis-Blin
+https://fbref.com/fr/joueurs/04df29a5/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Colombo
+https://fbref.com/fr/joueurs/26c54058/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Tuia
+https://fbref.com/fr/joueurs/3eed9821/matchs/2022-2023/summary/Journaux-de-match-Samuel-Umtiti
+https://fbref.com/fr/joueurs/dc765618/matchs/2022-2023/summary/Journaux-de-match-Thorir-Johann-Helgason
+https://fbref.com/fr/joueurs/ea02beaf/matchs/2022-2023/summary/Journaux-de-match-Remi-Oudin
+https://fbref.com/fr/joueurs/c730da00/matchs/2022-2023/summary/Journaux-de-match-Yildirim-Mert-Cetin
+https://fbref.com/fr/joueurs/a3695ac2/matchs/2022-2023/summary/Journaux-de-match-Marcin-Listkowski
+https://fbref.com/fr/joueurs/1d4e63b6/matchs/2022-2023/summary/Journaux-de-match-Pablo-Rodriguez
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/26c54058/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Tuia
+Total Ads removed: 26
+Alessandro Tuia
+Total Ads removed: 30
+Save penalty-prep_Alessandro Tuia_Lecce_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Alessandro Tuia_Lecce_2022.csv 
+Error removing wrapper
+Total Ads removed: 2
+Total Ads removed: 30
+https://fbref.com/fr/equipes/ffcbe334/Statistiques-Lecce
+https://fbref.com/fr/equipes/8ff9e3b3/Statistiques-Sampdoria
+https://fbref.com/fr/equipes/0e72edf2/Statistiques-Hellas-Verona
+https://fbref.com/fr/equipes/9aad3a77/Statistiques-Cremonese
+Total Ads removed: 29
+https://fbref.com/fr/joueurs/5a08ee41/matchs/2022-2023/summary/Journaux-de-match-Federico-Baschirotto
+https://fbref.com/fr/joueurs/9f5a610b/matchs/2022-2023/summary/Journaux-de-match-Wladimiro-Falcone
+https://fbref.com/fr/joueurs/822ed0ec/matchs/2022-2023/summary/Journaux-de-match-Valentin-Gendrey
+https://fbref.com/fr/joueurs/d4456fb3/matchs/2022-2023/summary/Journaux-de-match-Morten-Hjulmand
+https://fbref.com/fr/joueurs/f025eade/matchs/2022-2023/summary/Journaux-de-match-Joan-Gonzalez
+https://fbref.com/fr/joueurs/07f8bcc8/matchs/2022-2023/summary/Journaux-de-match-Assan-Ceesay
+https://fbref.com/fr/joueurs/8a6de8c7/matchs/2022-2023/summary/Journaux-de-match-Lameck-Banda
+https://fbref.com/fr/joueurs/674cfc5a/matchs/2022-2023/summary/Journaux-de-match-Gabriel-Strefezza
+https://fbref.com/fr/joueurs/c74d63ac/matchs/2022-2023/summary/Journaux-de-match-Antonino-Gallo
+https://fbref.com/fr/joueurs/2a6cd437/matchs/2022-2023/summary/Journaux-de-match-Marin-Pongracic
+https://fbref.com/fr/joueurs/1fca9171/matchs/2022-2023/summary/Journaux-de-match-Federico-Di-Francesco
+https://fbref.com/fr/joueurs/a69cc629/matchs/2022-2023/summary/Journaux-de-match-Kristoffer-Askildsen
+https://fbref.com/fr/joueurs/149c5f5d/matchs/2022-2023/summary/Journaux-de-match-Giuseppe-Pezzella
+https://fbref.com/fr/joueurs/79370f8c/matchs/2022-2023/summary/Journaux-de-match-Kristijan-Bistrovic
+https://fbref.com/fr/joueurs/c69ef855/matchs/2022-2023/summary/Journaux-de-match-Alexis-Blin
+https://fbref.com/fr/joueurs/04df29a5/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Colombo
+https://fbref.com/fr/joueurs/26c54058/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Tuia
+https://fbref.com/fr/joueurs/3eed9821/matchs/2022-2023/summary/Journaux-de-match-Samuel-Umtiti
+https://fbref.com/fr/joueurs/dc765618/matchs/2022-2023/summary/Journaux-de-match-Thorir-Johann-Helgason
+https://fbref.com/fr/joueurs/ea02beaf/matchs/2022-2023/summary/Journaux-de-match-Remi-Oudin
+https://fbref.com/fr/joueurs/c730da00/matchs/2022-2023/summary/Journaux-de-match-Yildirim-Mert-Cetin
+https://fbref.com/fr/joueurs/a3695ac2/matchs/2022-2023/summary/Journaux-de-match-Marcin-Listkowski
+https://fbref.com/fr/joueurs/1d4e63b6/matchs/2022-2023/summary/Journaux-de-match-Pablo-Rodriguez
+Number of players : 23
+Go to https://fbref.com/fr/joueurs/26c54058/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Tuia
+Total Ads removed: 26
+Alessandro Tuia
+Total Ads removed: 25
+Save possession_Alessandro Tuia_Lecce_2022.csv 
+Total Ads removed: 27
+Save various-stats_Alessandro Tuia_Lecce_2022.csv 
+Done player Alessandro Tuia | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/3eed9821/matchs/2022-2023/summary/Journaux-de-match-Samuel-Umtiti
+Total Ads removed: 25
+Samuel Umtiti
+Save genstats_Lecce_Samuel Umtiti_2022.csv 
+Total Ads removed: 23
+Save passes_Samuel Umtiti_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Samuel Umtiti_Lecce_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Samuel Umtiti_Lecce_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Samuel Umtiti_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Samuel Umtiti_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Samuel Umtiti_Lecce_2022.csv 
+Done player Samuel Umtiti | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/dc765618/matchs/2022-2023/summary/Journaux-de-match-Thorir-Johann-Helgason
+Total Ads removed: 23
+Þórir Jóhann Helgason
+Save genstats_Lecce_Þórir Jóhann Helgason_2022.csv 
+Total Ads removed: 23
+Save passes_Þórir Jóhann Helgason_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Þórir Jóhann Helgason_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Þórir Jóhann Helgason_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Þórir Jóhann Helgason_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Þórir Jóhann Helgason_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Þórir Jóhann Helgason_Lecce_2022.csv 
+Done player Þórir Jóhann Helgason | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/ea02beaf/matchs/2022-2023/summary/Journaux-de-match-Remi-Oudin
+Total Ads removed: 25
+Remi Oudin
+Save genstats_Lecce_Remi Oudin_2022.csv 
+Total Ads removed: 24
+Save passes_Remi Oudin_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Remi Oudin_Lecce_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Remi Oudin_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Remi Oudin_Lecce_2022.csv 
+Total Ads removed: 24
+Save possession_Remi Oudin_Lecce_2022.csv 
+Total Ads removed: 24
+Save various-stats_Remi Oudin_Lecce_2022.csv 
+Done player Remi Oudin | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/c730da00/matchs/2022-2023/summary/Journaux-de-match-Yildirim-Mert-Cetin
+Total Ads removed: 26
+Yıldırım Mert Çetin
+Save genstats_Lecce_Yıldırım Mert Çetin_2022.csv 
+Total Ads removed: 25
+Save passes_Yıldırım Mert Çetin_Lecce_2022.csv 
+Total Ads removed: 26
+Save passes-type_Yıldırım Mert Çetin_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Yıldırım Mert Çetin_Lecce_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Yıldırım Mert Çetin_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Yıldırım Mert Çetin_Lecce_2022.csv 
+Total Ads removed: 24
+Save various-stats_Yıldırım Mert Çetin_Lecce_2022.csv 
+Done player Yıldırım Mert Çetin | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/a3695ac2/matchs/2022-2023/summary/Journaux-de-match-Marcin-Listkowski
+Total Ads removed: 24
+Marcin Listkowski
+Save genstats_Lecce_Marcin Listkowski_2022.csv 
+Total Ads removed: 25
+Save passes_Marcin Listkowski_Lecce_2022.csv 
+Total Ads removed: 24
+Save passes-type_Marcin Listkowski_Lecce_2022.csv 
+Total Ads removed: 13
+Save penalty-prep_Marcin Listkowski_Lecce_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Marcin Listkowski_Lecce_2022.csv 
+Total Ads removed: 23
+Save possession_Marcin Listkowski_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Marcin Listkowski_Lecce_2022.csv 
+Done player Marcin Listkowski | team Lecce | 2022
+Go to https://fbref.com/fr/joueurs/1d4e63b6/matchs/2022-2023/summary/Journaux-de-match-Pablo-Rodriguez
+Total Ads removed: 23
+Pablo Rodríguez
+Save genstats_Lecce_Pablo Rodríguez_2022.csv 
+Total Ads removed: 23
+Save passes_Pablo Rodríguez_Lecce_2022.csv 
+Total Ads removed: 23
+Save passes-type_Pablo Rodríguez_Lecce_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Pablo Rodríguez_Lecce_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Pablo Rodríguez_Lecce_2022.csv 
+Total Ads removed: 22
+Save possession_Pablo Rodríguez_Lecce_2022.csv 
+Total Ads removed: 23
+Save various-stats_Pablo Rodríguez_Lecce_2022.csv 
+Done player Pablo Rodríguez | team Lecce | 2022
+Total Ads removed: 23
+https://fbref.com/fr/joueurs/649b01d8/matchs/2022-2023/summary/Journaux-de-match-Emil-Audero
+https://fbref.com/fr/joueurs/f1cfc209/matchs/2022-2023/summary/Journaux-de-match-Tomas-Rincon
+https://fbref.com/fr/joueurs/61b3978f/matchs/2022-2023/summary/Journaux-de-match-Bartosz-Bereszynski
+https://fbref.com/fr/joueurs/5bd72174/matchs/2022-2023/summary/Journaux-de-match-Francesco-Caputo
+https://fbref.com/fr/joueurs/8b95acda/matchs/2022-2023/summary/Journaux-de-match-Omar-Colley
+https://fbref.com/fr/joueurs/3cd3b384/matchs/2022-2023/summary/Journaux-de-match-Tommaso-Augello
+https://fbref.com/fr/joueurs/4830e0af/matchs/2022-2023/summary/Journaux-de-match-Abdelhamid-Sabiri
+https://fbref.com/fr/joueurs/eccbe56a/matchs/2022-2023/summary/Journaux-de-match-Filip-Djuricic
+https://fbref.com/fr/joueurs/d0dbca9f/matchs/2022-2023/summary/Journaux-de-match-Alex-Ferrari
+https://fbref.com/fr/joueurs/7d3cbc67/matchs/2022-2023/summary/Journaux-de-match-Mehdi-Leris
+https://fbref.com/fr/joueurs/bdc74a8f/matchs/2022-2023/summary/Journaux-de-match-Gonzalo-Villar
+https://fbref.com/fr/joueurs/75e60d75/matchs/2022-2023/summary/Journaux-de-match-Ronaldo-Vieira
+https://fbref.com/fr/joueurs/b233e8e4/matchs/2022-2023/summary/Journaux-de-match-Jeison-Murillo
+https://fbref.com/fr/joueurs/8f866fe8/matchs/2022-2023/summary/Journaux-de-match-Manolo-Gabbiadini
+https://fbref.com/fr/joueurs/33ecf462/matchs/2022-2023/summary/Journaux-de-match-Valerio-Verre
+https://fbref.com/fr/joueurs/ee4f2f3b/matchs/2022-2023/summary/Journaux-de-match-Fabio-Quagliarella
+https://fbref.com/fr/joueurs/2df7cc43/matchs/2022-2023/summary/Journaux-de-match-Bruno-Amione
+https://fbref.com/fr/joueurs/62437b4f/matchs/2022-2023/summary/Journaux-de-match-Ignacio-Pussetto
+https://fbref.com/fr/joueurs/d97f2e8d/matchs/2022-2023/summary/Journaux-de-match-Fabio-Depaoli
+https://fbref.com/fr/joueurs/d183e9d6/matchs/2022-2023/summary/Journaux-de-match-Nicola-Murru
+https://fbref.com/fr/joueurs/ee9040b4/matchs/2022-2023/summary/Journaux-de-match-Gerard-Yepes
+https://fbref.com/fr/joueurs/60e3603d/matchs/2022-2023/summary/Journaux-de-match-Manuel-De-Luca
+https://fbref.com/fr/joueurs/8fef5412/matchs/2022-2023/summary/Journaux-de-match-Andrea-Conti
+https://fbref.com/fr/joueurs/ca73910d/matchs/2022-2023/summary/Journaux-de-match-Daniele-Montevago
+Number of players : 24
+Go to https://fbref.com/fr/joueurs/649b01d8/matchs/2022-2023/summary/Journaux-de-match-Emil-Audero
+Total Ads removed: 23
+Emil Audero
+Save genstats_Sampdoria_Emil Audero_2022.csv 
+Total Ads removed: 26
+Save passes_Emil Audero_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Emil Audero_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Emil Audero_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Emil Audero_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Emil Audero_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Emil Audero_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save keeper_Emil Audero_Sampdoria_2022.csv 
+Done player Emil Audero | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/f1cfc209/matchs/2022-2023/summary/Journaux-de-match-Tomas-Rincon
+Total Ads removed: 23
+Tomás Rincón
+Save genstats_Sampdoria_Tomás Rincón_2022.csv 
+Total Ads removed: 24
+Save passes_Tomás Rincón_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Tomás Rincón_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Tomás Rincón_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Tomás Rincón_Sampdoria_2022.csv 
+Total Ads removed: 21
+Save possession_Tomás Rincón_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Tomás Rincón_Sampdoria_2022.csv 
+Done player Tomás Rincón | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/61b3978f/matchs/2022-2023/summary/Journaux-de-match-Bartosz-Bereszynski
+Total Ads removed: 23
+Bartosz Bereszyński
+Save genstats_Sampdoria_Bartosz Bereszyński_2022.csv 
+Total Ads removed: 23
+Save passes_Bartosz Bereszyński_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Bartosz Bereszyński_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Bartosz Bereszyński_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Bartosz Bereszyński_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Bartosz Bereszyński_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save various-stats_Bartosz Bereszyński_Sampdoria_2022.csv 
+Done player Bartosz Bereszyński | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/5bd72174/matchs/2022-2023/summary/Journaux-de-match-Francesco-Caputo
+Total Ads removed: 23
+Francesco Caputo
+Save genstats_Sampdoria_Francesco Caputo_2022.csv 
+Total Ads removed: 22
+Save passes_Francesco Caputo_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Francesco Caputo_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Francesco Caputo_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Francesco Caputo_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Francesco Caputo_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Francesco Caputo_Sampdoria_2022.csv 
+Done player Francesco Caputo | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/8b95acda/matchs/2022-2023/summary/Journaux-de-match-Omar-Colley
+Total Ads removed: 23
+Omar Colley
+Save genstats_Sampdoria_Omar Colley_2022.csv 
+Total Ads removed: 24
+Save passes_Omar Colley_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save passes-type_Omar Colley_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Omar Colley_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Omar Colley_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Omar Colley_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Omar Colley_Sampdoria_2022.csv 
+Done player Omar Colley | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/3cd3b384/matchs/2022-2023/summary/Journaux-de-match-Tommaso-Augello
+Total Ads removed: 25
+Tommaso Augello
+Save genstats_Sampdoria_Tommaso Augello_2022.csv 
+Total Ads removed: 25
+Save passes_Tommaso Augello_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Tommaso Augello_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Tommaso Augello_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Tommaso Augello_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save possession_Tommaso Augello_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Tommaso Augello_Sampdoria_2022.csv 
+Done player Tommaso Augello | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/4830e0af/matchs/2022-2023/summary/Journaux-de-match-Abdelhamid-Sabiri
+Total Ads removed: 24
+Abdelhamid Sabiri
+Save genstats_Sampdoria_Abdelhamid Sabiri_2022.csv 
+Total Ads removed: 23
+Save passes_Abdelhamid Sabiri_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Abdelhamid Sabiri_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Abdelhamid Sabiri_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Abdelhamid Sabiri_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Abdelhamid Sabiri_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save various-stats_Abdelhamid Sabiri_Sampdoria_2022.csv 
+Done player Abdelhamid Sabiri | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/eccbe56a/matchs/2022-2023/summary/Journaux-de-match-Filip-Djuricic
+Total Ads removed: 25
+Filip Đuričić
+Save genstats_Sampdoria_Filip Đuričić_2022.csv 
+Total Ads removed: 25
+Save passes_Filip Đuričić_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save passes-type_Filip Đuričić_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Filip Đuričić_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Filip Đuričić_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save possession_Filip Đuričić_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Filip Đuričić_Sampdoria_2022.csv 
+Done player Filip Đuričić | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/d0dbca9f/matchs/2022-2023/summary/Journaux-de-match-Alex-Ferrari
+Total Ads removed: 22
+Alex Ferrari
+Save genstats_Sampdoria_Alex Ferrari_2022.csv 
+Total Ads removed: 22
+Save passes_Alex Ferrari_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Alex Ferrari_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Alex Ferrari_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Alex Ferrari_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Alex Ferrari_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Alex Ferrari_Sampdoria_2022.csv 
+Done player Alex Ferrari | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/7d3cbc67/matchs/2022-2023/summary/Journaux-de-match-Mehdi-Leris
+Total Ads removed: 22
+Mehdi Léris
+Save genstats_Sampdoria_Mehdi Léris_2022.csv 
+Total Ads removed: 23
+Save passes_Mehdi Léris_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Mehdi Léris_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Mehdi Léris_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Mehdi Léris_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Mehdi Léris_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save various-stats_Mehdi Léris_Sampdoria_2022.csv 
+Done player Mehdi Léris | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/bdc74a8f/matchs/2022-2023/summary/Journaux-de-match-Gonzalo-Villar
+Total Ads removed: 23
+Gonzalo Villar
+Save genstats_Sampdoria_Gonzalo Villar_2022.csv 
+Total Ads removed: 23
+Save passes_Gonzalo Villar_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Gonzalo Villar_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Gonzalo Villar_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Gonzalo Villar_Sampdoria_2022.csv 
+Total Ads removed: 26
+Save possession_Gonzalo Villar_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Gonzalo Villar_Sampdoria_2022.csv 
+Done player Gonzalo Villar | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/75e60d75/matchs/2022-2023/summary/Journaux-de-match-Ronaldo-Vieira
+Total Ads removed: 23
+Ronaldo Vieira
+Save genstats_Sampdoria_Ronaldo Vieira_2022.csv 
+Total Ads removed: 24
+Save passes_Ronaldo Vieira_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ronaldo Vieira_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ronaldo Vieira_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Ronaldo Vieira_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save possession_Ronaldo Vieira_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save various-stats_Ronaldo Vieira_Sampdoria_2022.csv 
+Done player Ronaldo Vieira | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/b233e8e4/matchs/2022-2023/summary/Journaux-de-match-Jeison-Murillo
+Total Ads removed: 22
+Jeison Murillo
+Save genstats_Sampdoria_Jeison Murillo_2022.csv 
+Total Ads removed: 24
+Save passes_Jeison Murillo_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save passes-type_Jeison Murillo_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Jeison Murillo_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Jeison Murillo_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Jeison Murillo_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jeison Murillo_Sampdoria_2022.csv 
+Done player Jeison Murillo | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/8f866fe8/matchs/2022-2023/summary/Journaux-de-match-Manolo-Gabbiadini
+Total Ads removed: 22
+Manolo Gabbiadini
+Save genstats_Sampdoria_Manolo Gabbiadini_2022.csv 
+Total Ads removed: 22
+Save passes_Manolo Gabbiadini_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save passes-type_Manolo Gabbiadini_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Manolo Gabbiadini_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Manolo Gabbiadini_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Manolo Gabbiadini_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Manolo Gabbiadini_Sampdoria_2022.csv 
+Done player Manolo Gabbiadini | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/33ecf462/matchs/2022-2023/summary/Journaux-de-match-Valerio-Verre
+Total Ads removed: 23
+Valerio Verre
+Save genstats_Sampdoria_Valerio Verre_2022.csv 
+Total Ads removed: 22
+Save passes_Valerio Verre_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save passes-type_Valerio Verre_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Valerio Verre_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Valerio Verre_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Valerio Verre_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save various-stats_Valerio Verre_Sampdoria_2022.csv 
+Done player Valerio Verre | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/ee4f2f3b/matchs/2022-2023/summary/Journaux-de-match-Fabio-Quagliarella
+Total Ads removed: 23
+Fabio Quagliarella
+Save genstats_Sampdoria_Fabio Quagliarella_2022.csv 
+Total Ads removed: 24
+Save passes_Fabio Quagliarella_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save passes-type_Fabio Quagliarella_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Fabio Quagliarella_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Fabio Quagliarella_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Fabio Quagliarella_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Fabio Quagliarella_Sampdoria_2022.csv 
+Done player Fabio Quagliarella | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/2df7cc43/matchs/2022-2023/summary/Journaux-de-match-Bruno-Amione
+Total Ads removed: 23
+Bruno Amione
+Save genstats_Sampdoria_Bruno Amione_2022.csv 
+Total Ads removed: 23
+Save passes_Bruno Amione_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Bruno Amione_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Bruno Amione_Sampdoria_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Bruno Amione_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Bruno Amione_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Bruno Amione_Sampdoria_2022.csv 
+Done player Bruno Amione | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/62437b4f/matchs/2022-2023/summary/Journaux-de-match-Ignacio-Pussetto
+Total Ads removed: 22
+Ignacio Pussetto
+Save genstats_Sampdoria_Ignacio Pussetto_2022.csv 
+Total Ads removed: 24
+Save passes_Ignacio Pussetto_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save passes-type_Ignacio Pussetto_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ignacio Pussetto_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ignacio Pussetto_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Ignacio Pussetto_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Ignacio Pussetto_Sampdoria_2022.csv 
+Done player Ignacio Pussetto | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/d97f2e8d/matchs/2022-2023/summary/Journaux-de-match-Fabio-Depaoli
+Total Ads removed: 23
+Fabio Depaoli
+Save genstats_Sampdoria_Fabio Depaoli_2022.csv 
+Total Ads removed: 24
+Save passes_Fabio Depaoli_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Fabio Depaoli_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Fabio Depaoli_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Fabio Depaoli_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save possession_Fabio Depaoli_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save various-stats_Fabio Depaoli_Sampdoria_2022.csv 
+Done player Fabio Depaoli | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/d183e9d6/matchs/2022-2023/summary/Journaux-de-match-Nicola-Murru
+Total Ads removed: 24
+Nicola Murru
+Save genstats_Sampdoria_Nicola Murru_2022.csv 
+Total Ads removed: 23
+Save passes_Nicola Murru_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Nicola Murru_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Nicola Murru_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Nicola Murru_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Nicola Murru_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Nicola Murru_Sampdoria_2022.csv 
+Done player Nicola Murru | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/ee9040b4/matchs/2022-2023/summary/Journaux-de-match-Gerard-Yepes
+Total Ads removed: 23
+Gerard Yepes
+Save genstats_Sampdoria_Gerard Yepes_2022.csv 
+Total Ads removed: 23
+Save passes_Gerard Yepes_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Gerard Yepes_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Gerard Yepes_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Gerard Yepes_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Gerard Yepes_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save various-stats_Gerard Yepes_Sampdoria_2022.csv 
+Done player Gerard Yepes | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/60e3603d/matchs/2022-2023/summary/Journaux-de-match-Manuel-De-Luca
+Total Ads removed: 22
+Manuel De Luca
+Save genstats_Sampdoria_Manuel De Luca_2022.csv 
+Total Ads removed: 22
+Save passes_Manuel De Luca_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save passes-type_Manuel De Luca_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Manuel De Luca_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Manuel De Luca_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Manuel De Luca_Sampdoria_2022.csv 
+Total Ads removed: 25
+Save various-stats_Manuel De Luca_Sampdoria_2022.csv 
+Done player Manuel De Luca | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/8fef5412/matchs/2022-2023/summary/Journaux-de-match-Andrea-Conti
+Total Ads removed: 25
+Andrea Conti
+Save genstats_Sampdoria_Andrea Conti_2022.csv 
+Total Ads removed: 22
+Save passes_Andrea Conti_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save passes-type_Andrea Conti_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Andrea Conti_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Andrea Conti_Sampdoria_2022.csv 
+Total Ads removed: 24
+Save possession_Andrea Conti_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save various-stats_Andrea Conti_Sampdoria_2022.csv 
+Done player Andrea Conti | team Sampdoria | 2022
+Go to https://fbref.com/fr/joueurs/ca73910d/matchs/2022-2023/summary/Journaux-de-match-Daniele-Montevago
+Total Ads removed: 23
+Daniele Montevago
+Save genstats_Sampdoria_Daniele Montevago_2022.csv 
+Total Ads removed: 25
+Save passes_Daniele Montevago_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save passes-type_Daniele Montevago_Sampdoria_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Daniele Montevago_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Daniele Montevago_Sampdoria_2022.csv 
+Total Ads removed: 22
+Save possession_Daniele Montevago_Sampdoria_2022.csv 
+Total Ads removed: 21
+Save various-stats_Daniele Montevago_Sampdoria_2022.csv 
+Done player Daniele Montevago | team Sampdoria | 2022
+Total Ads removed: 24
+https://fbref.com/fr/joueurs/c1d95617/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Montipo
+https://fbref.com/fr/joueurs/9ef42479/matchs/2022-2023/summary/Journaux-de-match-Thomas-Henry
+https://fbref.com/fr/joueurs/8da74c05/matchs/2022-2023/summary/Journaux-de-match-Adrien-Tameze
+https://fbref.com/fr/joueurs/f1f1f238/matchs/2022-2023/summary/Journaux-de-match-Koray-Gunter
+https://fbref.com/fr/joueurs/5128bde4/matchs/2022-2023/summary/Journaux-de-match-Darko-Lazovic
+https://fbref.com/fr/joueurs/12806697/matchs/2022-2023/summary/Journaux-de-match-Isak-Hien
+https://fbref.com/fr/joueurs/bb376bed/matchs/2022-2023/summary/Journaux-de-match-Ivan-Ilic
+https://fbref.com/fr/joueurs/ab1ca213/matchs/2022-2023/summary/Journaux-de-match-Miguel-Veloso
+https://fbref.com/fr/joueurs/09538fdb/matchs/2022-2023/summary/Journaux-de-match-Kevin-Lasagna
+https://fbref.com/fr/joueurs/22ae86f9/matchs/2022-2023/summary/Journaux-de-match-Diego-Coppola
+https://fbref.com/fr/joueurs/d9624b51/matchs/2022-2023/summary/Journaux-de-match-Federico-Ceccherini
+https://fbref.com/fr/joueurs/aae9d04a/matchs/2022-2023/summary/Journaux-de-match-Davide-Faraoni
+https://fbref.com/fr/joueurs/d97f2e8d/matchs/2022-2023/summary/Journaux-de-match-Fabio-Depaoli
+https://fbref.com/fr/joueurs/2f69d881/matchs/2022-2023/summary/Journaux-de-match-Josh-Doig
+https://fbref.com/fr/joueurs/0375723e/matchs/2022-2023/summary/Journaux-de-match-Simone-Verdi
+https://fbref.com/fr/joueurs/5cbb5ad6/matchs/2022-2023/summary/Journaux-de-match-Filippo-Terracciano
+https://fbref.com/fr/joueurs/16bb656a/matchs/2022-2023/summary/Journaux-de-match-Pawel-Dawidowicz
+https://fbref.com/fr/joueurs/b85bf253/matchs/2022-2023/summary/Journaux-de-match-Martin-Hongla
+https://fbref.com/fr/joueurs/1f2d714c/matchs/2022-2023/summary/Journaux-de-match-Ajdin-Hrustic
+https://fbref.com/fr/joueurs/1cadaf34/matchs/2022-2023/summary/Journaux-de-match-Roberto-Piccoli
+https://fbref.com/fr/joueurs/4bd00a50/matchs/2022-2023/summary/Journaux-de-match-Panagiotis-Retsos
+https://fbref.com/fr/joueurs/cce9f582/matchs/2022-2023/summary/Journaux-de-match-Giangiacomo-Magnani
+https://fbref.com/fr/joueurs/2df7cc43/matchs/2022-2023/summary/Journaux-de-match-Bruno-Amione
+https://fbref.com/fr/joueurs/f95f49d2/matchs/2022-2023/summary/Journaux-de-match-Yayah-Kallon
+https://fbref.com/fr/joueurs/405f6586/matchs/2022-2023/summary/Journaux-de-match-Milan-Djuric
+https://fbref.com/fr/joueurs/ef6eef89/matchs/2022-2023/summary/Journaux-de-match-Juan-Cabal
+https://fbref.com/fr/joueurs/230c3f3a/matchs/2022-2023/summary/Journaux-de-match-Ibrahim-Sulemana
+https://fbref.com/fr/joueurs/01efac19/matchs/2022-2023/summary/Journaux-de-match-Antonin-Barak
+https://fbref.com/fr/joueurs/bfc359ed/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Cortinovis
+Number of players : 29
+Go to https://fbref.com/fr/joueurs/c1d95617/matchs/2022-2023/summary/Journaux-de-match-Lorenzo-Montipo
+Total Ads removed: 23
+Lorenzo Montipò
+Save genstats_Hellas Verona_Lorenzo Montipò_2022.csv 
+Total Ads removed: 25
+Save passes_Lorenzo Montipò_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save passes-type_Lorenzo Montipò_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Lorenzo Montipò_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Lorenzo Montipò_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Lorenzo Montipò_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Lorenzo Montipò_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save keeper_Lorenzo Montipò_Hellas Verona_2022.csv 
+Done player Lorenzo Montipò | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/9ef42479/matchs/2022-2023/summary/Journaux-de-match-Thomas-Henry
+Total Ads removed: 23
+Thomas Henry
+Save genstats_Hellas Verona_Thomas Henry_2022.csv 
+Total Ads removed: 22
+Save passes_Thomas Henry_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Thomas Henry_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Thomas Henry_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Thomas Henry_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Thomas Henry_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save various-stats_Thomas Henry_Hellas Verona_2022.csv 
+Done player Thomas Henry | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/8da74c05/matchs/2022-2023/summary/Journaux-de-match-Adrien-Tameze
+Total Ads removed: 24
+Adrien Tameze
+Save genstats_Hellas Verona_Adrien Tameze_2022.csv 
+Total Ads removed: 23
+Save passes_Adrien Tameze_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Adrien Tameze_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Adrien Tameze_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Adrien Tameze_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Adrien Tameze_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Adrien Tameze_Hellas Verona_2022.csv 
+Done player Adrien Tameze | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/f1f1f238/matchs/2022-2023/summary/Journaux-de-match-Koray-Gunter
+Total Ads removed: 23
+Koray Günter
+Save genstats_Hellas Verona_Koray Günter_2022.csv 
+Total Ads removed: 23
+Save passes_Koray Günter_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Koray Günter_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Koray Günter_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Koray Günter_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Koray Günter_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Koray Günter_Hellas Verona_2022.csv 
+Done player Koray Günter | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/5128bde4/matchs/2022-2023/summary/Journaux-de-match-Darko-Lazovic
+Total Ads removed: 22
+Darko Lazović
+Save genstats_Hellas Verona_Darko Lazović_2022.csv 
+Total Ads removed: 24
+Save passes_Darko Lazović_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Darko Lazović_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Darko Lazović_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Darko Lazović_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Darko Lazović_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Darko Lazović_Hellas Verona_2022.csv 
+Done player Darko Lazović | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/12806697/matchs/2022-2023/summary/Journaux-de-match-Isak-Hien
+Total Ads removed: 22
+Isak Hien
+Save genstats_Hellas Verona_Isak Hien_2022.csv 
+Total Ads removed: 22
+Save passes_Isak Hien_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Isak Hien_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Isak Hien_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Isak Hien_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Isak Hien_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Isak Hien_Hellas Verona_2022.csv 
+Done player Isak Hien | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/bb376bed/matchs/2022-2023/summary/Journaux-de-match-Ivan-Ilic
+Total Ads removed: 22
+Ivan Ilić
+Save genstats_Hellas Verona_Ivan Ilić_2022.csv 
+Total Ads removed: 22
+Save passes_Ivan Ilić_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ivan Ilić_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Ivan Ilić_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Ivan Ilić_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Ivan Ilić_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Ivan Ilić_Hellas Verona_2022.csv 
+Done player Ivan Ilić | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/ab1ca213/matchs/2022-2023/summary/Journaux-de-match-Miguel-Veloso
+Total Ads removed: 23
+Miguel Veloso
+Save genstats_Hellas Verona_Miguel Veloso_2022.csv 
+Total Ads removed: 23
+Save passes_Miguel Veloso_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save passes-type_Miguel Veloso_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Miguel Veloso_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Miguel Veloso_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Miguel Veloso_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Miguel Veloso_Hellas Verona_2022.csv 
+Done player Miguel Veloso | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/09538fdb/matchs/2022-2023/summary/Journaux-de-match-Kevin-Lasagna
+Total Ads removed: 23
+Kevin Lasagna
+Save genstats_Hellas Verona_Kevin Lasagna_2022.csv 
+Total Ads removed: 22
+Save passes_Kevin Lasagna_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Kevin Lasagna_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Kevin Lasagna_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Kevin Lasagna_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Kevin Lasagna_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save various-stats_Kevin Lasagna_Hellas Verona_2022.csv 
+Done player Kevin Lasagna | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/22ae86f9/matchs/2022-2023/summary/Journaux-de-match-Diego-Coppola
+Total Ads removed: 24
+Diego Coppola
+Save genstats_Hellas Verona_Diego Coppola_2022.csv 
+Total Ads removed: 25
+Save passes_Diego Coppola_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Diego Coppola_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Diego Coppola_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Diego Coppola_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Diego Coppola_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Diego Coppola_Hellas Verona_2022.csv 
+Done player Diego Coppola | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/d9624b51/matchs/2022-2023/summary/Journaux-de-match-Federico-Ceccherini
+Total Ads removed: 22
+Federico Ceccherini
+Save genstats_Hellas Verona_Federico Ceccherini_2022.csv 
+Total Ads removed: 22
+Save passes_Federico Ceccherini_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Federico Ceccherini_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Federico Ceccherini_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Federico Ceccherini_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save possession_Federico Ceccherini_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Federico Ceccherini_Hellas Verona_2022.csv 
+Done player Federico Ceccherini | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/aae9d04a/matchs/2022-2023/summary/Journaux-de-match-Davide-Faraoni
+Total Ads removed: 22
+Davide Faraoni
+Save genstats_Hellas Verona_Davide Faraoni_2022.csv 
+Total Ads removed: 23
+Save passes_Davide Faraoni_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Davide Faraoni_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Davide Faraoni_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Davide Faraoni_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Davide Faraoni_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Davide Faraoni_Hellas Verona_2022.csv 
+Done player Davide Faraoni | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/2f69d881/matchs/2022-2023/summary/Journaux-de-match-Josh-Doig
+Total Ads removed: 22
+Josh Doig
+Save genstats_Hellas Verona_Josh Doig_2022.csv 
+Total Ads removed: 23
+Save passes_Josh Doig_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Josh Doig_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Josh Doig_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Josh Doig_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Josh Doig_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Josh Doig_Hellas Verona_2022.csv 
+Done player Josh Doig | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/0375723e/matchs/2022-2023/summary/Journaux-de-match-Simone-Verdi
+Total Ads removed: 23
+Simone Verdi
+Save genstats_Hellas Verona_Simone Verdi_2022.csv 
+Total Ads removed: 23
+Save passes_Simone Verdi_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Simone Verdi_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Simone Verdi_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Simone Verdi_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Simone Verdi_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Simone Verdi_Hellas Verona_2022.csv 
+Done player Simone Verdi | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/5cbb5ad6/matchs/2022-2023/summary/Journaux-de-match-Filippo-Terracciano
+Total Ads removed: 22
+Filippo Terracciano
+Save genstats_Hellas Verona_Filippo Terracciano_2022.csv 
+Total Ads removed: 25
+Save passes_Filippo Terracciano_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Filippo Terracciano_Hellas Verona_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Filippo Terracciano_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Filippo Terracciano_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Filippo Terracciano_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save various-stats_Filippo Terracciano_Hellas Verona_2022.csv 
+Done player Filippo Terracciano | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/16bb656a/matchs/2022-2023/summary/Journaux-de-match-Pawel-Dawidowicz
+Total Ads removed: 23
+Paweł Dawidowicz
+Save genstats_Hellas Verona_Paweł Dawidowicz_2022.csv 
+Total Ads removed: 22
+Save passes_Paweł Dawidowicz_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Paweł Dawidowicz_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Paweł Dawidowicz_Hellas Verona_2022.csv 
+Total Ads removed: 26
+Save defensive-actions_Paweł Dawidowicz_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save possession_Paweł Dawidowicz_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Paweł Dawidowicz_Hellas Verona_2022.csv 
+Done player Paweł Dawidowicz | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/b85bf253/matchs/2022-2023/summary/Journaux-de-match-Martin-Hongla
+Total Ads removed: 22
+Martin Hongla
+Save genstats_Hellas Verona_Martin Hongla_2022.csv 
+Total Ads removed: 22
+Save passes_Martin Hongla_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Martin Hongla_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Martin Hongla_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Martin Hongla_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Martin Hongla_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Martin Hongla_Hellas Verona_2022.csv 
+Done player Martin Hongla | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/1f2d714c/matchs/2022-2023/summary/Journaux-de-match-Ajdin-Hrustic
+Total Ads removed: 23
+Ajdin Hrustic
+Save genstats_Hellas Verona_Ajdin Hrustic_2022.csv 
+Total Ads removed: 22
+Save passes_Ajdin Hrustic_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ajdin Hrustic_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Ajdin Hrustic_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Ajdin Hrustic_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save possession_Ajdin Hrustic_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save various-stats_Ajdin Hrustic_Hellas Verona_2022.csv 
+Done player Ajdin Hrustic | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/1cadaf34/matchs/2022-2023/summary/Journaux-de-match-Roberto-Piccoli
+Total Ads removed: 24
+Roberto Piccoli
+Save genstats_Hellas Verona_Roberto Piccoli_2022.csv 
+Total Ads removed: 23
+Save passes_Roberto Piccoli_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Roberto Piccoli_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Roberto Piccoli_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Roberto Piccoli_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Roberto Piccoli_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Roberto Piccoli_Hellas Verona_2022.csv 
+Done player Roberto Piccoli | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/4bd00a50/matchs/2022-2023/summary/Journaux-de-match-Panagiotis-Retsos
+Total Ads removed: 23
+Panagiotis Retsos
+Save genstats_Hellas Verona_Panagiotis Retsos_2022.csv 
+Total Ads removed: 19
+Save passes_Panagiotis Retsos_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Panagiotis Retsos_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Panagiotis Retsos_Hellas Verona_2022.csv 
+Total Ads removed: 20
+Save defensive-actions_Panagiotis Retsos_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Panagiotis Retsos_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Panagiotis Retsos_Hellas Verona_2022.csv 
+Done player Panagiotis Retsos | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/cce9f582/matchs/2022-2023/summary/Journaux-de-match-Giangiacomo-Magnani
+Total Ads removed: 23
+Giangiacomo Magnani
+Save genstats_Hellas Verona_Giangiacomo Magnani_2022.csv 
+Total Ads removed: 23
+Save passes_Giangiacomo Magnani_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Giangiacomo Magnani_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Giangiacomo Magnani_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Giangiacomo Magnani_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Giangiacomo Magnani_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save various-stats_Giangiacomo Magnani_Hellas Verona_2022.csv 
+Done player Giangiacomo Magnani | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/f95f49d2/matchs/2022-2023/summary/Journaux-de-match-Yayah-Kallon
+Total Ads removed: 23
+Yayah Kallon
+Save genstats_Hellas Verona_Yayah Kallon_2022.csv 
+Total Ads removed: 25
+Save passes_Yayah Kallon_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Yayah Kallon_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Yayah Kallon_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Yayah Kallon_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save possession_Yayah Kallon_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save various-stats_Yayah Kallon_Hellas Verona_2022.csv 
+Done player Yayah Kallon | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/405f6586/matchs/2022-2023/summary/Journaux-de-match-Milan-Djuric
+Total Ads removed: 21
+Milan Đurić
+Save genstats_Hellas Verona_Milan Đurić_2022.csv 
+Total Ads removed: 24
+Save passes_Milan Đurić_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Milan Đurić_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Milan Đurić_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Milan Đurić_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save possession_Milan Đurić_Hellas Verona_2022.csv 
+Total Ads removed: 25
+Save various-stats_Milan Đurić_Hellas Verona_2022.csv 
+Done player Milan Đurić | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/ef6eef89/matchs/2022-2023/summary/Journaux-de-match-Juan-Cabal
+Total Ads removed: 23
+Juan Cabal
+Save genstats_Hellas Verona_Juan Cabal_2022.csv 
+Total Ads removed: 23
+Save passes_Juan Cabal_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save passes-type_Juan Cabal_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Juan Cabal_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Juan Cabal_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save possession_Juan Cabal_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save various-stats_Juan Cabal_Hellas Verona_2022.csv 
+Done player Juan Cabal | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/230c3f3a/matchs/2022-2023/summary/Journaux-de-match-Ibrahim-Sulemana
+Total Ads removed: 24
+Ibrahim Sulemana
+Save genstats_Hellas Verona_Ibrahim Sulemana_2022.csv 
+Total Ads removed: 23
+Save passes_Ibrahim Sulemana_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save passes-type_Ibrahim Sulemana_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Ibrahim Sulemana_Hellas Verona_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Ibrahim Sulemana_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Ibrahim Sulemana_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save various-stats_Ibrahim Sulemana_Hellas Verona_2022.csv 
+Done player Ibrahim Sulemana | team Hellas Verona | 2022
+Go to https://fbref.com/fr/joueurs/bfc359ed/matchs/2022-2023/summary/Journaux-de-match-Alessandro-Cortinovis
+Total Ads removed: 23
+Alessandro Cortinovis
+Save genstats_Hellas Verona_Alessandro Cortinovis_2022.csv 
+Total Ads removed: 22
+Save passes_Alessandro Cortinovis_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save passes-type_Alessandro Cortinovis_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Alessandro Cortinovis_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Alessandro Cortinovis_Hellas Verona_2022.csv 
+Total Ads removed: 22
+Save possession_Alessandro Cortinovis_Hellas Verona_2022.csv 
+Total Ads removed: 24
+Save various-stats_Alessandro Cortinovis_Hellas Verona_2022.csv 
+Done player Alessandro Cortinovis | team Hellas Verona | 2022
+Total Ads removed: 22
+https://fbref.com/fr/joueurs/d125f22f/matchs/2022-2023/summary/Journaux-de-match-David-Okereke
+https://fbref.com/fr/joueurs/dcb38abe/matchs/2022-2023/summary/Journaux-de-match-Cyriel-Dessers
+https://fbref.com/fr/joueurs/ec52b661/matchs/2022-2023/summary/Journaux-de-match-Emanuele-Valeri
+https://fbref.com/fr/joueurs/f71ad8cb/matchs/2022-2023/summary/Journaux-de-match-Charles-Pickel
+https://fbref.com/fr/joueurs/c8ad0857/matchs/2022-2023/summary/Journaux-de-match-Luka-Lochoshvili
+https://fbref.com/fr/joueurs/67f649be/matchs/2022-2023/summary/Journaux-de-match-Ionut-Radu
+https://fbref.com/fr/joueurs/b3a20f18/matchs/2022-2023/summary/Journaux-de-match-Matteo-Bianchetti
+https://fbref.com/fr/joueurs/d810c13b/matchs/2022-2023/summary/Journaux-de-match-Emanuel-Aiwum
+https://fbref.com/fr/joueurs/dd7febd8/matchs/2022-2023/summary/Journaux-de-match-Leonardo-Sernicola
+https://fbref.com/fr/joueurs/5e834dce/matchs/2022-2023/summary/Journaux-de-match-Luca-Zanimacchia
+https://fbref.com/fr/joueurs/e26fcca3/matchs/2022-2023/summary/Journaux-de-match-Santiago-Ascacibar
+https://fbref.com/fr/joueurs/3f79a1c8/matchs/2022-2023/summary/Journaux-de-match-Gonzalo-Escalante
+https://fbref.com/fr/joueurs/5cec2c74/matchs/2022-2023/summary/Journaux-de-match-Soualiho-Meite
+https://fbref.com/fr/joueurs/c316607a/matchs/2022-2023/summary/Journaux-de-match-Vlad-Chiriches
+https://fbref.com/fr/joueurs/71dc23da/matchs/2022-2023/summary/Journaux-de-match-Paolo-Ghiglione
+https://fbref.com/fr/joueurs/8ec56e62/matchs/2022-2023/summary/Journaux-de-match-Marco-Carnesecchi
+https://fbref.com/fr/joueurs/1b9c7401/matchs/2022-2023/summary/Journaux-de-match-Giacomo-Quagliata
+https://fbref.com/fr/joueurs/5eaed77a/matchs/2022-2023/summary/Journaux-de-match-Johan-Vasquez
+https://fbref.com/fr/joueurs/ad92526f/matchs/2022-2023/summary/Journaux-de-match-Michele-Castagnetti
+https://fbref.com/fr/joueurs/b09a3ecc/matchs/2022-2023/summary/Journaux-de-match-Daniel-Ciofani
+https://fbref.com/fr/joueurs/0154d290/matchs/2022-2023/summary/Journaux-de-match-Felix-Afena-Gyan
+https://fbref.com/fr/joueurs/dfd24c07/matchs/2022-2023/summary/Journaux-de-match-Jaime-Baez
+https://fbref.com/fr/joueurs/f3a9fa26/matchs/2022-2023/summary/Journaux-de-match-Cristian-Buonaiuto
+https://fbref.com/fr/joueurs/ef94dc2f/matchs/2022-2023/summary/Journaux-de-match-Samuel-Di-Carmine
+https://fbref.com/fr/joueurs/0588a092/matchs/2022-2023/summary/Journaux-de-match-Frank-Tsadjout
+https://fbref.com/fr/joueurs/b2561711/matchs/2022-2023/summary/Journaux-de-match-Tommaso-Milanese
+https://fbref.com/fr/joueurs/ffed43e3/matchs/2022-2023/summary/Journaux-de-match-Jack-Hendry
+Number of players : 27
+Go to https://fbref.com/fr/joueurs/d125f22f/matchs/2022-2023/summary/Journaux-de-match-David-Okereke
+Total Ads removed: 22
+David Okereke
+Save genstats_Cremonese_David Okereke_2022.csv 
+Total Ads removed: 23
+Save passes_David Okereke_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_David Okereke_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_David Okereke_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_David Okereke_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_David Okereke_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_David Okereke_Cremonese_2022.csv 
+Done player David Okereke | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/dcb38abe/matchs/2022-2023/summary/Journaux-de-match-Cyriel-Dessers
+Total Ads removed: 22
+Cyriel Dessers
+Save genstats_Cremonese_Cyriel Dessers_2022.csv 
+Total Ads removed: 22
+Save passes_Cyriel Dessers_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Cyriel Dessers_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Cyriel Dessers_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Cyriel Dessers_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Cyriel Dessers_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Cyriel Dessers_Cremonese_2022.csv 
+Done player Cyriel Dessers | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/ec52b661/matchs/2022-2023/summary/Journaux-de-match-Emanuele-Valeri
+Total Ads removed: 24
+Emanuele Valeri
+Save genstats_Cremonese_Emanuele Valeri_2022.csv 
+Total Ads removed: 22
+Save passes_Emanuele Valeri_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Emanuele Valeri_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Emanuele Valeri_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Emanuele Valeri_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Emanuele Valeri_Cremonese_2022.csv 
+Total Ads removed: 23
+Save various-stats_Emanuele Valeri_Cremonese_2022.csv 
+Done player Emanuele Valeri | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/f71ad8cb/matchs/2022-2023/summary/Journaux-de-match-Charles-Pickel
+Total Ads removed: 22
+Charles Pickel
+Save genstats_Cremonese_Charles Pickel_2022.csv 
+Total Ads removed: 22
+Save passes_Charles Pickel_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Charles Pickel_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Charles Pickel_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Charles Pickel_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Charles Pickel_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Charles Pickel_Cremonese_2022.csv 
+Done player Charles Pickel | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/c8ad0857/matchs/2022-2023/summary/Journaux-de-match-Luka-Lochoshvili
+Total Ads removed: 22
+Luka Lochoshvili
+Save genstats_Cremonese_Luka Lochoshvili_2022.csv 
+Total Ads removed: 22
+Save passes_Luka Lochoshvili_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Luka Lochoshvili_Cremonese_2022.csv 
+Total Ads removed: 20
+Save penalty-prep_Luka Lochoshvili_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Luka Lochoshvili_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Luka Lochoshvili_Cremonese_2022.csv 
+Total Ads removed: 24
+Save various-stats_Luka Lochoshvili_Cremonese_2022.csv 
+Done player Luka Lochoshvili | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/67f649be/matchs/2022-2023/summary/Journaux-de-match-Ionut-Radu
+Total Ads removed: 22
+Ionuț Radu
+Save genstats_Cremonese_Ionuț Radu_2022.csv 
+Total Ads removed: 23
+Save passes_Ionuț Radu_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Ionuț Radu_Cremonese_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Ionuț Radu_Cremonese_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Ionuț Radu_Cremonese_2022.csv 
+Total Ads removed: 25
+Save possession_Ionuț Radu_Cremonese_2022.csv 
+Total Ads removed: 24
+Save various-stats_Ionuț Radu_Cremonese_2022.csv 
+Total Ads removed: 24
+Save keeper_Ionuț Radu_Cremonese_2022.csv 
+Done player Ionuț Radu | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/b3a20f18/matchs/2022-2023/summary/Journaux-de-match-Matteo-Bianchetti
+Total Ads removed: 23
+Matteo Bianchetti
+Save genstats_Cremonese_Matteo Bianchetti_2022.csv 
+Total Ads removed: 23
+Save passes_Matteo Bianchetti_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Matteo Bianchetti_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Matteo Bianchetti_Cremonese_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Matteo Bianchetti_Cremonese_2022.csv 
+Total Ads removed: 24
+Save possession_Matteo Bianchetti_Cremonese_2022.csv 
+Total Ads removed: 25
+Save various-stats_Matteo Bianchetti_Cremonese_2022.csv 
+Done player Matteo Bianchetti | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/d810c13b/matchs/2022-2023/summary/Journaux-de-match-Emanuel-Aiwum
+Total Ads removed: 24
+Emanuel Aiwum
+Save genstats_Cremonese_Emanuel Aiwum_2022.csv 
+Total Ads removed: 22
+Save passes_Emanuel Aiwum_Cremonese_2022.csv 
+Total Ads removed: 24
+Save passes-type_Emanuel Aiwum_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Emanuel Aiwum_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Emanuel Aiwum_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Emanuel Aiwum_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Emanuel Aiwum_Cremonese_2022.csv 
+Done player Emanuel Aiwum | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/dd7febd8/matchs/2022-2023/summary/Journaux-de-match-Leonardo-Sernicola
+Total Ads removed: 22
+Leonardo Sernicola
+Save genstats_Cremonese_Leonardo Sernicola_2022.csv 
+Total Ads removed: 22
+Save passes_Leonardo Sernicola_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Leonardo Sernicola_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Leonardo Sernicola_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Leonardo Sernicola_Cremonese_2022.csv 
+Total Ads removed: 24
+Save possession_Leonardo Sernicola_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Leonardo Sernicola_Cremonese_2022.csv 
+Done player Leonardo Sernicola | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/5e834dce/matchs/2022-2023/summary/Journaux-de-match-Luca-Zanimacchia
+Total Ads removed: 26
+Luca Zanimacchia
+Save genstats_Cremonese_Luca Zanimacchia_2022.csv 
+Total Ads removed: 23
+Save passes_Luca Zanimacchia_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Luca Zanimacchia_Cremonese_2022.csv 
+Total Ads removed: 24
+Save penalty-prep_Luca Zanimacchia_Cremonese_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Luca Zanimacchia_Cremonese_2022.csv 
+Total Ads removed: 25
+Save possession_Luca Zanimacchia_Cremonese_2022.csv 
+Total Ads removed: 26
+Save various-stats_Luca Zanimacchia_Cremonese_2022.csv 
+Done player Luca Zanimacchia | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/e26fcca3/matchs/2022-2023/summary/Journaux-de-match-Santiago-Ascacibar
+Total Ads removed: 24
+Santiago Ascacíbar
+Save genstats_Cremonese_Santiago Ascacíbar_2022.csv 
+Total Ads removed: 22
+Save passes_Santiago Ascacíbar_Cremonese_2022.csv 
+Total Ads removed: 24
+Save passes-type_Santiago Ascacíbar_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Santiago Ascacíbar_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Santiago Ascacíbar_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Santiago Ascacíbar_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Santiago Ascacíbar_Cremonese_2022.csv 
+Done player Santiago Ascacíbar | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/3f79a1c8/matchs/2022-2023/summary/Journaux-de-match-Gonzalo-Escalante
+Total Ads removed: 23
+Gonzalo Escalante
+Save genstats_Cremonese_Gonzalo Escalante_2022.csv 
+Total Ads removed: 26
+Save passes_Gonzalo Escalante_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Gonzalo Escalante_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Gonzalo Escalante_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Gonzalo Escalante_Cremonese_2022.csv 
+Total Ads removed: 24
+Save possession_Gonzalo Escalante_Cremonese_2022.csv 
+Total Ads removed: 25
+Save various-stats_Gonzalo Escalante_Cremonese_2022.csv 
+Done player Gonzalo Escalante | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/5cec2c74/matchs/2022-2023/summary/Journaux-de-match-Soualiho-Meite
+Total Ads removed: 22
+Soualiho Meïté
+Save genstats_Cremonese_Soualiho Meïté_2022.csv 
+Total Ads removed: 23
+Save passes_Soualiho Meïté_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Soualiho Meïté_Cremonese_2022.csv 
+Total Ads removed: 21
+Save penalty-prep_Soualiho Meïté_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Soualiho Meïté_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Soualiho Meïté_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Soualiho Meïté_Cremonese_2022.csv 
+Done player Soualiho Meïté | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/c316607a/matchs/2022-2023/summary/Journaux-de-match-Vlad-Chiriches
+Total Ads removed: 23
+Vlad Chiricheș
+Save genstats_Cremonese_Vlad Chiricheș_2022.csv 
+Total Ads removed: 22
+Save passes_Vlad Chiricheș_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Vlad Chiricheș_Cremonese_2022.csv 
+Total Ads removed: 26
+Save penalty-prep_Vlad Chiricheș_Cremonese_2022.csv 
+Total Ads removed: 24
+Save defensive-actions_Vlad Chiricheș_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Vlad Chiricheș_Cremonese_2022.csv 
+Total Ads removed: 23
+Save various-stats_Vlad Chiricheș_Cremonese_2022.csv 
+Done player Vlad Chiricheș | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/71dc23da/matchs/2022-2023/summary/Journaux-de-match-Paolo-Ghiglione
+Total Ads removed: 23
+Paolo Ghiglione
+Save genstats_Cremonese_Paolo Ghiglione_2022.csv 
+Total Ads removed: 23
+Save passes_Paolo Ghiglione_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Paolo Ghiglione_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Paolo Ghiglione_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Paolo Ghiglione_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Paolo Ghiglione_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Paolo Ghiglione_Cremonese_2022.csv 
+Done player Paolo Ghiglione | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/8ec56e62/matchs/2022-2023/summary/Journaux-de-match-Marco-Carnesecchi
+Total Ads removed: 21
+Marco Carnesecchi
+Save genstats_Cremonese_Marco Carnesecchi_2022.csv 
+Total Ads removed: 23
+Save passes_Marco Carnesecchi_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Marco Carnesecchi_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Marco Carnesecchi_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Marco Carnesecchi_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Marco Carnesecchi_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Marco Carnesecchi_Cremonese_2022.csv 
+Total Ads removed: 24
+Save keeper_Marco Carnesecchi_Cremonese_2022.csv 
+Done player Marco Carnesecchi | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/1b9c7401/matchs/2022-2023/summary/Journaux-de-match-Giacomo-Quagliata
+Total Ads removed: 24
+Giacomo Quagliata
+Save genstats_Cremonese_Giacomo Quagliata_2022.csv 
+Total Ads removed: 23
+Save passes_Giacomo Quagliata_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Giacomo Quagliata_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Giacomo Quagliata_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Giacomo Quagliata_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Giacomo Quagliata_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Giacomo Quagliata_Cremonese_2022.csv 
+Done player Giacomo Quagliata | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/5eaed77a/matchs/2022-2023/summary/Journaux-de-match-Johan-Vasquez
+Total Ads removed: 23
+Johan Vásquez
+Save genstats_Cremonese_Johan Vásquez_2022.csv 
+Total Ads removed: 24
+Save passes_Johan Vásquez_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Johan Vásquez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Johan Vásquez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Johan Vásquez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Johan Vásquez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save various-stats_Johan Vásquez_Cremonese_2022.csv 
+Done player Johan Vásquez | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/ad92526f/matchs/2022-2023/summary/Journaux-de-match-Michele-Castagnetti
+Total Ads removed: 22
+Michele Castagnetti
+Save genstats_Cremonese_Michele Castagnetti_2022.csv 
+Total Ads removed: 22
+Save passes_Michele Castagnetti_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Michele Castagnetti_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Michele Castagnetti_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Michele Castagnetti_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Michele Castagnetti_Cremonese_2022.csv 
+Total Ads removed: 24
+Save various-stats_Michele Castagnetti_Cremonese_2022.csv 
+Done player Michele Castagnetti | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/b09a3ecc/matchs/2022-2023/summary/Journaux-de-match-Daniel-Ciofani
+Total Ads removed: 25
+Daniel Ciofani
+Save genstats_Cremonese_Daniel Ciofani_2022.csv 
+Total Ads removed: 22
+Save passes_Daniel Ciofani_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Daniel Ciofani_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Daniel Ciofani_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Daniel Ciofani_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Daniel Ciofani_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Daniel Ciofani_Cremonese_2022.csv 
+Done player Daniel Ciofani | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/0154d290/matchs/2022-2023/summary/Journaux-de-match-Felix-Afena-Gyan
+Total Ads removed: 23
+Felix Afena-Gyan
+Save genstats_Cremonese_Felix Afena-Gyan_2022.csv 
+Total Ads removed: 22
+Save passes_Felix Afena-Gyan_Cremonese_2022.csv 
+Total Ads removed: 20
+Save passes-type_Felix Afena-Gyan_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Felix Afena-Gyan_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Felix Afena-Gyan_Cremonese_2022.csv 
+Total Ads removed: 24
+Save possession_Felix Afena-Gyan_Cremonese_2022.csv 
+Total Ads removed: 19
+Save various-stats_Felix Afena-Gyan_Cremonese_2022.csv 
+Done player Felix Afena-Gyan | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/dfd24c07/matchs/2022-2023/summary/Journaux-de-match-Jaime-Baez
+Total Ads removed: 20
+Jaime Báez
+Save genstats_Cremonese_Jaime Báez_2022.csv 
+Total Ads removed: 20
+Save passes_Jaime Báez_Cremonese_2022.csv 
+Total Ads removed: 20
+Save passes-type_Jaime Báez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Jaime Báez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jaime Báez_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Jaime Báez_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Jaime Báez_Cremonese_2022.csv 
+Done player Jaime Báez | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/f3a9fa26/matchs/2022-2023/summary/Journaux-de-match-Cristian-Buonaiuto
+Total Ads removed: 22
+Cristian Buonaiuto
+Save genstats_Cremonese_Cristian Buonaiuto_2022.csv 
+Total Ads removed: 25
+Save passes_Cristian Buonaiuto_Cremonese_2022.csv 
+Total Ads removed: 22
+Save passes-type_Cristian Buonaiuto_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Cristian Buonaiuto_Cremonese_2022.csv 
+Total Ads removed: 22
+Save defensive-actions_Cristian Buonaiuto_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Cristian Buonaiuto_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Cristian Buonaiuto_Cremonese_2022.csv 
+Done player Cristian Buonaiuto | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/ef94dc2f/matchs/2022-2023/summary/Journaux-de-match-Samuel-Di-Carmine
+Total Ads removed: 24
+Samuel Di Carmine
+Save genstats_Cremonese_Samuel Di Carmine_2022.csv 
+Total Ads removed: 24
+Save passes_Samuel Di Carmine_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Samuel Di Carmine_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Samuel Di Carmine_Cremonese_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Samuel Di Carmine_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Samuel Di Carmine_Cremonese_2022.csv 
+Total Ads removed: 23
+Save various-stats_Samuel Di Carmine_Cremonese_2022.csv 
+Done player Samuel Di Carmine | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/0588a092/matchs/2022-2023/summary/Journaux-de-match-Frank-Tsadjout
+Total Ads removed: 23
+Frank Tsadjout
+Save genstats_Cremonese_Frank Tsadjout_2022.csv 
+Total Ads removed: 23
+Save passes_Frank Tsadjout_Cremonese_2022.csv 
+Total Ads removed: 23
+Save passes-type_Frank Tsadjout_Cremonese_2022.csv 
+Total Ads removed: 25
+Save penalty-prep_Frank Tsadjout_Cremonese_2022.csv 
+Total Ads removed: 25
+Save defensive-actions_Frank Tsadjout_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Frank Tsadjout_Cremonese_2022.csv 
+Total Ads removed: 22
+Save various-stats_Frank Tsadjout_Cremonese_2022.csv 
+Done player Frank Tsadjout | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/b2561711/matchs/2022-2023/summary/Journaux-de-match-Tommaso-Milanese
+Total Ads removed: 19
+Tommaso Milanese
+Save genstats_Cremonese_Tommaso Milanese_2022.csv 
+Total Ads removed: 20
+Save passes_Tommaso Milanese_Cremonese_2022.csv 
+Total Ads removed: 19
+Save passes-type_Tommaso Milanese_Cremonese_2022.csv 
+Total Ads removed: 23
+Save penalty-prep_Tommaso Milanese_Cremonese_2022.csv 
+Total Ads removed: 19
+Save defensive-actions_Tommaso Milanese_Cremonese_2022.csv 
+Total Ads removed: 23
+Save possession_Tommaso Milanese_Cremonese_2022.csv 
+Total Ads removed: 19
+Save various-stats_Tommaso Milanese_Cremonese_2022.csv 
+Done player Tommaso Milanese | team Cremonese | 2022
+Go to https://fbref.com/fr/joueurs/ffed43e3/matchs/2022-2023/summary/Journaux-de-match-Jack-Hendry
+Total Ads removed: 25
+Jack Hendry
+Save genstats_Cremonese_Jack Hendry_2022.csv 
+Total Ads removed: 21
+Save passes_Jack Hendry_Cremonese_2022.csv 
+Total Ads removed: 20
+Save passes-type_Jack Hendry_Cremonese_2022.csv 
+Total Ads removed: 22
+Save penalty-prep_Jack Hendry_Cremonese_2022.csv 
+Total Ads removed: 23
+Save defensive-actions_Jack Hendry_Cremonese_2022.csv 
+Total Ads removed: 22
+Save possession_Jack Hendry_Cremonese_2022.csv 
+Total Ads removed: 23
+Save various-stats_Jack Hendry_Cremonese_2022.csv 
+Done player Jack Hendry | team Cremonese | 2022
