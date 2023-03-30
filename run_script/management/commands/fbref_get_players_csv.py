@@ -5,12 +5,12 @@ import re
 import time
 import requests
 import json
-import os
 
 from django.core.management.base import BaseCommand
 from run_script.models import *
 
 from ..basis.scrapper import Colors
+from ..basis.scrapper import Scrapper
 from ..basis.fbref import ScrapperLogic
 
 leagueIds = {
@@ -22,15 +22,31 @@ leagueIds = {
 }
 
 class Command(BaseCommand):
-    def handle(self, *args, **options):
-        
-        options = webdriver.ChromeOptions()
-        options.add_argument('--no-sandbox')
-        options.add_argument('--disable-dev-shm-usage')      
-        print('Launching webdriver remote...')
-        driver = webdriver.Remote(command_executor="http://127.0.0.1:4444/wd/hub", options=options)
-        print('connection established.')
+    def add_arguments(self, parser):
+        parser.add_argument(
+            '--node',
+            default=False,
+            help='Handle the node id for paralellism scrapping'
+        )
+        parser.add_argument(
+            '--relaunch',
+            default=False,
+            help="Relauch specific node"
+        )
 
+    def handle(self, *args, **options):
+        bcolors = Colors()
+
+        if 'node' in options and options['node'] != False:
+            node = int(options['node'])
+        elif 'relaunch' in options and options['relaunch'] != False:
+            node = int(options['relaunch'])
+        else:
+            node = 1
+
+        print_scrapper = bcolors.FAIL + "Scrapper {0} -".format(str(node))
+        scrapper = Scrapper()
+        driver = scrapper.webdriverFromNode(node)
 
         try:
             scrapper_logic = ScrapperLogic()
@@ -62,7 +78,9 @@ class Command(BaseCommand):
                         if season != None:
                             break
                     except NoSuchElementException:
-                        print(bcolors.FAIL + 'Cannot find title. Try another xpath..')
+                        message = 'Cannot find title. Try another xpath..'
+                        print(print_scrapper, bcolors.FAIL + message + bcolors.ENDC)
+                        scrapper.logger(message, node)
 
                 match_season = re.search(r"[0-9]{4}", season.get_attribute("innerText")).group(0)
                 driver.execute_script("window.scrollTo(0, 750);")
@@ -86,10 +104,14 @@ class Command(BaseCommand):
                         if len(teams) != 0:
                             break
                     except NoSuchElementException:
-                        print(bcolors.FAIL + 'Cannot find teams. Try another xpath...')
+                        message = 'Cannot find teams. Try another xpath...'
+                        print(bcolors.FAIL + message + bcolors.ENDC)
+                        scrapper.logger(message, node)
 
                 if len(teams) == 0:
-                    print(bcolors.FAIL, 'Teams are empty')
+                    message = 'Teams are empty'
+                    print(print_scrapper, bcolors.FAIL, message, bcolors.ENDC)
+                    scrapper.logger(message, node)
 
                 teams_links = []
                 teams_names = []
@@ -99,9 +121,12 @@ class Command(BaseCommand):
                 exclude_teams = list(map(lambda x: x.link, exclude_teams))
                 
                 for team in teams:
-                    if team.get_attribute('href') not in exclude_teams:
-                        print(bcolors.OKBLUE + team.get_attribute('href') + bcolors.ENDC)
-                        teams_links.append(team.get_attribute('href'))
+                    link = team.get_attribute('href')
+                    if link not in exclude_teams:
+                        
+                        print(print_scrapper, bcolors.OKBLUE + link + bcolors.ENDC)
+                        scrapper.logger(message, node)
+                        teams_links.append(link)
                         teams_names.append(team.get_attribute("innerText"))
 
 
@@ -418,18 +443,20 @@ class Command(BaseCommand):
                         exclude_team = Exclude_Team_Links(scrapper_id=1, link=teams_links[j])
                         exclude_team.save()
                     except Exception as e:
-                        print('exclude team link', e)
-
+                        message = 'exclude team link ' + e
+                        print(print_scrapper, bcolors.FAIL, message, bcolors.ENDC)
+                        scrapper.logger(message, node)
                 Scrapper_Active_Links.objects.filter(link=active_links[i].link).delete()
 
         except Exception as e:
-            print(e)
+            print(print_scrapper, bcolors.FAIL, e, bcolors.ENDC)
+            scrapper.logger(message, node)
             url_stop = 'http://localhost:3000/stop_scrapper'
             url_start = 'http://localhost:3000/execute_scrapper'
             body = json.dumps({'body': {'path': 'fbref_get_players.csv'}})
             
-            r = requests.post(url=url_stop, data=body)
-            r = requests.post(url=url_start, data=body)
+            requests.post(url=url_stop, data=body)
+            requests.post(url=url_start, data=body)
 
 
 
